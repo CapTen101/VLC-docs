@@ -53,3 +53,12 @@ html_theme = 'alabaster'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+#Gitlab integration
+html_context = {
+    "display_gitlab": True, # Integrate Gitlab
+    "gitlab_user": "Didicodes", # Username
+    "gitlab_repo": "https://gitlab.com/Didicodes/vlc-user-documentation.git", # Repo name
+    "gitlab_version": "master", # Version
+    "conf_py_path": "/source/", # Path in the checkout to the docs root
+}
