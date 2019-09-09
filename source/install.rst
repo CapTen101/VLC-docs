@@ -10,5 +10,3 @@ Support Guide -  Solve your VLC issues right now!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-   install
