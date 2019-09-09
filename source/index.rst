@@ -49,7 +49,6 @@ Solve your VLC issues right now!
    :maxdepth: 2
 
    install
-   user interface
 
 
 
