@@ -1,2 +1,0 @@
-# VLC User Documentation
-
