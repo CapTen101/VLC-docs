@@ -47,3 +47,14 @@ Solve your VLC issues right now!
    setup/overview.rst
    setup/desktop.rst
    setup/mobile.rst
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Getting Started
+   
+   gettingstarted/startingvlc.rst
+   gettingstarted/windows.rst
+   gettingstarted/userinterface.rst
+   gettingstarted/tipsandtricks.rst
+   gettingstarted/hotkeys.rst
