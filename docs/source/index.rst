@@ -13,10 +13,10 @@ VLC is also available on digital distribution platforms such as Apple's App Stor
 First Steps
 ~~~~~~~~~~~
  
-To get the most out of the VLC media player, start by reviewing a few introductory topics:
- 
-* **User Interface** - Introduction to the UI, commands, and features of the VLC media player
- 
+To get the most out of the VLC media player, start by reviewing a few introductory topics :ref: `User Interface <desktop:>`
+
+- `User Interface <user_interface>`_ - Introduction to the UI, commands, and features of the VLC media player
+
 * **Settings** - Customize VLC to suit your needs. 
  
 * **Tips and Tricks** - Jump right in with Tips and Tricks to become a VLC power user.
@@ -26,6 +26,16 @@ To get the most out of the VLC media player, start by reviewing a few introducto
 * **How-to Guides:** - Handy guides for using VLC
  
 * **Why VLC Media Player** - Read about the design philosophy and architecture of VLC
+
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Setup
+   
+   setup/overview.rst
+   setup/desktop.rst
+   setup/mobile.rst
  
 Downloads
 ~~~~~~~~~
@@ -42,19 +52,12 @@ Solve your VLC issues right now!
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Setup
-   
-   setup/overview.rst
-   setup/desktop.rst
-   setup/mobile.rst
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Getting Started
+   :caption: Getting Started 
    
    gettingstarted/startingvlc.rst
    gettingstarted/windows.rst
+   gettingstarted/macos.rst
    gettingstarted/userinterface.rst
    gettingstarted/tipsandtricks.rst
-   gettingstarted/hotkeys.rst
+
+
