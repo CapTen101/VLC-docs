@@ -55,8 +55,6 @@ Solve your VLC issues right now!
    :caption: Getting Started 
    
    gettingstarted/startingvlc.rst
-   gettingstarted/windows.rst
-   gettingstarted/macos.rst
    gettingstarted/userinterface.rst
    gettingstarted/tipsandtricks.rst
 

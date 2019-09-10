@@ -13,7 +13,7 @@ VLC is also available on digital distribution platforms such as Apple's App Stor
 First Steps
 ~~~~~~~~~~~
  
-To get the most out of the VLC media player, start by reviewing a few introductory topics :ref: `User Interface <desktop:>`
+To get the most out of the VLC media player, start by reviewing a few introductory topics
 
 - `User Interface <user_interface>`_ - Introduction to the UI, commands, and features of the VLC media player
 
