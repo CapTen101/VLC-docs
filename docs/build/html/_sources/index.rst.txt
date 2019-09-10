@@ -41,3 +41,9 @@ Solve your VLC issues right now!
 
 .. toctree::
    :maxdepth: 2
+   :hidden:
+   :caption: Setup
+   
+   setup/overview.rst
+   setup/desktop.rst
+   setup/mobile.rst
