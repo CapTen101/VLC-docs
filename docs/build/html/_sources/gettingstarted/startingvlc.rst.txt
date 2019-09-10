@@ -22,7 +22,7 @@ FreeBSD
 SUSE
 ++++
 
-Desktop
+Mobile
 -------
 
 Android

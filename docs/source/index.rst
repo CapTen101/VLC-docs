@@ -59,3 +59,26 @@ Solve your VLC issues right now!
    gettingstarted/tipsandtricks.rst
 
 
+.. toctree::
+   :maxdepth: 3
+   :hidden:
+   :caption: User Guides
+   
+   userguides/media.rst
+   userguides/audio.rst
+   userguides/video.rst
+   userguides/playback.rst
+   userguides/playlist.rst
+   userguides/adjustmentandeffects.rst
+   userguides/pluginsandextensions.rst
+   userguides/toolbarseditor.rst
+   userguides/subtitles.rst
+   userguides/commandline.rst
+   userguides/preferences.rst
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Support
+   
+   support/gethelp.rst
