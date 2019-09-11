@@ -1,0 +1,18 @@
+User Guides
+===========
+
+.. toctree::
+   :maxdepth: 1
+   :name: toc-user-guides
+   
+   media.rst
+   audio.rst
+   video.rst
+   playback.rst
+   playlist.rst
+   adjustmentandeffects.rst
+   pluginsandextensions.rst
+   toolbarseditor.rst
+   subtitles.rst
+   commandline.rst
+   preferences.rst

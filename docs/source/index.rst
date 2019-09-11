@@ -29,7 +29,7 @@ To get the most out of the VLC media player, start by reviewing a few introducto
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :hidden:
    :caption: Setup
    
@@ -50,7 +50,7 @@ Support Guide
 Solve your VLC issues right now!
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :hidden:
    :caption: Getting Started 
    
@@ -60,7 +60,7 @@ Solve your VLC issues right now!
 
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    :hidden:
    :caption: User Guides
    
@@ -77,7 +77,7 @@ Solve your VLC issues right now!
    userguides/preferences.rst
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :hidden:
    :caption: Support
    
