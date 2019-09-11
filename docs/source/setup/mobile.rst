@@ -1,8 +1,0 @@
-Mobile
-======
-
-Android
--------
-
-iOS
----

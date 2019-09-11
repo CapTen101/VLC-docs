@@ -6,7 +6,7 @@
 VLC User Documentation
 ----------------------
  
-VLC media player (commonly called VLC) is a free and open-source cross-platform multimedia player and framework developed by the VideoLAN project. It is available for desktop operating systems and mobile platforms, such as Android, iOS, iPadOS,Tizen, Windows 10 Mobile, and Windows Phone.
+`VLC media player <https://videolan.org>`_ (commonly called VLC) is a free and open-source cross-platform multimedia player and framework developed by the VideoLAN project. It is available for desktop operating systems and mobile platforms, such as Android, iOS, iPadOS,Tizen, Windows 10 Mobile, and Windows Phone.
  
 VLC is also available on digital distribution platforms such as Apple's App Store, Google Play and Microsoft Store and supports many audio and video compression methods and file formats, including DVD-Video, video CD, and various streaming protocols. It is able to stream media over computer networks and to transcode multimedia files. The VLC media player is approximately downloaded 23 million times monthly from our main website.  
  
@@ -34,12 +34,12 @@ To get the most out of the VLC media player, start by reviewing a few introducto
    :caption: Setup
    
    setup/overview.rst
-   setup/desktop.rst
-   setup/mobile.rst
+   setup/desktop/index.rst
+   setup/mobile/index.rst
  
 Downloads
 ~~~~~~~~~
-**Download VLC** - Quickly find the appropriate install for your platform(Microsoft Windows, macOS, Linux, Android, iOS, FreeBSD, Solaris, QNX, Haiku, and Syllable Desktop)
+**Download VLC** - Quickly find the appropriate install for your platform (Microsoft Windows, macOS, Linux, Android, iOS, FreeBSD, Solaris, QNX, Haiku, and Syllable Desktop)
  
 Frequently Asked Questions 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
