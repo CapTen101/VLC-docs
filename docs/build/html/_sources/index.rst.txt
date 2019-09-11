@@ -34,9 +34,8 @@ To get the most out of the VLC media player, start by reviewing a few introducto
    :caption: Setup
    
    setup/overview.rst
-   setup/desktop.rst
-   setup/mobile.rst
-   setup/index.rst
+   setup/desktop/index.rst
+   setup/mobile/index.rst
  
 Downloads
 ~~~~~~~~~
