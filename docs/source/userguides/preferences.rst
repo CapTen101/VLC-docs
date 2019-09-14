@@ -1,2 +1,4 @@
+.. _preferences:
+
 Preference (Settings)
 =====================
