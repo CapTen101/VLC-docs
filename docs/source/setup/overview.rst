@@ -23,7 +23,7 @@ It is able to stream media over computer networks and to transcode multimedia fi
 
 Once you have installed and set up VLC, these topics below will help you learn more about the VLC media player:
 
-* :ref:`Starting VLC <starting_vlc>`: Learn how to use the VLC media player.
-* :ref:`User Interface <doc_user_interface>`: Introduction to the UI, and commands of the VLC media player.
-* :ref:`Tips and Tricks <tips_and_tricks>`: Jump right in with Tips and Tricks to become a VLC power user.
-* :ref:`Settings <preferences>`: Customize VLC to suit your needs.
+* :ref:`Starting VLC <starting_vlc>` - Learn how to use the VLC media player.
+* :ref:`User Interface <doc_user_interface>` - Introduction to the UI, and commands of the VLC media player.
+* :ref:`Tips and Tricks <tips_and_tricks>` - Jump right in with Tips and Tricks to become a VLC power user.
+* :ref:`Settings <preferences>` - Customize VLC to suit your needs.
