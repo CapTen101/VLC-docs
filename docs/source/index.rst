@@ -42,7 +42,7 @@ To get the most out of the VLC media player, start by reviewing a few introducto
 Downloads
 ~~~~~~~~~
 
-Download the simple, fast and powerful VLC media player `here <https://www.videolan.org/vlc/#download>`_ for free. 
+Download the stable version of VLC on our `website <https://www.videolan.org/vlc/#download>`_ for free. 
 
 Frequently Asked Questions 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~

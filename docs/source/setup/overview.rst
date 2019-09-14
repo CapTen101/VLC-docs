@@ -21,7 +21,7 @@ It is able to stream media over computer networks and to transcode multimedia fi
 - Android 
 - iOS
 
-Once you have installed and set up VLC, these topics will help you learn more about the VLC media player:
+Once you have installed and set up VLC, these topics below will help you learn more about the VLC media player:
 
 * :ref:`Starting VLC <starting_vlc>`: Learn how to use the VLC media player.
 * :ref:`User Interface <doc_user_interface>`: Introduction to the UI, and commands of the VLC media player.

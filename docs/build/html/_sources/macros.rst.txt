@@ -1,0 +1,4 @@
+.. This file defines some replacement macros to make the documents a bit more readable.
+
+.. |VLC| replace:: :term:`VLC`
+.. |Windows| replace:: :program:`Microsoft Windows`
