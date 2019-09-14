@@ -16,11 +16,11 @@ First Steps
  
 To get the most out of the VLC media player, start by reviewing a few introductory topics
 
-      * :ref:`Features <features>` - Introduction to the UI, commands, and features of the VLC media player.
+      * :ref:`Features <features>`: Introduction to the UI, commands, and features of the VLC media player.
 
-      * :ref:`User Interface <doc_user_interface>` - Introduction to the UI, commands, and features of the VLC media player.
+      * :ref:`User Interface <doc_user_interface>`: Introduction to the UI, commands, and features of the VLC media player.
 
-      * :ref:`Settings <preferences>` - Customize VLC to suit your needs.
+      * :ref:`Settings <preferences>`: Customize VLC to suit your needs.
 
       * :ref:`Tips and Tricks <tips_and_tricks>` - Jump right in with Tips and Tricks to become a VLC power user.
 
@@ -59,6 +59,7 @@ Solve your VLC issues right now!
    gettingstarted/userinterface.rst
    gettingstarted/tipsandtricks.rst
    gettingstarted/hotkeys.rst
+   gettingstarted/howtoguides.rst
 
 
 .. toctree::
