@@ -40,8 +40,9 @@ To get the most out of the VLC media player, start by reviewing a few introducto
  
 Downloads
 ~~~~~~~~~
-**Download VLC** - Quickly find the appropriate install for your platform (Microsoft Windows, macOS, Linux, Android, iOS, FreeBSD, Solaris, QNX, Haiku, and Syllable Desktop)
- 
+
+`Download VLC <https://www.videolan.org/vlc/#download>`_ - Quickly find the appropriate install for your platform. 
+
 Frequently Asked Questions 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 Find all frequently asked questions by VLC users 
