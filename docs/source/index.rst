@@ -7,15 +7,14 @@ VLC User Documentation
 ----------------------
  
 `VLC media player <https://videolan.org>`_ (commonly known as just **VLC**) is a free and open source cross-platform 
-multimedia player and framework developed by the VideoLAN organisation. It is available for desktop operating systems and mobile platforms, such as Android, iOS, iPadOS, Tizen, Windows Phone. 
-VLC supports many audio and video compression methods and file formats,including DVD-Video, video CD, and various streaming protocols. VLC plays everything, runs on all platforms and is also completely free.
+multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. VLC plays everything, runs on all platforms and is completely free. 
 
 First Steps
 -----------
  
 To get the most out of the VLC media player, start by reviewing a few introductory topics
 
-      * :ref:`Setup <setup>`: Install VLC for your platform.
+      * :ref:`Setup <setup>`: Quickly find and install the appropriate VLC media player for your platform.
 
       * `VLC Features <https://www.videolan.org/vlc/features.html>`_: A summary of all the features of the VLC media player.
 
@@ -25,9 +24,11 @@ To get the most out of the VLC media player, start by reviewing a few introducto
 
       * :ref:`Tips and Tricks <tips_and_tricks>`: Jump right in with Tips and Tricks to become a VLC power user.
 
-      * :ref:`Add-ons <doc_user_interface>`: Find third-party software programs that can be added to VLC for additional features and abilities.
-
       * :ref:`How-to Guides <how_to_guides>`: Handy guides for using VLC.
+
+      * `Add-ons <https://addons.videolan.org>`_: Find third-party software programs that can be added to VLC for additional features and abilities.
+
+
 
 .. toctree::
    :maxdepth: 1
@@ -41,7 +42,7 @@ To get the most out of the VLC media player, start by reviewing a few introducto
 Downloads
 ~~~~~~~~~
 
-`Download VLC <https://www.videolan.org/vlc/#download>`_ - Quickly find the appropriate install for your platform. 
+Download the simple, fast and powerful VLC media player `here <https://www.videolan.org/vlc/#download>`_ for free. 
 
 Frequently Asked Questions 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
