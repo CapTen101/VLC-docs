@@ -7,7 +7,7 @@ VLC User Documentation
 ----------------------
  
 `VLC media player <https://videolan.org>`_ (commonly known as just **VLC**) is a free and open source cross-platform 
-multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
+multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. VLC plays everything, runs on all platforms and is completely free. 
 
 First Steps
 -----------
@@ -42,7 +42,7 @@ To get the most out of the VLC media player, start by reviewing a few introducto
 Downloads
 ~~~~~~~~~
 
-Download the simple, fast and powerful VLC media player `here <https://www.videolan.org/vlc/#download>`_. VLC plays everything, runs on all platforms and is completely free. 
+Download the simple, fast and powerful VLC media player `here <https://www.videolan.org/vlc/#download>`_ for free. 
 
 Frequently Asked Questions 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
