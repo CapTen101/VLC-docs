@@ -10,8 +10,8 @@ VLC User Documentation
 multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. VLC plays everything, runs on all platforms and is completely free. 
 
 First Steps
------------
- 
+~~~~~~~~~~~
+
 To get the most out of the VLC media player, start by reviewing a few introductory topics
 
       * :ref:`Setup <setup>`: Quickly find and install the appropriate VLC media player for your platform.

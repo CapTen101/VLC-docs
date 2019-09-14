@@ -1,3 +1,5 @@
+.. _starting_vlc:
+
 Starting VLC
 ============
 
