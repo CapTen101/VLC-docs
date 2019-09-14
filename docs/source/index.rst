@@ -14,7 +14,7 @@ First Steps
 
 To get the most out of the VLC media player, start by reviewing a few introductory topics
 
-      * :ref:`Setup <setup>`- Quickly find and install the appropriate VLC media player for your platform.
+      * :ref:`Setup <setup>` - Quickly find and install the appropriate VLC media player for your platform.
 
       * `VLC Features <https://www.videolan.org/vlc/features.html>`_ - A summary of all the features of the VLC media player.
 
