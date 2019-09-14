@@ -1,5 +1,17 @@
-Mobile
-======
+.. _setup:
+
+Setup
+=====
+
+.. toctree::
+   :maxdepth: 1
+   :name: toc-Desktop
+
+   windows
+   macos
+   linux
+   freebsd
+   suse
 
 .. toctree::
    :maxdepth: 1
