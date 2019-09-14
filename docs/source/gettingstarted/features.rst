@@ -1,4 +1,4 @@
 .. _features:
 
-Features
-========
+VLC Features
+============
