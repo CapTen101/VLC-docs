@@ -59,6 +59,7 @@ Solve your VLC issues right now!
    gettingstarted/userinterface.rst
    gettingstarted/tipsandtricks.rst
    gettingstarted/hotkeys.rst
+   gettingstarted/howtoguides.rst
 
 
 .. toctree::

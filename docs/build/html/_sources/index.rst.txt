@@ -55,6 +55,7 @@ Solve your VLC issues right now!
    :caption: Getting Started 
    
    gettingstarted/startingvlc.rst
+   gettingstarted/features.rst
    gettingstarted/userinterface.rst
    gettingstarted/tipsandtricks.rst
    gettingstarted/hotkeys.rst
