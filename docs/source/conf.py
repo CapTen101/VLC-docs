@@ -34,12 +34,12 @@ extensions = [
 ]
 
 # Add any paths that contain templates here, relative to this directory.
-templates_path = ['_templates']
+templates_path = ['resources/templates']
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = []
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 
 # -- Options for HTML output -------------------------------------------------
@@ -49,13 +49,41 @@ exclude_patterns = []
 #
 html_theme = 'sphinx_rtd_theme'
 
+# Add any paths that contain custom themes here, relative to this directory.
+html_theme_path = ['resources/templates/']
+
+html_theme_options = {
+    #"canonical_url": "", 
+    #'analytics_id': 'UA-XXXXXXX-1',  #  Provided by Google in your dashboard
+    'logo_only': False,
+    'display_version': True,
+    'prev_next_buttons_location': 'bottom',
+    'style_external_links': False,
+    'style_nav_header_background': '#4595BA',
+    # Toc options
+    'collapse_navigation': True,
+    'sticky_navigation': True,
+    'navigation_depth': 2,
+    'includehidden': True,
+    'titles_only': False
+}
+
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
+html_static_path = ['resources/static']
+
+def setup(app):
+    if html_theme == "sphinx_rtd_theme":
+        app.add_stylesheet("css/theme_overide.css")
 
 # The favicon
 html_favicon = 'images/favicon.png'
 
 # The master toctree document.
 master_doc = 'index'
+
+html_show_sourcelink = True
+
+# If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
+html_show_sphinx = False

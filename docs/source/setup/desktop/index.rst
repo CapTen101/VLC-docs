@@ -1,3 +1,5 @@
+.. _desktop:
+
 Desktop
 =======
 .. toctree::

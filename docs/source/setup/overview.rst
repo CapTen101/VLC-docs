@@ -9,17 +9,22 @@ methods and file formats, including DVD-Video, video CD, and various streaming p
 
 It is able to stream media over computer networks and to transcode multimedia files. Overall, the installation process of the VLC media player is quick and easy. Follow the platform specific guides below:
 
-**Desktop**
+.. container:: tocdescr
 
-- macOS
-- Linux distributions
-- Windows
-- FreeBSD
+   .. container:: descr
 
-**Mobile** 
+      :ref:`Desktop <desktop>`
+            - macOS
+            - Linux Distributions
+            - Windows
+            - FreeBSD
 
-- Android 
-- iOS
+   .. container:: descr
+
+      :ref:`Mobile <mobile>`
+            - Android
+            - iOS
+
 
 Once you have installed and set up VLC, these topics below will help you learn more about the VLC media player:
 
