@@ -10,11 +10,12 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-# import os
-# import sys
-# sys.path.insert(0, os.path.abspath('.'))
+import sys, os
 
-
+# directory relative to this conf file
+CURDIR = os.path.abspath(os.path.dirname(__file__))
+# add custom extensions directory to python path
+sys.path.insert(0, os.path.join(os.path.abspath(os.path.dirname(__file__)), 'extensions'))
 # -- Project information -----------------------------------------------------
 
 project = 'VLC User Documentation'
@@ -31,6 +32,8 @@ release = '1.0.0'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+              'sphinx.ext.mathjax',
+              'sphinx.ext.ifconfig',
 ]
 
 # Add any paths that contain templates here, relative to this directory.

@@ -11,20 +11,51 @@ It is able to stream media over computer networks and to transcode multimedia fi
 
 .. container:: tocdescr
 
-   .. container:: descr
+          .. container:: descr
 
-      :ref:`Desktop <desktop>`
-            - macOS
-            - Linux Distributions
-            - Windows
-            - FreeBSD
+               .. figure:: /images/windows.png
+                              :target: desktop/windows.html
+                              :width: 100px
+                              :height: 80px
 
-   .. container:: descr
+     .. container:: descr
 
-      :ref:`Mobile <mobile>`
-            - Android
-            - iOS
+          .. figure:: /images/macos.png
+                         :target: desktop/macos.html
+                         :width: 100px
+                         :height: 80px
 
+.. container:: tocdescr
+
+          .. container:: descr
+
+               .. figure:: /images/linux.jpg
+                              :target: desktop/linux.html
+                              :width: 100px
+                              :height: 80px
+
+     .. container:: descr
+
+          .. figure:: /images/freebsd.jpg
+                         :target: desktop/freebsd.html
+                         :width: 100px
+                         :height: 80px
+
+.. container:: tocdescr
+
+          .. container:: descr
+
+               .. figure:: /images/android.png
+                              :target: mobile/android.html
+                              :width: 100px
+                              :height: 80px
+
+     .. container:: descr
+
+          .. figure:: /images/ios.png
+                         :target: mobile/ios.html
+                         :width: 100px
+                         :height: 80px
 
 Once you have installed and set up VLC, these topics below will help you learn more about the VLC media player:
 
