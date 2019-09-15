@@ -57,6 +57,9 @@ It is able to stream media over computer networks and to transcode multimedia fi
                          :width: 100px
                          :height: 80px
 
+Next Steps
+----------
+
 Once you have installed and set up VLC, these topics below will help you learn more about the VLC media player:
 
 * :ref:`Starting VLC <starting_vlc>` - Learn how to use the VLC media player.
