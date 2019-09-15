@@ -14,12 +14,49 @@ VLC on Windows
 
 3. Before you can continue, you must select the language that you want the installer to use to display information to you. After you select a language, click **OK**.
 
+.. figure::  /images/setup/language.PNG
+   :align:   center
+   :width:   400px
+   :height:  300px   
+
 4. The VLC installer recommends that you close all other applications before continuing the installation process. When you're ready to proceed with the installation process, click **Next**
+
+.. figure::  /images/setup/welcome.PNG
+   :align:   center
+   :width:   400px
+   :height:  300px   
 
 5. Use this menu to customize your install. Choose all of the components you wish to install and whether you want VLC to be your default media player or not. Once you are done, click **Next**.
 
+.. figure::  /images/setup/components.PNG
+   :align:   center
+   :width:   400px
+   :height:  300px
+
 6. Click **Browse** to choose the destination installation folder. After you've identified the desired folder, click **Install**.
+
+.. figure::  /images/setup/location.PNG
+   :align:   center
+   :width:   400px
+   :height:  300px
 
 7. Wait as VLC is installed on your machine. It shouldn't take too long. Then click **Show details** to see more information about the progress of the installation.
 
+.. figure::  /images/setup/installation.PNG
+   :align:   center
+   :width:   400px
+   :height:  300px
+
 8. Once the installation is complete, you may choose to run VLC or read VLC's release notes. Click **Finish** to complete the installation process and close the installer.
+
+.. figure::  /images/setup/vlc.PNG
+   :align:   center
+   :width:   400px
+   :height:  300px
+
+9. Something on policy
+
+.. figure::  /images/setup/policy.PNG
+   :align:   center
+   :width:   400px
+   :height:  300px   
