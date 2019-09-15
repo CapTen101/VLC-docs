@@ -1,8 +1,5 @@
 Windows
-=======
-
-VLC on Windows
---------------
+*******
 
 1. Download the `VLC installer <https://www.videolan.org/vlc/download-windows.html>`_ for Windows.
 
@@ -15,9 +12,7 @@ VLC on Windows
 3. Before you can continue, you must select the language that you want the installer to use to display information to you. After you select a language, click **OK**.
 
 .. figure::  /images/setup/language.PNG
-   :align:   center
-   :width:   400px
-   :height:  300px   
+   :align:   center  
 
 4. The VLC installer recommends that you close all other applications before continuing the installation process. When you're ready to proceed with the installation process, click **Next**
 
@@ -49,7 +44,7 @@ VLC on Windows
 
 8. Once the installation is complete, you may choose to run VLC or read VLC's release notes. Click **Finish** to complete the installation process and close the installer.
 
-.. figure::  /images/setup/vlc.PNG
+.. figure::  /images/setup/setupcomplete.PNG
    :align:   center
    :width:   400px
    :height:  300px
@@ -60,3 +55,19 @@ VLC on Windows
    :align:   center
    :width:   400px
    :height:  300px   
+
+VLC is displayed:
+
+.. figure::  /images/setup/vlc.PNG
+   :align:   center
+   :width:   400px
+   :height:  300px   
+
+**Next Steps**
+
+Once you have installed and set up VLC, these topics below will help you learn more about the VLC media player:
+
+* :ref:`Starting VLC <starting_vlc>` - Learn how to use the VLC media player.
+* :ref:`User Interface <doc_user_interface>` - Introduction to the UI, and commands of the VLC media player.
+* :ref:`Tips and Tricks <tips_and_tricks>` - Jump right in with Tips and Tricks to become a VLC power user.
+* :ref:`Settings <preferences>` - Customize VLC to suit your needs.
