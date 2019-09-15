@@ -21,7 +21,7 @@ It is able to stream media over computer networks and to transcode multimedia fi
      .. container:: descr
 
           .. figure:: /images/macos.png
-                         :target: desktop/ios.html
+                         :target: desktop/macos.html
                          :width: 100px
                          :height: 80px
 
