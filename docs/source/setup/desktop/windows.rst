@@ -7,35 +7,35 @@ Windows
 
 .. note::
 
-    If you're using Windows Vista, 7, 8 or 10 and have UAC (User Account Control) enabled, the operating system may prompt you to grant VLC administrator permissions. Click **Yes** to continue the installation process.
+    The operating system may prompt you to grant VLC administrator permissions if you have UAC (User Account Control) enabled on Windows Vista, 7, 8 or 10. If this happens, click **Yes** to continue the installation process.
 
-3. Before you can continue, you must select the language that you want the installer to use to display information to you. After you select a language, click **OK**.
+3. Select the language that you want the installer to use to display information to you and click **OK**.
 
 .. figure::  /images/setup/language.PNG
    :align:   center  
 
-4. The VLC installer recommends that you close all other applications before continuing the installation process. When you're ready to proceed with the installation process, click **Next**
+4. The VLC installer recommends that you close all other applications before continuing the installation process (this is not com[ulsory]). When you're ready to proceed with the installation process, click **Next**
 
 .. figure::  /images/setup/welcome.PNG
    :align:   center
    :width:   400px
    :height:  300px   
 
-5. Use this menu to customize your install. Choose all of the components you wish to install and whether you want VLC to be your default media player or not. Once you are done, click **Next**.
+5. Click **Next** on the setup guide displayed on your Windows pc.
 
 .. figure::  /images/setup/components.PNG
    :align:   center
    :width:   400px
    :height:  300px
 
-6. Click **Browse** to choose the destination installation folder. After you've identified the desired folder, click **Install**.
+6. Click **Browse** to choose a destination installation folder of your choice. After you've identified the desired folder, click **Install**.
 
 .. figure::  /images/setup/location.PNG
    :align:   center
    :width:   400px
    :height:  300px
 
-7. Wait as VLC is installed on your machine. It shouldn't take too long. Then click **Show details** to see more information about the progress of the installation.
+7. After a few minutes, the VLC media player will be successfully installed in your PC. You can see more information about the progress of the installation by clicking on **Show details**.
 
 .. figure::  /images/setup/installation.PNG
    :align:   center
