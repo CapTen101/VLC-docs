@@ -46,7 +46,7 @@ Download the stable version of VLC on our `website <https://www.videolan.org/vlc
 
 Frequently Asked Questions 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-Find all frequently asked questions by VLC users 
+Find all :ref:`frequently asked questions <faq>` by VLC users 
  
 Support Guide
 ~~~~~~~~~~~~~
@@ -87,3 +87,4 @@ Solve your VLC issues right now!
    :caption: Support
    
    support/gethelp.rst
+   support/faq.rst

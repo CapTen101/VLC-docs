@@ -2,8 +2,3 @@
 
 User Interface
 ==============
-
-This is just a test o. 
-
-This is just a test
--------------------
