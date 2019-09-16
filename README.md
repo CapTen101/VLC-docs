@@ -37,7 +37,7 @@ To add images, please put them in an `images/` folder next to the .rst file with
 
 ## Building with Sphinx
 
-To build the HTML website (or any other format supported by Sphinx, like PDF, EPUB or LaTeX), you need to install [Sphinx](https://sphinx-doc.org/) >= 1.3 as well as (for the HTML) the [readthedocs.org theme](https://github.com/snide/sphinx_rtd_theme). Only the Python 3 flavor was tested, though the Python 2 versions might work too.
+To build the HTML website (or any other format supported by Sphinx, like PDF, EPUB or LaTeX), you need to install [Sphinx](https://sphinx-doc.org/) >= 1.3 as well as (for the HTML) the [readthedocs.org theme](https://github.com/snide/sphinx_rtd_theme).
 
 Those tools are best installed using [pip](https://pip.pypa.io), Python's module installer. The Python 3 version might be provided (on Linux distros) as `pip3` or `python3-pip`. You can then run:
 
@@ -52,13 +52,6 @@ You can then build the HTML documentation from the root folder of this repositor
 make html
 ```
 
-or:
-
-```sh
-make SPHINXBUILD=~/.local/bin/sphinx-build html
-```
-
-The compilation might take some time as the `classes/` folder contains many files to parse.
 You can then test the changes live by opening `_build/html/index.html` in your favorite browser.
 
 ### Building with Sphinx on Windows
