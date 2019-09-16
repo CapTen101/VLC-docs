@@ -9,7 +9,7 @@ Windows
 
 .. figure::  /images/setup/download.PNG
    :align:   center
-   :width:   450px
+   :width:   400px
    :height:  300px  
 
 .. note::
@@ -19,7 +19,9 @@ Windows
 4. Click on the drop-down box and select the language that you want the installer to use to display information to you and click **OK** to proceed.
 
 .. figure::  /images/setup/language.PNG
-   :align:   center  
+   :align:   center
+   :width:   400px
+   :height:  300px  
 
 5. The VLC installer recommends that you close all other applications before continuing the installation process (this is not com[ulsory]). When you're ready to proceed with the installation process, click **Next**
 
@@ -50,6 +52,7 @@ Windows
    :height:  300px
 
 9. Once the installation is complete, you can run it by making sure the "Run VLC media player" box is checked and clicking **Finish**. When you want to run VLC in the future, you'll have to double-click the VLC app icon on your desktop.
+
 .. figure::  /images/setup/setupcomplete.PNG
    :align: center
    :width: 400px
