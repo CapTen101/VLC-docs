@@ -42,21 +42,14 @@ Windows
    :width:   400px
    :height:  300px
 
-8. Once the installation is complete, you may choose to run VLC or read VLC's release notes. Click **Finish** to complete the installation process and close the installer.
+8. Once the installation is complete, click on **Finish** to complete the installation process. You can run the VLC media player immediately by clicking on the checkbox before you click on the **Finish** button. 
 
 .. figure::  /images/setup/setupcomplete.PNG
    :align:   center
    :width:   400px
-   :height:  300px
+   :height:  300px  
 
-9. Something on policy
-
-.. figure::  /images/setup/policy.PNG
-   :align:   center
-   :width:   400px
-   :height:  300px   
-
-VLC is displayed:
+9. If you marked the **Run VLC media checkbox**, the VLC media player will open up immediately after you click on **Finish**.
 
 .. figure::  /images/setup/vlc.PNG
    :align:   center
