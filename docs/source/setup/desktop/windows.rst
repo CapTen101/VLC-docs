@@ -5,12 +5,12 @@ Windows
 
 2. Click on **Download VLC** to download the VLC media player automatically onto your computer.
 
+3. Once it is downloaded, double click on the VLC setup file to begin the installation process. You'll find it in the default downloads location for your browser.
+
 .. figure::  /images/setup/download.PNG
    :align:   center
-   :width:   400px
+   :width:   450px
    :height:  300px  
-
-3. Once it is downloaded, double click on the VLC setup file to begin the installation process. You'll find it in the default downloads location for your browser.
 
 .. note::
 

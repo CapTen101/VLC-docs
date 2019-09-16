@@ -5,10 +5,12 @@ Windows
 
 2. Click on **Download VLC** to download the VLC media player automatically onto your computer.
 
-.. figure::  /images/setup/download.PNG
-   :align:   center  
-
 3. Once it is downloaded, double click on the VLC setup file to begin the installation process. You'll find it in the default downloads location for your browser.
+
+.. figure::  /images/setup/download.PNG
+   :align:   center
+   :width:   450px
+   :height:  300px  
 
 .. note::
 
@@ -49,16 +51,16 @@ Windows
 
 9. Once the installation is complete, you can run it by making sure the "Run VLC media player" box is checked and clicking **Finish**. When you want to run VLC in the future, you'll have to double-click the VLC app icon on your desktop.
 .. figure::  /images/setup/setupcomplete.PNG
-   :align:   center
-   :width:   400px
-   :height:  300px  
+   :align: center
+   :width: 400px
+   :height: 300px  
 
 10. If you marked the **Run VLC media player** checkbox, the VLC media player will open up immediately after you click on **Finish**.
 
 .. figure::  /images/setup/vlc.PNG
-   :align:   center
-   :width:   400px
-   :height:  300px   
+   :align: center
+   :width: 400px
+   :height: 300px   
 
 **Next Steps**
 
