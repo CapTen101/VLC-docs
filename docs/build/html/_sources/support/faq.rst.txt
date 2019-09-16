@@ -4,7 +4,7 @@ Frequently Asked Questions
 **************************
 
 VideoLAN
-========
+++++++++
 
 **What is VideoLAN? What is the VideoLAN Team?**
 
@@ -23,7 +23,7 @@ VideoLAN is a French non-profit organization. VideoLAN has its own bank account 
 You might either contribute time, material, or money. You DON'T NEED to be a programmer to help us. Translators are always welcome. You will find all the information you need on the Help VideoLAN page.
 
 Legal concerns
-==============
+++++++++++++++
 
 **May I use the VideoLAN logo?**
 
@@ -66,7 +66,7 @@ The use and distribution of the libdvdcss library is controversial in a few coun
    VLC media player binaries are distributed with the libdvdcss library included.
 
 VLC media player
-================
+++++++++++++++++
 
 Frequently asked questions about VLC on Windows
 
