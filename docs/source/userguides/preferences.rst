@@ -1,4 +1,4 @@
 .. _preferences:
 
-Preference (Settings)
-=====================
+Preferences
+===========

@@ -1,60 +1,66 @@
 Windows
 *******
 
-1. Download the `VLC installer <https://www.videolan.org/vlc/download-windows.html>`_ for Windows.
+1. Open the `VLC website <https://www.videolan.org/vlc/download-windows.html>`_ on your browser.
 
-2. Once it is downloaded, double click on the file to begin the installation process. This will only take a minute. 
+2. Click on **Download VLC** to download the VLC media player automatically onto your computer.
+
+.. figure::  /images/setup/download.PNG
+   :align:   center
+   :width:   400px
+   :height:  300px  
+
+3. Once it is downloaded, double click on the VLC setup file to begin the installation process. You'll find it in the default downloads location for your browser.
 
 .. note::
 
-    The operating system may prompt you to grant VLC administrator permissions if you have UAC (User Account Control) enabled on Windows Vista, 7, 8 or 10. If this happens, click **Yes** to continue the installation process.
+    The operating system may prompt you to grant VLC administrator permissions if you have UAC (User Account Control) enabled on Windows Vista, 7, 8 or 10. If this happens, click **Yes** when prompted to continue the installation process.
 
-3. Select the language that you want the installer to use to display information to you and click **OK**.
+4. Click on the drop-down box and select the language that you want the installer to use to display information to you and click **OK** to proceed.
 
 .. figure::  /images/setup/language.PNG
    :align:   center  
 
-4. The VLC installer recommends that you close all other applications before continuing the installation process (this is not com[ulsory]). When you're ready to proceed with the installation process, click **Next**
+5. The VLC installer recommends that you close all other applications before continuing the installation process (this is not com[ulsory]). When you're ready to proceed with the installation process, click **Next**
 
 .. figure::  /images/setup/welcome.PNG
    :align:   center
    :width:   400px
    :height:  300px   
 
-5. Click **Next** on the setup guide displayed on your Windows pc.
+6. Click **Next** on the setup guide displayed on your Windows pc.
 
 .. figure::  /images/setup/components.PNG
    :align:   center
    :width:   400px
    :height:  300px
 
-6. Click **Browse** to choose a destination installation folder of your choice. After you've identified the desired folder, click **Install**.
+7. Click **Browse** to choose a destination installation folder of your choice. After you've identified the desired folder, click **Install**. Doing so installs VLC media player on your computer. 
 
 .. figure::  /images/setup/location.PNG
    :align:   center
    :width:   400px
    :height:  300px
 
-7. After a few minutes, the VLC media player will be successfully installed in your PC. You can see more information about the progress of the installation by clicking on **Show details**.
+8. After a few minutes, the VLC media player will be successfully installed in your PC. You can see more information about the progress of the installation by clicking on **Show details**.
 
 .. figure::  /images/setup/installation.PNG
    :align:   center
    :width:   400px
    :height:  300px
 
-8. Once the installation is complete, click on **Finish** to complete the installation process. You can run the VLC media player immediately by clicking on the checkbox before you click on the **Finish** button. 
-
+9. Once the installation is complete, you can run it by making sure the "Run VLC media player" box is checked and clicking **Finish**. When you want to run VLC in the future, you'll have to double-click the VLC app icon on your desktop.
 .. figure::  /images/setup/setupcomplete.PNG
-   :align:   center
-   :width:   400px
-   :height:  300px  
+   :align: center
+   :width: 400px
+   :height: 300px  
 
-9. If you marked the **Run VLC media checkbox**, the VLC media player will open up immediately after you click on **Finish**.
+10. If you marked the **Run VLC media player** checkbox, the VLC media player will open up immediately after you click on **Finish**.
 
 .. figure::  /images/setup/vlc.PNG
-   :align:   center
-   :width:   400px
-   :height:  300px   
+   :align: center
+   :width: 400px
+   :height: 300px   
 
 **Next Steps**
 
