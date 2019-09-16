@@ -35,11 +35,6 @@ To add images, please put them in an `images/` folder next to the .rst file with
    :align: center
 ```
 
-Similarly, you can include attachments (like assets as support material for a tutorial) by placing them into a `files/` folder next to the .rst file, and using this inline markup:
-```rst
-:download:`myfilename.zip <files/myfilename.zip>`
-```
-
 ## Building with Sphinx
 
 To build the HTML website (or any other format supported by Sphinx, like PDF, EPUB or LaTeX), you need to install [Sphinx](https://sphinx-doc.org/) >= 1.3 as well as (for the HTML) the [readthedocs.org theme](https://github.com/snide/sphinx_rtd_theme). Only the Python 3 flavor was tested, though the Python 2 versions might work too.
