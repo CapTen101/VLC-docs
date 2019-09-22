@@ -8,9 +8,6 @@ Windows
 3. Once it is downloaded, double click on the VLC setup file to begin the installation process. You'll find it in the default downloads location for your browser.
 
 .. figure::  /images/setup/download.PNG
-   :align:   center
-   :width:   400px
-   :height:  300px  
 
 .. note::
 
@@ -20,50 +17,36 @@ Windows
 
 .. figure::  /images/setup/language.PNG
    :align:   center
-   :width:   400px
-   :height:  300px  
-
+   
 5. The VLC installer recommends that you close all other applications before continuing the installation process (this is not com[ulsory]). When you're ready to proceed with the installation process, click **Next**
 
 .. figure::  /images/setup/welcome.PNG
    :align:   center
-   :width:   400px
-   :height:  300px   
 
 6. Click **Next** on the setup guide displayed on your Windows pc.
 
 .. figure::  /images/setup/components.PNG
    :align:   center
-   :width:   400px
-   :height:  300px
 
 7. Click **Browse** to choose a destination installation folder of your choice. After you've identified the desired folder, click **Install**. Doing so installs VLC media player on your computer. 
 
 .. figure::  /images/setup/location.PNG
    :align:   center
-   :width:   400px
-   :height:  300px
 
 8. After a few minutes, the VLC media player will be successfully installed in your PC. You can see more information about the progress of the installation by clicking on **Show details**.
 
 .. figure::  /images/setup/installation.PNG
    :align:   center
-   :width:   400px
-   :height:  300px
 
 9. Once the installation is complete, you can run it by making sure the "Run VLC media player" box is checked and clicking **Finish**. When you want to run VLC in the future, you'll have to double-click the VLC app icon on your desktop.
 
 .. figure::  /images/setup/setupcomplete.PNG
    :align: center
-   :width: 400px
-   :height: 300px  
 
 10. If you marked the **Run VLC media player** checkbox, the VLC media player will open up immediately after you click on **Finish**.
 
 .. figure::  /images/setup/vlc.PNG
    :align: center
-   :width: 400px
-   :height: 300px   
 
 **Next Steps**
 

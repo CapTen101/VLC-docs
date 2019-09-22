@@ -15,15 +15,13 @@ It is able to stream media over computer networks and to transcode multimedia fi
 
                .. figure:: /images/windows.png
                               :target: desktop/windows.html
-                              :width: 100px
-                              :height: 80px
+                              :width: 100%
 
      .. container:: descr
 
           .. figure:: /images/macos.png
                          :target: desktop/macos.html
-                         :width: 100px
-                         :height: 80px
+                         :width: 100%
 
 .. container:: tocdescr
 
@@ -31,15 +29,13 @@ It is able to stream media over computer networks and to transcode multimedia fi
 
                .. figure:: /images/linux.jpg
                               :target: desktop/linux.html
-                              :width: 100px
-                              :height: 80px
+                              :width: 100%
 
      .. container:: descr
 
           .. figure:: /images/freebsd.jpg
                          :target: desktop/freebsd.html
-                         :width: 100px
-                         :height: 80px
+                         :width: 100%
 
 .. container:: tocdescr
 
@@ -47,15 +43,13 @@ It is able to stream media over computer networks and to transcode multimedia fi
 
                .. figure:: /images/android.png
                               :target: mobile/android.html
-                              :width: 100px
-                              :height: 80px
+                              :width: 100%
 
      .. container:: descr
 
           .. figure:: /images/ios.png
                          :target: mobile/ios.html
-                         :width: 100px
-                         :height: 80px
+                         :width: 100%
 
 **Next Steps**
 
