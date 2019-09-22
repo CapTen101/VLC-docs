@@ -1,12 +1,11 @@
-image: ubuntu
+image: python:3.6-alpine
 
 pages:
-  stage: deploy
   script:
-  - apt update && apt -y install python3-pip
-  - pip3 install -r requirements.txt
-  - make html
-  - mv build/html/ public/
+  - pip install sphinx
+  - pip install sphinx_rtd_theme
+  - sphinx-build -d _build/doctrees . _build/html
+  - mv _build/html public
   artifacts:
     paths:
     - public
