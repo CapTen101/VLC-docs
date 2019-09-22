@@ -5,7 +5,7 @@ pages:
   script:
   - apt update && apt -y install python3-pip
   - pip3 install -r requirements.txt
-  - sphinx-build -b html ./ _build
+  - make html
   - mv _build/html/ public/
   artifacts:
     paths:
