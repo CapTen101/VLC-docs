@@ -1,0 +1,14 @@
+image: ubuntu
+
+pages:
+  stage: deploy
+  script:
+  - apt update && apt -y install python3-pip
+  - pip3 install -r requirements.txt
+  - make html
+  - mv _build/html/ public/
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
