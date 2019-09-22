@@ -1,10 +1,10 @@
-image: python:3.6-alpine
+image: alpine
 
 pages:
   script:
   - pip install sphinx
   - pip install sphinx_rtd_theme
-  - sphinx-build -d _build/doctrees . _build/html
+  - make html
   - mv _build/html public
   artifacts:
     paths:
