@@ -10,12 +10,12 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-import sys, os
+# import sys, os
 
 # directory relative to this conf file
-CURDIR = os.path.abspath(os.path.dirname(__file__))
+# CURDIR = os.path.abspath(os.path.dirname(__file__))
 # add custom extensions directory to python path
-sys.path.insert(0, os.path.join(os.path.abspath(os.path.dirname(__file__)), 'extensions'))
+# sys.path.insert(0, os.path.join(os.path.abspath(os.path.dirname(__file__)), 'extensions'))
 # -- Project information -----------------------------------------------------
 
 project = 'VLC User Documentation'
@@ -31,10 +31,7 @@ release = '1.0.0'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = [
-              'sphinx.ext.mathjax',
-              'sphinx.ext.ifconfig',
-]
+extensions = []
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['resources/templates']
@@ -42,7 +39,7 @@ templates_path = ['resources/templates']
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+exclude_patterns = ['build', 'Thumbs.db', '.DS_Store']
 
 
 # -- Options for HTML output -------------------------------------------------
@@ -90,3 +87,9 @@ html_show_sourcelink = True
 
 # If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
 html_show_sphinx = False
+
+# Language to be used for generating the HTML full-text search index.
+# Sphinx supports the following languages:
+#   'da', 'de', 'en', 'es', 'fi', 'fr', 'h', 'it', 'ja'
+#   'nl', 'no', 'pt', 'ro', 'r', 'sv', 'tr', 'zh'
+html_search_language = 'en'
