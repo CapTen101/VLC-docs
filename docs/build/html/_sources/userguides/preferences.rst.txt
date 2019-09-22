@@ -1,0 +1,4 @@
+.. _preferences:
+
+Preferences
+===========
