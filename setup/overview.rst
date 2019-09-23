@@ -14,58 +14,16 @@ It is able to stream media over computer networks and to transcode multimedia fi
    .. container:: descr
 
       :ref:`Desktop <desktop>`
-            - macOS
-            - Linux distributions
-            - Windows
-            - FreeBSD
+            - :ref:`macOS <macos>`
+            - :ref:`Linux Distributions <linux>`
+            - :ref:`Windows <windows>`
+            - :ref:`FreeBSD <freebsd>`
 
    .. container:: descr
 
       :ref:`Mobile <mobile>`
-            - Android
-            - iOS
-
-.. container:: tocdescr
-
-          .. container:: descr
-
-               .. figure:: /images/windows.png
-                              :target: desktop/windows.html
-                              :width: 100%
-
-     .. container:: descr
-
-          .. figure:: /images/macos.png
-                         :target: desktop/macos.html
-                         :width: 100%
-
-.. container:: tocdescr
-
-          .. container:: descr
-
-               .. figure:: /images/linux.jpg
-                              :target: desktop/linux.html
-                              :width: 100%
-
-     .. container:: descr
-
-          .. figure:: /images/freebsd.jpg
-                         :target: desktop/freebsd.html
-                         :width: 100%
-
-.. container:: tocdescr
-
-          .. container:: descr
-
-               .. figure:: /images/android.png
-                              :target: mobile/android.html
-                              :width: 100%
-
-     .. container:: descr
-
-          .. figure:: /images/ios.png
-                         :target: mobile/ios.html
-                         :width: 100%
+            :ref:`Android <android>`
+            :ref:`iOS <ios>`
 
 **Next Steps**
 
