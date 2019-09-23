@@ -11,6 +11,22 @@ It is able to stream media over computer networks and to transcode multimedia fi
 
 .. container:: tocdescr
 
+   .. container:: descr
+
+      :ref:`Desktop <desktop>`
+            - macOS
+            - Linux distributions
+            - Windows
+            - FreeBSD
+
+   .. container:: descr
+
+      :ref:`Mobile <mobile>`
+            - Android
+            - iOS
+
+.. container:: tocdescr
+
           .. container:: descr
 
                .. figure:: /images/windows.png
