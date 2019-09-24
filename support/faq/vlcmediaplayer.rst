@@ -9,7 +9,7 @@ Does VLC support DVDs from all regions?
 This mostly depends on your DVD drive. Testing it is usually the quickest way to find out. The problem is that a lot of newer drives are RPC2 drives these days. Some of these drives don't allow raw access to the drive untill the drive firmware has done a regioncheck. VLC uses libdvdcss and it needs raw access to the DVD drive to crack the encryption key. So with those drives it is impossible to circumvent the region protection. (This goes for all software. You will need to flash your drives firmware, but sometimes there is no alternate firmware available for your drive). On other RPC2 drives that do allow raw access, it might take VLC a long time to crack the key. So just pop the disc in your drive and try it out, while you get a coffee. RPC1 drives should 'always' work regardless of the regioncode.
 
 Where does VLC store its config file?
-++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++
 
 Currently, a config file is created on a per user basis (there is no global configuration file). If you modify the available options in VLC and save the new configuration, then a configuration file will be created in your user directory. The precise location of this file depends on the Operating System you are running:
 
@@ -73,7 +73,7 @@ Increase the verbosity level (either in the preferences or with a ``-vv`` comman
 If you are convinced that it is a bug in VLC, have a look at the `bug reporting page <https://wiki.videolan.org/Report_bugs>`_.
 
 How can I take screenshots?
-++++++++++++++++++++++++++
++++++++++++++++++++++++++++
 
 To take a snapshot of the video displayed by VLC, you just need to press the pre-defined snapshot hotkey:
 
@@ -97,7 +97,7 @@ If you haven't changed the snapshot directory in your preferences, your screensh
 To change it, go to Preferences → Video → Video snapshot directory.
 
 My file doesn't seem to work!
-++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++
 
 Are you sure VLC supports the file? Try checking the `features page <https://www.videolan.org/vlc/features.html>`_. If it supported and you compiled VLC yourself, check if you have downloaded and installed all the codecs correctly. If it is not supported, then you are out of luck for now.
 
