@@ -15,7 +15,7 @@ It is able to stream media over computer networks and to transcode multimedia fi
 
       **Desktop**
       
-      * :ref:`macOS <macos>`
+      * :ref:`Mac OS X <macos>`
 
       * :ref:`Linux Distributions <linux>`
 
