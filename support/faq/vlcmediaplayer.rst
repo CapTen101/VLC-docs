@@ -49,8 +49,7 @@ Your system might be too slow to decode all pictures. It might be that your CPU 
 
         * Under Windows, go to the System section of the control panel, and go to the Hardware manager (it is sometimes in a separate tab, and sometimes, you have to go to the Advanced tab. Then, righ-click on your DVD player, and check the DMA checkbox.
 
-    * Upgrade to the latest driver for your video board:
-    If you are running Linux, you can additionnaly upgrade to the latest X.Org version. If supported, check that the xvideo plug-in is effectively used with: ``% vlc -vv``
+    * Upgrade to the latest driver for your video board: If you are running Linux, you can additionnaly upgrade to the latest X.Org version. If supported, check that the xvideo plug-in is effectively used with: ``% vlc -vv``
 
     * Stop other running applications.
 
