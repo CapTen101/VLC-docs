@@ -1,2 +1,4 @@
+.. _linux:
+
 Linux Distributions
 ===================
