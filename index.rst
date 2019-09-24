@@ -1,4 +1,4 @@
-.. VLC User Documentation documentation master file, created by
+.. VLC User Documentation master file, created by
    sphinx-quickstart on Mon Sep  9 19:49:25 2019.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -46,7 +46,7 @@ Download the stable version of VLC on our `website <https://www.videolan.org/vlc
 
 Frequently Asked Questions 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-Find all :ref:`frequently asked questions <faq>` by VLC users 
+Find all :ref:`frequently asked questions <faqoverview>` by VLC users 
  
 Support Guide
 ~~~~~~~~~~~~~
@@ -87,4 +87,4 @@ Solve your VLC issues right now!
    :caption: Support
    
    support/gethelp.rst
-   support/faq.rst
+   support/index.rst

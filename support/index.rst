@@ -1,4 +1,4 @@
-.. _faq:
+.. _faqoverview:
 
 Frequently Asked Questions
 **************************
@@ -68,9 +68,12 @@ The use and distribution of the libdvdcss library is controversial in a few coun
 VLC media player
 ++++++++++++++++
 
-Frequently asked questions about VLC on Windows
+.. toctree::
+   :maxdepth: 1
+   :name: toc-faq
 
-Frequently asked questions about VLC on macOS
+   faq/faqmacos
+   faq/faqwindows
 
 **Next Steps**
 
