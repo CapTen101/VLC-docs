@@ -7,9 +7,9 @@ Frequently Asked Questions
     
 * :ref:`VLC Media Player <vlc_media_player>`
     
-* :ref:`Setup <faq_macos>`
+* :ref:`Frequently Asked Questions about VLC on macOS <faq_macos>`
       
-* :ref:`Setup <faq_windows>`
+* :ref:`Frequently Asked Questions about VLC on Windows <faq_windows>`
 
 * :ref:`Legal Concerns <legal_concerns>`
 
