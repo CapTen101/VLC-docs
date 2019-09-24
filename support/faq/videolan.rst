@@ -27,6 +27,4 @@ You will find all the information you need on the
 **Why is the VideoLAN mailing-lists and website in English?**
 VideoLAN's developers come from all around the world and english is the only language they can use to communicate together. Although great care is given to the translation of VLC in various languages, maintaining translations of our website costs too much more time than we can afford.
 
-**Next Steps**
-
-* :ref:`Get Help <getting_support>` - Find an answer to any question that wasnt answered here.
+.. seealso:: :ref:`Get Help <getting_support>` - Find an answer to any question that wasnt answered here.
