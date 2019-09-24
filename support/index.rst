@@ -1,7 +1,8 @@
 .. _faqoverview:
 
-Frequently Asked Questions
-**************************
+FAQs
+****
+Have other challenges or don't see your issue outlined below? Please `report a bug <https://wiki.videolan.org/Report_bugs>`_ or request a feature and `join the forum <https://forum.videolan.org/>`_ for discussions.
 
 * :ref:`VideoLAN <video_lan>`
     

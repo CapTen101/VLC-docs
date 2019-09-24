@@ -1,7 +1,7 @@
 .. _macos:
 
-mac OS
-======
+Mac OS X
+========
 
 1. Open the `VLC website <https://www.videolan.org/vlc/download-macosx.html>`_ on your browser.
 
