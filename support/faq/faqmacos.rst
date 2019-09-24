@@ -40,6 +40,7 @@ Get to Mac OS X global system preferences, open up the "CDs & DVDs" section in t
 **Why won't VLC play DVDs from a region other than what my drive is set to?**
 
 Many people try to use VLC to play DVDs from regions their drive is not set to. However, the DVD drives on most new Macs have region lockout on the hardware level, so VLC will not necessarily be able to play discs from multiple regions. You may be able to play the disc by opening it as a **Video_TS folder** instead of a **DVD**, or by changing the method used by **libdvdccss** to **decrypt DVDs**. 
+
 In order to do this, go to **Tools** -> **Preferences** -> **Input/Codecs** -> **Access Modules** -> **DVD without menus** -> **Method used by libdvdcss for decryption** . If you play a lot of DVDs from different regions your best option is to buy a USB or Firewire external drive that you can set to the region you require.
 
 .. seealso:: :ref:`Get Help <getting_support>` - Find an answer to any question that wasnt answered here.
