@@ -15,11 +15,6 @@ Frequently Asked Questions
 
 * :ref:`Support And Feature Request <feature_request>`
 
-
-**Next Steps**
-
-* :ref:`Get Help <getting_support>` - Find an answer to any question that wasnt answered here.
-
 .. toctree::
    :maxdepth: 2
    :hidden:

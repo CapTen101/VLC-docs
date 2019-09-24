@@ -42,3 +42,7 @@ The use and distribution of the libdvdcss library is controversial in a few coun
 .. warning::
 
    VLC media player binaries are distributed with the libdvdcss library included.
+
+   **Next Steps**
+
+* :ref:`Get Help <getting_support>` - Find an answer to any question that wasnt answered here.

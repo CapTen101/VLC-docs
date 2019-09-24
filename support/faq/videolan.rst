@@ -18,3 +18,7 @@ VideoLAN is a French non-profit organization. VideoLAN has its own bank account 
 **How may I help VideoLAN?**
 
 You might either contribute time, material, or money. You DON'T NEED to be a programmer to help us. Translators are always welcome. You will find all the information you need on the Help VideoLAN page.
+
+**Next Steps**
+
+* :ref:`Get Help <getting_support>` - Find an answer to any question that wasnt answered here.
