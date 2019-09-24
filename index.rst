@@ -82,7 +82,7 @@ Solve your VLC issues right now!
    userguides/preferences.rst
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 6
    :hidden:
    :caption: Support
    

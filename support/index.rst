@@ -16,7 +16,7 @@ Frequently Asked Questions
 * :ref:`Support And Feature Request <feature_request>`
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 6
    :hidden:
    :caption: Support
    

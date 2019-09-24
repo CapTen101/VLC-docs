@@ -15,9 +15,17 @@ VideoLAN is a French non-profit organization. VideoLAN has its own bank account 
 
 `VLC media player <https://wiki.videolan.org/VLC_media_player/>`_ is the official name of VideoLAN's main product, most often called VLC. VideoLAN Client is a former name of this product. `VideoLAN Server <https://wiki.videolan.org/VideoLAN_Server/>`_ is another product of VideoLAN, but is discontinued since VLC media player can do more. VideoLAN is NOT a software, see `VideoLAN <https://wiki.videolan.org/VideoLAN/>`_.
 
-**How may I help VideoLAN?**
+**How can I contribute to VideoLAN?**
 
-You might either contribute time, material, or money. You DON'T NEED to be a programmer to help us. Translators are always welcome. You will find all the information you need on the Help VideoLAN page.
+You might either contribute time, material, or money. 
+You DON'T NEED to be a programmer to help us. 
+Translators are always welcome. 
+You will find all the information you need on the 
+`contributor page <https://www.videolan.org/contribute.html/>`_.
+
+
+**Why is the VideoLAN mailing-lists and website in English?**
+VideoLAN's developers come from all around the world and english is the only language they can use to communicate together. Although great care is given to the translation of VLC in various languages, maintaining translations of our website costs too much more time than we can afford.
 
 **Next Steps**
 
