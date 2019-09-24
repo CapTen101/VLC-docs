@@ -1,7 +1,7 @@
 .. _getting_support:
 
-Getting Support
-===============
+Get Help
+========
 
 
 **Next Steps**
