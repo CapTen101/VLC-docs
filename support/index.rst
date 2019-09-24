@@ -14,8 +14,6 @@ Have other challenges or don't see your issue outlined below? Please `report a b
 
 * :ref:`Legal Concerns <legal_concerns>`
 
-* :ref:`Support And Feature Request <feature_request>`
-
 .. toctree::
    :maxdepth: 3
    :hidden:
@@ -26,4 +24,3 @@ Have other challenges or don't see your issue outlined below? Please `report a b
    faq/faqwindows.rst
    faq/faqmacos.rst
    faq/legalconcerns.rst
-   faq/featurerequest.rst

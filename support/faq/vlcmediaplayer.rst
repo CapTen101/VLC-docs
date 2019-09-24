@@ -3,7 +3,7 @@
 VLC Media Player
 ================
 
-Find all frequently asked questions by users
+Find all frequently asked questions by VLC users below;
 
 Does VLC support DVDs from all regions?
 +++++++++++++++++++++++++++++++++++++++
