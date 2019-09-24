@@ -106,8 +106,7 @@ Are you sure VLC supports the file? Try checking the `features page <https://www
 VLC doesn't display all subtitles
 +++++++++++++++++++++++++++++++++
 
-If VLC has autodetected your subtitles file, or if you opened it manually, but VLC only displays some 
-subtitles from time to time, you will need to change the subtitles file encoding.
- To do this, go to **Tools** → **Preferences** → **Subtitles/OSD**, and select the right encoding format for your PC in the dropdown menu and click **Save**.
+If VLC has autodetected your subtitles file, or if you opened it manually, but VLC only displays some subtitles from time to time, you will need to change the subtitles file encoding.
+To do this, go to **Tools** → **Preferences** → **Subtitles/OSD**, and select the right encoding format for your PC in the dropdown menu and click **Save**.
 
 .. seealso:: :ref:`Get Help <getting_support>` - Find an answer to any question that wasnt answered here.
