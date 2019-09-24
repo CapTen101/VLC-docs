@@ -31,7 +31,7 @@ Please check whether you're using a VLC release which is able to run on your ver
 
 From the download page notes: "There is not, and there will never be, a version for Mac OS 9." Kindly download vlc for Mac OS X from our `main websit <http://www.videolan.org/vlc/download-macosx.html>`_.
 
-<strong>How do you tell Apple's &$@&$*&! DVDPlayer not to start automatically when you insert a DVD?<strong/>
+**How do you tell Apple's DVDPlayer not to start automatically when you insert a DVD?**
 
 Get to Mac OS X global system preferences, open up the "CDs & DVDs" section in the "Hardware" category, add VLC to the list of apps next to "When you insert a video DVD" and select it afterwards.
 
