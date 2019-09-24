@@ -44,7 +44,7 @@ Downloads
 
 Download the stable version of VLC on our `website <https://www.videolan.org/vlc/#download>`_ for free. 
 
-Frequently Asked Questions 
+FAQs 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 Find all :ref:`frequently asked questions <faqoverview>` by VLC users 
  
