@@ -3,7 +3,7 @@
 VideoLAN
 =========
 
-**What is VideoLAN? What is the VideoLAN Team?**
+**What is VideoLAN?**
 
 VideoLAN is a group of people that produce and distribute free and open-source software for video and multimedia purposes, released under Open Source licenses. It started as a student project at the French École Centrale Paris, but is now a worldwide project with developers from everywhere and dozens of millions of people using VideoLAN's software.
 
@@ -25,6 +25,7 @@ You will find all the information you need on the
 
 
 **Why is the VideoLAN mailing-lists and website in English?**
+
 VideoLAN's developers come from all around the world and english is the only language they can use to communicate together. Although great care is given to the translation of VLC in various languages, maintaining translations of our website costs too much more time than we can afford.
 
 .. seealso:: :ref:`Get Help <getting_support>` - Find an answer to any question that wasnt answered here.
