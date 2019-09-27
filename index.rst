@@ -24,21 +24,21 @@ multimedia player and framework that plays most multimedia files as well as DVDs
             <img alt="" src="_static/images/getstarted.png"/>
 	       <h2>Getting Started</h2>
 	   </a>
-	   <p>Introduction to the UI, and commands of the VLC media player.</p>
+	   <p>Learn how to use the VLC media player, its User Interface, and commands.</p>
        </li>
        <li class="grid-item">
 	   <a href="userguide/index.html">
             <img alt="" src="_static/images/userguide.png"/>
 	       <h2>User Guides</h2>
 	   </a>
-	   <p>Handy guides for using VLC</p>
+	   <p>Handy guides to become a VLC power user</p>
        </li>
        <li class="grid-item">
 	   <a href="support/index.html">
                <img alt="" src="_static/images/support.png"/>
-	       <h2>Support Guide</h2>
+	       <h2>Support</h2>
 	   </a>
-	   <p>Solve your VLC issues right now!</p>
+	   <p>Get support and help on any issue encountered while using the VLC media player.</p>
        </li>
        <li class="grid-item">
 	   <a href="contribute/index.html">
@@ -81,3 +81,4 @@ multimedia player and framework that plays most multimedia files as well as DVDs
    gettingstarted/index.rst
    userguide/index.rst
    support/index.rst
+   contribute/index.rst
