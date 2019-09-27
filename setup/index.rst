@@ -1,7 +1,7 @@
 .. _setup:
 
-Overview
-========
+Setup
+=====
 
 The VLC media player is available for desktop operating systems and mobile platforms such as Microsoft Windows, 
 macOS, Linux, Android, iOS, FreeBSD, Solaris, QNX, Haiku, and Syllable Desktop. VLC is also available on digital distribution platforms such as Apple's App Store, Google Play and Microsoft Store and supports many audio and video compression
@@ -39,3 +39,11 @@ Once you have installed and set up VLC, these topics below will help you learn m
 * :ref:`User Interface <doc_user_interface>` - Introduction to the UI, and commands of the VLC media player.
 * :ref:`Tips and Tricks <tips_and_tricks>` - Jump right in with Tips and Tricks to become a VLC power user.
 * :ref:`Settings <preferences>` - Customize VLC to suit your needs.
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :name: toc-setup
+   
+   desktop/index.rst
+   mobile/index.rst

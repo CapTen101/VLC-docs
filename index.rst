@@ -4,87 +4,80 @@
    contain the root `toctree` directive.
 
 VLC User Documentation
-----------------------
+######################
  
 `VLC media player <https://www.videolan.org/vlc/>`_ (commonly known as just **VLC**) is a free and open source cross-platform 
 multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. VLC plays everything, runs on all platforms and is completely free. 
 
-First Steps
-~~~~~~~~~~~
+.. raw:: html
 
-To get the most out of the VLC media player, start by reviewing a few introductory topics
+   <ul class="grid">
+       <li class="grid-item">
+	   <a href="setup/index.html">
+	       <img alt="" src="_static/images/favicon.png"/>
+	       <h2>Setup</h2>
+	   </a>
+	   <p>Quickly find and install the appropriate VLC media player for your platform</p>
+       </li>
+       <li class="grid-item">
+	   <a href="gettingstarted/index.html">
+            <img alt="" src="_static/images/getstarted.png"/>
+	       <h2>Getting Started</h2>
+	   </a>
+	   <p>Introduction to the UI, and commands of the VLC media player.</p>
+       </li>
+       <li class="grid-item">
+	   <a href="userguide/index.html">
+            <img alt="" src="_static/images/userguide.png"/>
+	       <h2>User Guides</h2>
+	   </a>
+	   <p>Handy guides for using VLC</p>
+       </li>
+       <li class="grid-item">
+	   <a href="support/index.html">
+               <img alt="" src="_static/images/support.png"/>
+	       <h2>Support Guide</h2>
+	   </a>
+	   <p>Solve your VLC issues right now!</p>
+       </li>
+       <li class="grid-item">
+	   <a href="contribute/index.html">
+               <img alt="" src="_static/images/vlcm.png"/>
+	       <h2>Contribution Guidelines</h2>
+	   </a>
+	   <p>As an open-source project, we welcome and encourage the community
+           to submit patches directly to the project.</p>
+       </li>
+       <li class="grid-item">
+	   <a href="https://www.videolan.org/vlc/features.html">
+               <img alt="" src="_static/images/handyguides.png"/>
+	       <h2>VLC Features</h2>
+	   </a>
+	   <p>A summary of all the features of the VLC media player.</p>
+       </li>
+       <li class="grid-item">
+	   <a href="https://www.videolan.org/vlc/#download">
+               <img alt="" src="_static/images/features.png"/>
+	       <h2>Downloads</h2>
+	   </a>
+	   <p>Download the stable version of VLC on our website for free.</p>
+       </li>
+       <li class="grid-item">
+	   <a href="https://addons.videolan.org">
+               <img alt="" src="_static/images/addons.svg"/>
+	       <h2>Add-ons</h2>
+	   </a>
+	   <p>Find third-party software programs that can be added to VLC for additional features and abilities</p>
+       </li>
+   </ul>
 
-      * :ref:`Setup <setup>` - Quickly find and install the appropriate VLC media player for your platform.
-
-      * `VLC Features <https://www.videolan.org/vlc/features.html>`_ - A summary of all the features of the VLC media player.
-
-      * :ref:`User Interface <doc_user_interface>` - Introduction to the UI, and commands of the VLC media player.
-
-      * :ref:`Settings <preferences>` - Customize VLC to suit your needs.
-
-      * :ref:`Tips and Tricks <tips_and_tricks>` - Jump right in with Tips and Tricks to become a VLC power user.
-
-      * :ref:`How-to Guides <how_to_guides>` - Handy guides for using VLC.
-
-      * `Add-ons <https://addons.videolan.org>`_ - Find third-party software programs that can be added to VLC for additional features and abilities.
-
-
+.. only:: html
 
 .. toctree::
    :maxdepth: 1
    :hidden:
-   :caption: Setup
    
-   setup/overview.rst
-   setup/desktop/index.rst
-   setup/mobile/index.rst
- 
-Downloads
-~~~~~~~~~
-
-Download the stable version of VLC on our `website <https://www.videolan.org/vlc/#download>`_ for free. 
-
-FAQs 
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-Find all :ref:`frequently asked questions <faqoverview>` by VLC users 
- 
-Support Guide
-~~~~~~~~~~~~~
-Solve your VLC issues right now!
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :caption: Getting Started 
-   
-   gettingstarted/startingvlc.rst
-   gettingstarted/userinterface.rst
-   gettingstarted/tipsandtricks.rst
-   gettingstarted/hotkeys.rst
-   gettingstarted/howtoguides.rst
-
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :caption: User Guides
-   
-   userguides/media.rst
-   userguides/audio.rst
-   userguides/video.rst
-   userguides/playback.rst
-   userguides/playlist.rst
-   userguides/adjustmentandeffects.rst
-   userguides/pluginsandextensions.rst
-   userguides/toolbarseditor.rst
-   userguides/subtitles.rst
-   userguides/commandline.rst
-   userguides/preferences.rst
-
-.. toctree::
-   :maxdepth: 3
-   :hidden:
-   :caption: Support
-   
-   support/gethelp.rst
+   setup/index.rst
+   gettingstarted/index.rst
+   userguide/index.rst
    support/index.rst
