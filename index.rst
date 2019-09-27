@@ -82,3 +82,4 @@ multimedia player and framework that plays most multimedia files as well as DVDs
    userguide/index.rst
    support/index.rst
    contribute/index.rst
+   

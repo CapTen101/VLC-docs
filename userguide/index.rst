@@ -5,7 +5,6 @@ User Guides
 
 .. toctree::
    :maxdepth: 1
-   :hidden:
    :name: toc-userguide
    
    adjustmentandeffects.rst
