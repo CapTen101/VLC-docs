@@ -19,10 +19,8 @@ Have other challenges or don't see your issue outlined below? Please `report a b
    :maxdepth: 1
    :hidden:
    
+   videolan.rst
+   vlcmediaplayer.rst
    faqmacos.rst
    faqwindows.rst
    legalconcerns.rst
-   videolan.rst
-   vlcmediaplayer.rst
-
-
