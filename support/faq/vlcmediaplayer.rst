@@ -15,19 +15,24 @@ Where does VLC store its config file?
 
 Currently, a config file is created on a per user basis (there is no global configuration file). If you modify the available options in VLC and save the new configuration, then a configuration file will be created in your user directory. The precise location of this file depends on the Operating System you are running:
 
-* Linux/Unix:
-    * ``$(HOME)/.config/vlc/vlcrc`` (v0.9.0 and above)
-    * ``$(HOME)/.vlc/vlcrc`` (v0.8 and older)
+.. tabs::
 
-* macOS:
-    * ``HOME/Library/Preferences/org.videolan.vlc``
-    * ``HOME/Library/Preferences/VLC`` (v0.9 and older)
+   .. tab:: Linux/Unix
 
-* Windows:
-    * 95/98/ME: ``C:\Windows\Application Data\vlc\vlcrc``
-    * 2000/XP: ``C:\Documents and Settings\%username%\Application Data\vlc\vlcrc``
-    * Vista/7: ``C:\Users\%username%\Application Data\vlc\vlcrc``
-    * BeOS: ``config/settings/vlcrc``
+        * ``$(HOME)/.config/vlc/vlcrc`` (v0.9.0 and above)
+        * ``$(HOME)/.vlc/vlcrc`` (v0.8 and older)
+
+   .. tab:: macOS
+
+        * ``HOME/Library/Preferences/org.videolan.vlc``
+        * ``HOME/Library/Preferences/VLC`` (v0.9 and older)
+
+   .. tab:: Windows
+
+        * 95/98/ME: ``C:\Windows\Application Data\vlc\vlcrc``
+        * 2000/XP: ``C:\Documents and Settings\%username%\Application Data\vlc\vlcrc``
+        * Vista/7: ``C:\Users\%username%\Application Data\vlc\vlcrc``
+        * BeOS: ``config/settings/vlcrc``
 
 
 Videos are too dark!
