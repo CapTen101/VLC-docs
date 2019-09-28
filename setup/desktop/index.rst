@@ -8,6 +8,5 @@ Desktop
 
    windows
    macos
-   linux
+   linux/index.rst
    freebsd
-   suse
