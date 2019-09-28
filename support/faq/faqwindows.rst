@@ -128,9 +128,9 @@ Codec compatibility
 
 With VLC, Open the file you want and open Tools -> Codec Information.
 
-**VLC doesn't identify used codecs correctly or gives "undf" as codec or I want more information about specs
+**VLC doesn't identify used codecs correctly or gives "undf" as codec or I want more information about specs**
 
-There are multiple video and audio identification tools, but one very useful is tool called Mediainfo.**
+There are multiple video and audio identification tools, but one very useful is tool called `Mediainfo<https://mediaarea.net/en/MediaInfo>`_.
 
 **H.264/MPEG-4 AVC playback is too slow (or laggy)**
 
@@ -138,7 +138,7 @@ You can speed up the H.264/MPEG-4 AVC playback by disabling loop filter for H.26
 
 Also if you have multicore CPU (or one with Intel Hyper-Threading), you can lower the FFMPEG thread count. To do this go to Tools -> Preferences (Show settings: All), then Input / Codecs -> Video codecs -> FFmpeg, then locate Threads, and set it to 4 (or to 2, or to 1). Remember to press Save to save VLC settings and restart VLC after that to make sure changes are enabled.
 
-H.264/MPEG-4 AVC or VC-1 playback is full of image errors
+**H.264/MPEG-4 AVC or VC-1 playback is full of image errors**
 You can also try to enable/disable GPU decoding, and see if it helps. It can be found from Tools -> Preferences and Input & Codecs and tick/untick Use GPU accelerated decoding. Remember to press Save to save VLC settings and restart VLC after that to make sure changes are enabled.
 
 **Problem with Real Audio or Real Video support**
@@ -148,9 +148,6 @@ Most Real Audio and Real Video should work fine with VLC 2.0.0, but if you have 
 **Why can't VLC use CoreAVC, FFDshow, AC3filter, etc. codecs?**
 
 VLC only uses built-in codecs and as such, it doesn't support VfW or DirectShow APIs for codecs. However, you are free to hack the source and use it, though; for example it is possible to make VLC into a directshow filter.
-
-But you support DMO (Direct Media Object) module for WMV video and WMA audio
-WMV and WMA are exceptions to this external codec support.
 
 File and Media Format Compatibility
 +++++++++++++++++++++++++++++++++++
@@ -163,33 +160,38 @@ Some new DVD movies use copy protection mechanisms that VLC doesn't support. It 
 
 You may also be able to play these copy protected DVDs by opening the movie initialization file directly. Use the Open File function in VLC and navigate to the VIDEO_TS directory on the DVD, then open the VIDEO_TS.IFO file. Some of the newest copy protection schemes have been found to use tricks that confuse many of the current DVD software programs so they cannot locate this file properly to initiate playback on their own. This method has been found to work with some of the newest DVDs that won't open properly in VLC 1.1.11 using the standard approaches.
 
-DVD movies don't playback smooth (they stutter, lag, etc.)
+**DVD movies don't playback smooth**
+
 One thing that might help is increasing the VLC DVD cache. This can be done from Tools -> Preferences (set Show Settings to All) and Input / Codecs and increasing the value of Disc caching (ms) to maybe 5000 or 20000. Remember to press Save to save VLC settings and restart VLC after that to make sure changes are enabled.
 
 If DVD files from your hard drive work better, then check that your DVD drive has DMA enabled (if it is a IDE/ATAPI DVD drive).
 
-Can I play DVD files (VOB+IFO) from my hard drive?
+**Can I play DVD files (VOB+IFO) from my hard drive?**
+
 Yes, you can. Use Media -> Open Disc... and instead of a DVD drive, point to the location of the correct folder by using either Browse... button or the customize field. For example: dvd://"c:\movies\BLOOD DIAMOND\VIDEO_TS"
 
-How do I handle the broken AVI files?
+**How do I handle the broken AVI files?**
+
 Some AVI files may give The AVI file is broken. Seeking not work correctly. Do you want to try to repair (this might take a long time) dialog. Those AVI files have some issues and you can try to fix those files temporarily with VLC or permanently with other tools. If you don't fix those files, seeking won't work correctly and those files may also crash other players.
 
-Can I always perform the same repair action?
+**Can I always perform the same repair action?**
+
 Yes, you can. This can be done from Tools -> Preferences (set Show Settings to All) and Input / Codecs -> Demuxers -> AVI and select the wanted action from Force index creation dropdown box. Ask is default (it will always ask what you want to do). Always fix tries to always fix AVI files and Never fix always starts the playback without fixing. Remember to press Save to save VLC settings and restart VLC after that to make sure changes are enabled.
 
 **Can I fix those broken AVI files permanently?**
 
-Yes. You can try for example DivFix++ or Virtualdub for fixing. Virtualdub help.
+Yes. You can try for example `DivFix++ <http://www.divfix.org/>`_ or `Virtualdub <http://www.virtualdub.org/>`_. If you still encounter any problem, read an answer given to a VLC user on our `forum <https://forum.videolan.org/viewtopic.php?f=14&t=45427&p=143688&hilit=virtualdub#p143688>`_ if you encounter any issues.
 
 **Can I fix those broken or partially downloaded Matroska/MKV files too?**
 
-Yes. You can try Meteorite for fixing.
+Yes. You can try `Meteorite <http://www.mkvrepair.com/>`_ for fixing.
 
-Some MP4 or 3GP files don't have audio at all
+**Some MP4 or 3GP files don't have audio at all**
+
 If those files have AMR audio (usually ones from mobile phones) they might not work with current stable VLC versions.
 
 **How do I enable Blu-ray disc playback (for commercially released Blu-rays)
-You have to download some additional files, see http://vlc-bluray.whoknowsmy.name/
+You have to download some additional files, `here <http://vlc-bluray.whoknowsmy.name/>`_
 
 Subtitles 
 +++++++++
@@ -243,7 +245,7 @@ Yes, you can.
 
 **How can I make VLC preview my eMule downloads?**
 
-Check out this forum post.
+Check out this `forum post <https://forum.videolan.org/viewtopic.php?f=14&t=61826#p206451>`_.
 
 **How do I specify the folder where the recorded files (via red rec button) will be stored?**
 
