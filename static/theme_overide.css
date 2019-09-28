@@ -671,7 +671,7 @@ a[href^="#fig-"]::after {content: "\201d";}
  .grid-icon {
     line-height: 1.8;
     font-size: 4rem;
-    color:rgb(255, 123, 0);
+    color:#E85E00;
  }
 
  .rst-columns {

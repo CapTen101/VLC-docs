@@ -32,8 +32,6 @@ release = '1.0.0'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx.ext.extlinks',
-    'sphinx.ext.autodoc',
     'sphinx_tabs.tabs'
 ]
 
@@ -43,7 +41,7 @@ templates_path = []
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['build', 'Thumbs.db', '.DS_Store']
+exclude_patterns = ['build']
 
 
 # -- Options for HTML output -------------------------------------------------
