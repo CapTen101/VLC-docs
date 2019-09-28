@@ -130,7 +130,7 @@ With VLC, Open the file you want and open Tools -> Codec Information.
 
 **VLC doesn't identify used codecs correctly or gives "undf" as codec or I want more information about specs**
 
-There are multiple video and audio identification tools, but one very useful is tool called `Mediainfo<https://mediaarea.net/en/MediaInfo>`_.
+There are multiple video and audio identification tools, but one very useful is tool called `Mediainfo <https://mediaarea.net/en/MediaInfo>`_.
 
 **H.264/MPEG-4 AVC playback is too slow (or laggy)**
 

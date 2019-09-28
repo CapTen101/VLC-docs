@@ -13,6 +13,8 @@ Have other challenges or don't see your issue outlined below? Please `report a b
       
 * :ref:`FAQs about VLC on Windows <faq_windows>`
 
+* :ref:`FAQs about VLC on Linux <faq_linux>`
+
 * :ref:`Legal Concerns <legal_concerns>`
 
 .. toctree::
@@ -23,4 +25,5 @@ Have other challenges or don't see your issue outlined below? Please `report a b
    vlcmediaplayer.rst
    faqmacos.rst
    faqwindows.rst
+   faqlinux.rst
    legalconcerns.rst
