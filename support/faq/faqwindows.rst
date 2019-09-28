@@ -190,7 +190,8 @@ Yes. You can try `Meteorite <http://www.mkvrepair.com/>`_ for fixing.
 
 If those files have AMR audio (usually ones from mobile phones) they might not work with current stable VLC versions.
 
-**How do I enable Blu-ray disc playback (for commercially released Blu-rays)
+**How do I enable Blu-ray disc playback (for commercially released Blu-rays)**
+
 You have to download some additional files, `here <http://vlc-bluray.whoknowsmy.name/>`_
 
 Subtitles 
