@@ -1,4 +1,5 @@
 Sphinx==2.2.0
 sphinx-intl>=0.9.11
 sphinx-rtd-theme==0.4.3
-https://krpc.s3.amazonaws.com/sphinx-tabs-1.1.12.tar.gz
+https://github.com/djungelorm/sphinx-tabs/releases/download/v1.1.12/sphinx-tabs-1.1.13.tar.gz
+
