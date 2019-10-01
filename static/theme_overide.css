@@ -443,11 +443,6 @@ a[href^="#fig-"]::after {content: "\201d";}
 
 
 /* zephyr on Github */
-
-/* make the page width fill the window */
-.wy-nav-content {
-    max-width: none;
- }
  
  /* tweak doc version selection */
  .rst-versions {
