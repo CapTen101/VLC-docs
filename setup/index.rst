@@ -60,5 +60,9 @@ Once you have installed and set up VLC, these topics below will help you learn m
    :hidden:
    :name: toc-setup
    
-   desktop/index.rst
-   mobile/index.rst
+   windows
+   macos
+   linux/index.rst
+   freebsd
+   android
+   ios 

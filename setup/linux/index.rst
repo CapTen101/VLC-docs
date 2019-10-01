@@ -1,7 +1,7 @@
 .. _linux:
 
-Linux Distriutions
-==================
+Linux Distributions
+===================
 
 .. toctree::
    :maxdepth: 1
