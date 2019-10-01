@@ -10,6 +10,7 @@ Windows
 3. Once it is downloaded, double click on the VLC setup file to begin the installation process. You'll find it in the default downloads location for your browser.
 
 .. figure::  /static/images/download.PNG
+   :align:   center
 
 .. note::
 
