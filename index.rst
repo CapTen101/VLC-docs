@@ -81,3 +81,4 @@ VLC User Documentation
    userguide/index.rst
    support/index.rst
    contribute/index.rst
+   
