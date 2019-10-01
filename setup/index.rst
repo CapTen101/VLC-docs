@@ -16,32 +16,32 @@ It is able to stream media over computer networks and to transcode multimedia fi
       .. container:: descr
 
          .. figure:: /static/images/windows.jpg
-            :target: desktop/windows.html
+            :target: windows.html
 
       .. container:: descr
 
          .. figure:: /static/images/macos.jpg
-            :target: desktop/macos.html
+            :target: macos.html
 
       .. container:: descr
 
          .. figure:: /static/images/linux.png
-            :target: desktop/linux.html
+            :target: /linux/index.html
 
       .. container:: descr
 
          .. figure:: /static/images/freebsd.jpg
-            :target: desktop/freebsd.html
+            :target: freebsd.html
 
       .. container:: descr
 
          .. figure:: /static/images/android.jpg
-            :target: mobile/android.html
+            :target: android.html
 
       .. container:: descr
 
          .. figure:: /static/images/ios.jpg
-            :target: mobile/ios.html
+            :target: ios.html
 
 .. only:: latex or epub or singlehtml
 
