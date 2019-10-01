@@ -9,10 +9,10 @@ Ubuntu
 
 .. figure::  /static/images/ubuntudownload .PNG
    :align:   center
+   
+3. Open the Ubunto Software `website <https://ubuntu.com/desktop>`_
 
-Launch the Ubuntu Software Center and go to All Software → Sound & Video then in search VLC Player. After it will come click on it and it will automatically install
-
-You need to check that a universe mirror is listed in your /etc/apt/sources.list file.
+install snap store $ sudo snap install snap-store
 
 .. code-block::
 
