@@ -9,46 +9,41 @@ methods and file formats, including DVD-Video, video CD, and various streaming p
 
 It is able to stream media over computer networks and to transcode multimedia files. Overall, the installation process of the VLC media player is quick and easy. Follow the platform specific guides below:
 
-**Desktop**
+.. only:: builder_html and (not singlehtml)
 
-.. container:: tocdescr
+   .. container:: tocdescr
 
-          .. container:: descr
+      .. container:: descr
 
-               .. figure:: /static/images/microsoft.png
-                              :target: desktop/windows.html
+         .. figure:: /static/images/windows.jpg
+            :target: desktop/windows.html
 
-     .. container:: descr
+      .. container:: descr
 
-          .. figure:: /static/images/macos.png
-                         :target: desktop/macos.html
+         .. figure:: /static/images/macos.jpg
+            :target: desktop/macos.html
 
-.. container:: tocdescr
+      .. container:: descr
 
-          .. container:: descr
+         .. figure:: /static/images/linux.png
+            :target: desktop/linux.html
 
-               .. figure:: /static/images/linux.jpg
-                              :target: desktop/linux.html
+      .. container:: descr
 
-     .. container:: descr
+         .. figure:: /static/images/freebsd.jpg
+            :target: desktop/freebsd.html
 
-          .. figure:: /static/images/freebsd.jpg
-                         :target: desktop/freebsd.html
+      .. container:: descr
 
+         .. figure:: /static/images/android.jpg
+            :target: mobile/android.html
 
-**Mobile**
+      .. container:: descr
 
-.. container:: tocdescr
+         .. figure:: /static/images/ios.jpg
+            :target: mobile/ios.html
 
-          .. container:: descr
-
-               .. figure:: /static/images/android.png
-                              :target: mobile/android.html
-
-     .. container:: descr
-
-          .. figure:: /static/images/ios.png
-                         :target: mobile/ios.html
+.. only:: latex or epub or singlehtml
 
 **Next Steps**
 
