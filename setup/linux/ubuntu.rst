@@ -7,7 +7,7 @@ Ubuntu
 
 2. Click on **Download VLC** to download the VLC media player automatically onto your computer.
 
-.. figure::  /static/images/ubuntudownload.PNG
+.. figure::  /static/images/ubuntu/ubuntudownload.PNG
    :align:   center
    
 3. Open the Ubunto Software `website <https://ubuntu.com/desktop>`_
