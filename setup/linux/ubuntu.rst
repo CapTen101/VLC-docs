@@ -14,6 +14,10 @@ For snapstore...
 
 2. On the search bar, type in VLC and click on the press enter.
 
+3. After the search has been displayed on your screen, click on the VLC cone icon to trigger its installation. 
+
+4. On the VLC installation homepage, click on the install button at the top right of your screen. After clicking on install, a dropdown menu is shown asking you to choose your prefered method of installation the particaular way you intend to instal
+
 3. Click on the VLC media player icon will be displayed on the screen, 
 
 1. Open the `VLC website <https://www.videolan.org/vlc/download-ubuntu.html>`_ on your browser.
