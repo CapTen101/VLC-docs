@@ -3,11 +3,24 @@
 Ubuntu
 ======
 
+Installing the VLC media player on the Ubuntu operating system can be done in any of the three ways below; 
+
+1. Download VLC from Snap store
+2. Download from Ubuntu Software Application
+3. Download VLC through your Command Prompt
+
+For snapstore...
+1. Open the `snapstore website <https://snapcraft.io/store>`_
+
+2. On the search bar, type in VLC and click on the press enter.
+
+3. Click on the VLC media player icon will be displayed on the screen, 
+
 1. Open the `VLC website <https://www.videolan.org/vlc/download-ubuntu.html>`_ on your browser.
 
 2. Click on **Download VLC** to download the VLC media player automatically onto your computer.
 
-.. figure::  /static/images/ubuntu/ubuntudownload.PNG
+.. figure::  /static/images/ubuntu/download.PNG
    :align:   center
    
 3. Open the Ubunto Software `website <https://ubuntu.com/desktop>`_

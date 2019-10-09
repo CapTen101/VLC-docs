@@ -3,34 +3,35 @@
 Starting VLC
 ============
 
-Desktop
--------
+.. tabs::
 
-Windows 
-+++++++
+   .. tab:: Windows
 
-Mac OS
-++++++
+        * ``$(HOME)/.config/vlc/vlcrc`` (v0.9.0 and above)
+        * ``$(HOME)/.vlc/vlcrc`` (v0.8 and older)
 
-Windows
-+++++++
+   .. tab:: Android
 
-Linux Distributions
-+++++++++++++++++++
+        * ``HOME/Library/Preferences/org.videolan.vlc``
+        * ``HOME/Library/Preferences/VLC`` (v0.9 and older)
 
-FreeBSD
-+++++++
+   .. tab:: mac OS X
 
-SUSE
-++++
+        * 95/98/ME: ``C:\Windows\Application Data\vlc\vlcrc``
+        * 2000/XP: ``C:\Documents and Settings\%username%\Application Data\vlc\vlcrc``
+        * Vista/7: ``C:\Users\%username%\Application Data\vlc\vlcrc``
+        * BeOS: ``config/settings/vlcrc``
 
-Mobile
--------
+   .. tab:: iOS
 
-Android
-+++++++
+        * 95/98/ME: ``C:\Windows\Application Data\vlc\vlcrc``
+        * 2000/XP: ``C:\Documents and Settings\%username%\Application Data\vlc\vlcrc``
+        * Vista/7: ``C:\Users\%username%\Application Data\vlc\vlcrc``
+        * BeOS: ``config/settings/vlcrc``
 
-iOS
-+++
+   .. tab:: Linux
 
-
+        * 95/98/ME: ``C:\Windows\Application Data\vlc\vlcrc``
+        * 2000/XP: ``C:\Documents and Settings\%username%\Application Data\vlc\vlcrc``
+        * Vista/7: ``C:\Users\%username%\Application Data\vlc\vlcrc``
+        * BeOS: ``config/settings/vlcrc``
