@@ -13,33 +13,17 @@ Installing VLC Using Ubuntu Software center
 .. figure::  /static/images/ubuntu/software.PNG
    :align:   center
 
-2. After opening the Software application,search for **VLC** on the search bar.
+2. Click the search button 🔎 on the top right and search for VLC.
 
-3. From the displayed search result, click on the **VLC cone icon** to see the home page or click on **Install**. Doing this will trigger the installation process immediately. 
+3. Click on **Install**. If required, authorize the autorization with your password. 
 
-.. only:: builder_html and (not singlehtml)
+.. figure::  /static/images/ubuntu/ubuntu_homepage.PNG
+   :align:   center
 
-   .. container:: tocdescr
-
-      .. container:: descr
-
-         .. figure::  /static/images/ubuntu/ubuntu_software.PNG
-            :target: windows.html
-
-      .. container:: descr
-
-         .. figure::  /static/images/ubuntu/ubuntu_homepage.PNG
-            :target: macos.html
-
-.. only:: latex or epub or singlehtml
-
-
-4. If you clicked on the **VLC cone icon,** you On the VLC installation homepage The VLC installation
+The application will automatically download and install on your Ubuntu machine.
 
 Installing VLC from Snap store
 ++++++++++++++++++++++++++++++
-
-For snapstore...
 
 1. Open the `snapstore website <https://snapcraft.io/store>`_
 
@@ -62,19 +46,27 @@ For snapstore...
 
 install snap store $ sudo snap install snap-store
 
+Method 3: Using Advanced Package Tool (or APT) for Ubuntu
+Open apt://vlc in a web browser
+Click on Open link under the Launch Application dialog
+Click on Install in the Install additional software dialog
+Authenticate with your login password
+VLC will start to download and install in Ubuntu
+
+These were the three methods to downlaod and install VLC Media Player for Ubuntu Linux. 
+If you want to remove the application from your system, then go the the Ubuntu Software utility and locate VLC.
+Then, you can easily remove it.
 
 Download VLC through your Command Prompt
 ++++++++++++++++++++++++++++++++++++++++
 
-.. code-block::
+1. Click on the **Show Applications** button.
 
-    $ sudo apt-get update
-    $ sudo apt-get install vlc vlc-plugin-pulse mozilla-plugin-vlc
+2. On the search bar, type in **Terminal**, and open it.
 
-As given by https://help.ubuntu.com/community/RestrictedFormats/PlayingDVDs:
+.. figure::  /static/images/ubuntu/terminal.PNG
+   :align:   center
 
-.. code-block::
+3. On your terminal, run the following commands ``sudo apt-get update`` and provide the sudo password for authentication
 
-    $ sudo apt install libdvd-pkg && sudo dpkg-reconfigure libdvd-pkg
-
-will install a packaged version of `libdvdcss <https://wiki.videolan.org/Libdvdcss/>`_ without the need for third-party repos.
+4. Run ``sudo apt-get install vlc`` on your terminal to install VLC on your system. When you are asked this question; **Do you want to continue? [y/n]** type in y (short form for YES)
