@@ -4,6 +4,17 @@
 User Interface
 ##############
 
+VLC has several interfaces:
+
+* A cross-platform interface for Windows and GNU/Linux, which is called Qt.
+* A native Mac OS X interface.
+* An interface that supports skins for both Windows and GNU/Linux.
+
+The operation of VLC is essentially the same in all the interfaces.
+
+.. figure::  /static/images/interface/home_screen.PNG
+   :align:   center
+
 Media
 ======
 
