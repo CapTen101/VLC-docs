@@ -8,7 +8,7 @@ Getting Started
    :name: toc-gettingstarted
    
    startingvlc.rst
-   userinterface.rst
+   interface/index.rst
    tipsandtricks.rst
    howtoguides.rst
    hotkeys.rst
