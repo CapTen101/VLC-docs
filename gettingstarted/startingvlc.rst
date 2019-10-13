@@ -21,20 +21,31 @@ After downloading VLC on your deskptop or mobile phone, follow the guide below t
 
         **Windows 10:**
         Click on the Windwos icon. Applications are arranged alphabetically, so you can either scroll down to letter V or search for VideoLAN. On seeing the VideoLAN folder, click on it to find the VLC media player. Go ahead and click on **VLC Media Player**. After this, the all format video player will open. 
-        
-
-   .. tab:: Android
-
-        Open your phone, click on the cone icon and enjoy using the VLC Media Player. 
 
    .. tab:: mac OS X
 
         Start VLC from the applications menu or the system dock.
 
+   .. tab:: Linux Distributions
+
+        **Ubuntu:**
+        Start VLC from the **command line** with vlc or start it from your desktop environment's **application** launcher.
+
+        **Debian:**
+        Start VLC from the **command line** with vlc or start it from your desktop environment's **application** launcher.
+
+        **Suse:**
+        Start VLC from the **command line** with vlc or start it from your desktop environment's **application** launcher.
+
+        **Redhat:**
+        Start VLC from the **command line** with vlc or start it from your desktop environment's **application** launcher.
+
+
+   .. tab:: Android
+
+        Open your phone, click on the cone icon and enjoy using the VLC Media Player. 
+
    .. tab:: iOS
 
         Open your phone, click on the cone icon and enjoy using the VLC Media Player. 
 
-   .. tab:: Linux
-
-        Start VLC from the **command line** with vlc or start it from your desktop environment's **application** launcher.

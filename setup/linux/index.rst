@@ -7,7 +7,7 @@ Linux Distributions
    :maxdepth: 1
    :name: toc-linux
 
-   debian
    ubuntu
+   debian
    redhat
    suse
