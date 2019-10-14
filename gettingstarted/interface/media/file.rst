@@ -1,7 +1,7 @@
 .. _file:
 
-Open File
-=========
+Playing A Single File on VLC
+============================
 
 .. figure::  /static/images/interface/media.PNG
    :align:   center
