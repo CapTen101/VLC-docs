@@ -17,5 +17,3 @@ Playing A Single File on VLC
 
 .. figure::  /static/images/interface/movie_playing.PNG
    :align:   center
-
-
