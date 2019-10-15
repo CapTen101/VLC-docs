@@ -20,7 +20,10 @@ After downloading VLC on your deskptop or mobile phone, follow the guide below t
         Click Start -> All Programs -> VideoLAN -> VLC media player.
 
         **Windows 10:**
-        Click on the Windwos icon. Applications are arranged alphabetically, so you can either scroll down to letter V or search for VideoLAN. On seeing the VideoLAN folder, click on it to find the VLC media player. Go ahead and click on **VLC Media Player**. After this, the all format video player will open. 
+        Click on the Windwos icon. Applications are arranged alphabetically, so you can either scroll down to letter V or search for VideoLAN. On seeing the VideoLAN folder, click on it to find the VLC media player. 
+        Go ahead and click on **VLC Media Player**. After this, the all format video player will open. 
+
+        A simpler way to find the VLC media Player on your PC is to type **VLC** on the search bar of your PC and click on it. 
 
    .. tab:: mac OS X
 
