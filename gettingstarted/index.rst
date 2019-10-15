@@ -8,6 +8,7 @@ Getting Started
    :name: toc-gettingstarted
    
    startingvlc.rst
+   stoppingvlc.rst
    interface/index.rst
    tipsandtricks.rst
    howtoguides.rst
