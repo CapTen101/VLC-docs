@@ -1,10 +1,11 @@
 .. _linux:
 
+*******************
 Linux Distributions
-===================
+*******************
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :name: toc-linux
 
    ubuntu

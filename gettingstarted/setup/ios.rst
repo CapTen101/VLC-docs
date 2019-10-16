@@ -1,7 +1,8 @@
 .. _ios:
 
+***
 iOS
-===
+***
 
 1. Open your iPhone's App Store.
 
@@ -38,9 +39,6 @@ iOS
 .. figure::  /static/images/ios/open_from_playstore.jpeg
    :align:   center
    :width: 50%
-
-
-.. _starting_vlc:
 
 Starting VLC
 ============

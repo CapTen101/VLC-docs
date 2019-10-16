@@ -1,7 +1,8 @@
 .. _android:
 
+*******
 Android
-=======
+*******
 
 1. Open your Android's Google Play Store. 
 
@@ -46,8 +47,6 @@ Android
 .. figure::  /static/images/android/welcome_to_vlc.jpeg
    :align: center
    :width: 30%
-
-.. _starting_vlc:
 
 Starting VLC
 ============

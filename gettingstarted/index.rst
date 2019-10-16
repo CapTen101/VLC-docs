@@ -5,13 +5,12 @@
 ###################
 
 .. toctree::
-   :maxdepth: 1
-   :hidden:
+   :maxdepth: 2
    :name: toc-gettingstarted
    
    setup/index.rst
    about/index.rst
    interface/index.rst
-   tipsandtricks.rst
-   howtoguides.rst
    hotkeys.rst
+   howtoguides.rst
+   tipsandtricks.rst

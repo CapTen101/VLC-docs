@@ -1,7 +1,8 @@
 .. _freebsd:
 
+********
 Free BSD
-========
+********
 
 Download page: https://www.videolan.org/vlc/download-freebsd.html
 
