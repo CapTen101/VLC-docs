@@ -52,28 +52,37 @@ Windows
 .. figure::  /static/images/vlc.PNG
    :align: center
 
-.. _starting_vlc:
+After downloading VLC on your deskptop or mobile phone, follow the guide below to start using VLC. The VLC media palyer is shown along with an orange and white cone shown below.
 
-Starting VLC
-============
+.. tabs::
 
-**Windows XP:** 
-    Click Start -> Programs -> VideoLAN -> VLC media player. 
+   .. tab:: Start VLC 
+                    
+        **Windows XP:** 
+            Click Start -> Programs -> VideoLAN -> VLC media player. 
 
-**Windows 7:**
-    Click Start -> All Programs -> VideoLAN -> VLC media player.
+        **Windows 7:**
+            Click Start -> All Programs -> VideoLAN -> VLC media player.
 
-**Windows 10:**
-    Click on the Windwos icon. Applications are arranged alphabetically, so you can either scroll down to letter V or search for VideoLAN. On seeing the VideoLAN folder, click on it to find the VLC media player. 
-    Go ahead and click on **VLC Media Player**. After this, the all format video player will open. 
+        **Windows 10:**
+            Click on the Windwos icon. Applications are arranged alphabetically, so you can either scroll down to letter V or search for VideoLAN. On seeing the VideoLAN folder, click on it to find the VLC media player. 
+            Go ahead and click on **VLC Media Player**. After this, the all format video player will open. 
 
-    A simpler way to find the VLC media Player on your PC is to type **VLC** on the search bar of your PC and click on it. 
+            A simpler way to find the VLC media Player on your PC is to type **VLC** on the search bar of your PC and click on it. 
+
+
+   .. tab:: Stop VLC
+        
+        There are three ways to quit VLC:
+
+        * Right click the **VLC icon** in the tray and select Quit (Alt-F4).
+        * Click the **Close** button in the main interface of the application.
+        * In the Media menu, select **Quit (Ctrl-Q)**.
 
 **Next Steps**
 
 Once you have installed and set up VLC, these topics below will help you learn more about the VLC media player:
 
-* :ref:`Starting VLC <starting_vlc>` - Learn how to use the VLC media player.
 * :ref:`User Interface <doc_user_interface>` - Introduction to the UI, and commands of the VLC media player.
 * :ref:`Tips and Tricks <tips_and_tricks>` - Jump right in with Tips and Tricks to become a VLC power user.
 * :ref:`Settings <preferences>` - Customize VLC to suit your needs.
