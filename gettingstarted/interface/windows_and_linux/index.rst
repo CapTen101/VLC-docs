@@ -15,3 +15,12 @@ The screenshot below shows the default interface in VLC 3.0.8 on Windows. More f
 
 .. figure::  /static/images/interface/major_parts.jpeg
    :align:   center
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :name: toc-setup
+   
+   menu_bar.rst
+   playback_controls.rst
+   volume_controls.rst
