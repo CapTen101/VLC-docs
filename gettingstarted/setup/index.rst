@@ -10,6 +10,18 @@ methods and file formats, including DVD-Video, video CD, and various streaming p
 
 It is able to stream media over computer networks and to transcode multimedia files. Overall, the installation process of the VLC media player is quick and easy. Follow the platform specific guides below:
 
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :name: toc-setup
+   
+   windows
+   macos
+   linux/index.rst
+   freebsd
+   android
+   ios 
+
 .. only:: builder_html and (not singlehtml)
 
    .. container:: tocdescr
@@ -54,14 +66,3 @@ Once you have installed and set up VLC, these topics below will help you learn m
 * :ref:`Tips and Tricks <tips_and_tricks>` - Jump right in with Tips and Tricks to become a VLC power user.
 * :ref:`Settings <preferences>` - Customize VLC to suit your needs.
 * :ref:`FAQs <faq>` - Find all frequently asked questions by VLC users.
-
-.. toctree::
-   :maxdepth: 2
-   :name: toc-setup
-   
-   windows
-   macos
-   linux/index.rst
-   freebsd
-   android
-   ios 
