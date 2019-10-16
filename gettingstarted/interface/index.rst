@@ -20,39 +20,25 @@ The screenshot below shows the default interface in VLC 3.0.8 on Windows. More f
 .. figure::  /static/images/interface/home_screen.PNG
    :align:   center
 
-**There are 3 main parts to the VLC Media Player interface:**
+**There are 3 main parts to the VLC Media Player interface on Windows:**
 
 1. The Menu bar
 2. The Playback Controls
 3. Volume Controls
 
-.. figure::  /static/images/interface/home_screen.PNG
+.. figure::  /static/images/interface/major_parts.jpeg
    :align:   center
 
-Mac OS X
+Menu bar
 --------
 
-This screenshot shows the default interface that VLC had on Mac OS X until version 1.1:
-
-.. figure::  /static/images/interface/Default_Interface_Mac.PNG
-   :align:   center
-
-Since version 2.0 the interface has been redesigned. See OSX 2.0 interface.
-
-.. figure::  /static/images/interface/Default_Interface_Mac.PNG
-   :align:   center
-
-**Main Interface**
-
-The main interface has the following areas:
-
-* Menu bar.
 * Track slider - The track slider is below the menu bar. It shows the playing progress of the media file. You can drag the track slider left to rewind or right to forward the track being played. When a video file is played, the video is shown between the menu bar and the track slider.
     Note: When a media file is streamed, the track slider does not move because VLC cannot know the total duration.
 * Control Buttons - The buttons below the track slider cover all the basic playback features.
 
 .. figure::  /static/images/interface/file.png
    :align:   center
+   :width: 70%
 
 
 .. figure::  /static/images/interface/Playbackcontrols.png
@@ -102,6 +88,18 @@ VLC can convert media files from one format to another.
 .. figure::  /static/images/interface/Basic_interface_convert.png
    :align:   center
 
+Mac OS X
+--------
+
+This screenshot shows the default interface that VLC had on Mac OS X until version 1.1:
+
+.. figure::  /static/images/interface/Default_Interface_Mac.PNG
+   :align:   center
+
+Since version 2.0 the interface has been redesigned. See OSX 2.0 interface.
+
+.. figure::  /static/images/interface/Default_Interface_Mac.PNG
+   :align:   center
 
 Media
 ======

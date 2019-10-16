@@ -1,4 +1,0 @@
-.. _folder:
-
-Open Folder
-===========
