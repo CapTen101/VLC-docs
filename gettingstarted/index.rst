@@ -7,8 +7,7 @@ Getting Started
    :maxdepth: 1
    :name: toc-gettingstarted
    
-   startingvlc.rst
-   stoppingvlc.rst
+   setup/index.rst
    interface/index.rst
    tipsandtricks.rst
    howtoguides.rst

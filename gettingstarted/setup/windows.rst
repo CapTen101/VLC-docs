@@ -51,6 +51,23 @@ Windows
 .. figure::  /static/images/vlc.PNG
    :align: center
 
+.. _starting_vlc:
+
+Starting VLC
+============
+
+**Windows XP:** 
+    Click Start -> Programs -> VideoLAN -> VLC media player. 
+
+**Windows 7:**
+    Click Start -> All Programs -> VideoLAN -> VLC media player.
+
+**Windows 10:**
+    Click on the Windwos icon. Applications are arranged alphabetically, so you can either scroll down to letter V or search for VideoLAN. On seeing the VideoLAN folder, click on it to find the VLC media player. 
+    Go ahead and click on **VLC Media Player**. After this, the all format video player will open. 
+
+    A simpler way to find the VLC media Player on your PC is to type **VLC** on the search bar of your PC and click on it. 
+
 **Next Steps**
 
 Once you have installed and set up VLC, these topics below will help you learn more about the VLC media player:

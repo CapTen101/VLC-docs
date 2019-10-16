@@ -44,7 +44,6 @@ Solve your VLC issues right now!
    :maxdepth: 1
    :hidden:
    
-   setup/index.rst
    gettingstarted/index.rst
    userguide/index.rst
    support/index.rst

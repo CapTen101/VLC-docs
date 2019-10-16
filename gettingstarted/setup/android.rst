@@ -46,3 +46,21 @@ Android
 .. figure::  /static/images/android/welcome_to_vlc.jpeg
    :align: center
    :width: 30%
+
+.. _starting_vlc:
+
+Starting VLC
+============
+
+After downloading VLC on your deskptop or mobile phone, follow the guide below to start using VLC. The VLC media palyer is shown along with an orange and white cone shown below.
+
+.. figure::  /static/images/favicon.png
+   :width: 10%
+   :align: center
+
+Starting VLC
+============
+
+    Open your phone, click on the cone icon and enjoy using the VLC Media Player. 
+
+

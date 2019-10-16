@@ -38,3 +38,21 @@ iOS
 .. figure::  /static/images/ios/open_from_playstore.jpeg
    :align:   center
    :width: 50%
+
+
+.. _starting_vlc:
+
+Starting VLC
+============
+
+.. tabs::
+
+   .. tab:: Start
+        Open your phone, click on the cone icon and enjoy using the VLC Media Player. 
+
+   .. tab:: Stop
+        There are three ways to quit VLC:
+
+        * Right click the VLC icon (LargeVLC.png) in the tray and select Quit (Alt-F4).
+        * Click the Close button in the main interface of the application.
+        * In the Media menu, select Quit (Ctrl-Q).

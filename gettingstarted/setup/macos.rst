@@ -32,11 +32,18 @@ Mac OS X
 .. figure::  /static/images/machome.PNG
    :align:   center
 
+After downloading VLC on your deskptop or mobile phone, follow the guide below to start using VLC. The VLC media palyer is shown along with an orange and white cone shown below. Start VLC from the applications menu or the system dock.
+
+
+.. figure::  /static/images/interface/Basic_interface_quit.png
+   :align:   center
+
+Clicking this icon shows or hides the VLC interface. Hiding VLC does not exit the application. VLC keeps running in the background when it is hidden. Right clicking the icon in the notification area shows a menu with basic operations, such as opening, playing, stopping, or changing a media file.
+
 **Next Steps**
 
 Once you have installed and set up VLC, these topics below will help you learn more about the VLC media player:
 
-* :ref:`Starting VLC <starting_vlc>` - Learn how to use the VLC media player.
 * :ref:`User Interface <doc_user_interface>` - Introduction to the UI, and commands of the VLC media player.
 * :ref:`Tips and Tricks <tips_and_tricks>` - Jump right in with Tips and Tricks to become a VLC power user.
 * :ref:`Settings <preferences>` - Customize VLC to suit your needs.
