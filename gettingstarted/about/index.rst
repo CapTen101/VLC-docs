@@ -7,5 +7,4 @@
 
    introduction.rst
    history.rst
-   license.rst
    community.rst
