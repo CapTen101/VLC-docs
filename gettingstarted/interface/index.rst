@@ -51,7 +51,7 @@ The main interface has the following areas:
     Note: When a media file is streamed, the track slider does not move because VLC cannot know the total duration.
 * Control Buttons - The buttons below the track slider cover all the basic playback features.
 
-.. figure::  /static/images/interface/Page2.png
+.. figure::  /static/images/interface/file.png
    :align:   center
 
 
@@ -120,24 +120,3 @@ Media
    media/convert.rst
    media/stream.rst
    media/quit.rst
-
-Playback
-========
-
-Audio
-=====
-
-Video
-=====
-
-Subtitle
-========
-
-Tools
-=====
-
-View
-====
-
-Help
-====
