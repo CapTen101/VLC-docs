@@ -46,6 +46,8 @@ Solve your VLC issues right now!
    
    gettingstarted/index.rst
    userguide/index.rst
+   tipsandtricks/index.rst
    support/index.rst
    contribute/index.rst
+
    

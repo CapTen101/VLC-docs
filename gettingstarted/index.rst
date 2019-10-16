@@ -11,6 +11,3 @@
    about/index.rst
    setup/index.rst
    interface/index.rst
-   hotkeys.rst
-   howtoguides.rst
-   tipsandtricks.rst

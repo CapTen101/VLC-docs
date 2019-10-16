@@ -1,5 +1,5 @@
 .. _tips_and_tricks:
 
 ***************
-Tips and Tricks
+Tips And Tricks
 ***************

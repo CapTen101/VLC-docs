@@ -8,7 +8,9 @@ User Guides
    :name: toc-userguide
    
    adjustmentandeffects.rst
+   howtoguides.rst
    audio.rst
+   hotkeys.rst
    commandline.rst
    media.rst
    playback.rst
