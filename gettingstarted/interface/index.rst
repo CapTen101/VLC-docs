@@ -12,4 +12,3 @@ The VLC media player has several interfaces. A cross-platform interface for Wind
    
    windows_and_linux/index.rst
    mac/index.rst
-   skins/index.rst

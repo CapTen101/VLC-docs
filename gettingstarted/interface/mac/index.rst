@@ -1,7 +1,7 @@
 Mac OS X
 ========
 
-This screenshot shows the default interface that VLC had on Mac OS X until version 1.1:
+The screenshot below shows the default interface in VLC 3.0.8 for Mac OS X.
 
 .. figure::  /static/images/interface/Default_Interface_Mac.PNG
    :align:   center

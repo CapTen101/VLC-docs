@@ -48,7 +48,7 @@ After downloading VLC on your deskptop or mobile phone, follow the guide below t
 
    .. tab:: Start VLC 
         
-        Open your phone, click on the cone icon and enjoy using the VLC Media Player.
+        Open your Macbook and click on **Launchpad** to find all the applications on your PC. At this point, you can either search for VLC or scroll down to find the VLC cone icon.
 
    .. tab:: Stop VLC
         
