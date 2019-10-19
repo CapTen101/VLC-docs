@@ -15,7 +15,6 @@ because VLC is no longer merely a client. Originally VideoLAN was designed to st
 VLC media player, has evolved to become a full-featured, cross-platform media player. Now, the Non-Profit Organisation developing and offering the VLC media player is called: 
 VideoLAN Organisation.
 
-
 **VLC Media Player**
 
 Originally called VideoLAN Client, VLC media player is VideoLAN's main software product. VLC media player works on many platforms: Linux, Windows, macOS, BeOS, BSD, Solaris, Android, iOS, QNX and many more... It supports the following video and audio formats: MPEG-1, MPEG-2, MPEG-4/DivX, h264, webm, mkv, DVDs, VCDs, Audio CDs, wmv and wma.

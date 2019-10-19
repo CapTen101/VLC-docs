@@ -2,24 +2,27 @@
    sphinx-quickstart on Mon Sep  9 19:49:25 2019.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
-
+   
+######################
 VLC User Documentation
 ######################
  
 `VLC media player <https://www.videolan.org/vlc/>`_ (commonly known as just **VLC**) is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs,and various streaming protocols. You can download the latest version of VLC on our `website <https://www.videolan.org/vlc/#download>`_ for free. 
 
+************
 Key Features
-------------
+************
 
 * VLC plays Files, Discs, Webcams, Devices and Streams.
 * VLC runs on all platforms and is completely free. 
-* VLC has the most complete feature-set over the video, subtitle synchronisation, video and audio filters.
-* VLC has hardware decoding on most platforms. It supports 0-copy on the GPU and can fallback on software when required.
-* VLC does not allow ads, user tracking and spyware. 
-* VLC plays on all formats.
+* It has the most complete feature-set over the video, subtitle synchronisation, video and audio filters.
+* It has hardware decoding on most platforms. It supports 0-copy on the GPU and can fallback on software when required.
+* No spywares, ads and user tracking are allowed on the VLC media player.
+* Advanced formats are allowed on VLC.
 
+***********
 First Steps
-~~~~~~~~~~~
+***********
 
 To get the most out of the VLC media player, start by reviewing a few introductory topics below;
 
