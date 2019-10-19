@@ -6,16 +6,24 @@
 VLC User Documentation
 ######################
  
-`VLC media player <https://www.videolan.org/vlc/>`_ (commonly known as just **VLC**) is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. VLC plays everything, runs on all platforms and is completely free. 
+`VLC media player <https://www.videolan.org/vlc/>`_ (commonly known as just **VLC**) is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs,and various streaming protocols. You can download the latest version of VLC on our `website <https://www.videolan.org/vlc/#download>`_ for free. 
+
+Key Features
+------------
+
+* VLC plays Files, Discs, Webcams, Devices and Streams.
+* VLC runs on all platforms and is completely free. 
+* VLC has the most complete feature-set over the video, subtitle synchronisation, video and audio filters.
+* VLC has hardware decoding on most platforms. It supports 0-copy on the GPU and can fallback on software when required.
+* VLC does not allow ads, user tracking and spyware. 
+* VLC plays on all formats.
 
 First Steps
 ~~~~~~~~~~~
 
-To get the most out of the VLC media player, start by reviewing a few introductory topics
+To get the most out of the VLC media player, start by reviewing a few introductory topics below;
 
       * :ref:`Setup <setup>` - Quickly find and install the appropriate VLC media player for your platform.
-
-      * `VLC Features <https://www.videolan.org/vlc/features.html>`_ - A summary of all the features of the VLC media player.
 
       * :ref:`User Interface <doc_user_interface>` - Introduction to the UI, and commands of the VLC media player.
 
@@ -26,19 +34,10 @@ To get the most out of the VLC media player, start by reviewing a few introducto
       * :ref:`How-to Guides <how_to_guides>` - Handy guides for using VLC.
 
       * `Add-ons <https://addons.videolan.org>`_ - Find third-party software programs that can be added to VLC for additional features and abilities.
- 
-Downloads
-~~~~~~~~~
 
-Download the stable version of VLC on our `website <https://www.videolan.org/vlc/#download>`_ for free. 
+      * :ref:`FAQ <faq>`- Find all frequently asked questions by VLC users.
 
-Frequently Asked Questions 
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-Find all :ref:`frequently asked questions <faq>` by VLC users 
- 
-Support Guide
-~~~~~~~~~~~~~
-:ref:`Solve <support>` your VLC issues right now!
+      * :ref:`Support Guide<support>` - Solve your VLC issues right now!
 
 .. toctree::
    :maxdepth: 1
