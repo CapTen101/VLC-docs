@@ -8,3 +8,4 @@ The VideoLAN Community
    :maxdepth: 2
 
    contribution.rst
+   support.rst
