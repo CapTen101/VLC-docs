@@ -7,4 +7,4 @@
 
    introduction.rst
    history.rst
-   community.rst
+   community/index.rst
