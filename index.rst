@@ -38,7 +38,7 @@ Find all :ref:`frequently asked questions <faq>` by VLC users
  
 Support Guide
 ~~~~~~~~~~~~~
-Solve your VLC issues right now!
+:ref:`Solve <support>` your VLC issues right now!
 
 .. toctree::
    :maxdepth: 1
