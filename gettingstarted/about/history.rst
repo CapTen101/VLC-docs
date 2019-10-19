@@ -2,11 +2,11 @@
 VideoLAN's History
 ******************
 
+The VideoLAN software originated as an academic project at the 
+`French Ecole Centrale Paris <https://www.centralesupelec.fr>`_ in 1996. 
+
 Overview of the VideoLAN project
 --------------------------------
-
-The VideoLan software originated as an academic project at the 
-`French Ecole Centrale Paris <https://www.centralesupelec.fr>`_ in 1996. 
 After a complete rewrite in 1998, it became Open Source, thanks to the agreement of the École Centrale Paris, in 2001 under the under the `GNU General Public License (GPL) <https://www.gnu.org/licenses/gpl-3.0.html>`_. The project started to open up to developers outside of the École. It is now a worldwide project with developers from 40 countries.
 
 It is now a worldwide project with `developers <https://www.videolan.org/videolan/team/>`_ from 40 countries. Since 2009, the project is completely separated from École Centrale Paris, and is driven by an autonomous non-profit organization.
