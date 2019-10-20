@@ -9,19 +9,21 @@ As an open-source project, VideoLAN welcomes all contributions to the project!an
 You can contribute time (development, documentation, packaging, tests, user support), material or even money.
 
 How to contribute to VideoLAN
+=============================
 
 Give time
 ---------
-
 	
 If you have time, we welcome your help in various areas:
 
-Programmers, to help us developing VLC.
-You should see the developer documentation, subscribe to the mailing-lists, have a look at the bug-tracking system, join the IRC channel to get help on how to start coding.
-Writers, to help improve the documentation.
-Translators, to translate VLC or other projects.
-Moderators & Support, to answer on the forums and mailing lists.
-Designers, for this website and VLC.
+* Programmer: Help us developing VLC.
+
+  You should see the developer documentation, subscribe to the mailing-lists, have a look at the bug-tracking system, join the IRC channel to get help on how to start coding.
+
+* Writer: Writers help us improve our documentation.
+* Translators: As a translator, you can help us to translate VLC or other projects.
+* Moderators & Support: To answer on the forums and mailing lists.
+* Designers: For this website and VLC.
 
 Contribute materials
 --------------------
@@ -37,6 +39,7 @@ Donate money
 ------------
 	
 **What are the financial needs of VideoLAN?**
+
 Buy hardware for developing and testing purposes (DVDs, satellite cards and antenna, MPEG encoding cards,...)
 Maintain the servers and hardware to run VideoLAN services.
 Promote the project by organizing or participating in events (FOSDEM, Linux Expo Paris, ...)
@@ -44,6 +47,7 @@ What is the legal structure of VideoLAN?
 VideoLAN is a non-profit organization, under French law. VideoLAN has its own bank account and is responsible for running and maintaining the VideoLAN servers.
 
 **Donate to VideoLAN via PayPal**
+
 You can donate money to the project through VideoLAN's PayPal account. There is no minimal amount for your donation.
 
 If you click on one of the buttons below, you will be taken to the secure PayPal Web site.
@@ -57,23 +61,25 @@ If you encounter problems or if you have questions, you can contact us.
 **Donate to VideoLAN via Bank account**
 
         VIDEOLAN
+
         IBAN: FR76 3000 3034 3000 1506 8853 588
+
         BIC/SWIFT: SOGEFRPP
+        
         FRANCE
 
 **Donate to VideoLAN using Monero**
 
-Use the address or the QR-Code below:
+Use this address *41gP4569HkeAJPcqSTizJYiMcMZVQekGvAAgAucaVCwaNsm
+bSrkcFY41w4FwgtD6N5XLV88xwrLjn87dpjUbtZJoDUuSeJF* or the QR-Code below:
 
 .. figure::  /static/images/barcode.png
-   :align: center
 
-**41gP4569HkeAJPcqSTizJYiMcMZVQekGvAAgAucaVCwaNsmbSrkcFY4
-1w4FwgtD6N5XLV88xwrLjn87dpjUbtZJoDUuSeJF**
 
-**Use the address or the QR-Code below:**
+**Donate to VideoLAN using Bitcion**
 
-3EowKLZ7Gf86BrHad7XXNpFk8jfXBeNPuF
+Use this address *3EowKLZ7Gf86BrHad7XXNpFk8jfXBeNPuF* or the QR-Code below 
 
 .. figure::  /static/images/qrcode.png
-   :align: center
+
+
