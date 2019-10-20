@@ -4,9 +4,11 @@
 Contribution Guidelines
 ***********************
 
-As an open-source project, VideoLAN welcomes all contributions to the project!and encourage the community to submit patches directly to VideoLAN.
-
-You can contribute time (development, documentation, packaging, tests, user support), material or even money.
+As an open-source project, VideoLAN welcomes all
+contributions to the project and we encourage the 
+community to submit patches directly to VideoLAN or help with our
+documentation, packaging, tests, user support, material
+or even money.
 
 How to contribute to VideoLAN
 =============================
@@ -16,14 +18,16 @@ Give time
 	
 If you have time, we welcome your help in various areas:
 
-* Programmer: Help us developing VLC.
+* **Programmer:** Help us submit patches to the codebase of VLC.
+* **Writer:** Writers help us improve our documentation.
+* **Translators:** As a translator, you can help us to `translate <https://www.videolan.org/developers/i18n/>`_ VLC or other projects.
+* **Moderators & Support:** To answer on the `forums <https://www.videolan.org/developers/i18n/>`_ and mailing lists.
+* **Designers:** We encourage designers to join us and create designs for this website and the VLC media palyer.
 
-  You should see the developer documentation, subscribe to the mailing-lists, have a look at the bug-tracking system, join the IRC channel to get help on how to start coding.
-
-* Writer: Writers help us improve our documentation.
-* Translators: As a translator, you can help us to translate VLC or other projects.
-* Moderators & Support: To answer on the forums and mailing lists.
-* Designers: For this website and VLC.
+You should see the `developer documentation <https://www.videolan.org/developers/>`_, 
+subscribe to our various `mailing-lists <https://www.videolan.org/support/lists.html>`_, 
+ have a look at the `bug-tracking system <https://trac.videolan.org/vlc/>`_, 
+ join the `IRC channel <https://www.videolan.org/support/>`_ to get help on how to start coding.
 
 Contribute materials
 --------------------
@@ -33,7 +37,7 @@ You have a satellite card or an MPEG encoding card that is not supported by some
 
 You can donate it to the developers and it may motivate them to work on your suggestion! In any case, you do not have any warranty that your wish will be taken into account.
 
-If you want to donate materials, please contact us.
+If you want to donate materials, please `contact us <https://www.videolan.org/contact.html>`_.
 
 Donate money
 ------------
@@ -48,7 +52,7 @@ VideoLAN is a non-profit organization, under French law. VideoLAN has its own ba
 
 **Donate to VideoLAN via PayPal**
 
-You can donate money to the project through VideoLAN's PayPal account. There is no minimal amount for your donation.
+You can donate money to the project through VideoLAN's `PayPal <https://www.paypal.com>`_ account. There is no minimal amount for your donation.
 
 If you click on one of the buttons below, you will be taken to the secure PayPal Web site.
 You don't need to have a paypal account in order to make a donation.
@@ -56,7 +60,8 @@ You don't need to have a paypal account in order to make a donation.
             * **Euros €** Donate money to VideoLAN via PayPalDonate money to VideoLAN via PayPal
             * **Dollars $** Donate money to VideoLAN via PayPalDonate money to VideoLAN via PayPal
 
-If you encounter problems or if you have questions, you can contact us.
+If you encounter problems or if you have questions, you can `contact us <https://www.videolan.org/contact.html>`_.
+
 
 **Donate to VideoLAN via Bank account**
 
@@ -70,7 +75,7 @@ If you encounter problems or if you have questions, you can contact us.
 
 **Donate to VideoLAN using Monero**
 
-Use this address *41gP4569HkeAJPcqSTizJYiMcMZVQekGvAAgAucaVCwaNsm
+Use this address: *41gP4569HkeAJPcqSTizJYiMcMZVQekGvAAgAucaVCwaNsm
 bSrkcFY41w4FwgtD6N5XLV88xwrLjn87dpjUbtZJoDUuSeJF* or the QR-Code below:
 
 .. figure::  /static/images/barcode.png
@@ -78,7 +83,7 @@ bSrkcFY41w4FwgtD6N5XLV88xwrLjn87dpjUbtZJoDUuSeJF* or the QR-Code below:
 
 **Donate to VideoLAN using Bitcion**
 
-Use this address *3EowKLZ7Gf86BrHad7XXNpFk8jfXBeNPuF* or the QR-Code below 
+Use this address: *3EowKLZ7Gf86BrHad7XXNpFk8jfXBeNPuF* or the QR-Code below 
 
 .. figure::  /static/images/qrcode.png
 
