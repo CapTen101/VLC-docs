@@ -11,7 +11,6 @@ User Guides
    howtoguides.rst
    audio.rst
    hotkeys.rst
-   commandline.rst
    media.rst
    playback.rst
    playlist.rst
