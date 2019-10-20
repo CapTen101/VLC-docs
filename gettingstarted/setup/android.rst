@@ -50,13 +50,6 @@ Android
 
 After downloading VLC on your deskptop or mobile phone, follow the guide below to start using VLC. The VLC media palyer is shown along with an orange and white cone shown below.
 
-.. figure::  /static/images/favicon.png
-   :width: 10%
-   :align: center
-
-
-After downloading VLC on your deskptop or mobile phone, follow the guide below to start using VLC. The VLC media palyer is shown along with an orange and white cone shown below.
-
 .. tabs::
 
    .. tab:: Start VLC 

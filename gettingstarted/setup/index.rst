@@ -39,7 +39,7 @@ It is able to stream media over computer networks and to transcode multimedia fi
       .. container:: descr
 
          .. figure:: /static/images/linux.png
-            :target: /linux/index.html
+            :target: linux/index.html
 
       .. container:: descr
 
