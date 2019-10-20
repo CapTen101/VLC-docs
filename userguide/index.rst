@@ -7,6 +7,7 @@ User Guides
    :maxdepth: 1
    :name: toc-userguide
    
+   howtoguides.rst
    adjustmentandeffects.rst
    howtoguides.rst
    audio.rst
