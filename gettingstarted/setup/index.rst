@@ -1,8 +1,8 @@
 .. _setup:
 
-##############
-Installing VLC
-##############
+############
+Installation
+############
 
 The VLC media player is available for desktop operating systems and mobile platforms such as Microsoft Windows, 
 macOS, Linux, Android, iOS, FreeBSD, Solaris, QNX, Haiku, and Syllable Desktop. VLC is also available on digital distribution platforms such as Apple's App Store, Google Play and Microsoft Store and supports many audio and video compression
