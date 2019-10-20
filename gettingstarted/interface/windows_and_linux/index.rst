@@ -1,6 +1,6 @@
 
-Windows and GNU/Linux (Qt)
---------------------------
+Windows/Linux Interface
+-----------------------
 
 The screenshot below shows the default interface in VLC 3.0.8 on Windows. More features can be displayed by selecting them in the View menu.
 

@@ -1,5 +1,5 @@
-Mac OS X
-========
+Mac OS X Interface
+------------------
 
 The screenshot below shows the default interface in VLC 3.0.8 for Mac OS X.
 
