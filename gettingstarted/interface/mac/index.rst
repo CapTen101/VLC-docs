@@ -14,6 +14,7 @@ The screenshot below shows the tab to click on if you need to read all the impor
 **The File menu:**
 
 In this menu, you can:
+
 1. Open a new file for playback from any location. 
 2. Stream a file to the web, local network or file. 
 3. Quit VLC. 
@@ -38,6 +39,7 @@ In this menu, you can:
 In this menu, you can:
 
 1. 
+
 2. 
 
 .. figure::  /static/images/interface/view_mac.jpg
