@@ -55,3 +55,17 @@ In this menu, you can:
 
 .. figure::  /static/images/interface/playback_mac.jpg
    :align:   center
+
+**The Audio menu:**
+
+In this menu, you can:
+
+1. Select which audio track you want
+2. Change the number of audio channels.
+3. Change the device to play the audio on. 
+4. Enable the built in Visualizations.
+5. Increase and decrease the volume.
+6. Mute the playback. 
+
+.. figure::  /static/images/interface/audio_mac.jpg
+   :align:   center
