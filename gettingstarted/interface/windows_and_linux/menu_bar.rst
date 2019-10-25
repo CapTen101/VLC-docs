@@ -1,3 +1,4 @@
+.. _menu_bar:
 
 Menu Bar
 ========

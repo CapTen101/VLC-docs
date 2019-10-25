@@ -2,18 +2,17 @@
 Windows/Linux Interface
 -----------------------
 
-The screenshot below shows the default interface in VLC 3.0.8 on Windows. More features can be displayed by selecting them in the View menu.
-
-.. figure::  /static/images/interface/home_screen.PNG
-   :align:   center
-
 **There are 3 main parts to the VLC Media Player interface on Windows:**
 
-1. The Menu bar
-2. The Playback Controls
-3. Volume Controls
+1. :ref:`The Menu bar<menu_bar>` - Solve your VLC issues right now!
 
-.. figure::  /static/images/interface/major_parts.jpeg
+2. :ref:`The Playback Controls<playback_controls>` - Solve your VLC issues right now!
+
+3. :ref:`Volume Controls<volume_controls>` - Solve your VLC issues right now!
+
+The screenshot below shows the default interface in VLC 3.0.8 on Windows. 
+
+.. figure::  /static/images/interface/home_screen.PNG
    :align:   center
 
 .. toctree::
