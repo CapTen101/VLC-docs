@@ -8,6 +8,6 @@
    :maxdepth: 2
    :name: toc-gettingstarted
    
-   about/index.rst
    setup/index.rst
    interface/index.rst
+   about/index.rst
