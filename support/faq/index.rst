@@ -18,7 +18,7 @@ Have other challenges or don't see your issue outlined below? Please `report a b
 * :ref:`Legal Concerns <legal_concerns>`
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
    :hidden:
    
    videolan.rst
