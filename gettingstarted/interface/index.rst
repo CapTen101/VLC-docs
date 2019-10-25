@@ -10,8 +10,8 @@ The VLC media player has several interfaces. A cross-platform interface for Wind
    :maxdepth: 2
    :name: toc-interface
    
-   mac/index.rst
    windows_and_linux/index.rst
+   mac/index.rst
    
 The main interface has the following areas:
 
