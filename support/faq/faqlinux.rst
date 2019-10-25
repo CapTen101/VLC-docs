@@ -3,8 +3,10 @@
 FAQs about VLC on Linux
 =======================
 
-Compilation Errors and how to fix them
---------------------------------------
+Find below frequently asked questions about VLC on Linux. 
+
+Compilation FAQs
+----------------
 
 How can I fix this error - "cc1: error: invalid option 'tune=opteron'"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
