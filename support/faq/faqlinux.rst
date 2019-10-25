@@ -1,12 +1,11 @@
 .. _faq_linux:
 
+.. _vlc_media_player:
+
 FAQs about VLC on Linux
 =======================
 
-Find below frequently asked questions about VLC on Linux. 
-
-Compilation FAQs
-----------------
+Find below frequently asked questions about VLC on Linux; 
 
 How can I fix this error - "cc1: error: invalid option 'tune=opteron'"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -27,3 +26,4 @@ This problem can be solved with any of the two solutions below;
 1. To get rid of these problems while compiling, run configure with these flags at least: ./configure --enable-shared --enable-shared-pp --enable-pp --enable-gpl. The description of each of those is available when doing ./configure --help
 
 2. The path of ffmpeg is not set. Check if you can locate the file libavcodec.pc on your computer; say you had find it in /home/you/ffmpeg/ . Export the PKG_CONFIG_PATH to this location: ``export PKG_CONFIG_PATH=/home/you/ffmpeg/`` then run ./configure for VLC.
+
