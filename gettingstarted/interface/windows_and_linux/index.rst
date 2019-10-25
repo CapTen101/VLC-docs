@@ -13,7 +13,18 @@ Windows/Linux Interface
 The screenshot below shows the default interface in VLC 3.0.8 on Windows. 
 
 .. figure::  /static/images/interface/home_screen.PNG
-   :align:   center
+
+**Menu bar:**
+
+.. figure::  /static/images/interface/mainmenu_windows.png
+
+**Playback Controls:**
+
+.. figure::  /static/images/interface/playbackcontrols_windows.png
+
+**Volume Controls:**
+
+.. figure::  /static/images/interface/volumecontrols_windows.png
 
 .. toctree::
    :maxdepth: 1
