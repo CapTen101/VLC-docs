@@ -10,26 +10,26 @@ The Screenshot below shows the menu bar of the VLC media player on a Windows Ope
 .. figure::  /static/images/interface/mainmenu_windows.png
    :align:   center
 
-.. figure::  /static/images/interface/media_windows.png
+.. figure::  /static/images/interface/media_windows.jpg
    :align:   center
 
-.. figure::  /static/images/interface/playback_windows.png
+.. figure::  /static/images/interface/playback_windows.jpg
    :align:   center
 
-.. figure::  /static/images/interface/audio_windows.png
+.. figure::  /static/images/interface/audio_windows.jpg
    :align:   center
 
-.. figure::  /static/images/interface/video_windows.png
+.. figure::  /static/images/interface/video_windows.jpg
    :align:   center
 
-.. figure::  /static/images/interface/subtitle_windows.png
+.. figure::  /static/images/interface/subtitle_windows.jpg
    :align:   center
 
-.. figure::  /static/images/interface/tools_windows.png
+.. figure::  /static/images/interface/tools_windows.jpg
    :align:   center
 
-.. figure::  /static/images/interface/view_windows.png
+.. figure::  /static/images/interface/view_windows.jpg
    :align:   center
 
-.. figure::  /static/images/interface/help_windows.png
+.. figure::  /static/images/interface/help_windows.PNG
    :align:   center
