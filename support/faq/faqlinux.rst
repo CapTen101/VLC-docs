@@ -1,7 +1,5 @@
 .. _faq_linux:
 
-.. _vlc_media_player:
-
 FAQs about VLC on Linux
 =======================
 
