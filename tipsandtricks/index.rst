@@ -4,4 +4,4 @@
 Tips And Tricks
 ***************
 
-This is a test
+ Here are some amazing VLC Tricks & Hidden Features which will help to take your VLC experience to a totally new level.    
