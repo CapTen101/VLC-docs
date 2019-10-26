@@ -89,8 +89,23 @@ In this menu, you can:
 .. figure::  /static/images/interface/tools_windows.jpg
    :align:   center
 
+**The View menu:**
+
+In this menu, you can:
+
+1. View the current playlist.
+2. Change the interface VLC is using. 
+
 .. figure::  /static/images/interface/view_windows.jpg
    :align:   center
+
+**The Help menu:**
+
+In this menu, you can:
+
+1. Get more help using the program.
+2. Check for updates to VLC.
+3. View the credits and licenses for VLC.
 
 .. figure::  /static/images/interface/help_windows.PNG
    :align:   center
