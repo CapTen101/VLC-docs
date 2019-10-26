@@ -3,12 +3,14 @@
 Menu Bar
 ========
 
-The Menu Bar gives you power to control everything about the media you are currently playing. 
-
-The Screenshot below shows the menu bar of the VLC media player on a Windows Operating System.
+The **Menu Bar** gives you power to control everything about the media you are currently playing. 
 
 .. figure::  /static/images/interface/mainmenu_windows.png
    :align:   center
+
+   The Menu Bar
+
+This documentation will work you through all the different features of the menu bar of the VLC media player on a Windows Operating System.
 
 .. figure::  /static/images/interface/media_windows.jpg
    :align:   center
