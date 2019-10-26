@@ -6,6 +6,18 @@ Media
 Opening a Media File
 ********************
 
+.. figure::  /static/images/userguides/media_homepage.png
+   :align:   center
+
+.. figure::  /static/images/userguides/open_file.png
+   :align:   center
+
+.. figure::  /static/images/userguides/movie.png
+   :align:   center
+
+.. figure::  /static/images/userguides/main_media.png
+   :align:   center
+
 **************
 Playing a file
 **************
