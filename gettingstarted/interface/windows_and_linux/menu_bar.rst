@@ -12,7 +12,7 @@ The **Menu Bar** gives you power to control everything about the media you are c
 
 This documentation will work you through all the different features of the menu bar of the VLC media player on a Windows Operating System.
 
-**The Media menu:**
+**The Media menu**
 
 In this menu, you can:
 
@@ -24,7 +24,7 @@ In this menu, you can:
 .. figure::  /static/images/interface/media_windows.jpg
    :align:   center
 
-**The Playback menu:**
+**The Playback menu**
 
 In this menu, you can:
 
@@ -38,7 +38,7 @@ In this menu, you can:
 .. figure::  /static/images/interface/playback_windows.jpg
    :align:   center
 
-**The Audio menu:**
+**The Audio menu**
 
 In this menu, you can:
 
@@ -52,7 +52,7 @@ In this menu, you can:
 .. figure::  /static/images/interface/audio_windows.jpg
    :align:   center
 
-**The Video menu:**
+**The Video menu**
 
 In this menu, you can:
 1. Select which video track you want. 
@@ -65,7 +65,7 @@ In this menu, you can:
 .. figure::  /static/images/interface/video_windows.jpg
    :align:   center
 
-**The Subtitle menu:**
+**The Subtitle menu**
 
 In this menu, you can:
 
@@ -75,7 +75,7 @@ In this menu, you can:
 .. figure::  /static/images/interface/subtitle_windows.jpg
    :align:   center
 
-**The Tools menu:**
+**The Tools menu**
 
 In this menu, you can:
 
@@ -89,7 +89,7 @@ In this menu, you can:
 .. figure::  /static/images/interface/tools_windows.jpg
    :align:   center
 
-**The View menu:**
+**The View menu**
 
 In this menu, you can:
 
@@ -103,7 +103,7 @@ In this menu, you can:
 .. figure::  /static/images/interface/view_windows.jpg
    :align:   center
 
-**The Help menu:**
+**The Help menu**
 
 In this menu, you can:
 
