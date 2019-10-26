@@ -1,7 +1,8 @@
 .. _video_lan:
 
+********
 VideoLAN
-=========
+********
 
 What is VideoLAN?
 +++++++++++++++++

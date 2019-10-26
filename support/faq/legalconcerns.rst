@@ -1,7 +1,8 @@
 .. _legal_concerns:
 
+**************
 Legal concerns
-==============
+**************
 
 May I use the VideoLAN logo?
 ++++++++++++++++++++++++++++

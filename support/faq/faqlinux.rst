@@ -1,7 +1,8 @@
 .. _faq_linux:
 
+***********************
 FAQs about VLC on Linux
-=======================
+***********************
 
 Find below frequently asked questions about VLC on Linux; 
 

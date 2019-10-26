@@ -1,7 +1,8 @@
 .. _getting_support:
 
+********
 Get Help
-========
+********
 
 VLC is a free and open source software which means that most developers are volunteers. Therefore, please remember that every user support is provided by volunteers doing it in their free time. If you have problems that has not been answered on our :ref:`Frequently Asked Questions page <faq>`, you can reach out to us diretly through any of the methods listed below;
 

@@ -1,7 +1,22 @@
+#####
 Media
-=====
+#####
 
-**Streaming Media Files**
+********************
+Opening a Media File
+********************
+
+**************
+Playing a file
+**************
+
+********************
+Playing a CD/DVD/VCD
+********************
+
+*********************
+Streaming Media Files
+*********************
 
 Streaming is a method of delivering audio or video content across a network without the need to download the media file before it is played. You can view or listen to the content as it arrives. It has the advantage that you don't need to wait for large media files to finish downloading before playing them.
 
@@ -44,3 +59,8 @@ VLC can convert media files from one format to another.
 
 .. figure::  /static/images/interface/Basic_interface_convert.png
    :align:   center
+
+
+**************************************
+Playing media from an acquisition card
+**************************************

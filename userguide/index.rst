@@ -4,7 +4,7 @@ User Guides
 ===========
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
    :name: toc-userguide
    
    howtoguides.rst

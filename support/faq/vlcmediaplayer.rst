@@ -1,7 +1,8 @@
 .. _vlc_media_player:
 
+****************
 VLC Media Player
-================
+****************
 
 Find all frequently asked questions by VLC users below;
 
