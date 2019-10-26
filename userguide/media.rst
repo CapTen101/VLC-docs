@@ -2,9 +2,9 @@
 Media
 #####
 
-********************
-Opening a Media File
-********************
+**************
+Playing a file
+**************
 
 To play a file, open the **Media menu** as seen in the picture below:
 
@@ -25,13 +25,17 @@ VLC main interface or the playlist window from the *File explorer* on Windows an
 .. figure::  /static/images/userguides/main_media.png
    :align:   center
 
-**************
-Playing a file
-**************
-
 ********************
 Playing a CD/DVD/VCD
 ********************
+
+To play a CD, VCD or a DVD, open the Media menu and select Open Disc menu item. In the Open Disk dialog box, select the type of media (DVD, SVCD/VCD or Audio CD).
+
+You can either select the drive in which the media is located by selecting the drive letter from the Disc Device drop-down list, or you can select the Browse button, which will open a dialog box that you can use to browse for the media you wish to play.
+
+If you want to start the DVD or VCD playback from a given title and chapter instead of from the beginning, you can set it using the Title and Chapter selectors. You can also set the Audio and Subtitles track using the selectors. There is also an option for No DVD menus, when reading a DVD.
+
+To start playback select the Ok button.
 
 *********************
 Streaming Media Files
@@ -46,7 +50,7 @@ VLC is also used as a client to receive, decode and display MPEG streams. MPEG-1
 .. figure::  /static/images/interface/Streamingdiag.JPG
    :align:   center
    
-**To stream a file:**
+Follow the steps below to stream a file:
 
 * From the Media menu, select Open Network Stream. The Open Media dialog box loads with the Network tab selected.
 * In the Please enter a network URL text box, Type the network URL.
@@ -57,9 +61,16 @@ Note: When VLC plays a stream, the track slider shows the progress of the playba
 .. figure::  /static/images/interface/Vlc_network_stream.PNG
    :align:   center
 
-
-
-
 **************************************
 Playing media from an acquisition card
 **************************************
+
+To play from an acquisition open the File menu, and select Open Capture Device
+
+From here you can choose the Capture Mode and the Video/Audio Device Name. The user can also adjust the configuration for these devices by clicking Configure. The user is also able to set the size of the video that will be played by the Direct Show plugin and options such as 'Device Properties' and 'Tuner Properties' by clicking Advanced Options.
+
+For Video4Linux devices, you can set the name of the video and audio devices using the "Video device name" and "Audio device name" text inputs. The "Advanced options..." button allows you to select some further settings useful in some rare cases, such as the chroma of the input (the way colors are encoded) and the size of the input buffer.
+
+To use a Hauppauge PVR card, select the PVR tab in the "Open" dialog box. Use the "Device" text input to set the device of the card you want to use. You can set the Norm of the tuner (PAL, SECAM or NTSC) by using the "Norm" Drop Down. The Frequency selector allows you to set the frequency of the tuner (in kHz), the bitrate selector to set the bitrate of the resulting encoded stream (in bit/s). The "Advanced Options button allows to set some more settings, such as the size of the encoded video (in pixels), its framerate (in frame per second), the interval between 2 key frames, etc.
+
+To start playback from an acquisition card, click Play.
