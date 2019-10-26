@@ -11,7 +11,7 @@ Windows/Linux Interface
 3. :ref:`Volume Controls<volume_controls>`
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
    :hidden:
    :name: toc-setup
    

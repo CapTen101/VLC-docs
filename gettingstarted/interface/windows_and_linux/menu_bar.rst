@@ -19,7 +19,7 @@ In this menu, you can:
 1. Open a new file for playback from any location.
 2. Stream a file to the web, local network or file.
 3. Convert and Save a playlist to a file. 
-3. Quit VLC.
+4. Quit VLC.
 
 .. figure::  /static/images/interface/media_windows.jpg
    :align:   center
