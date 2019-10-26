@@ -14,7 +14,7 @@ VLC can convert media files from one format to another. To do that, follow the s
 
 1. From the Media menu, select Convert/Save. The Open media dialog window appears.
 
-2. Click Add.... A file selection dialog window appears.
+2. Click Add. After you do that, a file selection dialog window appears.
 
 3. Select the file you want to convert and click Open. The Convert dialog window appears.
 
