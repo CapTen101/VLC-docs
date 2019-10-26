@@ -93,8 +93,12 @@ In this menu, you can:
 
 In this menu, you can:
 
-1. View the current playlist.
-2. Change the interface VLC is using. 
+1. View the current and docked playlist.
+2. Change the playlist view mode. 
+3. Change the interface VLC is using. 
+4. Add an interface. 
+5. Add the VLsub addon for VLC.
+
 
 .. figure::  /static/images/interface/view_windows.jpg
    :align:   center
