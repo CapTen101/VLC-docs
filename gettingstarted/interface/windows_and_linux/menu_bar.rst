@@ -65,8 +65,26 @@ In this menu, you can:
 .. figure::  /static/images/interface/video_windows.jpg
    :align:   center
 
+**The Subtitle menu:**
+
+In this menu, you can:
+
+1. Add a subtitle file.
+2. Select a Sub track.
+
 .. figure::  /static/images/interface/subtitle_windows.jpg
    :align:   center
+
+**The Tools menu:**
+
+In this menu, you can:
+
+1. Change audio and video effects and filters.
+2. Change the audio and subtitle symchronization.
+3. View the current media information.
+4. Manage plugins and extensions.
+5. Customize the program settings and interface. 
+6. Modify your preferences. 
 
 .. figure::  /static/images/interface/tools_windows.jpg
    :align:   center
