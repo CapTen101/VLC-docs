@@ -5,15 +5,10 @@ Windows/Linux Interface
 
 1. :ref:`The Menu bar<menu_bar>`
 
-.. figure::  /static/images/interface/mainmenu_windows.png
 
 2. :ref:`The Playback Controls<playback_controls>`
 
-.. figure::  /static/images/interface/playbackcontrols_windows.png
-
 3. :ref:`Volume Controls<volume_controls>`
-
-.. figure::  /static/images/interface/volumecontrols_windows.png
 
 .. toctree::
    :maxdepth: 1
