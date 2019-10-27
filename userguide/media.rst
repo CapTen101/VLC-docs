@@ -27,9 +27,9 @@ An alternative to the aforementioned step is to simply drag and drop your file i
 .. figure::  /static/images/userguides/main_media.PNG
    :align:   center
 
-********************
-Playing a CD/DVD/VCD
-********************
+****************************
+Playing a CD/DVD/VCD/Blu-ray
+****************************
 
 To play a CD, VCD or a DVD, open the Media menu and select **Open Disc** menu item.
 
