@@ -27,9 +27,9 @@ VLC can convert media files from one format to another. To do that, follow the s
 .. figure::  /static/images/interface/Basic_interface_convert.png
    :align:   center
 
-*********************
-Streaming Media Files
-*********************
+************************
+2. Streaming Media Files
+************************
 
 Streaming is a method of delivering audio or video content across a network without the need to download the media file before it is played. You can view or listen to the content as it arrives. It has the advantage that you don't need to wait for large media files to finish downloading before playing them.
 
