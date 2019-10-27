@@ -56,29 +56,20 @@ Click **Play** to start the playlist or **Cancel** to go back to the default scr
 .. figure::  /static/images/userguides/play.PNG
    :align:   center
 
-*********************
-Streaming Media Files
-*********************
+************************
+Playing a network stream
+************************
 
-Streaming is a method of delivering audio or video content across a network without the need to download the media file before it is played. You can view or listen to the content as it arrives. It has the advantage that you don't need to wait for large media files to finish downloading before playing them.
+To open a network stream, open the Media menu and select the Open Network Stream menu item.
 
-VideoLan is designed to stream MPEG videos on high bandwidth networks. VLC can be used as a server to stream MPEG-1, MPEG-2 and MPEG-4 files, DVDs and live videos on the network in unicast or multicast. Unicast is a process where media files are sent to a single system through the network. Multicast is a process where media files are sent to multiple systems through the network.
-
-VLC is also used as a client to receive, decode and display MPEG streams. MPEG-1, MPEG-2 and MPEG-4 streams received from the network or an external device can be sent to one machine or a group of machines.
-
-.. figure::  /static/images/interface/Streamingdiag.jpg
+.. figure::  /static/images/userguides/network.PNG
    :align:   center
-   
-Follow the steps below to stream a file:
 
-* From the Media menu, select Open Network Stream. The Open Media dialog box loads with the Network tab selected.
-* In the Please enter a network URL text box, Type the network URL.
-* Click **Play**.
+A dialog box will then open with three user input boxes. The first one is for the user to select the Protocol of the stream that they wish to open (HTTP/HTTPS/MMS/FTP/RTSP/RTP/UDP/RDMP). The second box is for the user to input the Address of the stream and the third one is for the user to select the appropriate port. However in the latest version of VLC (1.1.5), the user only needs to input the Address (examples are shown in image above).
 
-Note: When VLC plays a stream, the track slider shows the progress of the playback.
+To begin playback, select the Play button.
 
-.. figure::  /static/images/interface/Vlc_network_stream.png
-   :align:   center
+If you get some stuttering during playback, you can try to increase the size of the read buffer. This can be done in the Open Network Stream dialog box, by firstly checking the Show more options check box then adjusting the Caching selector, which allows you to choose the amount of time (in milliseconds) VLC should store data in its buffer before starting playback.
 
 **************************************
 Playing media from an acquisition card
