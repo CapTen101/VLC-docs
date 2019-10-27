@@ -66,6 +66,7 @@ To open a network stream, open the Media menu and select the Open Network Stream
    :align:   center
 
 A dialog box will then open with three user input boxes.
+
 * The first one is for the user to select the Protocol of the stream that they wish to open (HTTP/HTTPS/MMS/FTP/RTSP/RTP/UDP/RDMP). 
 
 * The second box is for the user to input the Address of the 
