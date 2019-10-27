@@ -65,9 +65,15 @@ To open a network stream, open the Media menu and select the Open Network Stream
 .. figure::  /static/images/userguides/network.PNG
    :align:   center
 
-A dialog box will then open with three user input boxes. The first one is for the user to select the Protocol of the stream that they wish to open (HTTP/HTTPS/MMS/FTP/RTSP/RTP/UDP/RDMP). The second box is for the user to input the Address of the stream and the third one is for the user to select the appropriate port. However in the latest version of VLC (1.1.5), the user only needs to input the Address (examples are shown in image above).
+A dialog box will then open with three user input boxes.
+* The first one is for the user to select the Protocol of the stream that they wish to open (HTTP/HTTPS/MMS/FTP/RTSP/RTP/UDP/RDMP). 
 
-To begin playback, select the Play button.
+* The second box is for the user to input the Address of the 
+  stream. 
+
+* The third one is for the user to select the appropriate port. However in the latest version of VLC (1.1.5), the user only needs to input the Address (examples are shown in image above).
+
+To begin playback, click on the **Play** button.
 
 If you get some stuttering during playback, you can try to increase the size of the read buffer. This can be done in the Open Network Stream dialog box, by firstly checking the Show more options check box then adjusting the Caching selector, which allows you to choose the amount of time (in milliseconds) VLC should store data in its buffer before starting playback.
 
