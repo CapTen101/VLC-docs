@@ -76,7 +76,13 @@ A dialog box will then open with three user input boxes.
 
 To begin playback, click on the **Play** button.
 
-If you get some stuttering during playback, you can try to increase the size of the read buffer. This can be done in the Open Network Stream dialog box, by firstly checking the Show more options check box then adjusting the Caching selector, which allows you to choose the amount of time (in milliseconds) VLC should store data in its buffer before starting playback.
+If you get some stuttering during playback, you can try to 
+increase the size of the read buffer. This can be done in 
+the Open Network Stream dialog box, by firstly checking 
+the **Show more options** check box then adjusting the **Caching 
+selector**, which allows you to choose the amount of time 
+(in milliseconds) VLC should store data in its buffer 
+before starting playback.
 
 **************************************
 Playing media from an acquisition card
