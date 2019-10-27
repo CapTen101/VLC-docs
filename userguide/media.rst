@@ -43,10 +43,18 @@ In the Open Disk dialog box as shown in the diagram below, select your preferred
    :align:   center
 
 You can either select the drive in which the media is located by selecting the drive letter from the **Disc Device** drop-down list, or you can click the **Browse** button, which will open a 
-dialog box that you can use to browse for the media you wish to play with VLC. 
+dialog box that you can use to browse for the media you wish to play with VLC. There is also an option for No DVD menus, when reading a DVD. 
 
 If you want to start the DVD or VCD playback from a given title and chapter instead of from the beginning, you can set it using the **Title and Chapter** selectors. 
-You can also set the Audio and Subtitles track using the selectors. VLC also has an option for No DVD menus, when reading a DVD. To start playback click **Play**.
+You can also set the Audio and Subtitles track using the selectors.
+
+.. figure::  /static/images/userguides/starting_positions.PNG
+   :align:   center
+
+Click **Play** to start the playlist or **Cancel** to go back to the default screen of VLC.
+
+.. figure::  /static/images/userguides/play.PNG
+   :align:   center
 
 *********************
 Streaming Media Files
