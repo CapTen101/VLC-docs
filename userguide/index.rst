@@ -8,14 +8,10 @@ User Guides
    :name: toc-userguide
    
    media.rst
-   video.rst
-   audio.rst
-   preferences.rst
-   adjustmentandeffects.rst
-   hotkeys.rst
-   subtitles.rst
    playback.rst
-   playlist.rst
-   pluginsandextensions.rst
-   toolbarseditor.rst
+   audio.rst
+   video.rst
+   subtitles.rst
+   tools.rst
+   view.rst
    
