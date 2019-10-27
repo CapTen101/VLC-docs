@@ -8,17 +8,16 @@ Playing a file
 
 To play a file, open the **Media menu** as seen in the picture below:
 
-.. figure::  /static/images/userguides/media_homepage.png
+.. figure::  /static/images/userguides/media_homepage.PNG
    :align:   center
 
 Then select the **Open File** menu item.
 
-.. figure::  /static/images/userguides/open_file.png
-   :align:   center
+.. figure::  /static/images/userguides/open_file.PNG
 
 An Open File dialog box will appear. Select the file you want to open and select Open.
 
-.. figure::  /static/images/userguides/movie.png
+.. figure::  /static/images/userguides/movie.PNG
    :align:   center
 
 After you click **Open,** VLC will then start playing the designated file. 
@@ -26,7 +25,7 @@ After you click **Open,** VLC will then start playing the designated file.
 An alternative to the aforementioned step is to simply drag and drop your file into the 
 VLC main interface or the playlist window from the *File explorer* on Windows and *Finder* on Mac OS X
 
-.. figure::  /static/images/userguides/main_media.png
+.. figure::  /static/images/userguides/main_media.PNG
    :align:   center
 
 ********************
