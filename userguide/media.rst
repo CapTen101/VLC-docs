@@ -84,6 +84,9 @@ selector**, which allows you to choose the amount of time
 (in milliseconds) VLC should store data in its buffer 
 before starting playback.
 
+.. figure::  /static/images/userguides/stuttering.PNG
+   :align:   center
+
 **************************************
 Playing media from an acquisition card
 **************************************
