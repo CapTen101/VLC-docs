@@ -29,8 +29,8 @@ Do current releases of VLC work on Mac OS 10.5 / Leopard?
 
 Yes, VLC 0.8.6b runs without any problems.
 
-What should I do if the VLC media player on my PC bounces in the Dock and quits?**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+What should I do if the VLC media player on my PC bounces in the Dock and quits?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Please check whether you're using a VLC release which is able to run on your version of Mac OS X. If it fits, run the "Remove Preferences" script provided on VLC's disk-image or delete both a folder called "VLC" and a file called org.videolan.vlc.plist in ``~/Library/Preferences`` (your personal preferences folder).
 

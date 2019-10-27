@@ -12,10 +12,12 @@ To play a file, open the **Media menu** as seen in the picture below:
    :align:   center
 
 Then select the **Open File** menu item.
+
 .. figure::  /static/images/userguides/open_file.png
    :align:   center
 
 An Open File dialog box will appear. Select the file you want to open and select Open.
+
 .. figure::  /static/images/userguides/movie.png
    :align:   center
 
