@@ -91,12 +91,43 @@ before starting playback.
 Playing media from an acquisition card
 **************************************
 
-To play from an acquisition open the File menu, and select Open Capture Device
+To play from an acquisition card, click on the **Media menu** as seen in the screenshot below 
+and select **Open Capture Device**. 
 
-From here you can choose the Capture Mode and the Video/Audio Device Name. The user can also adjust the configuration for these devices by clicking Configure. The user is also able to set the size of the video that will be played by the Direct Show plugin and options such as 'Device Properties' and 'Tuner Properties' by clicking Advanced Options.
+.. figure::  /static/images/userguides/home_capturedvice.PNG
+   :align:   center
 
-For Video4Linux devices, you can set the name of the video and audio devices using the "Video device name" and "Audio device name" text inputs. The "Advanced options..." button allows you to select some further settings useful in some rare cases, such as the chroma of the input (the way colors are encoded) and the size of the input buffer.
+After clicking on **Open Capture Device**, a dialogue box will be 
+displayed on the screen with different options and features to choose from. 
+There, you can choose the preferred **Capture Mode** of your choice
+from the dropdown menu. 
 
-To use a Hauppauge PVR card, select the PVR tab in the "Open" dialog box. Use the "Device" text input to set the device of the card you want to use. You can set the Norm of the tuner (PAL, SECAM or NTSC) by using the "Norm" Drop Down. The Frequency selector allows you to set the frequency of the tuner (in kHz), the bitrate selector to set the bitrate of the resulting encoded stream (in bit/s). The "Advanced Options button allows to set some more settings, such as the size of the encoded video (in pixels), its framerate (in frame per second), the interval between 2 key frames, etc.
+Aside from the afore mentioned features of VLCs capture Device, see the more capabilities below;
 
-To start playback from an acquisition card, click Play.
+1. You can change the Video and Audio Device Name.
+2. Users can also adjust the configuration for these devices by clicking Configure. 
+3. Users can set the size of the video that will be played by the Direct Show plugin and options such as 'Device Properties' and 'Tuner Properties' by clicking Advanced Options.
+
+For Video4Linux devices, you can set the name of the 
+video and audio devices using the "Video device name" 
+and "Audio device name" text inputs. The "Advanced 
+options" button allows you to select some further 
+settings useful in some rare cases, such as the chroma 
+of the input (the way colors are encoded) and the size of 
+the input buffer.
+
+To use a **Hauppauge PVR card**, select the PVR tab in the
+ "Open" dialog box. Use the "Device" text input to set
+  the device of the card you want to use. You can set 
+  the Norm of the tuner (PAL, SECAM or NTSC) by using 
+  the "Norm" Drop Down. The Frequency selector allows
+   you to set the frequency of the tuner (in kHz), 
+   the bitrate selector to set the bitrate of the 
+   resulting encoded stream (in bit/s). The "Advanced 
+   Options button allows to set some more settings,
+    such as the size of the encoded video (in pixels),
+     its framerate (in frame per second), the interval 
+     between 2 key frames, etc.
+
+To start playback from an acquisition card, 
+click Play.
