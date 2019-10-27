@@ -7,7 +7,6 @@ User Guides
    :maxdepth: 3
    :name: toc-userguide
    
-   howtoguides.rst
    media.rst
    video.rst
    audio.rst
