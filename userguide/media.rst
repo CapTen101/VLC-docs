@@ -22,8 +22,7 @@ An Open File dialog box will appear. Select the file you want to open and select
 
 After you click **Open,** VLC will then start playing the designated file. 
 
-An alternative to the aforementioned step is to simply drag and drop your file into the 
-VLC main interface or the playlist window from the *File explorer* on Windows and *Finder* on Mac OS X
+An alternative to the aforementioned step is to simply drag and drop your file into the VLC main interface or the playlist window from the **File explorer** on Windows and **Finder** on Mac OS X
 
 .. figure::  /static/images/userguides/main_media.PNG
    :align:   center
@@ -32,13 +31,23 @@ VLC main interface or the playlist window from the *File explorer* on Windows an
 Playing a CD/DVD/VCD
 ********************
 
-To play a CD, VCD or a DVD, open the Media menu and select Open Disc menu item. In the Open Disk dialog box, select the type of media (DVD, SVCD/VCD or Audio CD).
+To play a CD, VCD or a DVD, open the Media menu and select **Open Disc** menu item.
 
-You can either select the drive in which the media is located by selecting the drive letter from the Disc Device drop-down list, or you can select the Browse button, which will open a dialog box that you can use to browse for the media you wish to play.
+.. figure::  /static/images/userguides/open_disc.PNG
+   :align:   center
 
-If you want to start the DVD or VCD playback from a given title and chapter instead of from the beginning, you can set it using the Title and Chapter selectors. You can also set the Audio and Subtitles track using the selectors. There is also an option for No DVD menus, when reading a DVD.
+In the Open Disk dialog box as shown in the diagram below, select your preferred meia type (DVD, Blu-ray, Audio CD, or SVCD/VCD).
 
-To start playback select the Ok button.
+.. figure::  /static/images/userguides/disc.PNG
+   :align:   center
+
+You can either select the drive in which the media is located by selecting the drive letter from the **Disc Device** drop-down list, or you can click the **Browse** button, which will open a 
+dialog box that you can use to browse for the media you wish to play with VLC. 
+
+If you want to start the DVD or VCD playback from a given title and chapter instead of from the beginning, you can set it using the **Title and Chapter** selectors. 
+You can also set the Audio and Subtitles track using the selectors. VLC also has an option for No DVD menus, when reading a DVD.
+
+To start playback click **Play**.
 
 *********************
 Streaming Media Files
