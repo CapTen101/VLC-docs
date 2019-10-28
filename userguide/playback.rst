@@ -33,7 +33,7 @@ To bookmark a scene in a video, follow the steps below:
    file will be shown directly below **manage**.
 
    .. figure::  /static/images/userguides/bookmarked.PNG
-   :align:   center
+   :align:  center
 
 *****
 Title
@@ -41,8 +41,8 @@ Title
 
 In a DVD format, each movie is referred to by its title or name. A title is displayed whenever a movie is played by any media player. You can view all titles in a folder in a sequential manner.
 
-To open a folder, select Open Folder from the Media menu. Locate the folder in which the video files are present and click OK.
-To select a title, click Title in the Playback menu. The selected title is then played.
+1. To open a folder, select **Open Folder** from the **Media** menu. Locate the folder in which the video files are present and click **OK**.
+2. To select a title, click **Title** in the **Playback** menu. The selected title is then played.
 
 *******
 Chapter
@@ -52,29 +52,16 @@ A video can also be divided into chapters. Different chapters can be accessed at
 
 To play a chapter:
 
-Select Open Folder from the Media menu.
-Locate the folder in which the video files are present.
-Select a video file and click OK.
-The file is played in the VLC media player.
-Select Chapter in the Playback menu to view the list of chapters. Select a chapter of your choice.
-Then selected chapter is played.
-
-**********
-Navigation
-**********
-
-In VLC, you can navigate to different titles and their corresponding chapters. You can also customise a DVD by selecting options such as subtitle, angle and so on.
-
-To customize a title, select the required option from DVD Menu in the Navigation menu.
-To view a title, select a Title under Navigation in the Playback menu. The selected title is played.
-To view a chapter in a title, select Title. When you select a title, the chapters in a title are listed. Select a chapter.
-Refer to #Title and #Chapter sections for more details.
+1. Select **Open Folder** from the Media menu.
+2. Locate the folder in which the video files are present.
+3. Select a video file and click **OK** and the file will be played in the VLC media player.
+4. Select *Chapter* in the **Playback** menu to view the list of chapters. Select a chapter of your choice. Then selected chapter is played.
 
 *******
 Program
 *******
 
-This option is enabled only if streams of format DVB and TS are played. Choose the program to select by giving its Service ID. Only use this option if you want to read a multi-program stream (like DVB streams for example). FIXME: Description needs to be improved
+This option is enabled only if streams of format DVB (Digital Video Broadcasting) and TS are played. Choose the program to select by giving its Service ID. Only use this option if you want to read a multi-program stream (like DVB streams for example). FIXME: Description needs to be improved
 
 ****************
 Specify the time
@@ -82,9 +69,13 @@ Specify the time
 
 This option is used to go to a specific frame in a media file and listen or view once again.
 
-To specify time select Jump to Specific Time from the Playback menu. The Go to Time dialog box is displayed.
-Enter the time in hh:mm:ss.
-Click on the Go button. The control moves the tracker to a specific frame and the media file continues from that specified frame.
-Click Cancel to exit the dialog box.
-Note: Ensure that time limit is within the range of length of the media file.
+1. To specify time select Jump to Specific Time from the Playback menu. The Go to Time dialog box is displayed.
+2. Enter the time in hh:mm:ss.
+3. Click on the Go button. The control moves the tracker to a specific frame and the media file continues from that specified frame.
+4. Click Cancel to exit the dialog box.
+
+   .. figure::  /static/images/userguides/bookmarked.PNG
+   :align:  center
+
+.. warning:: Ensure that time limit is within the range of length of the media file.
 
