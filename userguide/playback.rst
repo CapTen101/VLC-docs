@@ -32,6 +32,10 @@ To bookmark a scene in a video, follow the steps below:
 4. To view a scene that is bookmarked, click on **Playlist**, and select the **Custom Bookmarks** from the dropdown menu and the bookmared 
    file will be shown directly below **manage**.
 
+   .. figure::  /static/images/userguides/bookmarked.PNG
+   :align:   center
+
+
 Basic playback bookmarks.png
 
 Edit Bookmarks dialog box under Windows in VLC 1.1.5
