@@ -6,15 +6,26 @@ VLC can play several audio formats: .asf, .avi, .divx, .dv, .mxf, .ogg, .gm, .ps
 
 Note: The commands in the Audio menu are only enabled when an audio file is being played.
 
+**********************
 Playing an audio track
+**********************
+
 To play a track:
 
 Select Open File in the Media menu.
-Select an audio file and click on the VLC - play button.png Play button. The selected track is played.
+Select an audio file and click on the VLC - Play button. The selected track is played.
+
+***********************************
 Enabling and disabling audio tracks
+***********************************
+
 To disable a track, select the Disable option in the Audio Track from the Audio menu. The selected track will then stop.
 To enable the track again, select the designated Track option in the Audio Track from the Audio menu. The selected track will then play.
+
+***************
 Recording Audio
+***************
+
 To record audio you need the record button (VLC - record button.png) to be visible. The record button is hidden by default. You can display using one of these methods:
 
 Select Advanced Controls in the View menu. The Advanced toolbar is displayed on top of the standard toolbar. The Advanced toolbar contains the Record button.
@@ -25,7 +36,10 @@ The recording from a shoutcast stream is stored somewhere in your files under a 
 
 You can automagically cut the stream into tracks by relaying the stream through Streamripper, i.e. by directing StreamRipper to the ShoutCast stream and directing VLC to the relaying port of StreamRipper (default http://localhost:8000).
 
+************
 Audio Device
+************
+
 This option helps you to listen to audio files in two modes: stereo and mono.
 
 To listen to an audio track in either the Stereo or Mono mode, select Open File or Open Disc from the Media menu. The Open dialog box is displayed.
@@ -36,9 +50,10 @@ Mono refers to monaural sound that uses a single channel for sound reproduction.
 Select Stereo in Audio Device from the Audio menu if you want to listen to the audio track in the Stereo mode.
 Stereo refers to sound that uses two channels for sound reproduction or stereophonic sound.
 
-Basic audio stereomono.png
-
+**************
 Audio Channels
+**************
+
 In audio, a channel refers to a stream of audio that is to be played by one speaker. For example, stereo audio, consists of two channels. This option is useful for codecs that don’t have support for more than 2 channels.
 
 Select a channel type in Audio Channels from the Audio menu. VLC media player provides four audio channels and they are:
@@ -51,20 +66,22 @@ Imagine that you are watching a video. In the video, a person walks on the left 
 
 You can observe this with 2.1, 5.1, 6.1 and 8.1 speakers.
 
+***************
 Visualize Audio
+***************
+
 Visualizations display splashes of colour and geometric shapes and generate animated imagery based on a piece of music.
 
 The different visual effects available are Spectrometer, Scope, Spectrum, VU Meter and Goom. This menu item can also be used to disable a visualization.
 
 Select an option under the Visualizations option from the Audio menu to view the effects. The selected visualization is then played.
 To disable visualizations, select Disable under Visualizations from the Audio menu. The visualization is then disabled.
-Spectrum visualization on VLC:
+Spectrum visualization on VLC.
 
-Spectrum visualization.png
-
+******************
 Maximum VLC Volume
+******************
+
 To change the maximum volume in % that VLC should use, go to Tools → Preferences (select All at bottom left corner) → Interface → Main interfaces → Qt → Maximum volume displayed.
 
 Save it and restart VLC.
-
-Set Maximum Volume.png
