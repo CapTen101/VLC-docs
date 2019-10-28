@@ -94,7 +94,7 @@ Playing media from an acquisition card
 To play from an acquisition card, click on the **Media menu** as seen in the screenshot below 
 and select **Open Capture Device**. 
 
-.. figure::  /static/images/userguides/home_capturedvice.PNG
+.. figure::  /static/images/userguides/home_capturedevice.PNG
    :align:   center
 
 After clicking on **Open Capture Device**, a dialogue box will be 
