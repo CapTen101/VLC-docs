@@ -14,6 +14,7 @@ It is able to stream media over computer networks and to transcode multimedia fi
 
 .. toctree::
    :maxdepth: 2
+   :hidden:
    :name: toc-setup
    
    windows
@@ -66,5 +67,4 @@ Once you have installed and set up VLC, these topics below will help you learn m
 
 * :ref:`User Interface <doc_user_interface>` - Introduction to the UI, and commands of the VLC media player.
 * :ref:`Tips and Tricks <tips_and_tricks>` - Jump right in with Tips and Tricks to become a VLC power user.
-* :ref:`Settings <preferences>` - Customize VLC to suit your needs.
 * :ref:`FAQs <faq>` - Find all frequently asked questions by VLC users.

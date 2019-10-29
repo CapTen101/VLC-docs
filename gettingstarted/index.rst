@@ -6,6 +6,7 @@
 
 .. toctree::
    :maxdepth: 2
+   :includehidden:
    :name: toc-gettingstarted
    
    setup/index.rst

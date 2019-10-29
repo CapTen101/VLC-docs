@@ -47,7 +47,7 @@ VLC can handle these types of subtitles files:
 * MicroDVD
 * SubRIP
 * SubViewer
-* SSA
+* SSA                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
 * Sami
 * Vobsub (this one is quite special: it is not made from text but from images, which means that you can't change the fonts)
 
