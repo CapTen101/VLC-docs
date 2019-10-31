@@ -2,18 +2,20 @@
 Audio
 #####
 
-VLC can play several audio formats: .asf, .avi, .divx, .dv, .mxf, .ogg, .gm, .ps, .ts, .vob, and .wmv. It can convert audio tracks and use several visualizations.
+The VLC media player can play several audio formats:
+.asf, .avi, .divx, .dv, .mxf, .ogg, .gm, .ps, .ts, .vob, 
+and .wmv. It can also convert audio tracks and use several visualizations.
 
-Note: The commands in the Audio menu are only enabled when an audio file is being played.
+.. note:: The commands in the Audio menu are only enabled when an audio file is being played.
 
 **********************
 Playing an audio track
 **********************
 
-To play a track:
+To play a track, follow the steps below:
 
-Select Open File in the Media menu.
-Select an audio file and click on the VLC - Play button. The selected track is played.
+1. Select Open File in the Media menu.
+2. Select an audio file and click on the Play button. Immediately after that, the selected track will be played on my VLC.
 
 ***********************************
 Enabling and disabling audio tracks
