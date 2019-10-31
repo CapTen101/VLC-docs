@@ -45,7 +45,11 @@ To get the most out of the VLC media player, start by reviewing a few introducto
    gettingstarted/index.rst
    userguide/index.rst
    tipsandtricks/index.rst
+   pluginsandextensions/index.rst
+   adjustmentsandeffects/index.rst
+   settings/index.rst
    advancedfeatures/index.rst
    support/index.rst
+
 
    

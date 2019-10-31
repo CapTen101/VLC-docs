@@ -12,6 +12,5 @@ User Guides
    audio.rst
    video.rst
    subtitles.rst
-   tools.rst
-   view.rst
+
    
