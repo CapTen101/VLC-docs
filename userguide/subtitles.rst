@@ -31,6 +31,8 @@ VLC under OSX:
 VLC under Windows
 *****************
 
+See the screenshot below describing the use of subtitles on VLC. 
+
 DVD and SVCD subtitles are merely images, so you won't be able to change anything for them. OGM and Matroska subtitles are rendered text, so you will be able to change several options.
 
 Text rendering options can be changed in the Preferences in the Tools tab. To adjust the font preference check the All bullet in the Show Settings box, and then click Subtitles/OSD. You can then set the font and its size under Text Renderer. For the font, you have to select a font file. In Windows, they can be found in C:\Windows\Fonts. Under MacOS X, they are in /System/Library/Fonts. Sizes can be set either relatively or as a number of pixels.
