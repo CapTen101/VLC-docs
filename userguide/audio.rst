@@ -82,8 +82,6 @@ To listen to an audio track in either the Stereo or Mono mode:
 * Reverse Stereo – There are several applications that are used to reverse the stereo whereas VLC has an in-built feature to reverse the stereo. This option is useful if you want the audio to play in tandem with the video. You can use the Reverse Stereo option if you want to deliberately change the audio output.
   Imagine that you are watching a video. In the video, a person walks on the left side but the sound is produced on the right speaker. You can correct this by selecting the Reverse Stereo option in VLC. Select the Reverse Stereo option and play the same scene in the video and observe the difference.
 
-You can observe this with 2.1, 5.1, 6.1 and 8.1 speakers.
-
 ***************
 Visualize Audio
 ***************
@@ -100,6 +98,6 @@ Spectrum visualization on VLC.
 Maximum VLC Volume
 ******************
 
-To change the maximum volume in % that VLC should use, go to Tools → Preferences (select All at bottom left corner) → Interface → Main interfaces → Qt → Maximum volume displayed.
+To change the maximum volume in of an audio file, go to **Tools** → **Preferences** (select *All* at bottom left corner) → **Interface** → **Main interfaces** → **Qt** → **Maximum volume displayed**.
 
 Save it and restart VLC.
