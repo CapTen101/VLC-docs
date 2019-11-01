@@ -21,8 +21,17 @@ To play a track, follow the steps below:
 Enabling and disabling audio tracks
 ***********************************
 
-To disable a track, select the Disable option in the Audio Track from the Audio menu. The selected track will then stop.
-To enable the track again, select the designated Track option in the Audio Track from the Audio menu. The selected track will then play.
+On VLC, you have the option to disable and enable a track. 
+
+.. tabs::
+
+   .. tab:: Disable 
+
+        Select **Audio Track** from the **Audio menu** and click on the **Disable** option from the dropdown menu to stop the selected track.
+
+   .. tab:: Enable
+
+        To enable the track again, select the designated Track option in the **Audio Track** from the **Audio menu**.
 
 ***************
 Recording Audio
