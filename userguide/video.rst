@@ -12,13 +12,8 @@ Playing a Video Track
 
 There are two main ways to open and play a video track:
 
-Select Open File from the Media menu.
-4.png
-
-     2. Select a video track and double-click it or click the Open button.
-
-5.png
-The selected track will play.
+1. Select Open File from the Media menu.
+2. Select a video track and double-click it or click the Open button.
 
 ***********************
 Loading Subtitle Tracks
@@ -51,7 +46,7 @@ Always on Top
 
 This option is useful if you want the VLC media player to remain on the top of the screen always when other applications or files are open.
 
-To make the VLC media player appear on top of the screen, select Always on Top from the Video menu. 8.png
+To make the VLC media player appear on top of the screen, select Always on Top from the Video menu. 
 If you do not want VLC to appear on the top of the screen, select the Always on Top option from the Video menu and manually minimise the VLC application.
 
 *****************
@@ -67,7 +62,7 @@ Select a file and click VLC - play button.png Play.
 Select DirectX Wallpaper from the Video menu.
 The wallpaper mode will then display the video as the desktop background.
 
-Note: that this feature works only if you deactivate the overlay under Windows XP.
+.. note:: that this feature works only if you deactivate the overlay under Windows XP.
 
 ********
 Snapshot
