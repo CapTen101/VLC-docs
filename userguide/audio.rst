@@ -86,12 +86,19 @@ To listen to an audio track in either the Stereo or Mono mode:
 Visualize Audio
 ***************
 
-Visualizations display splashes of colour and geometric shapes and generate animated imagery based on a piece of music.
+Visualizations display splashes of colour and geometric shapes and generate animated imagery based on a piece of music. Select the type of visualizations option from the Audio menu to view the effects.
+The different visual effects available are:
 
-The different visual effects available are Spectrometer, Scope, Spectrum, VU Meter and Goom. This menu item can also be used to disable a visualization.
+* Spectrometer
+* Scope
+* Spectrum
+* VU Meter
+* Goom
+* projectM
+* 3D Spectrum
 
-Select an option under the Visualizations option from the Audio menu to view the effects. The selected visualization is then played.
-To disable visualizations, select Disable under Visualizations from the Audio menu. The visualization is then disabled.
+
+To disable visualizations, click on **Disable** on the **Visualizations** drop down menu.
 Spectrum visualization on VLC.
 
 ******************
