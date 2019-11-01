@@ -37,11 +37,23 @@ On VLC, you have the option to disable and enable a track.
 Recording Audio
 ***************
 
-To record audio you need the record button (VLC - record button.png) to be visible. The record button is hidden by default. You can display using one of these methods:
+Recording the audio of any track you are playing is also allowed on VLC. However, the record button used for this is hidden by default.
 
-Select Advanced Controls in the View menu. The Advanced toolbar is displayed on top of the standard toolbar. The Advanced toolbar contains the Record button.
-Select Customize interface in the Tools menu and add the record button to the Line 2 of buttons (which is the line shown by default).
-Once the Record button is visible, click it to start recording.
+To make the Disable button visible, use one of these methods below:
+
+.. tabs::
+
+   .. tab:: Advanced Controls method
+
+        In the **View menu**, click on **Advanced Controls** to display the advanced toolbar directly above :ref:`Playback Controls <playback_controls>`. 
+        This advanced toolbar contains the Record button. Once the Record button is visible, click it to start recording.
+
+   .. tab:: Customize interface method
+
+        Select **Customize interface** in the **Tools menu** and drag the record button to to any location of your choice in Line 2. Once the Record button is visible, click it to start recording.
+
+        .. note:: Line 2 is the default line shown on VLC.
+
 
 The recording from a shoutcast stream is stored somewhere in your files under a name like vlc-record-Date-Time-Channel-Track.mp3 (e.g.: "vlc-record-2011-09-22-10h19m48s-Radio CAFF-Silencio - Arrabal Salvaje.mp3", when recording from Radio CAFF (or more precisely from the underlying WinAmp stream). Under my german Windows XP it was stored under "Eigene Dateien/Eigene Music" so I guess that you find it in an english Windows under "My Documents/My Music/", I don't know where it will be stored under Linux or any other OS (updates are welcome).
 
@@ -54,6 +66,7 @@ Audio Device
 This option helps you to listen to audio files in two modes: stereo and mono.
 
 To listen to an audio track in either the Stereo or Mono mode, select Open File or Open Disc from the Media menu. The Open dialog box is displayed.
+
 Select an audio file and click on the VLC - play button.png Play button. The selected track is played.
 Select Mono in Audio Device from the Audio menu if you want to listen to the audio track in the Mono mode.
 Mono refers to monaural sound that uses a single channel for sound reproduction.
