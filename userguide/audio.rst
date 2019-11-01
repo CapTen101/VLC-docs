@@ -78,6 +78,9 @@ To listen to an audio track in either the Stereo or Mono mode:
 3. Select Mono in Audio Device from the Audio menu if you want to listen to the audio track in the Mono mode. 
 4. Select Stereo in Audio Device from the Audio menu if you want to listen to the audio track in the Stereo mode.
 
+.. figure::  /static/images/userguides/stereo.PNG
+   :align:   center
+
 **Definition of Terms**
 
 * Stereo - refers to the reproduction of the sound in two or more independent audio channels using more than one speaker. If you use this option, you would feel as though the sound is played from all the directions. You can observe this in a regular home theatre with 5.1 or 6.1 speakers.
@@ -102,6 +105,9 @@ The different visual effects available are:
 * projectM
 * 3D Spectrum
 
+.. figure::  /static/images/userguides/visualization.PNG
+   :align:   center
+   
 To disable visualizations, click on **Disable** on the **Visualizations** drop down menu.
 Spectrum visualization on VLC.
 
