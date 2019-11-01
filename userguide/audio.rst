@@ -97,7 +97,6 @@ The different visual effects available are:
 * projectM
 * 3D Spectrum
 
-
 To disable visualizations, click on **Disable** on the **Visualizations** drop down menu.
 Spectrum visualization on VLC.
 
