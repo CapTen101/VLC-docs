@@ -43,21 +43,22 @@ To make the Disable button visible, use one of these methods below:
 
 .. tabs::
 
-   .. tab:: Advanced Controls method
+   .. tab:: Advanced Controls
 
         In the **View menu**, click on **Advanced Controls** to display the advanced toolbar directly above :ref:`Playback Controls <playback_controls>`. 
         This advanced toolbar contains the Record button. Once the Record button is visible, click it to start recording.
 
-   .. tab:: Customize interface method
+   .. tab:: Customize interface
 
         Select **Customize interface** in the **Tools menu** and drag the record button to to any location of your choice in Line 2. Once the Record button is visible, click it to start recording.
 
         .. note:: Line 2 is the default line shown on VLC.
 
 
-The recording from a shoutcast stream is stored somewhere in your files under a name like vlc-record-Date-Time-Channel-Track.mp3 (e.g.: "vlc-record-2011-09-22-10h19m48s-Radio CAFF-Silencio - Arrabal Salvaje.mp3", when recording from Radio CAFF (or more precisely from the underlying WinAmp stream). Under my german Windows XP it was stored under "Eigene Dateien/Eigene Music" so I guess that you find it in an english Windows under "My Documents/My Music/", I don't know where it will be stored under Linux or any other OS (updates are welcome).
+The recording from a shoutcast stream is stored on the default storage folder for videos or music on your computer under a name like *vlc-record-Date-Time-Channel-Track.mp3*
+Example: "vlc-record-2011-09-22-10h19m48s-Radio CAFF-Silencio - Arrabal Salvaje.mp3". 
 
-You can automagically cut the stream into tracks by relaying the stream through Streamripper, i.e. by directing StreamRipper to the ShoutCast stream and directing VLC to the relaying port of StreamRipper (default http://localhost:8000).
+You can automatically cut the stream into tracks by relaying the stream through Streamripper, i.e. by directing StreamRipper to the ShoutCast stream and directing VLC to the relaying port of StreamRipper (default http://localhost:8000).
 
 ************
 Audio Device
