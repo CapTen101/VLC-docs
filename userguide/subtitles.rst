@@ -4,7 +4,10 @@ Subtitles
 
 VLC supports many kinds of subtitles.
 
+*****************************
 Media with included subtitles
+*****************************
+
 Many types of media can have embedded subtitles. VLC can read subtitles for the following media formats:
 
 * DVD
