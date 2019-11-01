@@ -50,3 +50,15 @@ Note: When VLC plays a stream, the track slider shows the progress of the playba
 
 .. figure::  /static/images/userguides/network.PNG
    :align:   center
+
+**************************
+3. Loading Subtitle Tracks
+**************************
+
+A subtitle is a textual version of a movie’s dialogue. Subtitles are helpful if you are viewing a movie that contains foreign language(s). You can load subtitles for video tracks. Subtitles of the formats .cdg, .idx, .srt, .sub, .utf, .ass, .ssa, .aqt, .jss, .psb, .rt and smi are supported.
+
+VLC can read subtitles for the media formats such as DVD, SVCD, OGM files, and Matroska (MKV) files.
+
+To enable the subtitle for a track, select Open File under the Subtitle menu item from the Video menu. The Open Subtitles File dialog box is displayed.
+
+Locate the file which contains the subtitle and click on Open. The subtitles are displayed.
