@@ -15,7 +15,14 @@ Playing an audio track
 To play a track, follow the steps below:
 
 1. Select Open File in the Media menu.
-2. Select an audio file and click on the Play button. Immediately after that, the selected track will be played on my VLC.
+
+.. figure::  /static/images/userguides/open_file.PNG
+   :align:   center
+
+2. Select an audio file and click on the **Open** button. Immediately after that, the selected track will be played on my VLC.
+
+.. figure::  /static/images/userguides/audio_windows.PNG
+   :align:   center
 
 ***********************************
 Enabling and disabling audio tracks
@@ -37,9 +44,7 @@ On VLC, you have the option to disable and enable a track.
 Recording Audio
 ***************
 
-Recording the audio of any track you are playing is also allowed on VLC. However, the record button used for this is hidden by default.
-
-To make the Disable button visible, use one of these methods below:
+Recording the audio of any track you are playing is also allowed on VLC. However, the record button used for this is hidden by default. To make the Disable button visible, use one of these methods below:
 
 .. tabs::
 
@@ -104,6 +109,4 @@ Spectrum visualization on VLC.
 Maximum VLC Volume
 ******************
 
-To change the maximum volume in of an audio file, go to **Tools** → **Preferences** (select *All* at bottom left corner) → **Interface** → **Main interfaces** → **Qt** → **Maximum volume displayed**.
-
-Save it and restart VLC.
+To change the maximum volume in of an audio file, go to **Tools** → **Preferences** (select *All* at bottom left corner) → **Interface** → **Main interfaces** → **Qt** → **Maximum volume displayed**. Then save it and restart VLC.
