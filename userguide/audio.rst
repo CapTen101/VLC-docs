@@ -60,20 +60,23 @@ Example: "vlc-record-2011-09-22-10h19m48s-Radio CAFF-Silencio - Arrabal Salvaje.
 
 You can automatically cut the stream into tracks by relaying the stream through Streamripper, i.e. by directing StreamRipper to the ShoutCast stream and directing VLC to the relaying port of StreamRipper (default http://localhost:8000).
 
-************
-Audio Device
-************
+***********
+Stereo Mode
+***********
 
 This option helps you to listen to audio files in two modes: stereo and mono.
 
-To listen to an audio track in either the Stereo or Mono mode, select Open File or Open Disc from the Media menu. The Open dialog box is displayed.
+To listen to an audio track in either the Stereo or Mono mode:
 
-Select an audio file and click on the VLC - play button.png Play button. The selected track is played.
-Select Mono in Audio Device from the Audio menu if you want to listen to the audio track in the Mono mode.
-Mono refers to monaural sound that uses a single channel for sound reproduction.
+1. Click on the **Media** menu and select Open File or Open Disc from the dialog box 
+    displayed on your screen. 
+2. Select an audio file and click on the Play button. 
+3. Select Mono in Audio Device from the Audio menu if you want to listen to the audio track in the Mono mode. 
+4. Select Stereo in Audio Device from the Audio menu if you want to listen to the audio track in the Stereo mode.
 
-Select Stereo in Audio Device from the Audio menu if you want to listen to the audio track in the Stereo mode.
-Stereo refers to sound that uses two channels for sound reproduction or stereophonic sound.
+**Definition of Terms**
+*Stereo* refers to sound that uses two channels for sound reproduction or stereophonic sound.
+*Mono* refers to monaural sound that uses a single channel for sound reproduction.
 
 **************
 Audio Channels
