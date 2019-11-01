@@ -68,29 +68,19 @@ This option helps you to listen to audio files in two modes: stereo and mono.
 
 To listen to an audio track in either the Stereo or Mono mode:
 
-1. Click on the **Media** menu and select Open File or Open Disc from the dialog box 
-    displayed on your screen. 
+1. Click on the **Media** menu and select Open File or Open Disc from the dialog box displayed on your screen. 
 2. Select an audio file and click on the Play button. 
 3. Select Mono in Audio Device from the Audio menu if you want to listen to the audio track in the Mono mode. 
 4. Select Stereo in Audio Device from the Audio menu if you want to listen to the audio track in the Stereo mode.
 
 **Definition of Terms**
-*Stereo* refers to sound that uses two channels for sound reproduction or stereophonic sound.
-*Mono* refers to monaural sound that uses a single channel for sound reproduction.
 
-**************
-Audio Channels
-**************
-
-In audio, a channel refers to a stream of audio that is to be played by one speaker. For example, stereo audio, consists of two channels. This option is useful for codecs that don’t have support for more than 2 channels.
-
-Select a channel type in Audio Channels from the Audio menu. VLC media player provides four audio channels and they are:
-
-Stereo – Refers to the reproduction of the sound in two or more independent audio channels using more than one speaker. If you use this option, you would feel as though the sound is played from all the directions. You can observe this in a regular home theatre with 5.1 or 6.1 speakers.
-Left – You can observe this in a regular audio player with 2.1 speakers. If you select the Left option, the music is played only in the left speaker. The speaker on your right is automatically switched OFF.
-Right - If you select the Right option, the music is played only in the speaker on your right side. The speaker on your left is automatically switched OFF.
-Reverse Stereo – There are several applications that are used to reverse the stereo whereas VLC has an in-built feature to reverse the stereo. This option is useful if you want the audio to play in tandem with the video. You can use the Reverse Stereo option if you want to deliberately change the audio output.
-Imagine that you are watching a video. In the video, a person walks on the left side but the sound is produced on the right speaker. You can correct this by selecting the Reverse Stereo option in VLC. Select the Reverse Stereo option and play the same scene in the video and observe the difference.
+* Stereo - refers to the reproduction of the sound in two or more independent audio channels using more than one speaker. If you use this option, you would feel as though the sound is played from all the directions. You can observe this in a regular home theatre with 5.1 or 6.1 speakers.
+* Mono - refers to monaural sound that uses a single channel for sound reproduction.
+* Left - You can observe this in a regular audio player with 2.1 speakers. If you select the Left option, the music is played only in the left speaker. The speaker on your right is automatically switched OFF.
+* Right - If you select the Right option, the music is played only in the speaker on your right side. The speaker on your left is automatically switched OFF.
+* Reverse Stereo – There are several applications that are used to reverse the stereo whereas VLC has an in-built feature to reverse the stereo. This option is useful if you want the audio to play in tandem with the video. You can use the Reverse Stereo option if you want to deliberately change the audio output.
+  Imagine that you are watching a video. In the video, a person walks on the left side but the sound is produced on the right speaker. You can correct this by selecting the Reverse Stereo option in VLC. Select the Reverse Stereo option and play the same scene in the video and observe the difference.
 
 You can observe this with 2.1, 5.1, 6.1 and 8.1 speakers.
 
