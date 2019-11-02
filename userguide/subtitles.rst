@@ -34,7 +34,7 @@ Font modifications
 Text rendering options can be changed in the **Preferences** of the **Tools** tab. To change the font type and size, click on 
 **Vidoe** > **Subtitles/OSD** and from the dropdown menu of **Font** and **Font size**, choose your preferred prefernece. 
 
-.. figure::  /static/images/userguides/preference_subtitle.PNG
+.. figure::  /static/images/userguides/preferences_subtitles.jpg
    :align:   center
 
 You need to restart your stream for the font modifications to take effect.
@@ -59,7 +59,7 @@ VLC can handle these types of subtitles files:
 To open a subtitles file, click on the **use a subtitle file** check box as seen in the picture below from the dialog box that appears when you click on **Open file** 
 and select your file by clicking on the **Browse** button. There is also an option to set character encoding, alignment and size.
 
-.. figure::  /static/images/userguides/preference_subtitle.PNG
+.. figure::  /static/images/userguides/use_subtitle.PNG
    :align:   center
 
 An alternative is loading subtitles from the **Subtitle** Track menu item under the Video tab.
