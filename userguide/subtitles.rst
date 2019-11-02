@@ -32,13 +32,19 @@ Font modifications
 
 Text rendering options can be changed in the **Preferences** of the **Tools** tab. To change the font type and size, click on 
 **Vidoe** > **Subtitles/OSD** and from the dropdown menu of **Font** and **Font size**, choose your preferred prefernece. 
+
+.. figure::  /static/images/userguides/preference_subtitle.PNG
+   :align:   center
+
 You need to restart your stream for the font modifications to take effect.
 
 ***************
 Subtitles files
 ***************
 
-While modern file formats like Matroska or OGM can handle subtitles directly, older formats like AVI can't. Therefore, a number of subtitles files formats have been created. You need two files: the video file and the subtitles file that only contains the text of the subtitles and timestamps.
+While modern file formats like *Matroska* or *OGM* can handle subtitles directly, older formats like AVI can't. 
+Therefore, a number of subtitles files formats have been created. You need two files: the video file and the 
+subtitles file that only contains the text of the subtitles and timestamps.
 
 VLC can handle these types of subtitles files:
 
@@ -49,16 +55,15 @@ VLC can handle these types of subtitles files:
 * Sami
 * Vobsub (this one is quite special: it is not made from text but from images, which means that you can't change the fonts)
 
-To open a subtitles file, use the Advanced Open dialog box (Menu File, Open file). Select your file by clicking on the Browse button. Then, check the Subtitle options checkbox and click on the "Settings" button.
+To open a subtitles file, click on the **use a subtitle file** check box as seen in the picture below from the dialog box that appears when you click on **Open file** 
+and select your file by clicking on the **Browse** button. There is also an option to set character encoding, alignment and size.
 
+.. figure::  /static/images/userguides/preference_subtitle.PNG
+   :align:   center
 
-You can then select the subtitles file by clicking the Browse button. You can also set a few options like character encoding, alignment and size.
+An alternative is loading subtitles from the **Subtitle** Track menu item under the Video tab.
 
-An alternative is loading subtitles from the Subtitles Track menu item under the Video tab.
-
-.. Note:: For Vobsub subtitles, you need to select the .idx file, not the .sub file. Encoding, alignment and size won't have any effect for Vobsub subtitles.
-
-Font can be changed as explained in the previous section.
+.. Note:: For Vobsub subtitles, you need to select the *.idx* file, not the *.sub* file. Encoding, alignment and size won't have any effect for Vobsub subtitles.
 
 ***********************
 Loading Subtitle Tracks
