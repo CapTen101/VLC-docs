@@ -2,7 +2,8 @@
 Subtitles
 #########
 
-VLC supports many kinds of subtitles.
+A subtitle is a textual version of a movie’s dialogue. Subtitles are helpful if you are viewing a movie that contains foreign language(s).
+In VLC, subtitles of the formats .cdg, .idx, .srt, .sub, .utf, .ass, .ssa, .aqt, .jss, .psb, .rt and smi are supported.
 
 *****************************
 Media with included subtitles
@@ -64,15 +65,3 @@ and select your file by clicking on the **Browse** button. There is also an opti
 An alternative is loading subtitles from the **Subtitle** Track menu item under the Video tab.
 
 .. Note:: For Vobsub subtitles, you need to select the *.idx* file, not the *.sub* file. Encoding, alignment and size won't have any effect for Vobsub subtitles.
-
-***********************
-Loading Subtitle Tracks
-***********************
-
-A subtitle is a textual version of a movie’s dialogue. Subtitles are helpful if you are viewing a movie that contains foreign language(s). You can load subtitles for video tracks. Subtitles of the formats .cdg, .idx, .srt, .sub, .utf, .ass, .ssa, .aqt, .jss, .psb, .rt and smi are supported.
-
-VLC can read subtitles for the media formats such as DVD, SVCD, OGM files, and Matroska (MKV) files.
-
-To enable the subtitle for a track, select Open File under the Subtitle menu item from the Video menu. The Open Subtitles File dialog box is displayed.
-
-Locate the file which contains the subtitle and click on Open. The subtitles are displayed.
