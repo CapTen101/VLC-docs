@@ -62,3 +62,20 @@ VLC can read subtitles for the media formats such as DVD, SVCD, OGM files, and M
 To enable the subtitle for a track, select Open File under the Subtitle menu item from the Video menu. The Open Subtitles File dialog box is displayed.
 
 Locate the file which contains the subtitle and click on Open. The subtitles are displayed.
+
+****************
+4. Jigsaw Puzzle
+****************
+
+
+1. Go to **Tools** on the menu bar and click on **Effects and Filters**.
+
+2. On the dialog box, click on the **Video Effects** tab. 
+3. Select the **Geometry** tab and you will find **Puzzle Game** close to a check box. 
+4. Click on the check box and choose the number of columns and rows that you want and press **Close** to save the newly made changes. 
+5. If you want to see the jigsaw puzzle immediately, open a video file and the video will automatically be displayed in the Jigsaw puzzle format as seen in the screenshot below.
+
+.. figure::  /static/images/tipsandtricks/jigsawpuzzle.PNG
+   :align:   center
+
+Feel free to play the Jigsaw puzzle while watching any video of your choice.
