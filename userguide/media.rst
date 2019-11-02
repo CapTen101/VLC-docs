@@ -116,18 +116,9 @@ settings useful in some rare cases, such as the chroma
 of the input (the way colors are encoded) and the size of 
 the input buffer.
 
-To use a **Hauppauge PVR card**, select the PVR tab in the
- "Open" dialog box. Use the "Device" text input to set
-  the device of the card you want to use. You can set 
-  the Norm of the tuner (PAL, SECAM or NTSC) by using 
-  the "Norm" Drop Down. The Frequency selector allows
-   you to set the frequency of the tuner (in kHz), 
-   the bitrate selector to set the bitrate of the 
-   resulting encoded stream (in bit/s). The "Advanced 
-   Options button allows to set some more settings,
-    such as the size of the encoded video (in pixels),
-     its framerate (in frame per second), the interval 
-     between 2 key frames, etc.
+To use a **Hauppauge PVR card**, select the PVR tab in the "Open" dialog box. Use the "Device" text input to set
+the device of the card you want to use. You can set the Norm of the tuner (PAL, SECAM or NTSC) by using the "Norm" Drop Down. The Frequency selector allows
+you to set the frequency of the tuner (in kHz), the bitrate selector to set the bitrate of the resulting encoded stream (in bit/s). The "Advanced 
+Options button allows to set some more settings, such as the size of the encoded video (in pixels), its framerate (in frame per second), the interval between 2 key frames, etc.
 
-To start playback from an acquisition card, 
-click Play.
+To start **playback from an acquisition card**, click **Play**.
