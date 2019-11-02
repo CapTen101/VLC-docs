@@ -32,6 +32,8 @@ To get the most out of the VLC media player, start by reviewing a few introducto
 
       * :ref:`User Interface <doc_user_interface>` - Introduction to the UI, and commands of the VLC media player.
 
+      * :ref:`Settings <settings>` - Customize VLC to suit your needs.
+
       * :ref:`Tips and Tricks <tips_and_tricks>` - Jump right in with Tips and Tricks to become a VLC power user.
 
       * `Add-ons <https://addons.videolan.org>`_ - Find third-party software programs that can be added to VLC for additional features and abilities.
@@ -49,7 +51,6 @@ To get the most out of the VLC media player, start by reviewing a few introducto
    adjustmentsandeffects/index.rst
    pluginsandextensions/index.rst
    tipsandtricks/index.rst
-   settings/index.rst
    support/index.rst
 
 
