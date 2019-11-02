@@ -13,7 +13,6 @@ VLC User Documentation
 Key Features
 ************
 
-* VLC is supported in multiple platforms including Windwos, Linux, iOS, Android, macOS and freeBSD.
 * VLC plays Files, Discs, Webcams, Devices and Streams.
 * VLC runs on all platforms and is completely free. 
 * It has the most complete feature-set over the video, subtitle synchronisation, video and audio filters.
