@@ -12,5 +12,6 @@ User Guides
    audio.rst
    video.rst
    subtitles.rst
+   hotkeys.rst
 
    
