@@ -73,9 +73,18 @@ Locate the file which contains the subtitle and click on Open. The subtitles are
 2. On the dialog box, click on the **Video Effects** tab. 
 3. Select the **Geometry** tab and you will find **Puzzle Game** close to a check box. 
 4. Click on the check box and choose the number of columns and rows that you want and press **Close** to save the newly made changes. 
-5. If you want to see the jigsaw puzzle immediately, open a video file and the video will automatically be displayed in the Jigsaw puzzle format as seen in the screenshot below.
+5. If you were already playing a video, the video will automatically change to Jigsaw puzzle for you to play. If you were not playing a video before enabling this feature, open a video file and the video will automatically be displayed in the Jigsaw puzzle format as seen in the screenshot below.
 
 .. figure::  /static/images/tipsandtricks/jigsawpuzzle.PNG
    :align:   center
 
 Feel free to play the Jigsaw puzzle while watching any video of your choice.
+
+******************************
+Play Video as ASCII Characters
+******************************
+
+To enable this cool feature:
+
+Open VLC. Go to Tools > Preferences.
+Open the Video tab, set the ‘Output’ to “Color ASCII art video output”. Press “Save,” play the desired video and be prepared to be amazed.
