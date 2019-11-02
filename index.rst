@@ -13,12 +13,15 @@ VLC User Documentation
 Key Features
 ************
 
+* VLC is supported in multiple platforms including Windwos, Linux, iOS, Android, macOS and freeBSD.
 * VLC plays Files, Discs, Webcams, Devices and Streams.
 * VLC runs on all platforms and is completely free. 
 * It has the most complete feature-set over the video, subtitle synchronisation, video and audio filters.
 * It has hardware decoding on most platforms. It supports 0-copy on the GPU and can fallback on software when required.
 * No spywares, ads and user tracking are allowed on the VLC media player.
 * Advanced formats are allowed on VLC.
+* VLC lets you apply audio effects, video effects, and tweak the way a video’s audio and video line up.
+
 
 ***********
 First Steps
