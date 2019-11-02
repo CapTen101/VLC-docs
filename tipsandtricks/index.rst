@@ -6,9 +6,9 @@ Tips And Tricks
 
 Here are some amazing VLC Tricks & Hidden Features which will help to take your VLC experience to a totally new level. 
 
-*********************************
-1. Converting a Media File Format
-*********************************
+******************************
+Converting a Media File Format
+******************************
 
 VLC can convert media files from one format to another. To do that, follow the steps below:
 
@@ -27,9 +27,9 @@ VLC can convert media files from one format to another. To do that, follow the s
 .. figure::  /static/images/interface/Basic_interface_convert.png
    :align:   center
 
-************************
-2. Streaming Media Files
-************************
+*********************
+Streaming Media Files
+*********************
 
 Streaming is a method of delivering audio or video content across a network without the need to download the media file before it is played. You can view or listen to the content as it arrives. It has the advantage that you don't need to wait for large media files to finish downloading before playing them.
 
@@ -51,9 +51,9 @@ Note: When VLC plays a stream, the track slider shows the progress of the playba
 .. figure::  /static/images/userguides/network.PNG
    :align:   center
 
-**************************
-3. Loading Subtitle Tracks
-**************************
+***********************
+Loading Subtitle Tracks
+***********************
 
 A subtitle is a textual version of a movie’s dialogue. Subtitles are helpful if you are viewing a movie that contains foreign language(s). You can load subtitles for video tracks. Subtitles of the formats .cdg, .idx, .srt, .sub, .utf, .ass, .ssa, .aqt, .jss, .psb, .rt and smi are supported.
 
@@ -63,9 +63,9 @@ To enable the subtitle for a track, select Open File under the Subtitle menu ite
 
 Locate the file which contains the subtitle and click on Open. The subtitles are displayed.
 
-****************
-4. Jigsaw Puzzle
-****************
+*************
+Jigsaw Puzzle
+*************
 
 
 1. Go to **Tools** on the menu bar and click on **Effects and Filters**.
@@ -80,11 +80,12 @@ Locate the file which contains the subtitle and click on Open. The subtitles are
 
 Feel free to play the Jigsaw puzzle while watching any video of your choice.
 
-******************************
-Play Video as ASCII Characters
-******************************
+***************
+Take A Snapshot
+***************
 
-To enable this cool feature:
+Ever need to take a snapshot of a video you are watching? VLC has a way to do so. Simply use the shotcut Shift + S on Windows and Linux or CMD + ALT + S on mac OS X. 
+The image is captured in the .png picture format and is saved in the C:\My Pictures folder by default (C:\Users\Username\Pictures).
 
-Open VLC. Go to Tools > Preferences.
-Open the Video tab, set the ‘Output’ to “Color ASCII art video output”. Press “Save,” play the desired video and be prepared to be amazed.
+.. figure::  /static/images/tipsandtricks/snapshot.PNG
+   :align:   center

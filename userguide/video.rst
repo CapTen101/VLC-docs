@@ -41,8 +41,12 @@ This option is useful if you want to watch the video in the full screen mode.
 Snapshot
 ********
 
-This option is useful if you want to capture a portion of the video as an image. To capture an image from the video, Click on **Take Snapshot** from the Video menu.
+This option is useful if you want to capture a portion of the video as an image.To capture an image from the video, Click on **Take Snapshot** from the Video menu.
+
 The image is captured in the .png picture format and is saved in the C:\My Pictures folder by default (C:\Users\Username\Pictures).
+
+.. figure::  /static/images/userguides/snapshot.PNG
+   :align:   center
 
 ****
 Zoom
