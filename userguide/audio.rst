@@ -14,12 +14,12 @@ Playing an audio track
 
 To play a track, follow the steps below:
 
-1. Select Open File in the Media menu.
+1. Select the :menuselection:`Media --> Open File` menu.
 
 .. figure::  /static/images/userguides/open_file.PNG
    :align:   center
 
-2. Select an audio file and click on the **Open** button. Immediately after that, the selected track will be played on my VLC.
+2. Select an audio file and click on the :guilabel:`Open` button. Immediately after that, the selected track will be played on my VLC.
 
 .. figure::  /static/images/userguides/audio_windows.PNG
    :align:   center
@@ -34,36 +34,36 @@ On VLC, you have the option to disable and enable a track.
 
    .. tab:: Disable 
 
-        Select **Audio Track** from the **Audio menu** and click on the **Disable** option from the dropdown menu to stop the selected track.
+        Select the :menuselection:`Audio --> Audio Track` menu and click on the :guilabel:`Disable` option from the dropdown menu to stop the selected track.
 
    .. tab:: Enable
 
-        To enable the track again, select the designated Track option in the **Audio Track** from the **Audio menu**.
+        To enable the track again, select the designated Track in the :menuselection:`Audio --> Audio Track` menu.
 
 ***************
 Recording Audio
 ***************
 
-Recording the audio of any track you are playing is also allowed on VLC. However, the record button used for this is hidden by default. To make the Disable button visible, use one of these methods below:
+Recording the audio of any track you are playing is also allowed on VLC. However, the record button used for this is hidden by default. To make the :guilabel:`Disable` button visible, use one of these methods below:
 
 .. tabs::
 
    .. tab:: Advanced Controls
 
-        In the **View menu**, click on **Advanced Controls** to display the advanced toolbar directly above :ref:`Playback Controls <playback_controls>`. 
-        This advanced toolbar contains the Record button. Once the Record button is visible, click it to start recording.
+        Click on :menuselection:`View --> Advanced Controls` to display the advanced toolbar directly above :ref:`Playback Controls <playback_controls>`. 
+        This advanced toolbar contains the :guilabel:`Record` button. Once the :guilabel:`Record` button is visible, click it to start recording.
 
    .. tab:: Customize interface
 
-        Select **Customize interface** in the **Tools menu** and drag the record button to to any location of your choice in Line 2. Once the Record button is visible, click it to start recording.
+        Select :menuselection:`Tools --> Customize interface` menu and drag the record button to to any location of your choice in :guilabel:`Line 2`. Once the :guilabel:`Record` button is visible, click it to start recording.
 
-        .. note:: Line 2 is the default line shown on VLC.
+        .. note:: :guilabel:`Line 2` is the default line shown on VLC.
 
 
-The recording from a shoutcast stream is stored on the default storage folder for videos or music on your computer under a name like *vlc-record-Date-Time-Channel-Track.mp3*
-Example: "vlc-record-2011-09-22-10h19m48s-Radio CAFF-Silencio - Arrabal Salvaje.mp3". 
+The recording from a shoutcast stream is stored on the default storage folder for videos or music on your computer under a name like :file:`vlc-record-Date-Time-Channel-Track.mp3`
+Example: :file:`vlc-record-2011-09-22-10h19m48s-Radio CAFF-Silencio - Arrabal Salvaje.mp3`.
 
-You can automatically cut the stream into tracks by relaying the stream through Streamripper, i.e. by directing StreamRipper to the ShoutCast stream and directing VLC to the relaying port of StreamRipper (default http://localhost:8000).
+You can automatically cut the stream into tracks by relaying the stream through :program:`Streamripper`, i.e. by directing :program:`StreamRipper` to the :program:`ShoutCast` stream and directing VLC to the relaying port of :program:`StreamRipper` (default http://localhost:8000).
 
 ***********
 Stereo Mode
@@ -73,10 +73,10 @@ This option helps you to listen to audio files in two modes: stereo and mono.
 
 To listen to an audio track in either the Stereo or Mono mode:
 
-1. Click on the **Media** menu and select Open File or Open Disc from the dialog box displayed on your screen. 
-2. Select an audio file and click on the Play button. 
-3. Select Mono in Audio Device from the Audio menu if you want to listen to the audio track in the Mono mode. 
-4. Select Stereo in Audio Device from the Audio menu if you want to listen to the audio track in the Stereo mode.
+1. Click on :menuselection:`Media --> Open File or Open Disc` from the dialog box displayed on your screen. 
+2. Select an audio file and click on the :guilabel:`Play` button. 
+3. Select :menuselection`Audio --> Audio Device --> Mono` if you want to listen to the audio track in the Mono mode.
+4. Select :menuselection`Audio --> Audio Device --> Stereo` if you want to listen to the audio track in the Stereo mode.
 
 .. figure::  /static/images/userguides/stereo.PNG
    :align:   center
@@ -97,22 +97,22 @@ Visualize Audio
 Visualizations display splashes of colour and geometric shapes and generate animated imagery based on a piece of music. Select the type of visualizations option from the Audio menu to view the effects.
 The different visual effects available are:
 
-* Spectrometer
-* Scope
-* Spectrum
-* VU Meter
-* Goom
-* projectM
-* 3D Spectrum
+* :guilabel:`Spectrometer`
+* :guilabel:`Scope`
+* :guilabel:`Spectrum`
+* :guilabel:`VU Meter`
+* :guilabel:`Goom`
+* :guilabel:`projectM`
+* :guilabel:`3D Spectrum`
 
 .. figure::  /static/images/userguides/visualization.PNG
    :align:   center
    
-To disable visualizations, click on **Disable** on the **Visualizations** drop down menu.
-Spectrum visualization on VLC.
+To disable visualizations, click on :menuselection:`Visualizations --> Disable` drop down menu.
 
 ******************
 Maximum VLC Volume
 ******************
 
-To change the maximum volume in of an audio file, go to **Tools** → **Preferences** (select *All* at bottom left corner) → **Interface** → **Main interfaces** → **Qt** → **Maximum volume displayed**. Then save it and restart VLC.
+To change the maximum volume in of an audio file, go to :menuselection:`Tools --> Preferences`, select :guilabel:`All` at bottom left corner, then :menuselection:`Interface --> Main interface --> Qt --> Maximum volume displayed`. Then :guilabel:`Save` it and restart VLC.
+

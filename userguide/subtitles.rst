@@ -16,10 +16,10 @@ Many types of media can have embedded subtitles. VLC can read subtitles for the 
 * OGM files
 * Matroska (MKV) files
 
-Subtitles are enabled by default in VLC media player. To disable them, click on the **Subtitle** menu to find available subtitles tracks
-for the file and select **Disable** to turn off the subtitles. Depending on the media, a description (language, for example) might be available for the track.
+Subtitles are enabled by default in VLC media player. To disable them, click on the :guilabel:`Subtitle` menu to find available subtitles tracks
+for the file and select :guilabel:`Disable` to turn off the subtitles. Depending on the media, a description (language, for example) might be available for the track.
 
-To disable subtitles by default, go to **Tools** and select **Preferences** and click on **Subtitles/OSD**, then uncheck the **Enable subtitles** checkbox and click **Save**.
+To disable subtitles by default, go to :menuselection:`Tools --> Preferences --> Subtitles/OSD`, then uncheck the :guilabel:`Enable subtitles` checkbox and click :guilabel:`Save`.
 
 .. figure::  /static/images/userguides/subtitle.PNG
    :align:   center
@@ -31,8 +31,8 @@ To disable subtitles by default, go to **Tools** and select **Preferences** and 
 Font modifications
 ******************
 
-Text rendering options can be changed in the **Preferences** of the **Tools** tab. To change the font type and size, click on 
-**Vidoe** > **Subtitles/OSD** and from the dropdown menu of **Font** and **Font size**, choose your preferred prefernece. 
+Text rendering options can be changed in the :menuselection:`Tools --> Preferences` tab. To change the font type and size, click on 
+:menuselection:`Videos --> Subtitles/OSD` and from the dropdown menu of :guilabel:`Font` and :guilabel:`Font size`, choose your preferences.
 
 .. figure::  /static/images/userguides/preferences_subtitles.jpg
    :align:   center
@@ -52,16 +52,17 @@ VLC can handle these types of subtitles files:
 * MicroDVD
 * SubRIP
 * SubViewer
-* SSA                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+* SSA
 * Sami
 * Vobsub (this one is quite special: it is not made from text but from images, which means that you can't change the fonts)
 
-To open a subtitles file, click on the **use a subtitle file** check box as seen in the picture below from the dialog box that appears when you click on **Open file** 
-and select your file by clicking on the **Browse** button. There is also an option to set character encoding, alignment and size.
+To open a subtitles file, click on the :guilabel:`use a subtitle file` check box as seen in the picture below from the dialog box that appears when you click on :guilabel:`Open file`
+and select your file by clicking on the :guilabel:`Browse` button. There is also an option to set character encoding, alignment and size.
 
 .. figure::  /static/images/userguides/use_subtitle.PNG
    :align:   center
 
-An alternative is loading subtitles from the **Subtitle** Track menu item under the Video tab.
+An alternative is loading subtitles from the :menuselection:`Video --> Subtitle Track` menu.
 
 .. Note:: For Vobsub subtitles, you need to select the *.idx* file, not the *.sub* file. Encoding, alignment and size won't have any effect for Vobsub subtitles.
+
