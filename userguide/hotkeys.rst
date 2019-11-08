@@ -16,8 +16,8 @@ Fullscreen       f
 Exit fullscreen  Esc  
 Play/Pause       Space
 Stop             s
-Faster           +
-Slower           -
+Faster           \+
+Slower           \-
 Normal rate      =
 Next             n
 Previous         p 
