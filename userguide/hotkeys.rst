@@ -24,8 +24,8 @@ Previous         p
 Volume up        ctrl + Up
 Volume down      ctrl + Down 
 Mute             m
-Jump backward    Shift+Left
-Jump forward     Shift+Right
+Jump backward    Shift + Left
+Jump forward     Shift + Right
 ===============  ===============
 
 *********
