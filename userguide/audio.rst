@@ -69,7 +69,7 @@ You can automatically cut the stream into tracks by relaying the stream through 
 Stereo Mode
 ***********
 
-This option helps you to listen to audio files in two modes: stereo and mono.
+This option helps you to listen to audio files in two modes: :term:`Stereo` and :term:`Mono`.
 
 To listen to an audio track in either the Stereo or Mono mode:
 
