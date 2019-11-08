@@ -4,7 +4,7 @@
   Glossary
 ############
 
-This page lists definitions for terms used in Blender and this manual.
+This page lists definitions for terms used in VLC and this documentation.
 
 .. glossary::
    :sorted:
