@@ -109,14 +109,14 @@ Aside from the afore mentioned features of VLCs capture Device, see the more cap
 Video4Linux
 +++++++++++
 
-For **Video4Linux** devices, you can set the name of the 
+For Video4Linux devices, you can set the name of the 
 video and audio devices using the :guilabel:`Video device name` and :guilabel:`Audio device name` text inputs. The :guilabel:`Advanced options` button allows you to select some further 
 settings useful in some rare cases, such as the chroma of the input (the way colors are encoded) and the size of the input buffer.
 
 Hauppauge PVR card
 ++++++++++++++++++
 
-To use a **Hauppauge PVR card**, select the :guilabel:`PVR` tab in the :guilabel:`Open` dialog box. Use the :guilabel:`Device` text input to set
+To use a Hauppauge PVR card, select the :guilabel:`PVR` tab in the :guilabel:`Open` dialog box. Use the :guilabel:`Device` text input to set
 the device of the card you want to use. You can set the Norm of the tuner (PAL, SECAM or NTSC) by using the :guilabel:`Norm` Drop Down. The :guilabel:`Frequency` selector allows
 you to set the frequency of the tuner (in kHz), the bitrate selector to set the bitrate of the resulting encoded stream (in bit/s). The :guilabel:`Advanced Options`
 button allows to set some more settings, such as the size of the encoded video (in pixels), its framerate (in frame per second), the interval between 2 key frames, etc.
