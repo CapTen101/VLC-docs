@@ -2,7 +2,7 @@
 Hotkeys
 #######
 
-VLC Hotkeys are keyboard shortcuts you can use even if VLC does not have the focus. See the table below to find the hotkeys allowed in VLC.
+VLC Hotkeys are keyboard shortcuts you can use even if VLC does not have the focus. Here, we show you the most used hotkeys and also a full list of the global hotkeys allowed in VLC.
 
 *********
 Most Used 
