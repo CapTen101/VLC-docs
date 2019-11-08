@@ -12,7 +12,7 @@ You can mark and locate particular places in an audio or video file using the Bo
 
 To bookmark a scene in a video, follow the steps below:
 
-1. Click on :menuselection:`Menu --> Playback` menu bar.
+1. Click on :menuselection:`Playback` on the menu bar.
 
 .. figure:: /static/images/userguides/home_playback.PNG
    :align: center
