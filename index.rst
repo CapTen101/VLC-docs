@@ -42,6 +42,8 @@ To get the most out of the VLC media player, start by reviewing a few introducto
 
       * :ref:`Support Guide<support>` - Solve your VLC issues right now!
 
+      * :ref:`Glossary<glossary>` - Definitions for terms used in VLC and this documentation.
+
 .. toctree::
    :maxdepth: 1
    :hidden:
