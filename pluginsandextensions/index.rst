@@ -10,9 +10,7 @@ like extensions and plugins.
  
 Here are a few things that you must know about VLC Media Player Addons:
 
-1. When it comes to filetype, VLC Media Player add-ons is kind on unique. 
-   The files generally have a .lua extension. Although this extension is not unique to VLC, 
-   it still is quite a unique one for a normal PC user.
+1. When it comes to filetype, VLC Media Player add-ons generally have a .lua extension.
 
 2. VLC Media Player add-ons are developed by third-parties, who are interested in extending the possibilities of VLC’s usage. 
 
@@ -26,12 +24,14 @@ Here are a few things that you must know about VLC Media Player Addons:
 Adding Plugins & Extensions on VLC
 **********************************
 
-1. Open VLC media player.
+1. Open VLC media player on your computer.
 
-2. Go to Tools and click on Plugins and extensions from the drop-down menu.
+2. On the menu bar, click on the tools and select Plugins and extensions from the drop-down menu.
 
-3. Add Plugins & Extensions on VLC. This will show a list of plugins, interfaces, and extensions.
-   If you find any interesting extension from the list, simply click on the Install button.
+.. figure::  /static/images/plugins&extensions.PNG
+   :align:   center
+
+3. Click on Plugins to see a list of plugins. If you find any interesting plugins from the list, click on the Install button.
 
 4. In order to install the extension in .lua go to the file path C:\Users\UserName\AppData\Roaming\vlc\lua\extensions. Copy the lua file to install the extension.
 
