@@ -22,9 +22,9 @@ Here are a few things that you must know about VLC Media Player Addons:
 
 5. After copying the lua files, you will have to restart your VLC media player or start a new instance of the player.
 
-**************************************
-How to add Plugins & Extensions on VLC
-**************************************
+**********************************
+Adding Plugins & Extensions on VLC
+**********************************
 
 1. Open VLC media player.
 
