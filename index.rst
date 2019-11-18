@@ -36,7 +36,7 @@ To get the most out of the VLC media player, start by reviewing a few introducto
 
       * :ref:`Tips and Tricks <tips_and_tricks>` - Jump right in with Tips and Tricks to become a VLC power user.
 
-      * `Add-ons <https://addons.videolan.org>`_ - Find third-party software programs that can be added to VLC for additional features and abilities.
+      * :ref:`Add-ons <addons>` - Find third-party software programs that can be added to VLC for additional features and abilities.
 
       * :ref:`FAQ <faq>`- Find all frequently asked questions by VLC users.
 
@@ -50,9 +50,9 @@ To get the most out of the VLC media player, start by reviewing a few introducto
    
    gettingstarted/index.rst
    userguide/index.rst
-   adjustmentsandeffects/index.rst
-   pluginsandextensions/index.rst
+   addons/index.rst
    tipsandtricks/index.rst
+   settings/index.rst
    support/index.rst
    glossary/index.rst
 

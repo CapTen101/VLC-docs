@@ -1,32 +1,16 @@
- 
-####################
-Plugins & Extensions
-####################
-
-VLC allows users to extend the extend the features and customization options by using `third party add-ons <https://addons.videolan.org/>`_ 
-like extensions and plugins.
-
-.. note:: Most of the VLC extensions are offered for desktop version while there are only a few for the mobile version of the VLC app. 
- 
-Here are a few things that you must know about VLC Media Player Addons:
-
-1. When it comes to filetype, VLC Media Player add-ons generally have a .lua extension.
-
-2. VLC Media Player add-ons are developed by third-parties, who are interested in extending the possibilities of VLC’s usage. 
-
-3. VLC Addons are downloadable from the official `VLC addon website <http://addons.videolan.org>`_
-
-4. Addons or .lua files are downloaded and are copied to a location in the VLC’s program files directory to be installed. 
-
-5. After copying the lua files, you will have to restart your VLC media player or start a new instance of the player.
-
+##########
+Extensions
+##########
 
 **************************************
 Installing Extensions from our website
 **************************************
 
-To do this, select one from the official `VLC addon website <http://addons.videolan.org>`_ and download it. Then copy the downloaded file to the location mentioned above, 
-depending on your OS. Then you restart VLC and you’re done. Then depending upon the addon, you will find them on menu items. Click on those to activate them.
+To do this, select your preferred extension from the official `VLC addon website <http://addons.videolan.org>`_ and download it to your computer.
+After the extension has been downloaded successfully, copy the downloaded file to this location :guilabel:`C:\Users\UserName\AppData\Roaming\vlc\lua\extensions`.
+Then restart VLC and voila, you’re done.
+
+.. note:: Add-ons can also be activated by clicking on :menuselection:`Tools -> Plugins and extensions -> Extensions` on the menu bar.
 
 **************************************
 Installing Extensions diretly from VLC
@@ -46,10 +30,10 @@ If you want to install an extension directly from your VLC media player, then fo
 4. Click on the :guilabel:`Extensions` to see a list of available extensions. On seeing any interesting extension from the list, click on the :guilabel:`Install` button. Voila, you've successfully installed your first extension on VLC. 
 
 *****************************
-Installing Extensions in .lua
+Installing Extensions in lua
 *****************************
 
-VLC also allows you to install extensions in .lua. Follow the :guilabel:`Plugins` to get upto speed on how to do this. 
+VLC also allows you to install extensions in lua. Follow the steps below to get upto speed on how to do this. 
 
 1. In order to install the extension in .lua go to the file path C:\Users\UserName\AppData\Roaming\vlc\lua\extensions. Copy the lua file to install the extension.
 
