@@ -75,8 +75,8 @@ To listen to an audio track in either the Stereo or Mono mode:
 
 1. Click on :menuselection:`Media --> Open File or Open Disc` from the dialog box displayed on your screen. 
 2. Select an audio file and click on the :guilabel:`Play` button. 
-3. Select :menuselection`Audio --> Audio Device --> Mono` if you want to listen to the audio track in the Mono mode.
-4. Select :menuselection`Audio --> Audio Device --> Stereo` if you want to listen to the audio track in the Stereo mode.
+3. Select :menuselection:`Audio --> Audio Device --> Mono` if you want to listen to the audio track in the Mono mode.
+4. Select :menuselection:`Audio --> Audio Device --> Stereo` if you want to listen to the audio track in the Stereo mode.
 
 .. figure::  /static/images/userguides/stereo.PNG
    :align:   center
