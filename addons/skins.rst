@@ -33,11 +33,10 @@ The option of locating your desired skin should appear now, click on the :guilab
 How to create your own skin
 ***************************
 
-If you wish to create your own skin, check out these links to get started:
-
-* `The VLC Skin Editor <https://www.videolan.org/vlc/skineditor.html>`_ 
-* `How skins are made up <https://www.videolan.org/vlc/skins2-create.html>`_ 
-* `The skins forum <https://forum.videolan.org/viewforum.php?f=15>`_ 
+If you wish to create your own skin, `the VLC Skin Editor <https://www.videolan.org/vlc/skineditor.html>`_ enables you to create 
+skins without any deep knowledge how skins are made up exactly. If you'd rather want to explore all the possibilities of the 
+skin system and get to know how skins are made up and how to create them in detail, check out the `Skins2 documentation <https://www.videolan.org/vlc/skins2-create.html>`_. 
+If you encounter any problems while creating your skin, let us know by posting about it on `the skins forum <https://forum.videolan.org/viewforum.php?f=15>`_. 
 
 After youve successfully created a skin and you want others to use it, kindly `upload <https://www.videolan.org/vlc/skins_upload.php>`_ it and fill out the form and
 it will be displayed on `our skins website <https://www.videolan.org/vlc/skins.php>`_ as soon as one webmaster has checked it.
@@ -51,13 +50,3 @@ the default interface by going to the Menu bar and clicking on :menuselection:`T
 :guilabel:`Use native style`. 
 
 .. note:: You need to restart VLC to see the default interface.
-
-How to create your own skin
-There exists a program that enables you to create skins without any deep knowledge how skins are made up exactly. It is the VLC Skin Editor
-
-If you'd rather want to explore all the possibilities of the skin system and get to know how skins are made up and how to create them in detail, check out the Skins2 documentation.
-
-If you have any problems while creating your skin, please turn to the skins forum.
-
-If you do have problems with VLC after applying a skin, a reinstall is NOT necessary.
-See #How do I fix VLC when it does not anymore show up properly.
