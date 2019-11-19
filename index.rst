@@ -28,21 +28,22 @@ First Steps
 
 To get the most out of the VLC media player, start by reviewing a few introductory topics below;
 
-      * :ref:`Setup <setup>` - Quickly find and install the appropriate VLC media player for your platform.
+* :ref:`Setup <setup>` - Quickly find and install the appropriate VLC media player for your platform.
 
-      * :ref:`User Interface <doc_user_interface>` - Introduction to the UI, and commands of the VLC media player.
+* :ref:`User Interface <doc_user_interface>` - Introduction to the UI, and commands of the VLC media player.
 
-      * :ref:`Settings <settings>` - Customize VLC to suit your needs.
+* :ref:`Settings <settings>` - Customize VLC to suit your needs.
 
-      * :ref:`Tips and Tricks <tips_and_tricks>` - Jump right in with Tips and Tricks to become a VLC power user.
+* :ref:`Tips and Tricks <tips_and_tricks>` - Jump right in with Tips and Tricks to become a VLC power user.
 
-      * :ref:`Add-ons <addons>` - Find third-party software programs that can be added to VLC for additional features and abilities.
+* :ref:`Add-ons <addons>` - Find third-party software programs that can be added to VLC for additional features and abilities.
 
-      * :ref:`FAQ <faq>`- Find all frequently asked questions by VLC users.
+* :ref:`FAQ <faq>`- Find all frequently asked questions by VLC users.
 
-      * :ref:`Support Guide<support>` - Solve your VLC issues right now!
+* :ref:`Support Guide<support>` - Solve your VLC issues right now!
 
-      * :ref:`Glossary<glossary>` - Definitions for terms used in VLC and this documentation.
+* :ref:`Glossary<glossary>` - Definitions for terms used in VLC and this documentation.
+
 
 .. toctree::
    :maxdepth: 1
@@ -55,6 +56,3 @@ To get the most out of the VLC media player, start by reviewing a few introducto
    settings/index.rst
    support/index.rst
    glossary/index.rst
-
-
-   
