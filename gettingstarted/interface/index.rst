@@ -5,13 +5,6 @@ User Interface
 ##############
 
 The VLC media player has several interfaces. A cross-platform interface for Windows and GNU/Linux, which is called Qt, a native Mac OS X interface and an interface that supports skins for both Windows and GNU/Linux. The operation of VLC is essentially the same in all the interfaces.
-
-.. toctree::
-   :maxdepth: 2
-   :name: toc-interface
-   
-   windows_and_linux/index.rst
-   mac/index.rst
    
 The main interface has the following areas:
 
@@ -21,4 +14,10 @@ The main interface has the following areas:
 
 .. note:: When a media file is streamed, the track slider does not move because VLC cannot know the total duration.
 
-
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :name: toc-interface
+   
+   windows_and_linux/index.rst
+   mac/index.rst

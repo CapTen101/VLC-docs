@@ -36,12 +36,6 @@ In this menu, you can:
 
 **The View menu:**
 
-In this menu, you can:
-
-1. 
-
-2. 
-
 .. figure::  /static/images/interface/view_mac.jpg
    :align:   center
 
