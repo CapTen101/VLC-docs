@@ -24,3 +24,9 @@ This page lists definitions for terms used in VLC and this documentation.
    Reverse Stereo
         There are several applications that are used to reverse the stereo whereas VLC has an in-built feature to reverse the stereo. This option is useful if you want the audio to play in tandem with the video. You can use the Reverse Stereo option if you want to deliberately change the audio output.
         Imagine that you are watching a video. In the video, a person walks on the left side but the sound is produced on the right speaker. You can correct this by selecting the Reverse Stereo option in VLC. Select the Reverse Stereo option and play the same scene in the video and observe the difference.
+
+   Unicast 
+        This is a process where media files are sent to a single system through the network. 
+
+   Multicast
+        This is a process where media files are sent to multiple systems through the network.

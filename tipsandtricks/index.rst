@@ -31,26 +31,22 @@ VLC can convert media files from one format to another. To do that, follow the s
 Streaming Media Files
 *********************
 
-Streaming is a method of delivering audio or video content across a network without the need to download the media file before it is played. You can view or listen to the content as it arrives. It has the advantage that you don't need to wait for large media files to finish downloading before playing them.
+Streaming is a method of delivering audio or video content across a network without the need to download the media file 
+before it is played. You can view or listen to the content as it arrives. It has the advantage that you don't need to wait 
+for large media files to finish downloading before playing them.
 
-VideoLan is designed to stream MPEG videos on high bandwidth networks. VLC can be used as a server to stream MPEG-1, MPEG-2 and MPEG-4 files, DVDs and live videos on the network in unicast or multicast. Unicast is a process where media files are sent to a single system through the network. Multicast is a process where media files are sent to multiple systems through the network.
-
-VLC is also used as a client to receive, decode and display MPEG streams. MPEG-1, MPEG-2 and MPEG-4 streams received from the network or an external device can be sent to one machine or a group of machines.
+VideoLan is designed to stream MPEG videos on high bandwidth networks. VLC can be used as a server to stream MPEG-1, MPEG-2 and 
+MPEG-4 files, DVDs and live videos on the network in :term:`Unicast` or :term:`Multicast`. VLC is also used as a client to receive, decode and display MPEG streams. MPEG-1, MPEG-2 and MPEG-4 streams received from
+the network or an external device can be sent to one machine or a group of machines.
 
 .. figure::  /static/images/interface/Streamingdiag.jpg
    :align:   center
-   
-Follow the steps below to stream a file:
 
-* From the Media menu, select Open Network Stream. The Open Media dialog box loads with the Network tab selected.
-* In the Please enter a network URL text box, Type the network URL.
-* Click **Play**.
-
-Note: When VLC plays a stream, the track slider shows the progress of the playback.
+To stream a file, click on :menuselection:`Media` on the menu bar and select :menuselection:`Open Network Stream`. 
+The Open Media dialog box loads with the Network tab selected. In the tab, enter a network URL in the text box and click on :guilabel:`Play`.
 
 .. figure::  /static/images/userguides/network.PNG
    :align:   center
-
 
 *************
 Jigsaw Puzzle

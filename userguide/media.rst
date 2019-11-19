@@ -60,31 +60,13 @@ Click :guilabel:`Play` to start the playlist or :guilabel:`Cancel` to go back to
 Playing a network stream
 ************************
 
-To open a network stream, open the :menuselection:`Media --> Open Network Stream` menu item.
+To play a network stream, click on :menuselection:`Media` on the menu bar and select :menuselection:`Open Network Stream`. 
+The Open Media dialog box loads with the Network tab selected. In the tab, enter a network URL in the text box and click on :guilabel:`Play`.
 
 .. figure::  /static/images/userguides/network.PNG
    :align:   center
 
-A dialog box will then open with three user input boxes.
-
-* The first one is for the user to select the :guilabel:`Protocol` of the stream that they wish to open (HTTP/HTTPS/MMS/FTP/RTSP/RTP/UDP/RDMP). 
-
-* The second box is for the user to input the :guilabel:`Address` of the stream. 
-
-* The third one is for the user to select the appropriate port. However in the latest version of VLC (1.1.5), the user only needs to input the Address (examples are shown in image above).
-
-To begin playback, click on the :guilabel:`Play` button.
-
-If you get some stuttering during playback, you can try to 
-increase the size of the read buffer. This can be done in 
-the Open Network Stream dialog box, by firstly checking 
-the **Show more options** check box then adjusting the **Caching 
-selector**, which allows you to choose the amount of time 
-(in milliseconds) VLC should store data in its buffer 
-before starting playback.
-
-.. figure::  /static/images/userguides/stuttering.PNG
-   :align:   center
+Note: When VLC plays a stream, the track slider shows the progress of the streamed file.
 
 **************************************
 Playing media from an acquisition card
