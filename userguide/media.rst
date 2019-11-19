@@ -77,7 +77,7 @@ The Open Media dialog box loads with the Network tab selected. In the tab, enter
 .. figure::  /static/images/userguides/network.PNG
    :align:   center
 
-Note: When VLC plays a stream, the track slider shows the progress of the streamed file.
+.. note:: When VLC plays a stream, the track slider shows the progress of the streamed file.
 
 **************************************
 Playing media from an acquisition card
