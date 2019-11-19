@@ -9,9 +9,9 @@ The ordinary preferences are settings for the simpler parameters of the applicat
 Preference sections
 *******************
 
+Interface - Choosing and configuring the alternate interfaces.
 Audio - Allows you to choose the type audio to play through which channels. 
 Video - An option to choose which video to play through which channels. 
+Subtitles/OSD - 
 Input / Codecs - How to interpret the video file/stream.
-Stream output - Setting up a specific type of output.
-Playlist - Managing a short list of files for easy and quick access.
-Interface - Choosing and configuring the alternate interfaces.
+Hotkeys - 

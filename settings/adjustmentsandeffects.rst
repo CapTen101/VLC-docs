@@ -1,10 +1,9 @@
-
 ####################
 Adjustment & Effects
 ####################
 
-https://addons.videolan.org/
-Add adjustments and Effects to the playing Video or Audio 
+VLC allows you to add adjustments and effects to the playing Video or Audio file.
+ 
 Synchronization - Sync Audio-Video subtitle track.
 Audio and Video Filters - Add effects to the playing media.
 vl4c controls - Read data from a device or network. 
