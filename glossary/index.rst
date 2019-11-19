@@ -15,10 +15,10 @@ This page lists definitions for terms used in VLC and this documentation.
    Mono
         A monaural sound that uses a single channel for sound reproduction.
 
-   Left
+   Left Mode (Audio)
         You can observe this in a regular audio player with 2.1 speakers. If you select the Left option, the music is played only in the left speaker. The speaker on your right is automatically switched OFF.
 
-   Right
+   Right Mode (Audio)
         If you select the Right option, the music is played only in the speaker on your right side. The speaker on your left is automatically switched OFF.
 
    Reverse Stereo

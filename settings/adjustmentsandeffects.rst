@@ -3,12 +3,38 @@ Adjustment & Effects
 ####################
 
 VLC allows you to add adjustments and effects to the playing Video or Audio file.
- 
-Synchronization - Sync Audio-Video subtitle track.
-Audio and Video Filters - Add effects to the playing media.
-vl4c controls - Read data from a device or network. 
 
-Video filters
+ 
+*************
+Audio Effects
+*************
+
+Equalizer
+Wikipedia has information on this entry:
+Equalization (audio)
+VLC features a 10-band graphical equalizer, a device used to alter the relative frequencies of audio (e.g. for a bass boost). You can display it by activating the advanced GUI on wxWidgets or by clicking the Equalizer button on the macOS interface. The following image is the interface of the audio equalizer in the Windows and GNU/Linux interface.
+
+.. figure::  /static/images/adjustments_and_effects.PNG
+   :align:   center
+
+Equalizer dialogue box as it appears in wxWidgets for Windows and Linux
+The equalizer in the macOS interface
+
+Equalizer dialogue box as it appears in macOS
+Equalizer dialogue box as it appears in iOS devices
+Presets are available in all of these dialog boxes.
+
+Other audio filters
+At the moment, VLC features two other audio filters: a volume normalizer and a filter providing sound spatialization with a headphone. They can be enabled in the Effects and Filters menu item in the Tools tab of the Windows and GNU/Linux interface and in the Audio section of the Extended Controls panel of the macOS interface.
+
+For better control, you need to go to the preferences. To select the filters to be enabled, go to Audio, then to Filters. In the "audio filters" box, enter the names of the filters to enable, separated by commas. Valid names are "equalizer", "normvol" and "headphone".
+
+If you want to tune the behavior of these filters, go to Audio, Filters, [your filter]. The equalizer and headphone filters can be tuned.
+
+*************
+Video Effects
+*************
+
 Summary
 VLC features several filters able to change the video (distortion, brightness adjustment, motion blurring, etc.).
 
@@ -35,22 +61,10 @@ Check the Transform checkbox to use rotation presets (90°, 180°, 270°) or che
 
 The rotate video dialogue box under the wxWidgets interface
 
-Audio filters
-Equalizer
-Wikipedia has information on this entry:
-Equalization (audio)
-VLC features a 10-band graphical equalizer, a device used to alter the relative frequencies of audio (e.g. for a bass boost). You can display it by activating the advanced GUI on wxWidgets or by clicking the Equalizer button on the macOS interface. The following image is the interface of the audio equalizer in the Windows and GNU/Linux interface.
+***************
+Synchronization
+***************
 
-Equalizer dialogue box as it appears in wxWidgets for Windows and Linux
-The equalizer in the macOS interface
-
-Equalizer dialogue box as it appears in macOS
-Equalizer dialogue box as it appears in iOS devices
-Presets are available in all of these dialog boxes.
-
-Other audio filters
-At the moment, VLC features two other audio filters: a volume normalizer and a filter providing sound spatialization with a headphone. They can be enabled in the Effects and Filters menu item in the Tools tab of the Windows and GNU/Linux interface and in the Audio section of the Extended Controls panel of the macOS interface.
-
-For better control, you need to go to the preferences. To select the filters to be enabled, go to Audio, then to Filters. In the "audio filters" box, enter the names of the filters to enable, separated by commas. Valid names are "equalizer", "normvol" and "headphone".
-
-If you want to tune the behavior of these filters, go to Audio, Filters, [your filter]. The equalizer and headphone filters can be tuned.
+Sync Audio-Video subtitle track.
+Audio and Video Filters - Add effects to the playing media.
+vl4c controls - Read data from a device or network. 
