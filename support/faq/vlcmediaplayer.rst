@@ -68,13 +68,13 @@ Your system might be too slow to decode all pictures. It might be that your CPU 
 
     * Try disabling framedropping. Framedropping allows VLC not to decode some pictures when the CPU is overloaded, but can result in choppier playback under certain conditions. Framedropping behaviour can be configured in the Video preferences of VLC.
 
-Audio and video are out of sync
-+++++++++++++++++++++++++++++++
+Audio and video are out of sync!
+++++++++++++++++++++++++++++++++
 
 Try using another audio output plugin and, under Unix, kill ``esd``, ``artsd`` or ``pulseaudio`` if they are running. If the problem is due to the input file, have a look at the **Audio desynchronisation compensation** option.
 
-VLC crashes
-+++++++++++
+Why is my VLC crashing?
++++++++++++++++++++++++
 
 Increase the verbosity level (either in the preferences or with a ``-vv`` command line option) and look at the debug messages (in the terminal or in the Messages window).
 
@@ -104,15 +104,21 @@ If you haven't changed the snapshot directory in your preferences, your screensh
 
 To change it, go to Preferences → Video → Video snapshot directory.
 
-My file doesn't seem to work!
-+++++++++++++++++++++++++++++
+Why is my file not working on VLC?
+++++++++++++++++++++++++++++++++++
 
 Are you sure VLC supports the file? Try checking the `features page <https://www.videolan.org/vlc/features.html>`_. If it supported and you compiled VLC yourself, check if you have downloaded and installed all the codecs correctly. If it is not supported, then you are out of luck for now.
 
-VLC doesn't display all subtitles
-+++++++++++++++++++++++++++++++++
+Why isn't VLC displaying all subtitles?
++++++++++++++++++++++++++++++++++++++++
 
 If VLC has autodetected your subtitles file, or if you opened it manually, but VLC only displays some subtitles from time to time, you will need to change the subtitles file encoding.
 To do this, go to **Tools** → **Preferences** → **Subtitles/OSD**, and select the right encoding format for your PC in the dropdown menu and click **Save**.
+
+
+Are there skins with a full screen controller?
+++++++++++++++++++++++++++++++++++++++++++++++
+
+Full screen controllers in skins are supported since VLC 1.1. But apart from the default skin coming with VLC not many other skins have this feature.
 
 .. seealso:: :ref:`Get Help <getting_support>` - Find an answer to any question that wasnt answered here.
