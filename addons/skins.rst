@@ -2,11 +2,38 @@
 Skins
 #####
 
-VLC media player supports skins (sometimes also called themes) through its skins2 interface module. To get new skins go to the Skins website.
+Skins change the look of VLC Media Player and adds a bit more spice to the already superb experience. All the available Skins 
+for VLC can be found on `our website <https://www.videolan.org/vlc/skins.php>`_. 
+
+****************
+How to use skins
+****************
+
+Download the VLC skin file from our website
+Put the downloaded VLT files in the following folder:
+
+* **Windows:** :guilabel:`C:\Program Files\VideoLAN\VLC\skins)`
+* **Linux/Unix:** :guilabel:`~/.local/share/vlc/skins2`
+* **Mac OS X:** Skins are not supported on Mac OS X.  
+
+Then open your VLC settings and change your interface from native to skins. You can choose your desired skin already there or change it when you are in the skins mode by rightclicking somewhere on the skin and going to Interface>Choose Skin.
+VLC needs to be restarted to change to skins mode.
+
+***************************
+How to create your own skin
+***************************
+
+If you wish to create your own skin, check out these links:
+
+* `The VLC Skin Editor <https://www.videolan.org/vlc/skineditor.html>`_ 
+* `How skins are made up <https://www.videolan.org/vlc/skins2-create.html>`_ 
+* `The skins forum <https://forum.videolan.org/viewforum.php?f=15>`_ 
+
+You have made a new skin and want to share it?
+Please `Upload <https://www.videolan.org/vlc/skins_upload.php>`_ it and fill out the form.
+As soon as one webmaster has checked it, it will be displayed on this page.
 
 The steps mentioned here apply to VLC 0.9 and upward.
-
-Skins are not available on macOS.
 
 If you do have problems with VLC after applying a skin, a reinstall is NOT necessary. See #How do I fix VLC when it does not anymore show up properly.
 
