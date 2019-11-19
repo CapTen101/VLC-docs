@@ -3,7 +3,6 @@ Adjustment & Effects
 ####################
 
 VLC allows you to add adjustments and effects to the playing Video or Audio file.
-
  
 *************
 Audio Effects
