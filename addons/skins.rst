@@ -9,15 +9,26 @@ for VLC can be found on `our website <https://www.videolan.org/vlc/skins.php>`_.
 How to use skins
 ****************
 
-Download the VLC skin file from our website
-Put the downloaded VLT files in the following folder:
+Download all the avaliable skin files `here <https://www.videolan.org/vlc/download-skins2-go.php?url=vlc-skins.zip>`_ , extract the files and
+put the downloaded VLT files in the following folder:
 
-* **Windows:** :guilabel:`C:\Program Files\VideoLAN\VLC\skins)`
+* **Windows:** :guilabel:`C:\Program Files\VideoLAN\VLC\skins`
 * **Linux/Unix:** :guilabel:`~/.local/share/vlc/skins2`
 * **Mac OS X:** Skins are not supported on Mac OS X.  
 
-Then open your VLC settings and change your interface from native to skins. You can choose your desired skin already there or change it when you are in the skins mode by rightclicking somewhere on the skin and going to Interface>Choose Skin.
-VLC needs to be restarted to change to skins mode.
+Then open VLC on your computer, go to the Menu bar and click on :menuselection:`Tools --> Preferences --> Interface` and change your look and feelustom skin from 
+:guilabel:`Use native style` to :guilabel:`Use custom skin`. 
+
+.. figure::  /static/images/skins.PNG
+   :align:   center
+
+The option of locating your desired skin should appear now, click on the :guilabel:`Choose` button and then the downloaded VLT file you had copied to 
+:guilabel:`C:\Program Files\VideoLAN\VLC\skins` on windows and :guilabel:`~/.local/share/vlc/skins2` on Linux/Unix.
+
+.. figure::  /static/images/choose_skins.PNG
+   :align:   center
+
+.. note:: You need to restart VLC to see the newly changed skin mode.
 
 ***************************
 How to create your own skin
