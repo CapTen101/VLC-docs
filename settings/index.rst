@@ -11,5 +11,4 @@ It is easy to customize VLC to suit your needs through its various settings.
    :name: toc-settings
    
    preferences.rst
-   customizeinterface.rst
    adjustmentsandeffects.rst
