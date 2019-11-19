@@ -30,9 +30,9 @@ To do this, open VLC on computer, click on :menuselection:`Tools --> Preferences
 Preference sections
 *******************
 
-Interface - Choosing and configuring the alternate interfaces.
+Interface - Choosing and configuring an alternate interface.
 Audio - Allows you to choose the type audio to play through which channels. 
 Video - An option to choose which video to play through which channels. 
-Subtitles/OSD - 
+Subtitles/OSD - Here, you can make changes to subtitles and On Screen Display Settings.
 Input / Codecs - How to interpret the video file/stream.
-Hotkeys - 
+Hotkeys - Keyboard shortcuts used in VLC.
