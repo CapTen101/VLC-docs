@@ -37,28 +37,8 @@ VLC also allows you to install extensions in lua. Follow the steps below to get 
 
 1. In order to install the extension in .lua go to the file path C:\Users\UserName\AppData\Roaming\vlc\lua\extensions. Copy the lua file to install the extension.
 
-2. If the lua folder is not found, simply create a folder with the name lua. Inside the lua folder, create another folder by name “extensions”. Now copy the lua file inside it.
+2. If the lua folder is not found, simply create a folder with the name lua. Inside the lua folder, create another folder by name “extensions” and copy the lua file inside it.
 
-3. Once the lua file is copied, the extension will be uploaded and installed. Close all the folders.
+3. Once the lua file is copied, the extension will be uploaded and installed.
 
-4. Run a video in VLC media player to test and enable the extension. If you don’t find the list to be impressive, 
-   go to the official VLC page to check on all the extensions available for VLC here. If you come across any 
-   impressive extension then simply hit the Download button.
-
-5. The extensions are Zip files containing .lua files.
-
-6. Navigate to the following path C:\Users\UserName\AppData\Roaming\vlc\lua\Extensions\. 
-   Copy the .lua files in the extension folder to install the extension.
-
-6. If you see a webpage with few codes while downloading the extension, copy the code in a Notepad.
-
-7. Go to files and click on Save As option. Name the file as VLC Extension.LUA and click on All files under 
-    Save as type.
-
-8. Now click the Save button.
-
-9. Navigate to the following path – C:\Users\UserName\AppData\Roaming\vlc\lua\Extensions\ and copy the .lua files in the extension folder to install the extension.
-
-10. Run a video to enable the extension. That’s all there is to it!
-
-
+4. Run a video in VLC media player to test and enable the extension.
