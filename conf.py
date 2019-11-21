@@ -107,3 +107,7 @@ html_show_license = True
 #   'da', 'de', 'en', 'es', 'fi', 'fr', 'h', 'it', 'ja'
 #   'nl', 'no', 'pt', 'ro', 'r', 'sv', 'tr', 'zh'
 html_search_language = 'en'
+
+# translations
+locale_dirs = ['../locale/']   # Path to locale
+gettext_compact = False     # optional.
