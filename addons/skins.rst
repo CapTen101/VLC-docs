@@ -11,18 +11,18 @@ How to use skins
 
 You can download a variety of skins `here <https://www.videolan.org/vlc/download-skins2-go.php?url=vlc-skins.zip>`_. They usually should come as files with the extension "VLT" and is in a zipped format. Extract the files and put the downloaded VLT files in the following folder:
 
-* **Windows:** :guilabel:`C:\Program Files\VideoLAN\VLC\skins`
-* **Linux/Unix:** :guilabel:`~/.local/share/vlc/skins2`
-* **Mac OS X:** Skins are not supported on Mac OS X.  
+* **Windows:** :file:`C:\\Program Files\\VideoLAN\\VLC\\skins`
+* **Linux/Unix:** :file:`~/.local/share/vlc/skins2`
+* **macOS:** Skins are not supported on macOS.
 
-Then open VLC on your computer, go to the Menu bar and click on :menuselection:`Tools --> Preferences --> Interface` and change your look and feel from 
+Then open VLC on your computer, go to the :guilabel:`Menu` bar and click on :menuselection:`Tools --> Preferences --> Interface` and change your look and feel from 
 :guilabel:`Use native style` to :guilabel:`Use custom skin`. 
 
 .. figure::  /static/images/skins.PNG
    :align:   center
 
-The option of locating your desired skin should appear now, click on the :guilabel:`Choose` button and then the downloaded VLT file you had copied to 
-:guilabel:`C:\Program Files\VideoLAN\VLC\skins` on windows and :guilabel:`~/.local/share/vlc/skins2` on Linux/Unix.
+The option of locating your desired skin should appear now, click on the :guilabel:`Choose` button and then the downloaded :file:`.VLT` file you had copied to 
+:file:`C:\\Program Files\\VideoLAN\\VLC\\skins` on Windows and :file:`~/.local/share/vlc/skins2` on Linux/Unix.
 
 .. figure::  /static/images/choose_skins.PNG
    :align:   center
@@ -33,7 +33,7 @@ The option of locating your desired skin should appear now, click on the :guilab
 How to create your own skin
 ***************************
 
-If you wish to create your own skin, `the VLC Skin Editor <https://www.videolan.org/vlc/skineditor.html>`_ enables you to create 
+If you wish to create your own skin, the `VLC Skin Editor <https://www.videolan.org/vlc/skineditor.html>`_ enables you to create 
 skins without any deep knowledge how skins are made up exactly. If you'd rather want to explore all the possibilities of the 
 skin system and get to know how skins are made up and how to create them in detail, check out the `Skins2 documentation <https://www.videolan.org/vlc/skins2-create.html>`_. 
 If you encounter any problems while creating your skin, let us know by posting about it on `the skins forum <https://forum.videolan.org/viewforum.php?f=15>`_. 
