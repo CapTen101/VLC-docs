@@ -21,11 +21,11 @@ Here are a few things that you must know about VLC Media Player Addons:
 
 5. After copying the lua files, you will have to restart your VLC media player or start a new instance of the player.
 
-
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :name: toc-addons
-   :hidden:
    
    extensions.rst
    skins.rst
+
+
