@@ -21,6 +21,20 @@ You can display it by selecting :menuselection:`Tools --> Effects and Filters --
 
 .. Hint:: Do not forget to check the :guilabel:`Enable` button to activate the Equalizer!
 
+Additional Audio Effects
+========================
+
+From the :guilabel:`Audio Effects` menu, you can also access the following effects:
+
+Compressor
+   emulates a dynamic range compressor
+Spatializer
+   changes audio as if it was produced inside a room
+Stereo Widener
+   enhances the stereo effect by suppressing mono (signal common to both channels) and by delaying the signal of left into right and vice versa, thereby widening the stereo effect.
+Advanced
+   From this menu, you can adjust the audio pitch.
+
 *************
 Video Effects
 *************
