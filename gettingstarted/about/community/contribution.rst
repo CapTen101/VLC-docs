@@ -26,8 +26,8 @@ If you have time, we welcome your help in various areas:
 
 You should see the `developer documentation <https://www.videolan.org/developers/>`_, 
 subscribe to our various `mailing-lists <https://www.videolan.org/support/lists.html>`_, 
- have a look at the `bug-tracking system <https://trac.videolan.org/vlc/>`_, 
- join the `IRC channel <https://www.videolan.org/support/>`_ to get help on how to start coding.
+have a look at the `bug-tracking system <https://trac.videolan.org/vlc/>`_, 
+join the `IRC channel <https://www.videolan.org/support/>`_ to get help on how to start coding.
 
 Contribute materials
 --------------------
