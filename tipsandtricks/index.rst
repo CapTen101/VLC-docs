@@ -12,17 +12,17 @@ Converting a Media File Format
 
 VLC can convert media files from one format to another. To do that, follow the steps below:
 
-1. From the Media menu, select Convert/Save. The Open media dialog window appears.
+1. Select :menuselection:`Media --> Convert/Save`. The :guilabel:`Open` media dialog window appears.
 
-2. Click Add. After you do that, a file selection dialog window appears.
+2. Click :guilabel:`Add`. After you do that, a file selection dialog window appears.
 
-3. Select the file you want to convert and click Open. The Convert dialog window appears.
+3. Select the file you want to convert and click :guilabel:`Open`. The :guilabel:`Convert` dialog window appears.
 
-4. In the Destination file text box, indicate the path and file name where you want to store the converted file.
+4. In the :guilabel:`Destination` file text box, indicate the path and file name where you want to store the converted file.
 
-5. From the Profile drop-down, select a conversion profile.
+5. From the :guilabel:`Profile` drop-down, select a conversion profile.
 
-6. Click Start.
+6. Click :guilabel:`Start`.
 
 .. figure::  /static/images/interface/Basic_interface_convert.png
    :align:   center
@@ -44,10 +44,10 @@ Jigsaw Puzzle
 Interestingly, VLC allows you to play the Jigsaw puzzle with the screens from any movie of your choice. 
 Follow the steps below to get started: 
 
-1. Go to **Tools** on the menu bar and click on **Effects and Filters**.
-2. On the dialog box, click on the **Video Effects** tab. 
-3. Select the **Geometry** tab and you will find **Puzzle Game** close to a check box. 
-4. Click on the check box and choose the number of columns and rows that you want and press **Close** to save the newly made changes. 
+1. Go to :menuselection:`Tools --> Effects and Filters`.
+2. On the dialog box, click on the :menuselection:`Video Effects --> Geometry` tab. 
+3. You will find :guilabel:`Puzzle Game` close to a check box. 
+4. Click on the check box and choose the number of columns and rows that you want and press :guilabel:`Close` to save the newly made changes. 
 5. If you were already playing a video, the video will automatically change to Jigsaw puzzle for you to play. If you were not playing a video before enabling this feature, open a video file and the video will automatically be displayed in the Jigsaw puzzle format as seen in the screenshot below.
 
 .. figure::  /static/images/tipsandtricks/jigsawpuzzle.PNG
@@ -59,8 +59,9 @@ Feel free to play the Jigsaw puzzle while watching any video of your choice.
 Take A Snapshot
 ***************
 
-Ever need to take a snapshot of a video you are watching? VLC has a way to do so. Simply use the shotcut Shift + S on Windows and Linux or CMD + ALT + S on mac OS X. 
-The image is captured in the .png picture format and is saved in the C:\My Pictures folder by default (C:\Users\Username\Pictures).
+Ever need to take a snapshot of a video you are watching? VLC has a way to do so. Simply use the shortcut :kbd:`Shift+S` on Windows and Linux or :kbd:`Cmd+Alt+S` on macOS. 
+The image is captured in the .png picture format and is saved in the :file:`C:\\My Pictures` folder by default (:file:`C:\\Users\\Username\\Pictures`).
 
 .. figure::  /static/images/tipsandtricks/snapshot.PNG
    :align:   center
+
