@@ -102,6 +102,9 @@ html_show_sphinx = False
 # If true, license is shown in the HTML footer. Default is True.
 html_show_license = True
 
+gettext_uuid = True 
+
+gettext_compact = False
 # Language to be used for generating the HTML full-text search index.
 # Sphinx supports the following languages:
 #   'da', 'de', 'en', 'es', 'fi', 'fr', 'h', 'it', 'ja'
