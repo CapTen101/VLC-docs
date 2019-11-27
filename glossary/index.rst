@@ -30,3 +30,26 @@ This page lists definitions for terms used in VLC and this documentation.
 
    Multicast
         This is a process where media files are sent to multiple systems through the network.
+
+   Display locally
+        This will display the stream on your screen. Here, effects of transcoding, rescaling, etc can be monitored locally.
+
+   File
+        This will allow you to save the stream to a file.
+        
+   HTTP
+        The HTTP streaming method allows you to specify the TCP port number you want to listen to.
+
+   MS-WMSP (MMSH)
+        This access method allows you to stream to Microsoft Windows Media Player by specifying the IP address and TCP port number on which to listen. This will only work with the ASF encapsulation method.
+
+   UDP
+        Stream in unicast by providing an address in the 0.0.0.0 - 223.255.255.255 range or in multicast by 
+        providing an address in the 224.0.0.0 - 239.255.255.255 range. It is also possible to stream to IPv6 addresses.
+        This will only work with the TS encapsulation method.
+
+   RTP
+        The Real-Time Transfer Protocol is similar to UDP but it can use both unicast and multicast addresses.
+
+   IceCast
+        The IceCast server can be used by specifying the address, port, mount point and authentication of the IceCast server to stream to.

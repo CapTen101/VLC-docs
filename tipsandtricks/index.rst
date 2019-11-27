@@ -31,10 +31,42 @@ VLC can convert media files from one format to another. To do that, follow the s
 Streaming Media Files
 *********************
 
-To stream a file, click on :menuselection:`Media` on the menu bar and select :menuselection:`Open Network Stream`. 
-The Open Media dialog box loads with the Network tab selected. In the tab, enter a network URL in the text box and click on :guilabel:`Play`.
+To stream over a network with VLC, go to :menuselection:`Media menu --> Stream`
 
-.. figure::  /static/images/userguides/network.PNG
+.. figure::  /static/images/tipsandtricks/stream.PNG
+   :align:   center
+
+In the :guilabel:`Open Media` dialog, select the media (such as a file, a network stream, a disk or a capture device) you want to stream. 
+
+.. figure::  /static/images/tipsandtricks/open_media.PNG
+   :align:   center
+
+After you've choosen your prefered media file, click on the :guilabel:`Stream` button to display the :guilabel:`Stream Output`. 
+
+.. figure::  /static/images/tipsandtricks/stream_output.PNG
+   :align:   center
+
+The :guilabel:`Stream Output` displays the media source you selected so click :guilabel:`Next` to continue.
+
+.. figure::  /static/images/tipsandtricks/destination_setup.PNG
+   :align:   center
+
+The following streaming methods are available for use with VLC: :term:`Display locally`, :term:`File`
+:term:`HTTP`, :term:`MS-WMSP (MMSH)`, :term:`UDP`, :term:`RTP` and :term:`IceCast`. 
+
+The most common way is via :term:`HTTP`. To stream via :guilabel:`HTTP`, choose :guilabel:`HTTP` from the drop down as a "New Destination" and click :guilabel:`Add` to implement your change. Then press :guilabel:`Next` 
+to continue. This process also applies to other streaming methods. 
+
+After you click Next, a dialog box of transcoding options would be displayed on your screem. Go ahead and select a 
+transcoding profile that fits the codecs and access method of your stream (such as MPEG-TS, MPEG-PS, MPEG-1, Ogg, Raw, ASF, AVI, 
+MP4 and MOV) and click the :guilabel:`Next` button to continue. 
+
+.. figure::  /static/images/tipsandtricks/transcoding_options.PNG
+   :align:   center
+
+Finally, set up any additonal options for streaming then click on :guilabel:`Stream` to start streaming.
+
+.. figure::  /static/images/tipsandtricks/miscellaneous_options.PNG
    :align:   center
 
 *************
