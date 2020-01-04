@@ -12,7 +12,7 @@ Though arguably less convenient to edit than a wiki, this git repository is mean
 
 ### Editing existing pages
 
-To edit an existing page, locate its .rst source file and open it in your favorite text editor. You can then commit the changes, push them to your fork and make a pull request.
+To edit an existing page, locate its **.rst source file** and open it in your favorite text editor. After making the necessary changes, commit the changes, push them to your fork and make a pull request.
 
 ### Adding new pages
 
