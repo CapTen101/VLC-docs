@@ -56,7 +56,7 @@ VLC can handle these types of subtitles files:
 * Sami
 * Vobsub (this one is quite special: it is not made from text but from images, which means that you can't change the fonts)
 
-To open a subtitles file, click on the :guilabel:`use a subtitle file` check box as seen in the picture below from the dialog box that appears when you click on :guilabel:`Open file`
+To open and use a subtitles file, click on the :guilabel:`use a subtitle file` check box as seen in the picture below from the dialog box that appears when you click on :guilabel:`Open Multiple Files...`
 and select your file by clicking on the :guilabel:`Browse` button. There is also an option to set character encoding, alignment and size.
 
 .. figure::  /static/images/userguides/use_subtitle.PNG
