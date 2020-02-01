@@ -1,4 +1,4 @@
-image: registry.videolan.org/videolan-gitlab-pages:20200113205145
+image: registry.videolan.org/videolan-gitlab-pages:20200201115354
 
 pages:
   tags:
