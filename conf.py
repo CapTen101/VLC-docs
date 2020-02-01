@@ -73,7 +73,7 @@ html_theme_options = {
 html_static_path = ['static']
 
 def setup(app):
-    app.add_stylesheet("theme_overide.css")
+    app.add_stylesheet("css/theme_overide.css")
 
 # The favicon
 html_favicon = 'static/images/favicon.png'
