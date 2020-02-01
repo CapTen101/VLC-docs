@@ -1,6 +1,8 @@
 image: registry.videolan.org/videolan-gitlab-pages:20200113205145
 
 pages:
+  tags:
+  - pages
   stage: deploy
   script:
   - make html
