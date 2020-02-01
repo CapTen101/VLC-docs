@@ -10,7 +10,7 @@ The current board of VideoLAN organization is composed by:
 * **President:** Jean-Baptiste Kempf
 * **Vice President:** Konstantin Pavlov
 * **Treasurer:** Denis Charmet
-* **Secretary:** Hugo Beauzée-Luyssen
+* **Secretary:** Felix Paul Kühne
 
 
 Open Source
