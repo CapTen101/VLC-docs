@@ -4,30 +4,39 @@
 FAQs about VLC on macOS
 ***********************
 
-Can I run VLC on Mac OS 9
-+++++++++++++++++++++++++
+Can I run VLC on Mac OS 9?
+++++++++++++++++++++++++++
 
-VLC will not work on mac OS 9, and probably never will. However, VLC is supported on Mac OS X .
+VLC will not work on mac OS 9, and probably never will. However, VLC is well supported on Mac OS X .
 
-The VLC 0.8.1 doesn't work with Mac OS X 10.1.5, why?
-+++++++++++++++++++++++++++++++++++++++++++++++++++++
+Does VLC run on my Mac?
++++++++++++++++++++++++
+Yes, there is a VLC version for any Mac made since 2001. However, the details depend on your macOS version. The current version of VLC requires Mac OS X 10.7 Lion and will run on all subsequent releases published in the last nine years (so: Mountain Lion, Mavericks, Yosemite, El Capitoan, Sierra, High Sierra, Mojave and Catalina).
 
-It doesnt work because we do use functions which aren't available in this version. The 0.7.0 release is the last one which supports this OS. Additionally, you shouldn't use it anymore, since 10.2 is much faster than 10.1.5 even on older Macs.
+The following table details the supported versions:
+    +-----------------+-----------------+
+    | macOS version   | VLC version     |
+    +=================+=================+
+    | 9               | none, see above.|
+    +-----------------+-----------------+
+    | 10.0 & 10.1     | 0.7.0           |
+    +-----------------+-----------------+
+    | 10.2            | 0.8.4a          |
+    +-----------------+-----------------+
+    | 10.3.9          | 0.8.6i          |
+    +-----------------+-----------------+
+    | 10.4.7 or later | 0.9.10          |
+    +-----------------+-----------------+
+    | 10.5            | 2.0.10          |
+    +-----------------+-----------------+
+    | 10.6            | 2.2.8           |
+    +-----------------+-----------------+
+    | 10.7 or later   | latest version  |
+    +-----------------+-----------------+
 
-Which is the last release for 10.2.8?
-+++++++++++++++++++++++++++++++++++++
-
-That's VLC 0.8.4a. Note that it requires QuickTime 6.5.2, which is the latest QuickTime version for this Mac OS X release series. With prior versions, you'll get an unexpected video output results.
-
-Why doesn't VLC 0.8.6a work on 10.3, although you state it does?
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-First of all, make sure that you got 10.3.9 installed. Any earlier release, particularly 10.3.5 and below, doesn't support current versions of VLC. Additionally, while QuickTime 6.5.2 is strictly required, QuickTime 7.x is strongly recommended for performance and usability reasons.
-
-Do current releases of VLC work on Mac OS 10.5 / Leopard?
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-Yes, VLC 0.8.6b runs without any problems.
+Where can I find the web browser plugin?
+++++++++++++++++++++++++++++++++++++++++
+All major web browser vendors removed support for plugins, so the development of the VLC plugin was stopped. The last version was 3.0.4 and is still `available for download <https://get.videolan.org/vlc/3.0.4/macosx/VLC-webplugin-3.0.4.dmg>` for outdated web browsers. Note that both the web browsers supporting it and the VLC plugin itself are prone to known security issues and should no longer be used.
 
 What should I do if the VLC media player on my PC bounces in the Dock and quits?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
