@@ -41,7 +41,7 @@ templates_path = []
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['build']
+exclude_patterns = ['_build']
 
 
 # -- Options for HTML output -------------------------------------------------
@@ -112,5 +112,5 @@ gettext_compact = False
 html_search_language = 'en'
 
 # translations
-locale_dirs = ['../locale/']   # Path to locale
+locale_dirs = ['locale/']   # Path to locale
 gettext_compact = False     # optional.
