@@ -75,6 +75,10 @@ html_static_path = ['static']
 def setup(app):
     app.add_stylesheet("css/theme_overide.css")
 
+# The name of an image file (relative to this directory) to place at the top
+# of the sidebar.
+html_logo = "static/images/vlc-logo.svg"
+
 # The favicon
 html_favicon = 'static/images/favicon.png'
 

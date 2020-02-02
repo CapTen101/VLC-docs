@@ -731,3 +731,7 @@ a[href^="#fig-"]::after {content: "\201d";}
  .rst-columns {
     column-width: 18em;
  }
+
+.wy-side-nav-search > a img.logo {
+    width: 50%;
+}
