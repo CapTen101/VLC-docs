@@ -8,7 +8,7 @@ BUILDDIR      = _build
 LANGUAGE      = "en"
 SPHINXOPTS    = "-D language='$(LANGUAGE)'"
 
-VERSION = $(shell git rev-parse --abbrev-ref HEAD | sed 's;master;latest;')
+VERSION = $(shell git rev-parse --abbrev-ref HEAD | sed 's;master;dev;')
 
 # Put it first so that "make" without argument is like "make help".
 help:
