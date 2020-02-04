@@ -1,0 +1,250 @@
+(function() {//switch: v.b0i
+"use strict";
+
+var html_baseurl = "{{ html_baseurl }}";
+var all_versions = {% include '../static/json/versions.json' %}
+
+var all_langs = {
+	"en": "English",
+	//"fr": "Fran&ccedil;ais",
+};
+
+var Drop=function(){
+function Drop(id){
+	this.isOpen=false;
+	this.label = "";
+	if(id === "version-dropdown") {this.type = true;}else{this.type = false;}
+	if(id === "version-dropdown") {this.listlabel = "Versions";} else {this.listlabel = "Language";}
+	this.$btn = $('#' + id);
+	this.$list = this.$btn.next();
+	this.sel = null;
+	this.beforeInit();
+}
+
+Drop.prototype={
+beforeInit: function() {
+	var that=this;
+	this.$btn.on("click", function(e){that.init();e.preventDefault();e.stopPropagation();});
+	this.$btn.on("keypress", function(e) { if(that.keybtnfilter(e)){that.init();e.preventDefault();e.stopPropagation();} });
+},
+init: function() {
+	this.$btn.off("click");
+	this.$btn.off("keypress");
+
+	this.afterload();
+},
+afterload: function() {
+	this.$btn.addClass("wait");
+	var release = DOCUMENTATION_OPTIONS.VERSION;
+	var lang = DOCUMENTATION_OPTIONS.LANGUAGE;
+	if(lang === "None" || lang === undefined) {lang = "en";}
+
+	this.warn_old(release, all_versions.current);
+
+	if(this.type) {this.label = all_versions[release];}else{this.label = all_langs[lang];}
+	var list = this.build_list(release, lang);
+
+	this.$list.children(":first-child").remove();
+	this.$list.append(list);
+	var that = this;
+	this.$list.on("keypress", function(e) {that.keymove(e);});
+
+	this.$btn.removeClass("wait");
+	this.btnhandler();
+	this.$btn.on("mousedown", function(e){that.btnhandler(); e.preventDefault()});
+	this.$btn.on("keypress", function(e){ if(that.keybtnfilter(e)){that.btnhandler();} });
+},
+warn_old: function(release, current) {
+  if (release < current) {
+    var currentURL = window.location.pathname.replace(release, current);
+    var warning = $(
+        '<div class="admonition warning"> ' +
+        '<p class="first admonition-title">Note</p> ' +
+        '<p class="last"> ' +
+        'You are not using the most up to date version of the documentation. ' +
+        '<a href="#"></a> is the newest version.' +
+        '</p>' +
+        '</div>');
+
+    warning
+      .find('a')
+      .attr('href', currentURL)
+      .text(current);
+
+    var body = $("div.body");
+    if (!body.length) {body = $("div.document");}
+    body.prepend(warning);
+	}
+},
+build_list: function(v, l) {
+	if(this.type) {
+		var dyn = all_versions;
+		var cur = v;
+	} else {
+		var dyn = all_langs;
+		var cur = l;
+	}
+	var buf = [];
+	var that=this;
+	$.each(dyn, function(ix, title) {
+		buf.push("<li");
+		if (ix === cur) {
+			buf.push(' class="selected" tabindex="-1" role="presentation"><span tabindex="-1" role="menuitem" aria-current="page">' + title + '</spanp></li>');
+		} else {
+			if(that.type) {
+				v = ix;
+			} else {
+				l = ix;
+			}
+			var new_url = html_baseurl + "/" + l + '/' + v ;
+			buf.push(' tabindex="-1" role="presentation"><a href ="' + new_url + '" tabindex="-1">' + title + '</a></li>');
+		}
+	});
+	return buf.join('');
+},
+listtoggle: function(speed) {
+	var d = !this.isOpen;
+	var that=this;
+	if(!this.isOpen) {
+		this.$btn.addClass("version-btn-open");
+		this.$btn.removeClass("version-btn");
+		this.$btn.attr("aria-pressed", true);
+		this.$list.attr("aria-hidden", false);
+		this.$btn.html(this.listlabel);
+		this.$list.slideDown(speed, function() {
+			that.$list.on("focusout", function(e) {that.lvefohandler(e); e.stopImmediatePropagation();})
+			that.$btn.on("mouseleave", function(e){that.lvefohandler(e); e.stopImmediatePropagation();});
+			that.$list.on("mouseleave", function(e){that.lvehandler(e); e.stopImmediatePropagation();});
+		});
+		this.isOpen = true;
+	} else {
+		this.$btn.addClass("version-btn");
+		this.$btn.removeClass("version-btn-open");
+		this.$btn.attr("aria-pressed", false);
+		this.$list.attr("aria-hidden", true);
+		this.$btn.html(this.label);
+		this.$btn.off("mouseleave");
+		this.$list.off("mouseleave");
+		this.$list.off("focusout");
+		this.$list.slideUp(speed, function() {
+			if(document.activeElement !== null && document.activeElement !== document && document.activeElement !== document.body) {
+				if(that.$sel) {that.$sel.attr("tabindex", -1);}
+				that.$btn.focus();
+			}
+		});
+		this.isOpen = false;
+	}
+
+	if(d) {
+		if(document.activeElement !== null && document.activeElement !== document && document.activeElement !== document.body) {
+			var $nw = this.listEnter(this.$btn);
+			$nw.attr("tabindex", 0);
+			$nw.focus();
+			this.$sel = $nw;
+		}
+	}
+},
+btnhandler: function() {
+	this.listtoggle(300);
+},
+lvefohandler: function(e) {
+	var element = e.toElement || e.relatedTarget;
+	var i = 0;
+	while(i < 4 && element !== null && element.tagName !== "DIV" && element.tagName !== "UL")  {
+		element =  element.parentNode;
+		i++;
+	}
+	if(!this.$list.is(element)) {
+		this.listtoggle(200);
+	}
+	$(e.target).attr("tabindex", -1);
+	if($(e.target).attr("id") === "version-dropdown" || $(e.target).attr("id") === "lang-dropdown") {$(e.target).attr("tabindex", 0);}
+},
+lvehandler: function(e) {
+	var element = e.toElement || e.relatedTarget;
+	if(element !== null && element.tagName !== "SPAN") {
+		if(!this.$btn.is(element)) {
+			this.listtoggle(300);
+		}
+	}
+},
+keybtnfilter: function(e) {
+	if (e.ctrlKey || e.shiftKey) {return false;}
+	var k = e.which || e.keyCode;
+	if(e.key === " " || e.key === "Enter" || (e.key === "ArrowDown" && e.altKey) || e.key === "ArrowDown" || e.key === "ArrowUp" ||
+			k === 32 || k === 13 || (k === 40 && e.altKey) || k === 40 || k === 38) {
+		return true;
+	}
+	return false;
+},
+keymove: function(e) {
+	if (e.ctrlKey || e.shiftKey) {return true;}
+	var p = false;
+	var k = e.which || e.keyCode;
+	var $nw = $(e.target);
+	if(e.key === "ArrowUp" || k === 38) {
+		p = true;
+		$nw = this.listPrev($nw);
+	} else if (e.key === "ArrowDown" || k === 40) {
+		p = true;
+		$nw = this.listNext($nw);
+	} else if (e.key === "Home" || k === 36) {
+		p = true;
+		$nw = this.listFirst($nw);
+	} else if (e.key === "End" || k === 35) {
+		p = true;
+		$nw = this.listLast($nw);
+	} else if (e.key === "Escape" || k === 27) {
+		p = true;
+		$nw = this.listExit($nw);
+	} else if (e.key === "ArrowLeft" || k === 37 || e.key === "ArrowRight" || k === 39) {
+		p = true;
+		$nw = this.listExit($nw);
+	}
+	if(p) {
+		$nw.attr("tabindex", 0);
+		$nw.focus();
+		this.$sel = $nw;
+		e.preventDefault();
+		e.stopPropagation();
+	}
+},
+listPrev: function($nw) {
+	if ($nw.parent().prev().length !== 0) {
+		return $nw.parent().prev().children(":first-child");
+	} else {
+		return this.listLast($nw);
+	}
+},
+listNext: function($nw) {
+	if ($nw.parent().next().length !== 0) {
+		return $nw.parent().next().children(":first-child");
+	} else {
+		return this.listFirst($nw);
+	}
+},
+listFirst: function($nw) {
+	return $nw.parent().parent().children(":first-child").children(":first-child");
+},
+listLast: function($nw) {
+	return $nw.parent().parent().children(":last-child").children(":first-child");
+},
+listExit: function($nw) {
+	return $nw.parent().parent().prev();
+},
+listEnter: function($nw) {
+	return $nw.next().children(":first-child").children(":first-child");
+}
+};
+return Drop}();
+
+$(document).ready(function() {
+	var lang = DOCUMENTATION_OPTIONS.LANGUAGE;
+	if(lang === "None") {lang = "en";}
+	if(lang === undefined) {lang = $("#lang-dropdown").html().trim(); DOCUMENTATION_OPTIONS.LANGUAGE = lang;} //@
+	var n =  all_langs[lang];
+	if(n) {$("#lang-dropdown").html(n);}
+	var lng_drop=new Drop("version-dropdown");
+	var vsn_drop=new Drop("lang-dropdown");
+});
+})();

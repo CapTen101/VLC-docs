@@ -25,6 +25,7 @@ author = 'Edidiong Asikpo'
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
 
+language = None
 
 # -- General configuration ---------------------------------------------------
 
@@ -36,7 +37,7 @@ extensions = [
 ]
 
 # Add any paths that contain templates here, relative to this directory.
-templates_path = []
+templates_path = ['./templates']
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -74,6 +75,7 @@ html_static_path = ['static']
 
 def setup(app):
     app.add_stylesheet("css/theme_overide.css")
+    app.add_javascript("js/version_switch.js")
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.

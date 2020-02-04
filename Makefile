@@ -5,8 +5,9 @@
 SPHINXBUILD   = sphinx-build
 SOURCEDIR     = .
 BUILDDIR      = _build
-SPHINXOPTS    = "-D language='$(LANGUAGE)'"
 LANGUAGE      = en
+SPHINXOPTS    = ""
+HTML_BASEURL  = file://$(shell pwd)/$(BUILDDIR)/html
 
 VERSION = $(shell git rev-parse --abbrev-ref HEAD | sed 's;master;dev;')
 
@@ -25,7 +26,10 @@ versioned_redirect:
 	sed 's;REDIRECT;./$(LANGUAGE)/index.html;g' root_template/redirect.html > "$(BUILDDIR)/html/$(VERSION)/index.html"
 
 versioned_localized_html:
-	@$(SPHINXBUILD) -M html "$(SOURCEDIR)" "$(BUILDDIR)/$(VERSION)/$(LANGUAGE)" $(SPHINXOPTS) &&\
+	@$(SPHINXBUILD) -M html "$(SOURCEDIR)" "$(BUILDDIR)/$(VERSION)/$(LANGUAGE)" \
+		-D language='$(LANGUAGE)' -D release='$(VERSION)' \
+	        -D html_baseurl='$(HTML_BASEURL)' \
+		-A html_baseurl='$(HTML_BASEURL)' &&\
 	mkdir -p "$(BUILDDIR)/html/$(VERSION)" &&\
 	rm -rf "$(BUILDDIR)/html/$(VERSION)/$(LANGUAGE)" &&\
 	mv "$(BUILDDIR)/$(VERSION)/$(LANGUAGE)/html" "$(BUILDDIR)/html/$(VERSION)/$(LANGUAGE)"

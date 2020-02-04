@@ -501,29 +501,6 @@ a[href^="#fig-"]::after {content: "\201d";}
 }
 
 
-/* zephyr on Github */
- 
- /* tweak doc version selection */
- .rst-versions {
-    position: static !important;
- }
- 
- 
- .rst-versions .rst-current-version {
-    padding: 5px;
-    background-color: #2980B9;
-    color: #80FF80;
- }
- 
- .rst-versions .rst-other-versions {
-    padding: 5px;
- }
- 
- div.rst-other-versions dl {
-    margin-bottom: 0;
- }
- 
- 
  /* code block highlight color in rtd changed to lime green, no no no */
  
  .rst-content tt.literal, .rst-content code.literal, .highlight {
