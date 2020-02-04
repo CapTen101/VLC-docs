@@ -5,14 +5,24 @@
 SPHINXBUILD   = sphinx-build
 SOURCEDIR     = .
 BUILDDIR      = _build
-LANGUAGE      = "en"
 SPHINXOPTS    = "-D language='$(LANGUAGE)'"
+LANGUAGE      = en
 
 VERSION = $(shell git rev-parse --abbrev-ref HEAD | sed 's;master;dev;')
 
 # Put it first so that "make" without argument is like "make help".
 help:
 	@$(SPHINXBUILD) -M help "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+
+# Create a global redirection to the VERSION/LANGUAGE of documentation
+global_redirect:
+	mkdir -p "$(BUILDDIR)/html/" &&\
+	sed 's;REDIRECT;./$(VERSION)/$(LANGUAGE)/index.html;g' root_template/redirect.html > "$(BUILDDIR)/html/index.html"
+
+# Create a redirection to the LANGUAGE version of the documentation
+versioned_redirect:
+	mkdir -p "$(BUILDDIR)/html/$(VERSION)" &&\
+	sed 's;REDIRECT;./$(LANGUAGE)/index.html;g' root_template/redirect.html > "$(BUILDDIR)/html/$(VERSION)/index.html"
 
 versioned_localized_html:
 	@$(SPHINXBUILD) -M html "$(SOURCEDIR)" "$(BUILDDIR)/$(VERSION)/$(LANGUAGE)" $(SPHINXOPTS) &&\
@@ -25,4 +35,4 @@ versioned_localized_html:
 %: Makefile
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
-.PHONY: help Makefile versioned_html_lang
+.PHONY: help Makefile global_redirect versioned_redirect versioned_html_lang
