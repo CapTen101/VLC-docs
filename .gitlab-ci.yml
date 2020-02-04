@@ -7,6 +7,20 @@ pages:
   script:
   - make versioned_localized_html LANGUAGE=en
   - make versioned_redirect LANGUAGE=en
+  - mkdir -p public/html
+  - mv _build/html/* public/html
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
+
+# Create a global redirection from root url to the "latest" english site
+redirect:
+  tags:
+  - pages
+  stage: deploy
+  script:
   - make global_redirect LANGUAGE=en
   - mkdir -p public/html
   - mv _build/html/* public/html
@@ -15,3 +29,4 @@ pages:
     - public
   only:
   - master
+
