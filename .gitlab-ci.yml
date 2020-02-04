@@ -5,8 +5,11 @@ pages:
   - pages
   stage: deploy
   script:
-  - make html
-  - mv _build/html/ public/
+  - make versioned_localized_html LANGUAGE=en
+  - make versioned_redirect LANGUAGE=en
+  - make global_redirect LANGUAGE=en
+  - mkdir -p public/html
+  - mv _build/html/* public/html
   artifacts:
     paths:
     - public
