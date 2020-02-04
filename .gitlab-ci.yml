@@ -2,14 +2,15 @@ image: registry.videolan.org/videolan-gitlab-pages:20200201115354
 
 variables:
   HTML_BASEURL: https://docs.videolan.me/vlc-user
+  VERSION: $CI_COMMIT_REF_NAME
 
 pages:
   tags:
   - pages
   stage: deploy
   script:
-  - make versioned_localized_html VERSION=$CI_COMMIT_REF_NAME HTML_BASEURL=$HTML_BASEURL LANGUAGE=en
-  - make versioned_redirect VERSION=$CI_COMMIT_REF_NAME HTML_BASEURL=$HTML_BASEURL LANGUAGE=en
+  - make versioned_localized_html LANGUAGE=en
+  - make versioned_redirect LANGUAGE=en
   - mkdir -p public
   - mv _build/html/* public/
   artifacts:
@@ -22,7 +23,7 @@ redirect:
   - pages
   stage: deploy
   script:
-  - make global_redirect VERSION=$CI_COMMIT_REF_NAME HTML_BASEURL=$HTML_BASEURL LANGUAGE=en
+  - make global_redirect LANGUAGE=en
   - mkdir -p public
   - mv _build/html/* public/
   artifacts:
