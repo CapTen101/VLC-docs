@@ -96,7 +96,7 @@ build_list: function(v, l) {
 			} else {
 				l = ix;
 			}
-			var new_url = html_baseurl + "/" + l + '/' + v ;
+			var new_url = html_baseurl + "/" + v + '/' + l ;
 			buf.push(' tabindex="-1" role="presentation"><a href ="' + new_url + '" tabindex="-1">' + title + '</a></li>');
 		}
 	});
