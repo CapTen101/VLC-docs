@@ -4,6 +4,12 @@ variables:
   HTML_BASEURL: https://docs.videolan.me/vlc-user
   VERSION: $CI_COMMIT_REF_NAME
 
+# Create a global cache to keep other branch and jobs pages
+cache:
+  key: one-cache-to-rule-them-all
+  paths:
+  - public
+
 pages:
   tags:
   - pages
@@ -14,10 +20,6 @@ pages:
   - mkdir -p public
   - rm -rf public/$VERSION
   - mv _build/html/$VERSION public/$VERSION
-  cache:
-    key: one-cache-to-rule-them-all
-    paths:
-    - public
   artifacts:
     paths:
     - public
@@ -32,10 +34,6 @@ redirect:
   - mkdir -p public
   - rm -rf public/index.html
   - mv _build/html/index.html public/index.html
-  cache:
-    key: one-cache-to-rule-them-all
-    paths:
-    - public
   artifacts:
     paths:
     - public
