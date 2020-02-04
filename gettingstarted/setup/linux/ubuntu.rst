@@ -17,7 +17,7 @@ Installing VLC Using Ubuntu Software center
 
 3. Click on **Install**. If required, authorize the autorization with your password. 
 
-.. figure::  /static/images/ubuntu/ubuntu_homepage.PNG
+.. figure::  /static/images/ubuntu/ubuntu_homepage.png
    :align:   center
 
 The application will automatically download and install on your Ubuntu machine.
