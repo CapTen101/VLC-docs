@@ -12,9 +12,6 @@ pages:
   artifacts:
     paths:
     - public
-  only:
-  - master
-  - 3.0
 
 # Create a global redirection from root url to the "latest" english site
 redirect:
@@ -29,5 +26,8 @@ redirect:
     paths:
     - public
   only:
-  - 3.0
+    refs:
+      - branches
+    variables:
+      - $RELEASE == "3.0"
 
