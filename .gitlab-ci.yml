@@ -30,8 +30,6 @@ redirect:
     paths:
     - public
   only:
-    refs:
-      - branches
     variables:
-      - $RELEASE == "3.0"
+      - $CI_COMMIT_REF_NAME == "3.0"
 
