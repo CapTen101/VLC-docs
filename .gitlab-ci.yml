@@ -15,6 +15,7 @@ pages:
   - rm -rf public/$VERSION
   - mv _build/html/$VERSION public/$VERSION
   cache:
+    key: one-cache-to-rule-them-all
     paths:
     - public
   artifacts:
@@ -32,6 +33,7 @@ redirect:
   - rm -rf public/index.html
   - mv _build/html/index.html public/index.html
   cache:
+    key: one-cache-to-rule-them-all
     paths:
     - public
   artifacts:
