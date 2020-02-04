@@ -12,7 +12,11 @@ pages:
   - make versioned_localized_html LANGUAGE=en
   - make versioned_redirect LANGUAGE=en
   - mkdir -p public
-  - mv _build/html/* public/
+  - rm -rf public/$VERSION
+  - mv _build/html/$VERSION public/$VERSION
+  cache:
+    paths:
+    - public
   artifacts:
     paths:
     - public
@@ -25,7 +29,11 @@ redirect:
   script:
   - make global_redirect LANGUAGE=en
   - mkdir -p public
-  - mv _build/html/* public/
+  - rm -rf public/index.html
+  - mv _build/html/index.html public/index.html
+  cache:
+    paths:
+    - public
   artifacts:
     paths:
     - public
