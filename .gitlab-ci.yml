@@ -5,8 +5,8 @@ pages:
   - pages
   stage: deploy
   script:
-  - make versioned_localized_html VERSION=$RELEASE LANGUAGE=en
-  - make versioned_redirect VERSION=$RELEASE LANGUAGE=en
+  - make versioned_localized_html VERSION=$CI_COMMIT_REF_NAME LANGUAGE=en
+  - make versioned_redirect VERSION=$CI_COMMIT_REF_NAME LANGUAGE=en
   - mkdir -p public
   - mv _build/html/* public/
   artifacts:
@@ -19,7 +19,7 @@ redirect:
   - pages
   stage: deploy
   script:
-  - make global_redirect VERSION=$RELEASE LANGUAGE=en
+  - make global_redirect VERSION=$CI_COMMIT_REF_NAME LANGUAGE=en
   - mkdir -p public
   - mv _build/html/* public/
   artifacts:
