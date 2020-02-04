@@ -7,9 +7,8 @@ SOURCEDIR     = .
 BUILDDIR      = _build
 LANGUAGE      = en
 SPHINXOPTS    = ""
-HTML_BASEURL  = file://$(shell pwd)/$(BUILDDIR)/html
-
-VERSION = $(shell git rev-parse --abbrev-ref HEAD)
+HTML_BASEURL  ?= file://$(shell pwd)/$(BUILDDIR)/html
+VERSION       ?= $(shell git rev-parse --abbrev-ref HEAD)
 
 # Put it first so that "make" without argument is like "make help".
 help:
