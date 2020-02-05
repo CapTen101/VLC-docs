@@ -9,6 +9,7 @@ LANGUAGE      = en
 SPHINXOPTS    = ""
 HTML_BASEURL  ?= file://$(shell pwd)/$(BUILDDIR)/html
 VERSION       ?= $(shell git rev-parse --abbrev-ref HEAD)
+INSTALLDIR    ?= public
 
 # master == dev == 4.0 for now
 NUMBERED_VERSION = $(subst master,4.0,$(VERSION))
@@ -34,7 +35,18 @@ versioned_localized_html:
 		-A html_baseurl='$(HTML_BASEURL)' &&\
 	mkdir -p "$(BUILDDIR)/html/$(NUMBERED_VERSION)" &&\
 	rm -rf "$(BUILDDIR)/html/$(NUMBERED_VERSION)/$(LANGUAGE)" &&\
-	mv "$(BUILDDIR)/$(NUMBERED_VERSION)/$(LANGUAGE)/html" "$(BUILDDIR)/html/$(NUMBERED_VERSION)/$(LANGUAGE)"
+	mv "$(BUILDDIR)/$(NUMBERED_VERSION)/$(LANGUAGE)/html" "$(BUILDDIR)/html/$(NUMBERED_VERSION)/$(LANGUAGE)" &&\
+	echo "Build is located in $(BUILDDIR)/html/$(NUMBERED_VERSION)/$(LANGUAGE)"
+
+install_global_redirect:
+	test -f $(BUILDDIR)/html/index.html &&\
+	cp -f $(BUILDDIR)/html/index.html $(INSTALLDIR)/index.html
+
+install_version:
+	test -d $(BUILDDIR)/html/$(NUMBERED_VERSION) &&\
+	mkdir -p $(INSTALLDIR) &&\
+	rm -rf $(INSTALLDIR)/$(NUMBERED_VERSION) &&\
+	cp -r $(BUILDDIR)/html/$(NUMBERED_VERSION) $(INSTALLDIR)/$(NUMBERED_VERSION)
 
 html: versioned_localized_html
 
@@ -43,4 +55,4 @@ html: versioned_localized_html
 %: Makefile
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
-.PHONY: help Makefile global_redirect versioned_redirect versioned_localized_html html
+.PHONY: help Makefile global_redirect versioned_redirect versioned_localized_html html install_global_redirect install_version

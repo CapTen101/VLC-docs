@@ -3,6 +3,7 @@ image: registry.videolan.org/videolan-gitlab-pages:20200201115354
 variables:
   HTML_BASEURL: https://docs.videolan.me/vlc-user
   VERSION: $CI_COMMIT_REF_NAME
+  INSTALLDIR: public
 
 # Create a global cache to keep other branch and jobs pages
 cache:
@@ -17,9 +18,7 @@ pages:
   script:
   - make versioned_localized_html LANGUAGE=en
   - make versioned_redirect LANGUAGE=en
-  - mkdir -p public
-  - rm -rf public/$VERSION
-  - mv _build/html/$VERSION public/$VERSION
+  - make install_version
   artifacts:
     paths:
     - public
@@ -31,9 +30,7 @@ redirect:
   stage: deploy
   script:
   - make global_redirect LANGUAGE=en
-  - mkdir -p public
-  - rm -rf public/index.html
-  - mv _build/html/index.html public/index.html
+  - make install_global_redirect
   artifacts:
     paths:
     - public
