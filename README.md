@@ -36,10 +36,14 @@ Sphinx uses specific reST comments to do specific operations, like defining the 
 
 ### Adding images and attachments
 
-To add images, please put them in an `images/` folder next to the .rst file with a meaningful name and include them in your page with:
+To add images, please put them in an `images/` folder with the following naming convention: if you include a picture in `/<path>/<file>.rst`, your picture must follow the path: `images/<path>/<file>_<some_title>.<extension>`.
+
+For example: if you want to include the picture `mypicture.png` in `/a/cool/path/to/myguide.rst`, move your picture file to `images/a/cool/path/to/myguide_mypicture.png`.
+
+After this, you can include it in your page with:
 
 ```rst
-.. figure::  /images/setup/vlc.png
+.. figure::  /images/a/cool/path/to/myguide_mypicture.png
    :align: center
 ```
 
