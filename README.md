@@ -2,13 +2,21 @@
 
 This repository contains the source files of [VLC](https://www.videolan.org/vlc/)'s user documentation, in reStructuredText markup language (reST).
 
-They are meant to be parsed with the [Sphinx](https://sphinx-doc.org/) documentation builder to build the HTML documentation on [VLC's website](https://vlc-user-documentation.readthedocs.io/en/latest/).
+They are meant to be parsed with the [Sphinx](https://sphinx-doc.org/) documentation builder to build the HTML user documentation on [VLC's website](https://docs.videolan.me/vlc-user/).
 
 ## Contributing changes
 
-**Pull Requests should use the `master` branch by default**
+Though arguably less convenient to edit than a wiki, this git repository is meant to receive merge requests to always improve the documentation, add new pages, etc. Having direct access to the source files in a revision control system is a big plus to ensure the quality of our documentation.
 
-Though arguably less convenient to edit than a wiki, this git repository is meant to receive pull requests to always improve the documentation, add new pages, etc. Having direct access to the source files in a revision control system is a big plus to ensure the quality of our documentation.
+## Branches organization
+
+Each branch is linked to a version of the documentation refering to a particular version of VLC. For example:
+* `3.0` branch is the documentation of VLC `3.0` version
+* `master` branch is the documentation of VLC `master` version (currently 4.0)
+
+If you have contributions that are **specific** to a **particular version** of VLC, send a merge request on the corresponding branch.
+
+If you have generic contributions that are **not specific** to a particular version of VLC, send a merge request on the `master` branch.
 
 ### Editing existing pages
 
@@ -42,8 +50,7 @@ To build the HTML website (or any other format supported by Sphinx, like PDF, EP
 Those tools are best installed using [pip](https://pip.pypa.io), Python's module installer. The Python 3 version might be provided (on Linux distros) as `pip3` or `python3-pip`. You can then run:
 
 ```sh
-pip3 install sphinx
-pip3 install sphinx_rtd_theme
+pip3 install -r requirements.txt
 ```
 
 You can then build the HTML documentation from the root folder of this repository with:
