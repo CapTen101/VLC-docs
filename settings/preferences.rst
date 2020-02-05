@@ -11,12 +11,12 @@ Where to find VLC preferences
 
 To open the Preferences panel, select :menuselection:`Tools --> Preferences`.
 
-.. figure::  /static/images/preferences.PNG
+.. figure::  /images/preferences.PNG
    :align:   center
 
 Here is the :guilabel:`Simple Preferences` panel where you can modify the essential settings of VLC. 
 
-.. figure::  /static/images/simple_preferences.PNG
+.. figure::  /images/simple_preferences.PNG
    :align:   center
 
 ********************************

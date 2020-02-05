@@ -14,25 +14,25 @@ To bookmark a scene in a video, follow the steps below:
 
 1. On the menu bar, click on :menuselection:`Menu --> Playback`.
 
-.. figure:: /static/images/userguides/home_playback.PNG
+.. figure:: /images/userguides/home_playback.PNG
    :align: center
 
 2. Select :guilabel:`Custom Bookmarks`. When you click on :guilabel:`Custom Bookmarks`, a dropdown menu would be displayed. Kindly click on :guilabel:`Manage`
    from the dropdown menu to open the :guilabel:`Edit Bookmarks` dialog box.
 
-.. figure::  /static/images/userguides/custom_bookmarks.PNG
+.. figure::  /images/userguides/custom_bookmarks.PNG
    :align: center
 
 3. To create a bookmark, click on :guilabel:`Create` to display the current track. After clicking on :guilabel:`Create`, the
    created bookmark appears in the :guilabel:`Edit Bookmarks` dialog box.
 
-.. figure::  /static/images/userguides/edit_bookmarks.PNG
+.. figure::  /images/userguides/edit_bookmarks.PNG
    :align:  center
 
 4. To view a scene that is bookmarked, click on :guilabel:`Playlist`, and select the :guilabel:`Custom Bookmarks` from the dropdown menu and the bookmarked 
    file will be shown directly below :guilabel:`Manage`.
 
-.. figure::  /static/images/userguides/bookmarked.PNG
+.. figure::  /images/userguides/bookmarked.PNG
    :align:  center
 
 *****
@@ -74,7 +74,7 @@ This option is used to go to a specific frame in a media file and listen or view
 3. Click on the :guilabel:`Go` button. The control moves the tracker to a specific frame and the media file continues from that specified frame.
 4. Click on :guilabel:`Cancel` to exit the dialog box.
 
-.. figure::  /static/images/userguides/jumptotime.PNG
+.. figure::  /images/userguides/jumptotime.PNG
    :align:  center
 
 .. warning:: Ensure that time limit is within the range of length of the media file.
