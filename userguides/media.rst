@@ -13,19 +13,19 @@ To play a file, open the :guilabel:`Media menu` as seen in the picture below:
 
 Then select the :guilabel:`Open File` menu item.
 
-.. figure::  /images/userguides/open_file.png
+.. figure::  /images/userguides/media_open_file.png
    :align:   center
 
 An Open File dialog box will appear. Select the file you want to open and select :guilabel:`Open`.
 
-.. figure::  /images/userguides/movie.png
+.. figure::  /images/userguides/media_movie.png
    :align:   center
 
 After you click :guilabel:`Open`, VLC will then start playing the designated file. 
 
 An alternative to the aforementioned step is to simply drag and drop your file into the VLC main interface or the playlist window from the :program:`File explorer` on Windows and :program:`Finder` on Mac OS X
 
-.. figure::  /images/userguides/main_media.png
+.. figure::  /images/userguides/media_main.png
    :align:   center
 
 ****************************
@@ -34,12 +34,12 @@ Playing a CD/DVD/VCD/Blu-ray
 
 To play a CD, VCD or a DVD, open the :menuselection:`Media --> Open Disc` menu item.
 
-.. figure::  /images/userguides/open_disc.png
+.. figure::  /images/userguides/media_open_disc.png
    :align:   center
 
 In the :guilabel:`Open Disk` dialog box as shown in the diagram below, select your preferred media type (DVD, Blu-ray, Audio CD, or SVCD/VCD).
 
-.. figure::  /images/userguides/disc.png
+.. figure::  /images/userguides/media_disc.png
    :align:   center
 
 You can either select the drive in which the media is located by selecting the drive letter from the :guilabel:`Disc Device` drop-down list, or you can click the :guilabel:`Browse` button, which will open a 
@@ -48,12 +48,12 @@ dialog box that you can use to browse for the media you wish to play with VLC. T
 If you want to start the DVD or VCD playback from a given title and chapter instead of from the beginning, you can set it using the :guilabel:`Title and Chapter` selectors. 
 You can also set the Audio and Subtitles track using the selectors.
 
-.. figure::  /images/userguides/starting_positions.png
+.. figure::  /images/userguides/media_starting_positions.png
    :align:   center
 
 Click :guilabel:`Play` to start the playlist or :guilabel:`Cancel` to go back to the default screen of VLC.
 
-.. figure::  /images/userguides/play.png
+.. figure::  /images/userguides/media_play.png
    :align:   center
 
 ************************
@@ -68,13 +68,13 @@ VideoLan is designed to stream MPEG videos on high bandwidth networks. VLC can b
 MPEG-4 files, DVDs and live videos on the network in :term:`Unicast` or :term:`Multicast`. VLC is also used as a client to receive, decode and display MPEG streams. MPEG-1, MPEG-2 and MPEG-4 streams received from
 the network or an external device can be sent to one machine or a group of machines.
 
-.. figure::  /images/interface/Streamingdiag.jpg
+.. figure::  /images/userguides/media_old_diag.jpg
    :align:   center
 
 To play a network stream, click on :menuselection:`Media` on the menu bar and select :menuselection:`Open Network Stream`. 
 The Open Media dialog box loads with the Network tab selected. In the tab, enter a network URL in the text box and click on :guilabel:`Play`.
 
-.. figure::  /images/userguides/network.png
+.. figure::  /images/userguides/media_network.png
    :align:   center
 
 .. note:: When VLC plays a stream, the track slider shows the progress of the streamed file.
@@ -85,7 +85,7 @@ Playing media from an acquisition card
 
 To play from an acquisition card, click on the :menuselection:`Media menu --> Open Capture Device` menu as seen in the screenshot below.
 
-.. figure::  /images/userguides/home_capturedevice.png
+.. figure::  /images/userguides/media_home_capturedevice.png
    :align:   center
 
 After clicking on :guilabel:`Open Capture Device`, a dialog box will be 

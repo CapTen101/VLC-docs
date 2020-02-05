@@ -21,7 +21,7 @@ for the file and select :guilabel:`Disable` to turn off the subtitles. Depending
 
 To disable subtitles by default, go to :menuselection:`Tools --> Preferences --> Subtitles/OSD`, then uncheck the :guilabel:`Enable subtitles` checkbox and click :guilabel:`Save`.
 
-.. figure::  /images/userguides/subtitle.png
+.. figure::  /images/userguides/subtitles_subtitle.png
    :align:   center
 
 **DVD** and **SVCD** subtitles are merely images, so you won't be able to change anything for them. 
@@ -34,7 +34,7 @@ Font modifications
 Text rendering options can be changed in the :menuselection:`Tools --> Preferences` tab. To change the font type and size, click on 
 :menuselection:`Videos --> Subtitles/OSD` and from the dropdown menu of :guilabel:`Font` and :guilabel:`Font size`, choose your preferences.
 
-.. figure::  /images/userguides/preferences_subtitles.jpg
+.. figure::  /images/userguides/subtitles_preferences.jpg
    :align:   center
 
 You need to restart your stream for the font modifications to take effect.
@@ -59,7 +59,7 @@ VLC can handle these types of subtitles files:
 To open and use a subtitles file, click on the :guilabel:`use a subtitle file` check box as seen in the picture below from the dialog box that appears when you click on :guilabel:`Open Multiple Files...`
 and select your file by clicking on the :guilabel:`Browse` button. There is also an option to set character encoding, alignment and size.
 
-.. figure::  /images/userguides/use_subtitle.png
+.. figure::  /images/userguides/subtitles_use_subtitle.png
    :align:   center
 
 An alternative is loading subtitles from the :menuselection:`Video --> Subtitle Track` menu.

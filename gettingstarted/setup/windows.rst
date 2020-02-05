@@ -10,7 +10,7 @@ Windows
 
 3. Once it is downloaded, double click on the VLC setup file to begin the installation process. You'll find it in the default downloads location for your browser.
 
-.. figure::  /images/download.png
+.. figure::  /images/gettingstarted/setup/windows_download.png
    :align:   center
 
 .. note::
@@ -19,37 +19,37 @@ Windows
 
 4. Click on the drop-down box and select the language that you want the installer to use to display information to you and click **OK** to proceed.
 
-.. figure::  /images/language.png
+.. figure::  /images/gettingstarted/setup/windows_language.png
    :align:   center
    
 5. The VLC installer recommends that you close all other applications before continuing the installation process (this is not com[ulsory]). When you're ready to proceed with the installation process, click **Next**
 
-.. figure::  /images/welcome.png
+.. figure::  /images/gettingstarted/setup/windows_welcome.png
    :align:   center
 
 6. Click **Next** on the setup guide displayed on your Windows pc.
 
-.. figure::  /images/components.png
+.. figure::  /images/gettingstarted/setup/windows_components.png
    :align:   center
 
 7. Click **Browse** to choose a destination installation folder of your choice. After you've identified the desired folder, click **Install**. Doing so installs VLC media player on your computer. 
 
-.. figure::  /images/location.png
+.. figure::  /images/gettingstarted/setup/windows_location.png
    :align:   center
 
 8. After a few minutes, the VLC media player will be successfully installed in your PC. You can see more information about the progress of the installation by clicking on **Show details**.
 
-.. figure::  /images/installation.png
+.. figure::  /images/gettingstarted/setup/windows_installation.png
    :align:   center
 
 9. Once the installation is complete, you can run it by making sure the "Run VLC media player" box is checked and clicking **Finish**. When you want to run VLC in the future, you'll have to double-click the VLC app icon on your desktop.
 
-.. figure::  /images/setupcomplete.png
+.. figure::  /images/gettingstarted/setup/windows_setupcomplete.png
    :align: center
 
 10. If you marked the **Run VLC media player** checkbox, the VLC media player will open up immediately after you click on **Finish**.
 
-.. figure::  /images/vlc.png
+.. figure::  /images/gettingstarted/setup/windows_vlc.png
    :align: center
 
 After downloading VLC on your deskptop or mobile phone, follow the guide below to start using VLC. The VLC media palyer is shown along with an orange and white cone shown below.

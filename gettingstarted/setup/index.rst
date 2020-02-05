@@ -31,32 +31,32 @@ It is able to stream media over computer networks and to transcode multimedia fi
 
       .. container:: descr
 
-         .. figure:: /images/windows.jpg
+         .. figure:: /images/gettingstarted/setup/index_windows.jpg
             :target: windows.html
 
       .. container:: descr
 
-         .. figure:: /images/macos.jpg
+         .. figure:: /images/gettingstarted/setup/index_macos.jpg
             :target: macos.html
 
       .. container:: descr
 
-         .. figure:: /images/linux.png
+         .. figure:: /images/gettingstarted/setup/index_linux.png
             :target: linux/index.html
 
       .. container:: descr
 
-         .. figure:: /images/freebsd.jpg
+         .. figure:: /images/gettingstarted/setup/index_freebsd.jpg
             :target: freebsd.html
 
       .. container:: descr
 
-         .. figure:: /images/android.jpg
+         .. figure:: /images/gettingstarted/setup/index_android.jpg
             :target: android.html
 
       .. container:: descr
 
-         .. figure:: /images/ios.jpg
+         .. figure:: /images/gettingstarted/setup/index_ios.jpg
             :target: ios.html
 
 .. only:: latex or epub or singlehtml

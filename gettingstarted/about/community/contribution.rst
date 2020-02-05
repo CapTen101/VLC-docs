@@ -78,13 +78,13 @@ If you encounter problems or if you have questions, you can `contact us <https:/
 Use this address: *41gP4569HkeAJPcqSTizJYiMcMZVQekGvAAgAucaVCwaNsm
 bSrkcFY41w4FwgtD6N5XLV88xwrLjn87dpjUbtZJoDUuSeJF* or the QR-Code below:
 
-.. figure::  /images/barcode.png
+.. figure::  /images/gettingstarted/about/community/contribution_barcode.png
 
 
 **Donate to VideoLAN using Bitcion**
 
 Use this address: *3EowKLZ7Gf86BrHad7XXNpFk8jfXBeNPuF* or the QR-Code below 
 
-.. figure::  /images/qrcode.png
+.. figure::  /images/gettingstarted/about/community/contribution_qrcode.png
 
 

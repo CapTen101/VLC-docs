@@ -6,37 +6,37 @@ iOS
 
 1. Open your iPhone's App Store.
 
-.. figure::  /images/ios/playstore.png
+.. figure::  /images/gettingstarted/setup/ios_playstore.png
    :align:   center
    :width: 30%
 
 2. Type in vlc on the **Search** bar, then tap the blue **Search** button in the lower-right side of your keyboard.
 
-.. figure::  /images/ios/search.png
+.. figure::  /images/gettingstarted/setup/ios_search.png
    :align:   center
    :width: 30%
 
 3. After the search result has been displayed, click on **VLC for Mobile**.
 
-.. figure::  /images/ios/search_result.png
+.. figure::  /images/gettingstarted/setup/ios_search_result.png
    :align:   center
    :width: 30%
 
 4. Click on the **GET** button at the right of the **VLC for Mobile** heading.
 
-.. figure::  /images/ios/download_vlc.png
+.. figure::  /images/gettingstarted/setup/ios_download_vlc.png
    :align:   center
    :width: 30%
 
 5. Enter your Touch ID or Apple ID password when prompted or use your fingerprints.Doing so will allow VLC to begin installing onto your iPhone. 
 
-.. figure::  /images/ios/approve_download.png
+.. figure::  /images/gettingstarted/setup/ios_approve_download.png
    :align:   center
    :width: 30%
 
 6. You can open VLC immediately after it downloads by tapping OPEN in the App Store.
 
-.. figure::  /images/ios/open_from_playstore.jpg
+.. figure::  /images/gettingstarted/setup/ios_open_from_playstore.jpg
    :align:   center
    :width: 50%
 

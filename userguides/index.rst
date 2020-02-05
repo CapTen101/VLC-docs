@@ -5,7 +5,7 @@ User Guides
 
 .. toctree::
    :maxdepth: 3
-   :name: toc-userguide
+   :name: toc-userguides
    
    media.rst
    playback.rst
