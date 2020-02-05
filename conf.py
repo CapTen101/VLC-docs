@@ -19,8 +19,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'VLC User Documentation'
-copyright = '2019, Edidiong Asikpo'
-author = 'Edidiong Asikpo'
+copyright = '2020, VideoLAN'
+author = 'VideoLAN Team'
 
 # The full version, including alpha/beta/rc tags
 release = None 
