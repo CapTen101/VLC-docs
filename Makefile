@@ -36,9 +36,11 @@ versioned_localized_html:
 	rm -rf "$(BUILDDIR)/html/$(NUMBERED_VERSION)/$(LANGUAGE)" &&\
 	mv "$(BUILDDIR)/$(NUMBERED_VERSION)/$(LANGUAGE)/html" "$(BUILDDIR)/html/$(NUMBERED_VERSION)/$(LANGUAGE)"
 
+html: versioned_localized_html
+
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
 %: Makefile
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
-.PHONY: help Makefile global_redirect versioned_redirect versioned_html_lang
+.PHONY: help Makefile global_redirect versioned_redirect versioned_localized_html html
