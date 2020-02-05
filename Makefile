@@ -10,6 +10,9 @@ SPHINXOPTS    = ""
 HTML_BASEURL  ?= file://$(shell pwd)/$(BUILDDIR)/html
 VERSION       ?= $(shell git rev-parse --abbrev-ref HEAD)
 
+# master == dev == 4.0 for now
+NUMBERED_VERSION = $(subst master,4.0,$(VERSION))
+
 # Put it first so that "make" without argument is like "make help".
 help:
 	@$(SPHINXBUILD) -M help "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
@@ -17,21 +20,21 @@ help:
 # Create a global redirection to the VERSION/LANGUAGE of documentation
 global_redirect:
 	mkdir -p "$(BUILDDIR)/html/" &&\
-	sed 's;REDIRECT;./$(VERSION)/$(LANGUAGE)/index.html;g' root_template/redirect.html > "$(BUILDDIR)/html/index.html"
+	sed 's;REDIRECT;./$(NUMBERED_VERSION)/$(LANGUAGE)/index.html;g' root_template/redirect.html > "$(BUILDDIR)/html/index.html"
 
 # Create a redirection to the LANGUAGE version of the documentation
 versioned_redirect:
-	mkdir -p "$(BUILDDIR)/html/$(VERSION)" &&\
-	sed 's;REDIRECT;./$(LANGUAGE)/index.html;g' root_template/redirect.html > "$(BUILDDIR)/html/$(VERSION)/index.html"
+	mkdir -p "$(BUILDDIR)/html/$(NUMBERED_VERSION)" &&\
+	sed 's;REDIRECT;./$(LANGUAGE)/index.html;g' root_template/redirect.html > "$(BUILDDIR)/html/$(NUMBERED_VERSION)/index.html"
 
 versioned_localized_html:
-	@$(SPHINXBUILD) -M html "$(SOURCEDIR)" "$(BUILDDIR)/$(VERSION)/$(LANGUAGE)" \
-		-D language='$(LANGUAGE)' -D release='$(VERSION)' \
+	@$(SPHINXBUILD) -M html "$(SOURCEDIR)" "$(BUILDDIR)/$(NUMBERED_VERSION)/$(LANGUAGE)" \
+		-D language='$(LANGUAGE)' -D release='$(NUMBERED_VERSION)' \
 	        -D html_baseurl='$(HTML_BASEURL)' \
 		-A html_baseurl='$(HTML_BASEURL)' &&\
-	mkdir -p "$(BUILDDIR)/html/$(VERSION)" &&\
-	rm -rf "$(BUILDDIR)/html/$(VERSION)/$(LANGUAGE)" &&\
-	mv "$(BUILDDIR)/$(VERSION)/$(LANGUAGE)/html" "$(BUILDDIR)/html/$(VERSION)/$(LANGUAGE)"
+	mkdir -p "$(BUILDDIR)/html/$(NUMBERED_VERSION)" &&\
+	rm -rf "$(BUILDDIR)/html/$(NUMBERED_VERSION)/$(LANGUAGE)" &&\
+	mv "$(BUILDDIR)/$(NUMBERED_VERSION)/$(LANGUAGE)/html" "$(BUILDDIR)/html/$(NUMBERED_VERSION)/$(LANGUAGE)"
 
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
