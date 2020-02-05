@@ -8,24 +8,24 @@ Playing a file
 
 To play a file, open the :guilabel:`Media menu` as seen in the picture below:
 
-.. figure::  /images/userguides/media_homepage.PNG
+.. figure::  /images/userguides/media_homepage.png
    :align:   center
 
 Then select the :guilabel:`Open File` menu item.
 
-.. figure::  /images/userguides/open_file.PNG
+.. figure::  /images/userguides/open_file.png
    :align:   center
 
 An Open File dialog box will appear. Select the file you want to open and select :guilabel:`Open`.
 
-.. figure::  /images/userguides/movie.PNG
+.. figure::  /images/userguides/movie.png
    :align:   center
 
 After you click :guilabel:`Open`, VLC will then start playing the designated file. 
 
 An alternative to the aforementioned step is to simply drag and drop your file into the VLC main interface or the playlist window from the :program:`File explorer` on Windows and :program:`Finder` on Mac OS X
 
-.. figure::  /images/userguides/main_media.PNG
+.. figure::  /images/userguides/main_media.png
    :align:   center
 
 ****************************
@@ -34,12 +34,12 @@ Playing a CD/DVD/VCD/Blu-ray
 
 To play a CD, VCD or a DVD, open the :menuselection:`Media --> Open Disc` menu item.
 
-.. figure::  /images/userguides/open_disc.PNG
+.. figure::  /images/userguides/open_disc.png
    :align:   center
 
 In the :guilabel:`Open Disk` dialog box as shown in the diagram below, select your preferred media type (DVD, Blu-ray, Audio CD, or SVCD/VCD).
 
-.. figure::  /images/userguides/disc.PNG
+.. figure::  /images/userguides/disc.png
    :align:   center
 
 You can either select the drive in which the media is located by selecting the drive letter from the :guilabel:`Disc Device` drop-down list, or you can click the :guilabel:`Browse` button, which will open a 
@@ -48,12 +48,12 @@ dialog box that you can use to browse for the media you wish to play with VLC. T
 If you want to start the DVD or VCD playback from a given title and chapter instead of from the beginning, you can set it using the :guilabel:`Title and Chapter` selectors. 
 You can also set the Audio and Subtitles track using the selectors.
 
-.. figure::  /images/userguides/starting_positions.PNG
+.. figure::  /images/userguides/starting_positions.png
    :align:   center
 
 Click :guilabel:`Play` to start the playlist or :guilabel:`Cancel` to go back to the default screen of VLC.
 
-.. figure::  /images/userguides/play.PNG
+.. figure::  /images/userguides/play.png
    :align:   center
 
 ************************
@@ -74,7 +74,7 @@ the network or an external device can be sent to one machine or a group of machi
 To play a network stream, click on :menuselection:`Media` on the menu bar and select :menuselection:`Open Network Stream`. 
 The Open Media dialog box loads with the Network tab selected. In the tab, enter a network URL in the text box and click on :guilabel:`Play`.
 
-.. figure::  /images/userguides/network.PNG
+.. figure::  /images/userguides/network.png
    :align:   center
 
 .. note:: When VLC plays a stream, the track slider shows the progress of the streamed file.
@@ -85,7 +85,7 @@ Playing media from an acquisition card
 
 To play from an acquisition card, click on the :menuselection:`Media menu --> Open Capture Device` menu as seen in the screenshot below.
 
-.. figure::  /images/userguides/home_capturedevice.PNG
+.. figure::  /images/userguides/home_capturedevice.png
    :align:   center
 
 After clicking on :guilabel:`Open Capture Device`, a dialog box will be 

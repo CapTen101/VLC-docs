@@ -18,13 +18,13 @@ You can download a variety of skins `here <https://www.videolan.org/vlc/download
 Then open VLC on your computer, go to the :guilabel:`Menu` bar and click on :menuselection:`Tools --> Preferences --> Interface` and change your look and feel from 
 :guilabel:`Use native style` to :guilabel:`Use custom skin`. 
 
-.. figure::  /images/skins.PNG
+.. figure::  /images/skins.png
    :align:   center
 
 The option of locating your desired skin should appear now, click on the :guilabel:`Choose` button and then the downloaded :file:`.VLT` file you had copied to 
 :file:`C:\\Program Files\\VideoLAN\\VLC\\skins` on Windows and :file:`~/.local/share/vlc/skins2` on Linux/Unix.
 
-.. figure::  /images/choose_skins.PNG
+.. figure::  /images/choose_skins.png
    :align:   center
 
 .. note:: You need to restart VLC to see the newly changed skin mode.

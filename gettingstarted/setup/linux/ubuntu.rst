@@ -10,7 +10,7 @@ Installing VLC Using Ubuntu Software center
 
 1. Click on the **Show Applications** button or search for **Software** on the search bar and open it.
 
-.. figure::  /images/ubuntu/software.PNG
+.. figure::  /images/ubuntu/software.png
    :align:   center
 
 2. Click the search button 🔎 on the top right and search for VLC.
@@ -39,7 +39,7 @@ The application will automatically download and install on your Ubuntu machine.
 
 .. 2. Click on **Download VLC** to download the VLC media player automatically onto your computer.
 
-.. .. figure::  /images/ubuntu/download.PNG
+.. .. figure::  /images/ubuntu/download.png
 ..    :align:   center
    
 .. 3. Open the Ubunto Software `website <https://ubuntu.com/desktop>`_
@@ -64,7 +64,7 @@ Download VLC through your Command Prompt
 
 2. On the search bar, type in **Terminal**, and open it.
 
-.. figure::  /images/ubuntu/terminal.PNG
+.. figure::  /images/ubuntu/terminal.png
    :align:   center
 
 3. On your terminal, run the following commands ``sudo apt-get update`` and provide the sudo password for authentication

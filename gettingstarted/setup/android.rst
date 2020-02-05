@@ -6,7 +6,7 @@ Android
 
 1. Open your Android's Google Play Store. 
 
-.. figure::  /images/android/playstore.PNG
+.. figure::  /images/android/playstore.png
    :align: center
    :width: 30%
 
@@ -24,7 +24,7 @@ Android
 
 4. On the right side of the page, click on **INSTALL**.
 
-.. figure::  /images/android/vlc_playstore.jpeg
+.. figure::  /images/android/vlc_playstore.jpg
    :align: center
    :width: 30%
 
@@ -32,19 +32,19 @@ Android
 
 6. Wait for few minutes for the VLC media player to be installed on your phone. 
 
-.. figure::  /images/android/waitingfor_installation.jpeg
+.. figure::  /images/android/waitingfor_installation.jpg
    :align: center
    :width: 30%
 
 6. You can open VLC directly from within the Play Store by clicking on **Open**.
 
-.. figure::  /images/android/installation_complete.jpeg
+.. figure::  /images/android/installation_complete.jpg
    :align: center
    :width: 30%
 
 7. If you clicked on **Open**, the VLC media player will be opened automatically on your phone. 
 
-.. figure::  /images/android/welcome_to_vlc.jpeg
+.. figure::  /images/android/welcome_to_vlc.jpg
    :align: center
    :width: 30%
 

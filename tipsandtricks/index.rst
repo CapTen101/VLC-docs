@@ -33,22 +33,22 @@ Streaming Media Files
 
 To stream over a network with VLC, go to :menuselection:`Media menu --> Stream`
 
-.. figure::  /images/tipsandtricks/stream.PNG
+.. figure::  /images/tipsandtricks/stream.png
    :align:   center
 
 In the :guilabel:`Open Media` dialog, select the media (such as a file, a network stream, a disk or a capture device) you want to stream. 
 
-.. figure::  /images/tipsandtricks/open_media.PNG
+.. figure::  /images/tipsandtricks/open_media.png
    :align:   center
 
 After you've choosen your prefered media file, click on the :guilabel:`Stream` button to display the :guilabel:`Stream Output`. 
 
-.. figure::  /images/tipsandtricks/stream_output.PNG
+.. figure::  /images/tipsandtricks/stream_output.png
    :align:   center
 
 The :guilabel:`Stream Output` displays the media source you selected so click :guilabel:`Next` to continue.
 
-.. figure::  /images/tipsandtricks/destination_setup.PNG
+.. figure::  /images/tipsandtricks/destination_setup.png
    :align:   center
 
 The following streaming methods are available for use with VLC: :term:`Display locally`, :term:`File`
@@ -61,12 +61,12 @@ After you click Next, a dialog box of transcoding options would be displayed on 
 transcoding profile that fits the codecs and access method of your stream (such as MPEG-TS, MPEG-PS, MPEG-1, Ogg, Raw, ASF, AVI, 
 MP4 and MOV) and click the :guilabel:`Next` button to continue. 
 
-.. figure::  /images/tipsandtricks/transcoding_options.PNG
+.. figure::  /images/tipsandtricks/transcoding_options.png
    :align:   center
 
 Finally, set up any additonal options for streaming then click on :guilabel:`Stream` to start streaming.
 
-.. figure::  /images/tipsandtricks/miscellaneous_options.PNG
+.. figure::  /images/tipsandtricks/miscellaneous_options.png
    :align:   center
 
 *************
@@ -82,7 +82,7 @@ Follow the steps below to get started:
 4. Click on the check box and choose the number of columns and rows that you want and press :guilabel:`Close` to save the newly made changes. 
 5. If you were already playing a video, the video will automatically change to Jigsaw puzzle for you to play. If you were not playing a video before enabling this feature, open a video file and the video will automatically be displayed in the Jigsaw puzzle format as seen in the screenshot below.
 
-.. figure::  /images/tipsandtricks/jigsawpuzzle.PNG
+.. figure::  /images/tipsandtricks/jigsawpuzzle.png
    :align:   center
 
 Feel free to play the Jigsaw puzzle while watching any video of your choice.
@@ -94,6 +94,6 @@ Take A Snapshot
 Ever need to take a snapshot of a video you are watching? VLC has a way to do so. Simply use the shortcut :kbd:`Shift+S` on Windows and Linux or :kbd:`Cmd+Alt+S` on macOS. 
 The image is captured in the .png picture format and is saved in the :file:`C:\\My Pictures` folder by default (:file:`C:\\Users\\Username\\Pictures`).
 
-.. figure::  /images/tipsandtricks/snapshot.PNG
+.. figure::  /images/tipsandtricks/snapshot.png
    :align:   center
 

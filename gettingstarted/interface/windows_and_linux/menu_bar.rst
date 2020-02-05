@@ -111,5 +111,5 @@ In this menu, you can:
 2. Check for updates to VLC.
 3. View the credits and licenses for VLC.
 
-.. figure::  /images/interface/help_windows.PNG
+.. figure::  /images/interface/help_windows.png
    :align:   center

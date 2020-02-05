@@ -39,7 +39,7 @@ Sphinx uses specific reST comments to do specific operations, like defining the 
 To add images, please put them in an `images/` folder next to the .rst file with a meaningful name and include them in your page with:
 
 ```rst
-.. figure::  /images/setup/vlc.PNG
+.. figure::  /images/setup/vlc.png
    :align: center
 ```
 

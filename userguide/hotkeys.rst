@@ -32,20 +32,20 @@ Jump forward     Shift + Right
 Full List
 *********
 
-.. figure::  /images/userguides/hotkey_one.PNG
+.. figure::  /images/userguides/hotkey_one.png
    :align:   center
 
-.. figure::  /images/userguides/hotkey_two.PNG
+.. figure::  /images/userguides/hotkey_two.png
    :align:   center
 
-.. figure::  /images/userguides/hotkey_three.PNG
+.. figure::  /images/userguides/hotkey_three.png
    :align:   center
 
-.. figure::  /images/userguides/hotkey_four.PNG
+.. figure::  /images/userguides/hotkey_four.png
    :align:   center
 
-.. figure::  /images/userguides/hotkey_five.PNG
+.. figure::  /images/userguides/hotkey_five.png
    :align:   center
 
-.. figure::  /images/userguides/hotkey_six.PNG
+.. figure::  /images/userguides/hotkey_six.png
    :align:   center

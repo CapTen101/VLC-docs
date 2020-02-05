@@ -22,7 +22,7 @@ If you want to install an extension directly from your VLC media player, then fo
 
 2. On the menu bar, select :menuselection:`Tools --> Plugins and extensions`.
 
-.. figure::  /images/plugins&extensions.PNG
+.. figure::  /images/plugins&extensions.png
    :align:   center
 
 3. On the :guilabel:`Plugins and extensions` dialogue box, you will find all the extensions and plugins created by third parties for VLC. If you cant find any, click on the :guilabel:`find more add-ons online`. This will sync VLC withe the addons avaliable on our official `VLC addon website <http://addons.videolan.org>`_. 

@@ -16,12 +16,12 @@ To play a track, follow the steps below:
 
 1. Select the :menuselection:`Media --> Open File` menu.
 
-.. figure::  /images/userguides/open_file.PNG
+.. figure::  /images/userguides/open_file.png
    :align:   center
 
 2. Select an audio file and click on the :guilabel:`Open` button. Immediately after that, the selected track will be played on my VLC.
 
-.. figure::  /images/userguides/audio_windows.PNG
+.. figure::  /images/userguides/audio_windows.png
    :align:   center
 
 ***********************************
@@ -78,7 +78,7 @@ To listen to an audio track in either the Stereo or Mono mode:
 3. Select :menuselection:`Audio --> Audio Device --> Mono` if you want to listen to the audio track in the Mono mode.
 4. Select :menuselection:`Audio --> Audio Device --> Stereo` if you want to listen to the audio track in the Stereo mode.
 
-.. figure::  /images/userguides/stereo.PNG
+.. figure::  /images/userguides/stereo.png
    :align:   center
 
 ***************
@@ -96,7 +96,7 @@ The different visual effects available are:
 * :guilabel:`projectM`
 * :guilabel:`3D Spectrum`
 
-.. figure::  /images/userguides/visualization.PNG
+.. figure::  /images/userguides/visualization.png
    :align:   center
    
 To disable visualizations, click on :menuselection:`Visualizations --> Disable` drop down menu.

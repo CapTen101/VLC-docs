@@ -8,29 +8,29 @@ Mac OS X
 
 2. Click on **Download VLC** to download the VLC media player automatically onto your computer.
 
-.. figure::  /images/macdownload.PNG
+.. figure::  /images/macdownload.png
    :align:   center
 
 3. If prompted, select a download location. Else, skip this step. 
 
-.. figure::  /images/macsave.PNG
+.. figure::  /images/macsave.png
    :align:   center
 
 4. Once it is downloaded, go to the folder into which your browser downloads files, then double-click the VLC DMG file. This will open the installation window.
 
 5. Click and drag the VLC app icon onto the **Applications** folder. The "Applications" folder is on the right side of the window, while the traffic cone-shaped VLC app icon is on the left. Doing so will install VLC on your computer.
 
-.. figure::  /images/applicationfolder.PNG
+.. figure::  /images/applicationfolder.png
    :align:   center
 
 6. Double click on VLC media player app icon and wait for your mac to verify VLC.
 
-.. figure::  /images/macverification.PNG
+.. figure::  /images/macverification.png
    :align:   center
 
 7. Click **Open** when prompted. VLC Media Player will launch for the first time. Use it to play all your media with ease.
 
-.. figure::  /images/machome.PNG
+.. figure::  /images/machome.png
    :align:   center
 
 After downloading VLC on your deskptop or mobile phone, follow the guide below to start using VLC. The VLC media palyer is shown along with an orange and white cone shown below. Start VLC from the applications menu or the system dock.
