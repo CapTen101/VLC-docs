@@ -21,7 +21,7 @@ msgstr ""
 # cef7aead67014c369335cccbacfc03cc
 #: ../../index.rst:8
 msgid "VLC |release| User Documentation"
-msgstr ""
+msgstr "Documentation Utilisateur de VLC |release|"
 
 # 41f398cd863049f89b929f5459a31937
 #: ../../index.rst:10
@@ -33,21 +33,27 @@ msgid ""
 "version of VLC on our `website <https://www.videolan.org/vlc/#download>`_"
 " for free."
 msgstr ""
+"`VLC media player <https://www.videolan.org/vlc/>`_ (souvent appelé sobrement "
+"**VLC**) est un lecteur multimédia, ainsi qu'une suite logicielle (framework) "
+"multi-plateforme, libre et open source. Il permet de jouer la plupart des "
+"fichiers multimédias ainsi que les DVDs, les CDs Audio, les VCDs, et un grand "
+"nombre de protocoles de diffusion. Vous pouvez télécharger gratuitement la "
+"dernière verison de VLC sur notre `site web <https://www.videolan.org/vlc/#download>`_."
 
 # 1aa7a2c062a546658e318343d933572f
 #: ../../index.rst:14
 msgid "Key Features"
-msgstr ""
+msgstr "Fonctionnalités"
 
 # 4fc9fb4d2c6541039b2d8ce799a00d6b
 #: ../../index.rst:16
 msgid "VLC plays Files, Discs, Webcams, Devices and Streams."
-msgstr ""
+msgstr "VLC lit la plupart des Fichiers, Disques, Caméras, Périphériques d'acquisition et les Flux multimédia."
 
 # a2db1da230f147ae9c604a05231f300c
 #: ../../index.rst:17
 msgid "VLC runs on all platforms and is completely free."
-msgstr ""
+msgstr "VLC fonctionne sur toutes les plateformes tout en étant libre et gratuit."
 
 # 5d865805a1cd4ec6ab9533b15b1c8534
 #: ../../index.rst:18
@@ -55,6 +61,8 @@ msgid ""
 "It has the most complete feature-set over the video, subtitle "
 "synchronisation, video and audio filters."
 msgstr ""
+"Il possède le panel de fonctionnalités le plus complet autour de la vidéo, des sous-titres "
+"et leur synchronisation, ainsi que les filtres audio et vidéo."
 
 # 8b92da0bff364fc9be67c7e1529d58dc
 #: ../../index.rst:19
@@ -62,16 +70,18 @@ msgid ""
 "It has hardware decoding on most platforms. It supports 0-copy on the GPU"
 " and can fallback on software when required."
 msgstr ""
+"Il est capable d'utiliser les capacités d'accélération matérielle sur la plupart des plateformes. Il utilise la fonction zero-copy sur les cartes graphiques"
+" et peut se replier sur le décodage logiciel quand cela est nécessaire."
 
 # 5e5748f6894a4d0aaafd0b383582e6a4
 #: ../../index.rst:20
 msgid "No spywares, ads and user tracking are allowed on the VLC media player."
-msgstr ""
+msgstr "Aucun logiciel malveillant, aucune publicité ni aucun système de surveillance de l'utilisateur n'est intégré à VLC media player."
 
 # 5a720a39a32f4ecbba8e9cef30048a5c
 #: ../../index.rst:21
 msgid "Advanced formats are allowed on VLC."
-msgstr ""
+msgstr "VLC permet la lecture de formats avancés très spécifiques."
 
 # 9c5c8c0f02c8492ab6f434c8616e3160
 #: ../../index.rst:22
@@ -79,11 +89,13 @@ msgid ""
 "VLC lets you apply audio effects, video effects, and tweak the way a "
 "video’s audio and video line up."
 msgstr ""
+"VLC vous permet d'appliquer toutes sortes d'effets audio et vidéo, et de modifier le décalage "
+"entre audio et vidéo d'un média."
 
 # ea384289778649adbfcb5f1768503154
 #: ../../index.rst:27
 msgid "First Steps"
-msgstr ""
+msgstr "Prise en main"
 
 # 98239563778142058524728abe85273e
 #: ../../index.rst:29
@@ -91,6 +103,8 @@ msgid ""
 "To get the most out of the VLC media player, start by reviewing a few "
 "introductory topics below;"
 msgstr ""
+"Afin de profiter au maximum de ce que VLC media player peut vous apporter, vous pouvez parcourir "
+"les quelques sujets suivants:"
 
 # 72e7327fb1644903b2f1bc40cf57df28
 #: ../../index.rst:31
@@ -98,6 +112,8 @@ msgid ""
 ":ref:`Setup <setup>` - Quickly find and install the appropriate VLC media"
 " player for your platform."
 msgstr ""
+":ref:`Mise en place <setup>` - Pour rapidement trouver et installer la version de VLC media "
+"player adaptée à votre plateforme."
 
 # 1113cd6530514f438c02dc4adca4b8fa
 #: ../../index.rst:33
@@ -105,11 +121,13 @@ msgid ""
 ":ref:`User Interface <doc_user_interface>` - Introduction to the UI, and "
 "commands of the VLC media player."
 msgstr ""
+":ref:`Interface <doc_user_interface>` - Une introduction à l'interface et "
+"les commandes de VLC media player."
 
 # ff6f9a577ce34d159017c3299ebe6e98
 #: ../../index.rst:35
 msgid ":ref:`Settings <settings>` - Customize VLC to suit your needs."
-msgstr ""
+msgstr ":ref:`Préférences <settings>` - Modifiez VLC pour répondre parfaitement à vos besoins."
 
 # 4033661949ef406ba77316d573b8e936
 #: ../../index.rst:37
@@ -117,6 +135,8 @@ msgid ""
 ":ref:`Tips and Tricks <tips_and_tricks>` - Jump right in with Tips and "
 "Tricks to become a VLC power user."
 msgstr ""
+":ref:`Trucs et Astuces <tips_and_tricks>` - Maîtrisez ces quelques astuces "
+"pour devenir un expert de VLC."
 
 # b624447dc3a4418497bdefad93d150e9
 #: ../../index.rst:39
@@ -124,16 +144,18 @@ msgid ""
 ":ref:`Add-ons <addons>` - Find third-party software programs that can be "
 "added to VLC for additional features and abilities."
 msgstr ""
+":ref:`Extensions <addons>` - Comment trouver des applications tierces qui "
+"permettent d'étendre les capacités et fonctionnalités de VLC."
 
 # 98cf9e2612d64a679ff2c30898392a43
 #: ../../index.rst:41
 msgid ":ref:`FAQ <faq>`- Find all frequently asked questions by VLC users."
-msgstr ""
+msgstr ":ref:`FAQ <faq>`- Vous y trouverez les questions les plus fréquemment posées par les utilisateurs de VLC."
 
 # 82818984d3dc4f54b37580acfb96d5c0
 #: ../../index.rst:43
 msgid ":ref:`Support Guide<support>` - Solve your VLC issues right now!"
-msgstr ""
+msgstr ":ref:`Guide d'aide<support>` - Résolvez rapidement vos soucis liés à VLC!"
 
 # a1328a6b13cf49d29afeed3eb237dd87
 #: ../../index.rst:45
@@ -141,4 +163,6 @@ msgid ""
 ":ref:`Glossary<glossary>` - Definitions for terms used in VLC and this "
 "documentation."
 msgstr ""
+":ref:`Glossaire<glossary>` - Les définitions des termes utilisés au sein de VLC et de cette "
+"documentation."
 
