@@ -18,23 +18,23 @@ If you have contributions that are **specific** to a **particular version** of V
 
 If you have generic contributions that are **not specific** to a particular version of VLC, send a merge request on the `master` branch.
 
-### Editing existing pages
+## Editing existing pages
 
 To edit an existing page, locate its **.rst source file** and open it in your favorite text editor. After making the necessary changes, commit the changes, push them to your fork and make a pull request.
 
-### Adding new pages
+## Adding new pages
 
 To add a new page, create a .rst file with a meaningful name in the section you want to add a file to, e.g. `setup/mobile/ios.rst`. Write its content like you would do for any other file, and make sure to define a reference name for Sphinx at the beginning of the file (check other files for the syntax), based on the file name with a "doc_" prefix (e.g. `.. _doc_user_interface:`).
 
 You should then add your page to the relevant "toctree" (table of contents, e.g. `setup/mobile/ios.rst`). By convention, the files used to define the various levels of toctree are prefixed with an underscore, so in the above example the file should be referenced in `setup/mobile/_ios.rst`.
 
-### Sphinx and reStructuredText syntax
+## Sphinx and reStructuredText syntax
 
 Check Sphinx's [reST Primer](https://www.sphinx-doc.org/en/stable/rest.html) and the [official reference](http://docutils.sourceforge.net/rst.html) for details on the syntax.
 
 Sphinx uses specific reST comments to do specific operations, like defining the table of contents (`:toctree:`) or cross-referencing pages. Check the [official Sphinx documentation](https://www.sphinx-doc.org/en/stable/index.html) for more details, or see how things are done in existing pages and adapt it to your needs.
 
-### Adding images and attachments
+## Adding images and attachments
 
 To add images, please put them in an `images/` folder with the following naming convention: if you include a picture in `/<path>/<file>.rst`, your picture must follow the path: `images/<path>/<file>_<some_title>.<extension>`.
 
