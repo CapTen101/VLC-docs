@@ -2,7 +2,7 @@
 
 This repository contains the source files of [VLC](https://www.videolan.org/vlc/)'s user documentation, in reStructuredText markup language (reST).
 
-They are meant to be parsed with the [Sphinx](https://sphinx-doc.org/) documentation builder to build the HTML user documentation on [VLC's website](https://docs.videolan.me/vlc-user/).
+They are meant to be generated with the [Sphinx](https://sphinx-doc.org/) documentation builder and [Read the Docs](https://github.com/readthedocs/sphinx_rtd_theme) theme to build the HTML user documentation on [VLC's website](https://docs.videolan.me/vlc-user/).
 
 ## Contributing changes
 
