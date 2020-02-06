@@ -6,13 +6,12 @@ SPHINXBUILD   = sphinx-build
 SOURCEDIR     = .
 BUILDDIR      = _build
 LANGUAGE      = en
-SPHINXOPTS    = ""
 HTML_BASEURL  ?= file://$(shell pwd)/$(BUILDDIR)/html
 VERSION       ?= $(shell git rev-parse --abbrev-ref HEAD)
 INSTALLDIR    ?= public
-
 # master == dev == 4.0 for now
 NUMBERED_VERSION = $(subst master,4.0,$(VERSION))
+SPHINXOPTS    ?= -D language='$(LANGUAGE)' -D release='$(NUMBERED_VERSION)'
 
 # Put it first so that "make" without argument is like "make help".
 help:
