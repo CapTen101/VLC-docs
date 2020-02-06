@@ -86,3 +86,10 @@ Note that during the first build, various installation prompts may appear and as
 Make sure you don't miss them, especially if they open behind other windows, else the build may appear to hang until you confirm these prompts.
 
 You could also install a normal `make` toolchain (for example via MinGW) and build the docs using the normal `make html`.
+
+## License and Credits
+
+See [the license file](LICENSE.txt) for more details about the license.
+
+Many thanks to Edidiong Anny-Asikpo for the original amazing [work](https://gitlab.com/Didicodes/vlc-user-documentation/).
+
