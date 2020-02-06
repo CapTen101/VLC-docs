@@ -1,0 +1,276 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# 2a2576d94d8444f292cdbc1b5b5097b7
+#: ../../userguides/audio.rst:3
+msgid "Audio"
+msgstr ""
+
+# 3690820a02ad4e349ce92561523e251f
+#: ../../userguides/audio.rst:5
+msgid ""
+"The VLC media player can play several audio formats: .asf, .avi, .divx, "
+".dv, .mxf, .ogg, .gm, .ps, .ts, .vob, and .wmv. It can also convert audio"
+" tracks and use several visualizations."
+msgstr ""
+
+# 134ded975aaf4f3c8867291529637aab
+#: ../../userguides/audio.rst:9
+msgid ""
+"The commands in the Audio menu are only enabled when an audio file is "
+"being played."
+msgstr ""
+
+# a0186189616147d9bc894b76b26dd5c8
+#: ../../userguides/audio.rst:13
+msgid "Playing an audio track"
+msgstr ""
+
+# ff520c35da1644e4a2470c852bbf5a93
+#: ../../userguides/audio.rst:15
+msgid "To play a track, follow the steps below:"
+msgstr ""
+
+# afe703229c6a47268f733162eac9b8a8
+#: ../../userguides/audio.rst:17
+msgid "Select the :menuselection:`Media --> Open File` menu."
+msgstr ""
+
+# 8f6aaf2d8f7a45c488fa3c1c871e8351
+#: ../../userguides/audio.rst:22
+msgid ""
+"Select an audio file and click on the :guilabel:`Open` button. "
+"Immediately after that, the selected track will be played on my VLC."
+msgstr ""
+
+# bad0dc7063a54352b6a96fa2df4fdd71
+#: ../../userguides/audio.rst:29
+msgid "Enabling and disabling audio tracks"
+msgstr ""
+
+# 8e30dfe76e274fcfbb9ef0c8bb06934c
+#: ../../userguides/audio.rst:31
+msgid "On VLC, you have the option to disable and enable a track."
+msgstr ""
+
+# 72f5e6bc17d54c22884e4b155a468cbf
+#: ../../userguides/audio.rst:35
+msgid "Disable"
+msgstr ""
+
+# 96294d597fe5447aaccef487f49ca9b0
+#: ../../userguides/audio.rst:37
+msgid ""
+"Select the :menuselection:`Audio --> Audio Track` menu and click on the "
+":guilabel:`Disable` option from the dropdown menu to stop the selected "
+"track."
+msgstr ""
+
+# 15435b428c8b4d4e8f900c593ef79ff1
+#: ../../userguides/audio.rst:39
+msgid "Enable"
+msgstr ""
+
+# f3f2848668e549bda20731486cc87b4a
+#: ../../userguides/audio.rst:41
+msgid ""
+"To enable the track again, select the designated Track in the "
+":menuselection:`Audio --> Audio Track` menu."
+msgstr ""
+
+# e4d7533c2a574a99b20a4abfd96583ee
+#: ../../userguides/audio.rst:45
+msgid "Recording Audio"
+msgstr ""
+
+# 204b529d39844233885febcb2d20a997
+#: ../../userguides/audio.rst:47
+msgid ""
+"Recording the audio of any track you are playing is also allowed on VLC. "
+"However, the record button used for this is hidden by default. To make "
+"the :guilabel:`Disable` button visible, use one of these methods below:"
+msgstr ""
+
+# c5cf7d3f731c4f9d806ee2c59c35b1c8
+#: ../../userguides/audio.rst:51
+msgid "Advanced Controls"
+msgstr ""
+
+# d8b0b3fcc941487b8b9bf50b4f952fc1
+#: ../../userguides/audio.rst:53
+msgid ""
+"Click on :menuselection:`View --> Advanced Controls` to display the "
+"advanced toolbar directly above :ref:`Playback Controls "
+"<playback_controls>`. This advanced toolbar contains the "
+":guilabel:`Record` button. Once the :guilabel:`Record` button is visible,"
+" click it to start recording."
+msgstr ""
+
+# 7af1f66ebf50473295e61fbf669695ac
+#: ../../userguides/audio.rst:56
+msgid "Customize interface"
+msgstr ""
+
+# a8c09a5d358f4f8b92b27368640d6c4a
+#: ../../userguides/audio.rst:58
+msgid ""
+"Select :menuselection:`Tools --> Customize interface` menu and drag the "
+"record button to to any location of your choice in :guilabel:`Line 2`. "
+"Once the :guilabel:`Record` button is visible, click it to start "
+"recording."
+msgstr ""
+
+# 222c2a96a3fe4093b0b87f0c6b1c4b71
+#: ../../userguides/audio.rst:60
+msgid ":guilabel:`Line 2` is the default line shown on VLC."
+msgstr ""
+
+# 1cfb1a460f7d4633b70cf5a737da0c2e
+#: ../../userguides/audio.rst:63
+msgid ""
+"The recording from a shoutcast stream is stored on the default storage "
+"folder for videos or music on your computer under a name like :file:`vlc-"
+"record-Date-Time-Channel-Track.mp3` Example: :file:`vlc-record-2011-09-22"
+"-10h19m48s-Radio CAFF-Silencio - Arrabal Salvaje.mp3`."
+msgstr ""
+
+# d8171c12fda04a76a38e0c6d151d6042
+#: ../../userguides/audio.rst:66
+msgid ""
+"You can automatically cut the stream into tracks by relaying the stream "
+"through :program:`Streamripper`, i.e. by directing "
+":program:`StreamRipper` to the :program:`ShoutCast` stream and directing "
+"VLC to the relaying port of :program:`StreamRipper` (default "
+"http://localhost:8000)."
+msgstr ""
+
+# 74ec08b0f9104fc29e8981a4654eca91
+#: ../../userguides/audio.rst:70
+msgid "Stereo Mode"
+msgstr ""
+
+# 8cf713c620a446318855b6d1b7c5756a
+#: ../../userguides/audio.rst:72
+msgid ""
+"This option helps you to listen to audio files in two modes "
+":term:`Stereo` and :term:`Mono`."
+msgstr ""
+
+# 708a73184216470ebb6335cb0ed39885
+#: ../../userguides/audio.rst:74
+msgid "To listen to an audio track in either the Stereo or Mono mode:"
+msgstr ""
+
+# f70bd01a33a247fbac3427fdc734200f
+#: ../../userguides/audio.rst:76
+msgid ""
+"Click on :menuselection:`Media --> Open File or Open Disc` from the "
+"dialog box displayed on your screen."
+msgstr ""
+
+# 71734a01119e4ef99b87a9e3281fdf43
+#: ../../userguides/audio.rst:77
+msgid "Select an audio file and click on the :guilabel:`Play` button."
+msgstr ""
+
+# 2e3bc9bf3d0f49d4941cc785fc82764f
+#: ../../userguides/audio.rst:78
+msgid ""
+"Select :menuselection:`Audio --> Audio Device --> Mono` if you want to "
+"listen to the audio track in the Mono mode."
+msgstr ""
+
+# 3364ca4af10f4d37b29c08f2d11d565e
+#: ../../userguides/audio.rst:79
+msgid ""
+"Select :menuselection:`Audio --> Audio Device --> Stereo` if you want to "
+"listen to the audio track in the Stereo mode."
+msgstr ""
+
+# 84aff84bcd234a28a4d1a1e189525074
+#: ../../userguides/audio.rst:86
+msgid "Visualize Audio"
+msgstr ""
+
+# 554c3588fa584bff955fdd2e7fad17e7
+#: ../../userguides/audio.rst:88
+msgid ""
+"Visualizations display splashes of colour and geometric shapes and "
+"generate animated imagery based on a piece of music. Select the type of "
+"visualizations option from the Audio menu to view the effects. The "
+"different visual effects available are:"
+msgstr ""
+
+# 136567da37924edbad1ef8cbdfbd0e99
+#: ../../userguides/audio.rst:91
+msgid ":guilabel:`Spectrometer`"
+msgstr ""
+
+# c06ed2ec80c24d8cbd533607d6e49cf5
+#: ../../userguides/audio.rst:92
+msgid ":guilabel:`Scope`"
+msgstr ""
+
+# 0baa0eeaec9a48ccaa3dc43b905e8fab
+#: ../../userguides/audio.rst:93
+msgid ":guilabel:`Spectrum`"
+msgstr ""
+
+# 418abec09d64414fa8fd0f65debb7c38
+#: ../../userguides/audio.rst:94
+msgid ":guilabel:`VU Meter`"
+msgstr ""
+
+# 99de3080c24048409227d549b3a21e88
+#: ../../userguides/audio.rst:95
+msgid ":guilabel:`Goom`"
+msgstr ""
+
+# b5afe181fd3b4164b2d15efa33670333
+#: ../../userguides/audio.rst:96
+msgid ":guilabel:`projectM`"
+msgstr ""
+
+# 5ad2a18b4e1049e4a198a5f5a40d2d93
+#: ../../userguides/audio.rst:97
+msgid ":guilabel:`3D Spectrum`"
+msgstr ""
+
+# e131b9cafbad4bb6befb14499b9a6aab
+#: ../../userguides/audio.rst:102
+msgid ""
+"To disable visualizations, click on :menuselection:`Visualizations --> "
+"Disable` drop down menu."
+msgstr ""
+
+# c8d03cb86fa74927889b3622e6c5d3d7
+#: ../../userguides/audio.rst:106
+msgid "Maximum VLC Volume"
+msgstr ""
+
+# 6780cfbcef80449390d494d72509141f
+#: ../../userguides/audio.rst:108
+msgid ""
+"To change the maximum volume in of an audio file, go to "
+":menuselection:`Tools --> Preferences`, select :guilabel:`All` at bottom "
+"left corner, then :menuselection:`Interface --> Main interface --> Qt -->"
+" Maximum volume displayed`. Then :guilabel:`Save` it and restart VLC."
+msgstr ""
+

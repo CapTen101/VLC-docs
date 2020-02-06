@@ -1,0 +1,225 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# 4c66c9250412491a83f07b6e2f091fd9
+#: ../../userguides/video.rst:3
+msgid "Video"
+msgstr ""
+
+# 771c1d1b8f4343099fb1c54914ac78d4
+#: ../../userguides/video.rst:5
+msgid ""
+"You can play video files, video clips and other video media using the VLC"
+" media player. You can resize, change aspect ratio, crop videos, load "
+"subtitles, deinterlace, save snapshots, and convert videos to DirectX "
+"wallpaper."
+msgstr ""
+
+# 9939c8f876884a04aafaa0649853bde0
+#: ../../userguides/video.rst:7
+msgid ""
+"Video tracks of the .asf, .avi, .divx, .dv, .mxf, .ogg, .gm, .ps, .ts, "
+".vob, and .wmv formats are supported."
+msgstr ""
+
+# b7362fecd1874b07b3aecb5223f6c74c
+#: ../../userguides/video.rst:11
+msgid "Playing a Video Track"
+msgstr ""
+
+# af693cad19b943bf889ba2531481ce36
+#: ../../userguides/video.rst:13
+msgid "There are two main ways to open and play a video track:"
+msgstr ""
+
+# 2dd74fa3280f4b239d5b512f7368c6c2
+#: ../../userguides/video.rst:15
+msgid "Select :menuselection:`Media --> Open File`."
+msgstr ""
+
+# 733db03811fa4513a7cbd6f6f9974bfa
+#: ../../userguides/video.rst:20
+msgid ""
+"Select a video track and double-click it or click the :guilabel:`Open` "
+"button to play the file."
+msgstr ""
+
+# e87d2aded6794faf8914d3e1ea218f65
+#: ../../userguides/video.rst:27
+msgid "Full Screen"
+msgstr ""
+
+# ef0e124ec219402fa4c34a8f7c3fea76
+#: ../../userguides/video.rst:29
+msgid ""
+"This option is useful if you want to watch the video in the full screen "
+"mode."
+msgstr ""
+
+# 3f58e3865c2244988f5681933155d366
+#: ../../userguides/video.rst:31
+msgid ""
+"Select :menuselection:`Video --> Full Screen`. The video will then occupy"
+" the entire screen."
+msgstr ""
+
+# 9c2f04ba192a42e8ac44868bdafadbd8
+#: ../../userguides/video.rst:36
+msgid ""
+"To return to the original mode, press :kbd:`Esc` on the keyboard or "
+"right-click the mouse and select the :guilabel:`Leave Full Screen` "
+"option. The video will then return to its original mode."
+msgstr ""
+
+# 2cbc575cd47b4ed6af983671c5c80432
+#: ../../userguides/video.rst:38
+msgid ""
+"When you switch to full screen, the controls may appear for a short "
+"period of time. To restore the controls after they disappear, move the "
+"mouse or press any key on the keyboard."
+msgstr ""
+
+# 78692c53022b464d8996b86d8ef6e203
+#: ../../userguides/video.rst:42
+msgid "Snapshot"
+msgstr ""
+
+# 95d1f0ab866f4f68926bb23d6088a191
+#: ../../userguides/video.rst:44
+msgid ""
+"This option is useful if you want to capture a portion of the video as an"
+" image. To capture an image from the video, Click on "
+":menuselection:`Video --> Take Snapshot`."
+msgstr ""
+
+# 3fe14877933a498f99497c3b8cfb5ad0
+#: ../../userguides/video.rst:46
+msgid ""
+"The image is captured in the .png picture format and is saved in the "
+":file:`My Pictures` folder by default "
+"(:file:`C:\\\\Users\\\\Username\\\\Pictures`)."
+msgstr ""
+
+# 72baef2efe124dbfa3593de8feafe3d7
+#: ../../userguides/video.rst:53
+msgid "Zoom"
+msgstr ""
+
+# 292a5c2b05ee477baf8592b17e14cba7
+#: ../../userguides/video.rst:55
+msgid ""
+"You can enlarge videos in different sizes. This option is useful if you "
+"want to change the size of a video track which is being played. The "
+"supported sizes are 1:4 Quarter, 1:2 Half, 1:1 Original (default) and 2:1"
+" Double. To view a video in a particular dimension, select a dimension in"
+" :menuselection:`Video --> Zoom`."
+msgstr ""
+
+# 58eaf6d91e184162b3eb6f5033b00a8f
+#: ../../userguides/video.rst:61
+msgid "The track is then resized based on the selected zoom ratio."
+msgstr ""
+
+# 2395742c665142e98b3845bee7c3f644
+#: ../../userguides/video.rst:65
+msgid "Aspect Ratio"
+msgstr ""
+
+# 4a931f4012cd41e98ddc5dc9ee95373b
+#: ../../userguides/video.rst:67
+msgid ""
+"Aspect ratio refers to the width of a picture in relation to its height. "
+"For example, the ratio 4:3 means four units wide to three units high. VLC"
+" provides a list of aspect ratio values which are Default, 1:1, 4:3, "
+"16:9, 16:10, 2.21:1, 2.35:1, 2.39:1 and 5:4."
+msgstr ""
+
+# b868719e7dd346878e5ba4c8d5d300c7
+#: ../../userguides/video.rst:69
+msgid ""
+"To select an aspect ratio, select a value from :menuselection:`Video --> "
+"Aspect Ratio` menu. Then video is then adjusted based on the selected "
+"ratio."
+msgstr ""
+
+# 3ae940f60c214dac814321daa70e9b18
+#: ../../userguides/video.rst:76
+msgid "Crop"
+msgstr ""
+
+# d82aa3b8850f44aaa92c67fcb34246e4
+#: ../../userguides/video.rst:78
+msgid ""
+"This option is helpful if you want to capture a small portion of a video "
+"as an image. This also helps crop the black bars of the top and bottom of"
+" a video."
+msgstr ""
+
+# 3eea19cb8dbf4d7fb95e5984eb79de7a
+#: ../../userguides/video.rst:80
+msgid ""
+"The cropping values that are supported are Default, 16:10, 16:9, 1.85:1, "
+"2.21:1, 2.35:1, 2.39:1, 5:3, 4:3, 5:4, and 1:1."
+msgstr ""
+
+# e84ae495abcd428f8c105517fd26442b
+#: ../../userguides/video.rst:85
+msgid ""
+"To crop a video that is played, select a value from :menuselection:`Video"
+" --> Crop` menu. The video is then cropped based on the selected value."
+msgstr ""
+
+# 08a870a88e3648bab203cdd8b3092227
+#: ../../userguides/video.rst:89
+msgid "Deinterlace"
+msgstr ""
+
+# 58bbd4e8c63349468badc36801b1f24c
+#: ../../userguides/video.rst:91
+msgid ""
+"Deinterlace refers to a process where interlaced video signals are "
+"converted into non-interlaced signals. VLC provides the Discard, Blend, "
+"Mean, Bob, Linear, X, Yadif and Yadif (2x) deinterlacement modes."
+msgstr ""
+
+# 0234abfc9b414da9906a092efd119e7e
+#: ../../userguides/video.rst:108
+msgid "You can achieve deinterlace by following the steps below:"
+msgstr ""
+
+# 0d808229570c4e6290c0a49ebfe4fb98
+#: ../../userguides/video.rst:110
+msgid ""
+"Select :menuselection:`Video --> Deinterlace` menu and choose the "
+"appropriate setting."
+msgstr ""
+
+# b94f160dbfc448a1a816481b9ab34db8
+#: ../../userguides/video.rst:111
+msgid ""
+"To change the deinterlacement mode select :menuselection:`Video --> "
+"Deinterlace mode`"
+msgstr ""
+
+# cc75a2a548664432a84e6c32ec229041
+#: ../../userguides/video.rst:112
+msgid "Select a mode and observe the change in the video being played."
+msgstr ""
+

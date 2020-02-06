@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# cc8b685b7fd54e769d0c45550c969062
+#: ../../gettingstarted/interface/windows_and_linux/index.rst:2
+msgid "Windows/Linux Interface"
+msgstr ""
+
+# c211117ca4bc4fc0aa2a7a0afccd1eff
+#: ../../gettingstarted/interface/windows_and_linux/index.rst:4
+msgid "**There are 3 main parts to the VLC Media Player interface on Windows:**"
+msgstr ""
+
+# 18b29570ec644b048d9e989f33589bbb
+#: ../../gettingstarted/interface/windows_and_linux/index.rst:6
+msgid ":ref:`The Menu bar<menu_bar>`"
+msgstr ""
+
+# 9ddb28606a764e3e8fd258f61875081c
+#: ../../gettingstarted/interface/windows_and_linux/index.rst:9
+msgid ":ref:`The Playback Controls<playback_controls>`"
+msgstr ""
+
+# b042c7fbdd9f427b9ceb66ef8b450749
+#: ../../gettingstarted/interface/windows_and_linux/index.rst:11
+msgid ":ref:`Volume Controls<volume_controls>`"
+msgstr ""
+

@@ -1,0 +1,134 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# b8efe894cebe4b94b3aaf818ad9f66dd
+#: ../../addons/skins.rst:3
+msgid "Skins"
+msgstr ""
+
+# a1156f5768614baba1e508a2a6927e8f
+#: ../../addons/skins.rst:5
+msgid ""
+"Skins change the look of VLC Media Player and adds a bit more spice to "
+"the already superb experience. All the available Skins for VLC can be "
+"found on `our skins website <https://www.videolan.org/vlc/skins.php>`_."
+msgstr ""
+
+# 2532f870d57a4dccab29c661300b1df9
+#: ../../addons/skins.rst:10
+msgid "How to use skins"
+msgstr ""
+
+# 63e8918455e34caeb6e42c62fb9ef865
+#: ../../addons/skins.rst:12
+msgid ""
+"You can download a variety of skins `here <https://www.videolan.org/vlc"
+"/download-skins2-go.php?url=vlc-skins.zip>`_. They usually should come as"
+" files with the extension \"VLT\" and is in a zipped format. Extract the "
+"files and put the downloaded VLT files in the following folder:"
+msgstr ""
+
+# 3d779a3adb26471baf8479c4c3d1b290
+#: ../../addons/skins.rst:14
+msgid "**Windows:** :file:`C:\\\\Program Files\\\\VideoLAN\\\\VLC\\\\skins`"
+msgstr ""
+
+# 46f4a29670eb454ead0a4cae46c8537d
+#: ../../addons/skins.rst:15
+msgid "**Linux/Unix:** :file:`~/.local/share/vlc/skins2`"
+msgstr ""
+
+# 681aa701907a4be29bb421bdc2614dea
+#: ../../addons/skins.rst:16
+msgid "**macOS:** Skins are not supported on macOS."
+msgstr ""
+
+# 0211864b9e334174a71d288917cdfc03
+#: ../../addons/skins.rst:18
+msgid ""
+"Then open VLC on your computer, go to the :guilabel:`Menu` bar and click "
+"on :menuselection:`Tools --> Preferences --> Interface` and change your "
+"look and feel from :guilabel:`Use native style` to :guilabel:`Use custom "
+"skin`."
+msgstr ""
+
+# 98bc780081284eb48ac24874821a98c0
+#: ../../addons/skins.rst:24
+msgid ""
+"The option of locating your desired skin should appear now, click on the "
+":guilabel:`Choose` button and then the downloaded :file:`.VLT` file you "
+"had copied to :file:`C:\\\\Program Files\\\\VideoLAN\\\\VLC\\\\skins` on "
+"Windows and :file:`~/.local/share/vlc/skins2` on Linux/Unix."
+msgstr ""
+
+# a3a6f363def147fc9d044f2e388c2c69
+#: ../../addons/skins.rst:30
+msgid "You need to restart VLC to see the newly changed skin mode."
+msgstr ""
+
+# d7679b3b7fc6487caf1635811b993ded
+#: ../../addons/skins.rst:34
+msgid "How to create your own skin"
+msgstr ""
+
+# 76f29560414c4253b3560fa55ad9b5e6
+#: ../../addons/skins.rst:36
+msgid ""
+"If you wish to create your own skin, the `VLC Skin Editor "
+"<https://www.videolan.org/vlc/skineditor.html>`_ enables you to create "
+"skins without any deep knowledge how skins are made up exactly. If you'd "
+"rather want to explore all the possibilities of the skin system and get "
+"to know how skins are made up and how to create them in detail, check out"
+" the `Skins2 documentation "
+"<https://www.videolan.org/vlc/skins2-create.html>`_. If you encounter any"
+" problems while creating your skin, let us know by posting about it on "
+"`the skins forum <https://forum.videolan.org/viewforum.php?f=15>`_."
+msgstr ""
+
+# fb74f1810b4a47abb62af8648d8f811e
+#: ../../addons/skins.rst:41
+msgid ""
+"After youve successfully created a skin and you want others to use it, "
+"kindly `upload <https://www.videolan.org/vlc/skins_upload.php>`_ it and "
+"fill out the form and it will be displayed on `our skins website "
+"<https://www.videolan.org/vlc/skins.php>`_ as soon as one webmaster has "
+"checked it."
+msgstr ""
+
+# 086071c218244efda37795dec80788b8
+#: ../../addons/skins.rst:46
+msgid "Troubleshooting"
+msgstr ""
+
+# dc27afe1eda94828b75222bc1db46571
+#: ../../addons/skins.rst:48
+msgid ""
+"If your skin is not showing up properly on VLC, then it is possible that "
+"you choose a broken skin. To solve this, switch back to the default "
+"interface by going to the Menu bar and clicking on :menuselection:`Tools "
+"--> Preferences --> Interface` and finally changing your look and feel "
+"back to :guilabel:`Use native style`."
+msgstr ""
+
+# 373d732f27a242b4bb2263160c37550a
+#: ../../addons/skins.rst:52
+msgid "You need to restart VLC to see the default interface."
+msgstr ""
+

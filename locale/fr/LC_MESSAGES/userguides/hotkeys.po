@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# 2f8663e85a9940d2b0af8f34b285c275
+#: ../../userguides/hotkeys.rst:3
+msgid "Hotkeys"
+msgstr ""
+
+# 1e72d58994fd457ca44beb6093c08a28
+#: ../../userguides/hotkeys.rst:5
+msgid ""
+"VLC Hotkeys are keyboard shortcuts you can use even if VLC does not have "
+"the focus. Here, we show you the most used hotkeys and also a full list "
+"of the global hotkeys allowed in VLC."
+msgstr ""
+
+# e941fd2a65e74d729c65d03f59d49f71
+#: ../../userguides/hotkeys.rst:9
+msgid "Most Used"
+msgstr ""
+
+# 6ac8b6556c19459dabdec1bb5362482e
+#: ../../userguides/hotkeys.rst:10
+msgid "Find below a list of most used global hotkeys in VLC:"
+msgstr ""
+
+# 0576ba86df314075907f81329b6985b1
+#: ../../userguides/hotkeys.rst:13
+msgid "Action"
+msgstr ""
+
+# 335a69c132d24517bd7757eeb60e73dd
+#: ../../userguides/hotkeys.rst:13
+msgid "Hotkey"
+msgstr ""
+
+# 67dd688d8c0f472b994bed097921ee17
+#: ../../userguides/hotkeys.rst:15
+msgid "Fullscreen"
+msgstr ""
+
+# 5285b569971c4d8fb16f56b42a87cab5
+#: ../../userguides/hotkeys.rst:15
+msgid "f"
+msgstr ""
+
+# 7a408a14c2214bea90e73551fdf9f153
+#: ../../userguides/hotkeys.rst:16
+msgid "Exit fullscreen"
+msgstr ""
+
+# 26a71e2e84544311a53621f70c8cf813
+#: ../../userguides/hotkeys.rst:16
+msgid "Esc"
+msgstr ""
+
+# c1f44fa23deb499ab9961ef88ad57c93
+#: ../../userguides/hotkeys.rst:17
+msgid "Play/Pause"
+msgstr ""
+
+# cac85ef1832c49459fc49a4d4d9a622f
+#: ../../userguides/hotkeys.rst:17
+msgid "Space"
+msgstr ""
+
+# 7fb5efbc4da043089fe4fa09ee29f224
+#: ../../userguides/hotkeys.rst:18
+msgid "Stop"
+msgstr ""
+
+# 7c5e368f91cf4fd88d61c77b2dc0f694
+#: ../../userguides/hotkeys.rst:18
+msgid "s"
+msgstr ""
+
+# aafe287fb80e4d30974d0fa7f14aeba3
+#: ../../userguides/hotkeys.rst:19
+msgid "Faster"
+msgstr ""
+
+# 6a8c80df6f8a4db3a0aaf3de442f2120
+#: ../../userguides/hotkeys.rst:19
+msgid "\\+"
+msgstr ""
+
+# 36b53f8ce2eb41fa96bf19476fbb24bc
+#: ../../userguides/hotkeys.rst:20
+msgid "Slower"
+msgstr ""
+
+# 58594be1cfee42fea88237b4cf136b7c
+#: ../../userguides/hotkeys.rst:20
+msgid "\\-"
+msgstr ""
+
+# 0f235a181f3f4e1b98ea69aad48a8411
+#: ../../userguides/hotkeys.rst:21
+msgid "Normal rate"
+msgstr ""
+
+# 294e2846f291430c98b8fc0a17f62e82
+#: ../../userguides/hotkeys.rst:21
+msgid "="
+msgstr ""
+
+# 31a4351ea65c475597978e4dbd8d24e1
+#: ../../userguides/hotkeys.rst:22
+msgid "Next"
+msgstr ""
+
+# 261eae02806a47e79c71a4f75ed4f732
+#: ../../userguides/hotkeys.rst:22
+msgid "n"
+msgstr ""
+
+# 9a1a28e59b944e82aec608869242d320
+#: ../../userguides/hotkeys.rst:23
+msgid "Previous"
+msgstr ""
+
+# 2583fe61d6e8490ab1393d6d5e7a8709
+#: ../../userguides/hotkeys.rst:23
+msgid "p"
+msgstr ""
+
+# d24b0a62a8664f35b6bb11b329b5d8a0
+#: ../../userguides/hotkeys.rst:24
+msgid "Volume up"
+msgstr ""
+
+# d4a851e26e364248891cec9c34a43147
+#: ../../userguides/hotkeys.rst:24
+msgid "ctrl + Up"
+msgstr ""
+
+# a2fc43e567744e549a799fa7f5df6528
+#: ../../userguides/hotkeys.rst:25
+msgid "Volume down"
+msgstr ""
+
+# 123fe1100d64424b8f7c0c3d443c3493
+#: ../../userguides/hotkeys.rst:25
+msgid "ctrl + Down"
+msgstr ""
+
+# e6652bb953aa4f81bcd85d5dd562d129
+#: ../../userguides/hotkeys.rst:26
+msgid "Mute"
+msgstr ""
+
+# 5ec5f070e14d4d728efad3a2b9daec41
+#: ../../userguides/hotkeys.rst:26
+msgid "m"
+msgstr ""
+
+# f96dc8fe7cbb4f018a8e458087b2465a
+#: ../../userguides/hotkeys.rst:27
+msgid "Jump backward"
+msgstr ""
+
+# 50042e36a22b4ebaa8fa24e1caf268bb
+#: ../../userguides/hotkeys.rst:27
+msgid "Shift + Left"
+msgstr ""
+
+# 83f96d690d8c4bfa91d326a7d790f9d2
+#: ../../userguides/hotkeys.rst:28
+msgid "Jump forward"
+msgstr ""
+
+# 25b9b66215534b17b611770d1a829bcb
+#: ../../userguides/hotkeys.rst:28
+msgid "Shift + Right"
+msgstr ""
+
+# 2bb09ee58e09444d87d5040232e2a6fb
+#: ../../userguides/hotkeys.rst:33
+msgid "Full List"
+msgstr ""
+

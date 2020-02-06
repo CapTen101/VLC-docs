@@ -1,0 +1,120 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# a57b32bec59e4945a67c4f283fec3c09
+#: ../../gettingstarted/setup/android.rst:5
+msgid "Android"
+msgstr ""
+
+# 42ca8d095b684f28a7529a79fc2eff79
+#: ../../gettingstarted/setup/android.rst:7
+msgid "Open your Android's Google Play Store."
+msgstr ""
+
+# 6a28e020d5bf4ed0848bdd951295fa47
+#: ../../gettingstarted/setup/android.rst:13
+msgid "Tap the search bar at the top of the screen."
+msgstr ""
+
+# 0ca03c427c884b6888735ca8af4d8cf2
+#: ../../gettingstarted/setup/android.rst:19
+msgid ""
+"Type in vlc on the Search bar, then tap VLC for Android in the resulting "
+"drop-down menu."
+msgstr ""
+
+# 53b05701054e45b59c5c2e16a229d54b
+#: ../../gettingstarted/setup/android.rst:25
+msgid "On the right side of the page, click on **INSTALL**."
+msgstr ""
+
+# 18913cb30ffb4462863fd0dc0bb81268
+#: ../../gettingstarted/setup/android.rst:31
+msgid ""
+"If prompted, tap ALLOW after clicking on the **INSTALL** button to "
+"confirm the download. If not, skip this step."
+msgstr ""
+
+# d6f29746eda84218bdfd84b571bd4377
+#: ../../gettingstarted/setup/android.rst:33
+msgid ""
+"Wait for few minutes for the VLC media player to be installed on your "
+"phone."
+msgstr ""
+
+# 42d7f501d17242e6a5de6c178f6e5edc
+#: ../../gettingstarted/setup/android.rst:39
+msgid ""
+"You can open VLC directly from within the Play Store by clicking on "
+"**Open**."
+msgstr ""
+
+# aae6436a6fa44f5f971de6f9dc12ea6f
+#: ../../gettingstarted/setup/android.rst:45
+msgid ""
+"If you clicked on **Open**, the VLC media player will be opened "
+"automatically on your phone."
+msgstr ""
+
+# 04311e7747d6471a9f89c59b2b2e4171
+#: ../../gettingstarted/setup/android.rst:51
+msgid ""
+"After downloading VLC on your deskptop or mobile phone, follow the guide "
+"below to start using VLC. The VLC media palyer is shown along with an "
+"orange and white cone shown below."
+msgstr ""
+
+# d9673539d8df4f6d80c92eaa507bbf3c
+#: ../../gettingstarted/setup/android.rst:55
+msgid "Start VLC"
+msgstr ""
+
+# dffff91960674c15adcd5d75a61e5c4a
+#: ../../gettingstarted/setup/android.rst:57
+msgid ""
+"Open your phone, click on the cone icon and enjoy using the VLC Media "
+"Player."
+msgstr ""
+
+# 8cbc3b40d58a47f0998ddf54a98ec642
+#: ../../gettingstarted/setup/android.rst:59
+msgid "Stop VLC"
+msgstr ""
+
+# afe35508908f4168bcdb8cc58752fc3a
+#: ../../gettingstarted/setup/android.rst:61
+msgid "There are three ways to quit VLC:"
+msgstr ""
+
+# ca7bba1c0b514380a377541ea99ce2a2
+#: ../../gettingstarted/setup/android.rst:63
+msgid "Right click the **VLC icon** in the tray and select Quit (Alt-F4)."
+msgstr ""
+
+# 44fb28d9e5f04559bf476230391fbca9
+#: ../../gettingstarted/setup/android.rst:64
+msgid "Click the **Close** button in the main interface of the application."
+msgstr ""
+
+# bce1d9edaa82437eabfe43abcdaa0962
+#: ../../gettingstarted/setup/android.rst:65
+msgid "In the Media menu, select **Quit (Ctrl-Q)**."
+msgstr ""
+

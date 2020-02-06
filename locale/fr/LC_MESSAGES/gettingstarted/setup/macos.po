@@ -1,0 +1,178 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# b4d6b1bc5cdd44b7becc0735ebb37ef6
+#: ../../gettingstarted/setup/macos.rst:5
+msgid "Mac OS X"
+msgstr ""
+
+# d6bdf799176146a9beb7ab106c601d7f
+#: ../../gettingstarted/setup/macos.rst:7
+msgid ""
+"Open the `VLC website <https://www.videolan.org/vlc/download-"
+"macosx.html>`_ on your browser."
+msgstr ""
+
+# 34d4624ca8ff43999a21043252533979
+#: ../../gettingstarted/setup/macos.rst:9
+msgid ""
+"Click on **Download VLC** to download the VLC media player automatically "
+"onto your computer."
+msgstr ""
+
+# 976fa65cc196406fba82808e442765c0
+#: ../../gettingstarted/setup/macos.rst:14
+msgid "If prompted, select a download location. Else, skip this step."
+msgstr ""
+
+# aa1727088f4b4173a88405e7ac0f5b11
+#: ../../gettingstarted/setup/macos.rst:19
+msgid ""
+"Once it is downloaded, go to the folder into which your browser downloads"
+" files, then double-click the VLC DMG file. This will open the "
+"installation window."
+msgstr ""
+
+# a049c5035874441983417134588361d6
+#: ../../gettingstarted/setup/macos.rst:21
+msgid ""
+"Click and drag the VLC app icon onto the **Applications** folder. The "
+"\"Applications\" folder is on the right side of the window, while the "
+"traffic cone-shaped VLC app icon is on the left. Doing so will install "
+"VLC on your computer."
+msgstr ""
+
+# b1f9916791dd4d0a91bcd7f0dfa159f4
+#: ../../gettingstarted/setup/macos.rst:26
+msgid ""
+"Double click on VLC media player app icon and wait for your mac to verify"
+" VLC."
+msgstr ""
+
+# d594fcc01ac54be5b128e3f3ee53c9f5
+#: ../../gettingstarted/setup/macos.rst:31
+msgid ""
+"Click **Open** when prompted. VLC Media Player will launch for the first "
+"time. Use it to play all your media with ease."
+msgstr ""
+
+# a318f79141e2467e9cc24370df600efe
+#: ../../gettingstarted/setup/macos.rst:36
+msgid ""
+"After downloading VLC on your deskptop or mobile phone, follow the guide "
+"below to start using VLC. The VLC media palyer is shown along with an "
+"orange and white cone shown below. Start VLC from the applications menu "
+"or the system dock."
+msgstr ""
+
+# dc2ae3ed36e64aa4ac76b2770ca3d615
+#: ../../gettingstarted/setup/macos.rst:42
+msgid ""
+"Clicking this icon shows or hides the VLC interface. Hiding VLC does not "
+"exit the application. VLC keeps running in the background when it is "
+"hidden. Right clicking the icon in the notification area shows a menu "
+"with basic operations, such as opening, playing, stopping, or changing a "
+"media file."
+msgstr ""
+
+# 14b7c6451681479fa66d3e010fca614b
+#: ../../gettingstarted/setup/macos.rst:45
+msgid ""
+"After downloading VLC on your deskptop or mobile phone, follow the guide "
+"below to start using VLC. The VLC media palyer is shown along with an "
+"orange and white cone shown below."
+msgstr ""
+
+# 03a1585acbb045398e101482e892b662
+#: ../../gettingstarted/setup/macos.rst:49
+msgid "Start VLC"
+msgstr ""
+
+# 26fc0ff695e543bab57a1daadd8b259c
+#: ../../gettingstarted/setup/macos.rst:51
+msgid ""
+"Open your Macbook and click on **Launchpad** to find all the applications"
+" on your PC. At this point, you can either search for VLC or scroll down "
+"to find the VLC cone icon."
+msgstr ""
+
+# 39e34519843846899cf6fe7ae8317644
+#: ../../gettingstarted/setup/macos.rst:53
+msgid "Stop VLC"
+msgstr ""
+
+# dfaaf159b500453b88243538e30ddf8d
+#: ../../gettingstarted/setup/macos.rst:55
+msgid "There are three ways to quit VLC:"
+msgstr ""
+
+# 10a9a94bc8954d08bf9d6910b04de778
+#: ../../gettingstarted/setup/macos.rst:57
+msgid "Right click the **VLC icon** in the tray and select Quit (Alt-F4)."
+msgstr ""
+
+# 76822cf4414840408006781743b24c72
+#: ../../gettingstarted/setup/macos.rst:58
+msgid "Click the **Close** button in the main interface of the application."
+msgstr ""
+
+# 4341956a6c684cd99990770d60ecab59
+#: ../../gettingstarted/setup/macos.rst:59
+msgid "In the Media menu, select **Quit (Ctrl-Q)**."
+msgstr ""
+
+# 969813514704490f8e11bacfa8ccf290
+#: ../../gettingstarted/setup/macos.rst:61
+msgid "**Next Steps**"
+msgstr ""
+
+# 11f2b4a3983c4791a2864502f9c473f1
+#: ../../gettingstarted/setup/macos.rst:63
+msgid ""
+"Once you have installed and set up VLC, these topics below will help you "
+"learn more about the VLC media player:"
+msgstr ""
+
+# 50ad679547874512815bd24bec2257c1
+#: ../../gettingstarted/setup/macos.rst:65
+msgid ""
+":ref:`User Interface <doc_user_interface>` - Introduction to the UI, and "
+"commands of the VLC media player."
+msgstr ""
+
+# 5a417d91f9ab4b7da91b0ed8d0a0c7f6
+#: ../../gettingstarted/setup/macos.rst:66
+msgid ""
+":ref:`Tips and Tricks <tips_and_tricks>` - Jump right in with Tips and "
+"Tricks to become a VLC power user."
+msgstr ""
+
+# 24e01548822847fa8e3f72f3bcbe8e4c
+#: ../../gettingstarted/setup/macos.rst:67
+msgid ":ref:`Settings <settings>` - Customize VLC to suit your needs."
+msgstr ""
+
+# fc290ee1c44b4c54a5cb80322a34d4d2
+#: ../../gettingstarted/setup/macos.rst:68
+msgid ""
+":ref:`FAQs about VLC on Mac OS <faq_macos>` - Find all frequently asked "
+"questions by users running VLC on Mac OS."
+msgstr ""
+

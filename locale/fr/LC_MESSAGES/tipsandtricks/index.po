@@ -1,0 +1,218 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# 5c8e1a66f931421a8d2adc13e3930c78
+#: ../../tipsandtricks/index.rst:5
+msgid "Tips & Tricks"
+msgstr ""
+
+# 56dfaec09797497d851b56f929e55ba3
+#: ../../tipsandtricks/index.rst:7
+msgid ""
+"Here are some amazing VLC Tricks & Hidden Features which will help to "
+"take your VLC experience to a totally new level."
+msgstr ""
+
+# f518ba8addf04fe1829df1f20fbae16b
+#: ../../tipsandtricks/index.rst:11
+msgid "Converting a Media File Format"
+msgstr ""
+
+# a276dd0f903d49a4a15e1d4220b8026b
+#: ../../tipsandtricks/index.rst:13
+msgid ""
+"VLC can convert media files from one format to another. To do that, "
+"follow the steps below:"
+msgstr ""
+
+# a03520ca97d04bee83240b61526b0776
+#: ../../tipsandtricks/index.rst:15
+msgid ""
+"Select :menuselection:`Media --> Convert/Save`. The :guilabel:`Open` "
+"media dialog window appears."
+msgstr ""
+
+# e2b637b94893437c86cdfba6629861b2
+#: ../../tipsandtricks/index.rst:17
+msgid ""
+"Click :guilabel:`Add`. After you do that, a file selection dialog window "
+"appears."
+msgstr ""
+
+# 463ccf53b711454da061817b7649aafc
+#: ../../tipsandtricks/index.rst:19
+msgid ""
+"Select the file you want to convert and click :guilabel:`Open`. The "
+":guilabel:`Convert` dialog window appears."
+msgstr ""
+
+# 11e01117cfc64110a5f0896877b18caf
+#: ../../tipsandtricks/index.rst:21
+msgid ""
+"In the :guilabel:`Destination` file text box, indicate the path and file "
+"name where you want to store the converted file."
+msgstr ""
+
+# 3b444b4ea5ff43b78d579d17868fd056
+#: ../../tipsandtricks/index.rst:23
+msgid "From the :guilabel:`Profile` drop-down, select a conversion profile."
+msgstr ""
+
+# ee6a3a8cddb3451983cf6a6cfbaf09e0
+#: ../../tipsandtricks/index.rst:25
+msgid "Click :guilabel:`Start`."
+msgstr ""
+
+# 3685c90d30be45ee865a77c0cd5cf1f4
+#: ../../tipsandtricks/index.rst:32
+msgid "Streaming Media Files"
+msgstr ""
+
+# 78f652c2a0444b1298409109ad0ef988
+#: ../../tipsandtricks/index.rst:34
+msgid ""
+"To stream over a network with VLC, go to :menuselection:`Media menu --> "
+"Stream`"
+msgstr ""
+
+# 7b5445f0c86f450bb0b3bb117805c677
+#: ../../tipsandtricks/index.rst:39
+msgid ""
+"In the :guilabel:`Open Media` dialog, select the media (such as a file, a"
+" network stream, a disk or a capture device) you want to stream."
+msgstr ""
+
+# ef90246230c746a19a5d7cf1ecf4731d
+#: ../../tipsandtricks/index.rst:44
+msgid ""
+"After you've choosen your prefered media file, click on the "
+":guilabel:`Stream` button to display the :guilabel:`Stream Output`."
+msgstr ""
+
+# 611362e631c04827b2c27e1e13651ea9
+#: ../../tipsandtricks/index.rst:49
+msgid ""
+"The :guilabel:`Stream Output` displays the media source you selected so "
+"click :guilabel:`Next` to continue."
+msgstr ""
+
+# 4ca77e08caf24b728c8a2057fbf48783
+#: ../../tipsandtricks/index.rst:54
+msgid ""
+"The following streaming methods are available for use with VLC: "
+":term:`Display locally`, :term:`File` :term:`HTTP`, :term:`MS-WMSP "
+"(MMSH)`, :term:`UDP`, :term:`RTP` and :term:`IceCast`."
+msgstr ""
+
+# 2d714e36ba284fba9416f42242bf8533
+#: ../../tipsandtricks/index.rst:57
+msgid ""
+"The most common way is via :term:`HTTP`. To stream via :guilabel:`HTTP`, "
+"choose :guilabel:`HTTP` from the drop down as a \"New Destination\" and "
+"click :guilabel:`Add` to implement your change. Then press "
+":guilabel:`Next` to continue. This process also applies to other "
+"streaming methods."
+msgstr ""
+
+# 55c6aa1a75424a4597cb4132448c1118
+#: ../../tipsandtricks/index.rst:60
+msgid ""
+"After you click Next, a dialog box of transcoding options would be "
+"displayed on your screem. Go ahead and select a transcoding profile that "
+"fits the codecs and access method of your stream (such as MPEG-TS, MPEG-"
+"PS, MPEG-1, Ogg, Raw, ASF, AVI, MP4 and MOV) and click the "
+":guilabel:`Next` button to continue."
+msgstr ""
+
+# 637861070fcf4c99b52cddbd01beb6d2
+#: ../../tipsandtricks/index.rst:67
+msgid ""
+"Finally, set up any additonal options for streaming then click on "
+":guilabel:`Stream` to start streaming."
+msgstr ""
+
+# c515e5230d8a40f58780fbdf4e28b51c
+#: ../../tipsandtricks/index.rst:74
+msgid "Jigsaw Puzzle"
+msgstr ""
+
+# e0902be0fdf245aa9ee93b93d08a7af2
+#: ../../tipsandtricks/index.rst:76
+msgid ""
+"Interestingly, VLC allows you to play the Jigsaw puzzle with the screens "
+"from any movie of your choice. Follow the steps below to get started:"
+msgstr ""
+
+# d32980d3d81141a4a9892064fa0d380f
+#: ../../tipsandtricks/index.rst:79
+msgid "Go to :menuselection:`Tools --> Effects and Filters`."
+msgstr ""
+
+# be2c69ccc9bf4e118b368f86ad80452a
+#: ../../tipsandtricks/index.rst:80
+msgid ""
+"On the dialog box, click on the :menuselection:`Video Effects --> "
+"Geometry` tab."
+msgstr ""
+
+# 5a326cecf686497fa854c12f34f1ab22
+#: ../../tipsandtricks/index.rst:81
+msgid "You will find :guilabel:`Puzzle Game` close to a check box."
+msgstr ""
+
+# be1619b911624e20983e66b85acd4e69
+#: ../../tipsandtricks/index.rst:82
+msgid ""
+"Click on the check box and choose the number of columns and rows that you"
+" want and press :guilabel:`Close` to save the newly made changes."
+msgstr ""
+
+# 3a330fa9edd1410e97a6ff5501f61e69
+#: ../../tipsandtricks/index.rst:83
+msgid ""
+"If you were already playing a video, the video will automatically change "
+"to Jigsaw puzzle for you to play. If you were not playing a video before "
+"enabling this feature, open a video file and the video will automatically"
+" be displayed in the Jigsaw puzzle format as seen in the screenshot "
+"below."
+msgstr ""
+
+# e5cbfd574264498386573f9c947b0752
+#: ../../tipsandtricks/index.rst:88
+msgid ""
+"Feel free to play the Jigsaw puzzle while watching any video of your "
+"choice."
+msgstr ""
+
+# 44da351d29354fbca62839bb48fa1011
+#: ../../tipsandtricks/index.rst:92
+msgid "Take A Snapshot"
+msgstr ""
+
+# 4b2e40ce883c49448eea2af3309c36fa
+#: ../../tipsandtricks/index.rst:94
+msgid ""
+"Ever need to take a snapshot of a video you are watching? VLC has a way "
+"to do so. Simply use the shortcut :kbd:`Shift+S` on Windows and Linux or "
+":kbd:`Cmd+Alt+S` on macOS. The image is captured in the .png picture "
+"format and is saved in the :file:`C:\\\\My Pictures` folder by default "
+"(:file:`C:\\\\Users\\\\Username\\\\Pictures`)."
+msgstr ""
+

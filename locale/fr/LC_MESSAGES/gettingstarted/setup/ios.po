@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# f98536682f9b4158b615d36353c987b7
+#: ../../gettingstarted/setup/ios.rst:5
+msgid "iOS"
+msgstr ""
+
+# f2137ec637d142cba5733e3c503c17b7
+#: ../../gettingstarted/setup/ios.rst:7
+msgid "Open your iPhone's App Store."
+msgstr ""
+
+# f534b115a1dc4a27976158d20aab88c7
+#: ../../gettingstarted/setup/ios.rst:13
+msgid ""
+"Type in vlc on the **Search** bar, then tap the blue **Search** button in"
+" the lower-right side of your keyboard."
+msgstr ""
+
+# 5a216042ca3e419b8d5fd009f1ecc92f
+#: ../../gettingstarted/setup/ios.rst:19
+msgid "After the search result has been displayed, click on **VLC for Mobile**."
+msgstr ""
+
+# fb8a28bd97f24275a529107ce3594b44
+#: ../../gettingstarted/setup/ios.rst:25
+msgid ""
+"Click on the **GET** button at the right of the **VLC for Mobile** "
+"heading."
+msgstr ""
+
+# 8074b92d6e654b77bc262c1e570f2f42
+#: ../../gettingstarted/setup/ios.rst:31
+msgid ""
+"Enter your Touch ID or Apple ID password when prompted or use your "
+"fingerprints.Doing so will allow VLC to begin installing onto your "
+"iPhone."
+msgstr ""
+
+# 964988b4c0374c11ba3432a9f9625138
+#: ../../gettingstarted/setup/ios.rst:37
+msgid ""
+"You can open VLC immediately after it downloads by tapping OPEN in the "
+"App Store."
+msgstr ""
+
+# 8be89659c8bd434ca761bc750e2f2700
+#: ../../gettingstarted/setup/ios.rst:44
+msgid ""
+"After downloading VLC on your deskptop or mobile phone, follow the guide "
+"below to start using VLC. The VLC media palyer is shown along with an "
+"orange and white cone shown below."
+msgstr ""
+
+# 8f8fa007782647d89fffd4593fe8f15d
+#: ../../gettingstarted/setup/ios.rst:48
+msgid "Start VLC"
+msgstr ""
+
+# 309630b78eaf4bfd808e03cc83cff44a
+#: ../../gettingstarted/setup/ios.rst:50
+msgid ""
+"Open your phone, click on the cone icon and enjoy using the VLC Media "
+"Player."
+msgstr ""
+
+# f07cb0e4032742309ae6989c2ea99a0e
+#: ../../gettingstarted/setup/ios.rst:52
+msgid "Stop VLC"
+msgstr ""
+
+# 144e3ecdcbdf418a80390caa84ebf257
+#: ../../gettingstarted/setup/ios.rst:54
+msgid "There are three ways to quit VLC:"
+msgstr ""
+
+# 74238fa838e94e4e9a3081987f85628c
+#: ../../gettingstarted/setup/ios.rst:56
+msgid "Right click the **VLC icon** in the tray and select Quit (Alt-F4)."
+msgstr ""
+
+# 4525e8fbdedc4fbe8cdd1d547afc0382
+#: ../../gettingstarted/setup/ios.rst:57
+msgid "Click the **Close** button in the main interface of the application."
+msgstr ""
+
+# 2cc05a086985492ba60af974dd740870
+#: ../../gettingstarted/setup/ios.rst:58
+msgid "In the Media menu, select **Quit (Ctrl-Q)**."
+msgstr ""
+

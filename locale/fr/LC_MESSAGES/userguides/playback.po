@@ -1,0 +1,211 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# 788748badee54a79a6dfbe494ea38633
+#: ../../userguides/playback.rst:3
+msgid "Playback"
+msgstr ""
+
+# 31bb7e9503654f0087aa2c1a32f656f2
+#: ../../userguides/playback.rst:5
+msgid ""
+"VLC media player helps you to create media files. After creating media "
+"files, the quality has to be tested. You can test the quality and several"
+" other parameters using playback. In playback, you can specify parameters"
+" such as time, bookmarks, and titles."
+msgstr ""
+
+# 5990446275144502bf14f4b6f44fef7b
+#: ../../userguides/playback.rst:9
+msgid "Bookmarks"
+msgstr ""
+
+# e2f867f2337a4f6fbee8c760bd7201d7
+#: ../../userguides/playback.rst:11
+msgid ""
+"You can mark and locate particular places in an audio or video file using"
+" the Bookmarks feature of VLC. If you want to view a particular scene in "
+"a movie or listen to certain tune in a song repeatedly, you can create "
+"bookmarks."
+msgstr ""
+
+# b921b17f708a46fab7ffdd7b127d2493
+#: ../../userguides/playback.rst:13
+msgid "To bookmark a scene in a video, follow the steps below:"
+msgstr ""
+
+# 7b0ae30e33844e65b690bd960b424097
+#: ../../userguides/playback.rst:15
+msgid "On the menu bar, click on :menuselection:`Menu --> Playback`."
+msgstr ""
+
+# 599f6c3e4dcf495085d335bd00697124
+#: ../../userguides/playback.rst:20
+msgid ""
+"Select :guilabel:`Custom Bookmarks`. When you click on :guilabel:`Custom "
+"Bookmarks`, a dropdown menu would be displayed. Kindly click on "
+":guilabel:`Manage` from the dropdown menu to open the :guilabel:`Edit "
+"Bookmarks` dialog box."
+msgstr ""
+
+# 7d3e80091d984191a3255df54169944c
+#: ../../userguides/playback.rst:26
+msgid ""
+"To create a bookmark, click on :guilabel:`Create` to display the current "
+"track. After clicking on :guilabel:`Create`, the created bookmark appears"
+" in the :guilabel:`Edit Bookmarks` dialog box."
+msgstr ""
+
+# f4a0dae515674120869918eb41a05c23
+#: ../../userguides/playback.rst:32
+msgid ""
+"To view a scene that is bookmarked, click on :guilabel:`Playlist`, and "
+"select the :guilabel:`Custom Bookmarks` from the dropdown menu and the "
+"bookmarked file will be shown directly below :guilabel:`Manage`."
+msgstr ""
+
+# d4902f27b50f4a6ea256c4a972296e59
+#: ../../userguides/playback.rst:40
+msgid "Title"
+msgstr ""
+
+# 92b83d5185dc4a469a87e707f032d65c
+#: ../../userguides/playback.rst:42
+msgid ""
+"In a DVD format, each movie is referred to by its title or name. A title "
+"is displayed whenever a movie is played by any media player. You can view"
+" all titles in a folder in a sequential manner."
+msgstr ""
+
+# 1387ef0b3b5a4e6a8c639d3cd6a32d2b
+#: ../../userguides/playback.rst:44
+msgid ""
+"To open a folder, select :menuselection:`Menu --> Open Folder` from the "
+"menu. Locate the folder in which the video files are present and click "
+":guilabel:`OK`."
+msgstr ""
+
+# 52e397b74611483d9788324473704c14
+#: ../../userguides/playback.rst:45
+msgid ""
+"To select a title, click on the :menuselection:`Playback --> Title` menu."
+" The selected title is then played."
+msgstr ""
+
+# e45a9dbdd806414c881884adc3d706b9
+#: ../../userguides/playback.rst:49
+msgid "Chapter"
+msgstr ""
+
+# b23b71cbb7a5459fbcc56e485c48bdf3
+#: ../../userguides/playback.rst:51
+msgid ""
+"A video can also be divided into chapters. Different chapters can be "
+"accessed at random in a video which is being played. Using this option, "
+"you can directly view your favourite chapter without having to see the "
+"complete video."
+msgstr ""
+
+# eb8fc81648b145cdbfe7ac2ed502c0b3
+#: ../../userguides/playback.rst:53
+msgid "To play a chapter:"
+msgstr ""
+
+# 8b356bef08f2432babcaff666b4c6275
+#: ../../userguides/playback.rst:55
+msgid "Select :menuselection:`Menu --> Open Folder` menu."
+msgstr ""
+
+# b42aac56e71c425abc66e49eb763a004
+#: ../../userguides/playback.rst:56
+msgid "Locate the folder in which the video files are present."
+msgstr ""
+
+# c058a6a43ee04480bd0dc7bbdf84d5a3
+#: ../../userguides/playback.rst:57
+msgid ""
+"Select a video file and click :guilabel:`OK` and the file will be played "
+"in the VLC media player."
+msgstr ""
+
+# 6d04fa02412e4e4c99489ec9b911335a
+#: ../../userguides/playback.rst:58
+msgid ""
+"Select :menuselection:`Playback --> Chapter` in the menu to view the list"
+" of chapters. Select a chapter of your choice. Then selected chapter is "
+"played."
+msgstr ""
+
+# 8cf66f9c4a5c466190f6a5c814baaee4
+#: ../../userguides/playback.rst:62
+msgid "Program"
+msgstr ""
+
+# 82d60b96bd7c4d52bfc88bd2e42b3b4e
+#: ../../userguides/playback.rst:64
+msgid ""
+"This option is enabled only if streams of format DVB (Digital Video "
+"Broadcasting) and TS are played. Choose the program to select by giving "
+"its Service ID. Only use this option if you want to read a multi-program "
+"stream (like DVB streams for example). FIXME: Description needs to be "
+"improved"
+msgstr ""
+
+# d3a6a4e6def94fe3bb5a631fbcd0b150
+#: ../../userguides/playback.rst:68
+msgid "Specify the time"
+msgstr ""
+
+# f1fd30ab76bd429d9d527d58cabfee56
+#: ../../userguides/playback.rst:70
+msgid ""
+"This option is used to go to a specific frame in a media file and listen "
+"or view once again."
+msgstr ""
+
+# d492d16c5355477689351b563c192f8c
+#: ../../userguides/playback.rst:72
+msgid ""
+"To specify time select :menuselection:`Playback --> Jump to Specific "
+"Time` menu. The :guilabel:`Go to Time` dialog box is displayed."
+msgstr ""
+
+# d1dd5f3bd4fe420db786c31c54f4a9ec
+#: ../../userguides/playback.rst:73
+msgid "Enter the time in hh:mm:ss."
+msgstr ""
+
+# ec3b9c4994644ffaa07d7e1ea31d9746
+#: ../../userguides/playback.rst:74
+msgid ""
+"Click on the :guilabel:`Go` button. The control moves the tracker to a "
+"specific frame and the media file continues from that specified frame."
+msgstr ""
+
+# 622fd6d8a5e24ca0804c9fd2c5ff6560
+#: ../../userguides/playback.rst:75
+msgid "Click on :guilabel:`Cancel` to exit the dialog box."
+msgstr ""
+
+# 8f031c045f2e440b9e407f03ee4e378f
+#: ../../userguides/playback.rst:80
+msgid "Ensure that time limit is within the range of length of the media file."
+msgstr ""
+

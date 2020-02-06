@@ -1,0 +1,161 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# ce616de7a1be43b082a2e5561e4f2cca
+#: ../../gettingstarted/interface/mac/index.rst:2
+msgid "Mac OS X Interface"
+msgstr ""
+
+# ea54ba3425a24e94a5f6bdac7fdd7f0f
+#: ../../gettingstarted/interface/mac/index.rst:4
+msgid ""
+"The screenshot below shows the default interface in VLC 3.0.8 for Mac OS "
+"X."
+msgstr ""
+
+# a75000a89b8c45dbada4d2608454bbf0
+#: ../../gettingstarted/interface/mac/index.rst:9
+msgid ""
+"The screenshot below shows the tab to click on if you need to read all "
+"the important information about VLC. Ranging from our updates, "
+"preferences, addons mangers, about VLC media player, etc."
+msgstr ""
+
+# 8463312a379c482689a61c81c988ef12
+#: ../../gettingstarted/interface/mac/index.rst:14
+msgid "**The File menu:**"
+msgstr ""
+
+# 9e0df41656ae405eb28baed8a01d2de4
+# 336b34f983444cc59b5219f461f068c7
+# 5d2566a9011a488c823c11da4347b545
+# 307cdbc022004660bec6b4fe8f5dc093
+#: ../../gettingstarted/interface/mac/index.rst:16
+#: ../../gettingstarted/interface/mac/index.rst:28
+#: ../../gettingstarted/interface/mac/index.rst:44
+#: ../../gettingstarted/interface/mac/index.rst:57
+msgid "In this menu, you can:"
+msgstr ""
+
+# d4be49d8a988446587fc950fe2861eba
+#: ../../gettingstarted/interface/mac/index.rst:18
+msgid "Open a new file for playback from any location."
+msgstr ""
+
+# 5763b59f4c7f438cb41600131650d928
+#: ../../gettingstarted/interface/mac/index.rst:19
+msgid "Stream a file to the web, local network or file."
+msgstr ""
+
+# 707aa9be5ae3404d98d2318a6f5b2f86
+#: ../../gettingstarted/interface/mac/index.rst:20
+msgid "Quit VLC."
+msgstr ""
+
+# 5bbcd663a669481ba8c5c4fc656b0fa0
+#: ../../gettingstarted/interface/mac/index.rst:21
+msgid "Save a playlist."
+msgstr ""
+
+# 83ac6f78093c442bb227b8d84f62e3f7
+#: ../../gettingstarted/interface/mac/index.rst:26
+msgid "**The Edit menu:**"
+msgstr ""
+
+# c67f5d66d4184428be5d5998b9dba38b
+#: ../../gettingstarted/interface/mac/index.rst:30
+msgid "Cut, copy, paste, Delete and select all videos."
+msgstr ""
+
+# bddda3c802fd47ec801115e04ef8e0ce
+#: ../../gettingstarted/interface/mac/index.rst:31
+msgid "You can add emoji's and symbols and also start a dictation."
+msgstr ""
+
+# 3d7d288c881442bcafb693c1be7d5595
+#: ../../gettingstarted/interface/mac/index.rst:37
+msgid "**The View menu:**"
+msgstr ""
+
+# 482be663ad564bc9bfa11325d1ab85c4
+#: ../../gettingstarted/interface/mac/index.rst:42
+msgid "**The Playback menu:**"
+msgstr ""
+
+# 8943b81388f549efa5b6b186afc9fb65
+#: ../../gettingstarted/interface/mac/index.rst:46
+msgid "Select which title or chapter you want to play."
+msgstr ""
+
+# c2d04e8c8e3643038a21e45ccaf05039
+#: ../../gettingstarted/interface/mac/index.rst:47
+msgid "Stop the playback."
+msgstr ""
+
+# 7ff8fbe6eb934359aff9625713c60f54
+#: ../../gettingstarted/interface/mac/index.rst:48
+msgid "Move to the next or previous chapter."
+msgstr ""
+
+# c35da4e357d949d68a9f4726dd50d34c
+#: ../../gettingstarted/interface/mac/index.rst:49
+msgid "Control the speed on the media you are playing."
+msgstr ""
+
+# 6ba012f4e7214ce6a61c9fc4371e9434
+#: ../../gettingstarted/interface/mac/index.rst:50
+msgid "Jump to a specific chapter or time in the media."
+msgstr ""
+
+# cc84909b1f98405c90880473465afadd
+#: ../../gettingstarted/interface/mac/index.rst:55
+msgid "**The Audio menu:**"
+msgstr ""
+
+# 3ed2653d03014882a17aa9fee310a3f2
+#: ../../gettingstarted/interface/mac/index.rst:59
+msgid "Select which audio track you want"
+msgstr ""
+
+# af5aa4dc1bc048d8a5194125002b4310
+#: ../../gettingstarted/interface/mac/index.rst:60
+msgid "Change the number of audio channels."
+msgstr ""
+
+# 6d51f4e11055463b9013f9777c193de6
+#: ../../gettingstarted/interface/mac/index.rst:61
+msgid "Change the device to play the audio on."
+msgstr ""
+
+# 1c5be7d2b633481383140636df04f0dd
+#: ../../gettingstarted/interface/mac/index.rst:62
+msgid "Enable the built in Visualizations."
+msgstr ""
+
+# 4b535063d4de468f828348fb5873b6c4
+#: ../../gettingstarted/interface/mac/index.rst:63
+msgid "Increase and decrease the volume."
+msgstr ""
+
+# 101fffe80ba14befa055fef81d089821
+#: ../../gettingstarted/interface/mac/index.rst:64
+msgid "Mute the playback."
+msgstr ""
+

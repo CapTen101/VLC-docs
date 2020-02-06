@@ -1,0 +1,850 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# 50fb079194b744a1af5c5b15837fbecb
+#: ../../support/faq/faqwindows.rst:5
+msgid "FAQs about VLC on Windows"
+msgstr ""
+
+# c0831be9e12b4ea0bc681d52afd557e0
+#: ../../support/faq/faqwindows.rst:8
+msgid "Video Output"
+msgstr ""
+
+# d2abf51269cf407781647f73256de0fb
+#: ../../support/faq/faqwindows.rst:11
+msgid "Why does VLC only give black, white or garbled video output?"
+msgstr ""
+
+# a6fbcd3733eb41629b68d45fc203f2ea
+#: ../../support/faq/faqwindows.rst:13
+msgid ""
+"Usually the problem lies in display adapter drivers. If you are too "
+"scared to update your display adapter drivers, you can change VLC "
+"settings to make video work. If you are using Windows XP or older, the "
+"easiest fix is usually to disable Accelerated video output/Overlay video "
+"output which can be found first opening Tools -> Preferences and then "
+"choosing Video. After you have disabled the Accelerated video output, "
+"save your changes and restart the VLC media player to ensure that your "
+"changes are enabled."
+msgstr ""
+
+# 2533c53c7a704a7a9fdbc0ff36cb6cca
+#: ../../support/faq/faqwindows.rst:15
+msgid ""
+"If disabling Overlay video output doesn't fix the issue, then the next "
+"step is to change the video output module (aka VOUT). Open Tools -> "
+"Preferences -> Video  and select the module of your chioce from the "
+"Output dropdown menu."
+msgstr ""
+
+# 96370c5872d945f58e9b5ec7445ad296
+#: ../../support/faq/faqwindows.rst:18
+msgid "How can I adjust brightness or contrast?"
+msgstr ""
+
+# 6c6103d1bfb74783a2c73f9eaddab82d
+#: ../../support/faq/faqwindows.rst:20
+msgid ""
+"You can adjust brightness, contrast and other settings via Extended "
+"settings. Open Tools -> Effects and Filters to adjust these settings "
+"(Video Effects -> Essential and tick Image adjust). Changes should show "
+"up realtime."
+msgstr ""
+
+# 680a5e8773694d4e98697dbb24270a36
+#: ../../support/faq/faqwindows.rst:23
+msgid "How can I keep the brightness and contrast adjustments in memory forever?"
+msgstr ""
+
+# 56df1097e3ff4e91a1d74dc95a1cb54c
+#: ../../support/faq/faqwindows.rst:25
+msgid ""
+"Open Tools -> Preferences (set Show Settings to All) and then choosing "
+"Video -> Filters -> Image Adjust and set values you want to use (trial "
+"and error)."
+msgstr ""
+
+# 29334f5387b647119146a83eebd24be2
+#: ../../support/faq/faqwindows.rst:28
+msgid "Can I set file specific brightness or contrast?"
+msgstr ""
+
+# 73bef5f48bb04970ba80ff22030c5dfc
+#: ../../support/faq/faqwindows.rst:30
+msgid ""
+"Yes, but it isn't that easy. You have to create a VLC shortcut or .bat "
+"file with the proper settings. More info can be found from this thread."
+msgstr ""
+
+# ded60b8faaf24c2ba2d71e3449627798
+#: ../../support/faq/faqwindows.rst:33
+msgid "How do I set the default deinterlace method?"
+msgstr ""
+
+# 21e4ec747e8a43e99e1af2d8b14fccaa
+#: ../../support/faq/faqwindows.rst:35
+msgid ""
+"Tools -> Preferences (Show settings: All) Video -> Filters and tick "
+"Deinterlacing video filter from under Video output filter module (NOT "
+"FROM UNDER Video filter module!). Then Video -> Filters -> Deinterlace "
+"and choose the default mode. Remember to press Save to save VLC settings "
+"and restart VLC after that to make sure changes are enabled. [1] image "
+"showing the Video output filter module part"
+msgstr ""
+
+# 63038a0c497c4df2b0ff6741a96d403d
+#: ../../support/faq/faqwindows.rst:38
+msgid "VLC crashes or gives garbled images when using VMWare or VirtualBox"
+msgstr ""
+
+# e0c4c03819cf46d2b8dd71132204cb26
+#: ../../support/faq/faqwindows.rst:40
+msgid ""
+"This is due to buggy direct3d/video emulation. Use the GDI video output "
+"in the preferences to work around this."
+msgstr ""
+
+# 0a0b2856fe6948c69aee3a6aec481525
+#: ../../support/faq/faqwindows.rst:43
+msgid "Audio Output"
+msgstr ""
+
+# b870998d481a4579b41bfb6ecc4611a0
+#: ../../support/faq/faqwindows.rst:46
+msgid "Crackles, pops, hisses and other audio anomalies"
+msgstr ""
+
+# 51444f441df440a599ca0bce05990f49
+#: ../../support/faq/faqwindows.rst:48
+msgid ""
+"If you hear some unwanted audio problems you can try another audio output"
+" module to see if that solves the issue (Save and restart VLC after "
+"changes). Open Tools -> Preferences (set Show Settings to All) and then "
+"choose Audio -> Output module. There are multiple output modules you can "
+"use for audio. DirectX and Win32 waveOut should work in most cases. "
+"Unfortunately VLC doesn't support ASIO."
+msgstr ""
+
+# 9ed7c316285b4343a9d1cfa48b391c56
+#: ../../support/faq/faqwindows.rst:51
+msgid "Crackles, pops, hisses and other audio anomalies with SPDIF passthrough"
+msgstr ""
+
+# b4931b6e97344784b00205342e16a778
+#: ../../support/faq/faqwindows.rst:53
+msgid ""
+"SPDIF passthrough of Dolby Digital (AC3) and DTS audiotracks don't work "
+"with all soundcards. The Win32 waveOut output module should work better "
+"with SPDIF."
+msgstr ""
+
+# 8b6fd1016cd744bd897f56b6d826ed37
+#: ../../support/faq/faqwindows.rst:56
+msgid "I don't hear dialog, conversations, etc. while playing 5.1 audio"
+msgstr ""
+
+# d51a37c493054eb8abc35a2fb5ef84c6
+#: ../../support/faq/faqwindows.rst:58
+msgid ""
+"Make sure you have selected the proper speaker setup from Windows audio "
+"settings or from the soundcard control panel. If you have done so, make "
+"sure VLC also has right settings. Audio -> Audio Device to select proper "
+"speaker settings during playback."
+msgstr ""
+
+# 676d36adeb8048c5924c17447e76a4bd
+#: ../../support/faq/faqwindows.rst:61
+msgid "How do I adjust audio delay?"
+msgstr ""
+
+# b61cb5b8f6e44ee2ac10f8cdc24ea94b
+#: ../../support/faq/faqwindows.rst:63
+msgid ""
+"During playback you can press k or j to adjust audio delay (adjust step "
+"is 50 ms)."
+msgstr ""
+
+# 8f6a67b5aa56449a884dcb3b5d1666e1
+#: ../../support/faq/faqwindows.rst:66
+msgid "How can I play external audio track with video?"
+msgstr ""
+
+# d05428bb2b3844bdb496721c1b16de45
+#: ../../support/faq/faqwindows.rst:68
+msgid ""
+"Media -> Open (Advanced)... and select the video file and after that tick"
+" Show more options and then Play another media synchronously... and "
+"select the audio file you want to use. Then when playing the video go to "
+"Audio -> Audio Track -> Track 2 to select the second (or whichever it is)"
+" audio track (this so-called \"Slave-mode\" doesn't work correctly)."
+msgstr ""
+
+# 1d168a2ec0d047029b5ed143c9bdf483
+#: ../../support/faq/faqwindows.rst:71
+msgid ""
+"How do I change my output device in case I have multiple audio devices "
+"connected to my PC?"
+msgstr ""
+
+# 8edeabf74d4049ceb659bfe3f95bfe71
+#: ../../support/faq/faqwindows.rst:73
+msgid ""
+"Open Tools -> Preferences (set Show Settings to All) and if you use "
+"DirectX, then Audio -> Output modules -> DirectX and Output device. If "
+"you use Waveout, then Audio -> Output modules -> WaveOut and Select Audio"
+" Device. Remember to press Save to save VLC settings and restart VLC "
+"after that to make sure changes are enabled."
+msgstr ""
+
+# 433279db073d4e70bd34b0d4b4170e46
+#: ../../support/faq/faqwindows.rst:76
+msgid ""
+"How can I override speaker setup? (e.g. I want to always default to "
+"stereo)"
+msgstr ""
+
+# f3783587ff0e449fafa065c62f1eb89a
+#: ../../support/faq/faqwindows.rst:78
+msgid ""
+"You can force speaker setup if you use DirectX audio output from Tools ->"
+" Preferences (set Show settings to All) Audio -> Output modules -> "
+"DirectX and Speaker configuration dropdown menu. Remember to press Save "
+"to save VLC settings and restart VLC after that to make sure changes are "
+"enabled."
+msgstr ""
+
+# 96d5f10e7c32452db7c68d0ca1e3392a
+#: ../../support/faq/faqwindows.rst:81
+msgid ""
+"Why does VLC volume change when I attach my mobile phone to my computer "
+"during playback?"
+msgstr ""
+
+# dcabad6931e74f20b87fb8b46f04cc5e
+#: ../../support/faq/faqwindows.rst:83
+msgid ""
+"This is a feature of Windows. You can adjust this via Control Panel. Open"
+" Sound and go to the Communications tab."
+msgstr ""
+
+# bee11746d64e49c48c3387f3335726f7
+#: ../../support/faq/faqwindows.rst:86
+msgid "User interface"
+msgstr ""
+
+# 67d331084be54bf8b930c2d4795946d7
+#: ../../support/faq/faqwindows.rst:89
+msgid "How can I separate playback controls from the playback window?"
+msgstr ""
+
+# 19bac1b618d34f2d800879f547139bb2
+#: ../../support/faq/faqwindows.rst:91
+msgid ""
+"Go to Tools -> Preferences (set Show Settings to All) and Video and "
+"untick Embedded video selection. Remember to press Save to save VLC "
+"settings and restart VLC after that to make sure changes are enabled."
+msgstr ""
+
+# a2da7442f0c14accbf57813e2e9b21b3
+#: ../../support/faq/faqwindows.rst:94
+msgid "How can I make skinned interface my default interface?"
+msgstr ""
+
+# af27418e1def4a048533367e1570c678
+#: ../../support/faq/faqwindows.rst:96
+msgid ""
+"Go to Tools -> Preferences (set Show Settings to All) and Interface -> "
+"Main interfaces and from the Interface module dropdown box select "
+"Skinnable Interface. Remember to press Save to save VLC settings and "
+"restart VLC after that to make sure changes are enabled. Image about "
+"Skinnable Interface setting"
+msgstr ""
+
+# f1867238180041aab28e64fb328f895f
+#: ../../support/faq/faqwindows.rst:99
+msgid "Can I jump to a certain time?"
+msgstr ""
+
+# 31de04d81da3434d8fe8a1ed95651db2
+#: ../../support/faq/faqwindows.rst:101
+msgid ""
+"You can use --start-time from command line when you start VLC. There is "
+"also Playback -> Jump to Specific Time (Ctrl+T) option in the GUI."
+msgstr ""
+
+# cab7a377f34648cea4f69d937710589e
+#: ../../support/faq/faqwindows.rst:104
+msgid "How can I change UI language?"
+msgstr ""
+
+# 968f50594eda498a987ec0663b0e7463
+#: ../../support/faq/faqwindows.rst:106
+msgid ""
+"You can use Tools -> Preferences and Interface and select the correct "
+"language from the Menus language dropdown list. Remember to press Save to"
+" save VLC settings and restart VLC after that to make sure changes are "
+"enabled."
+msgstr ""
+
+# 146aa931a74d4328a18c6c4f17f173d2
+#: ../../support/faq/faqwindows.rst:108
+msgid ""
+"Also you can use --language= from command line if you can't navigate with"
+" the current language or you want to use batch files/scripts. For "
+"example: vlc --language=en to get English. Other options are auto, en, "
+"ar, pt_BR, en_GB, ca, zh_TW, cs, da, nl, fi, fr, gl, ka, de, he, hu, it, "
+"ja, ko, ms, oc, fa, pl, pt_PT, ro, ru, zh_CN, sr, sk, sl, es, sv, tr"
+msgstr ""
+
+# 7c67be4d96d14d64b3af9b4935d5adf6
+#: ../../support/faq/faqwindows.rst:112
+msgid "How can I disable the fullscreen controller?"
+msgstr ""
+
+# 53a12584f37e4fb6a36f53bfe19ade7d
+#: ../../support/faq/faqwindows.rst:114
+msgid ""
+"You can use Tools -> Preferences (set Show Settings to All) and Interface"
+" -> Main interfaces -> Qt and untick Show a controller in fullscreen mode"
+" option. Image about fullscreen controller setting"
+msgstr ""
+
+# 08b2c4e921074d23af7acf41857f4692
+#: ../../support/faq/faqwindows.rst:117
+msgid "Why doesn't the time slider show up?"
+msgstr ""
+
+# 77d4353984be4cc9bcb80e8337a3b1c5
+#: ../../support/faq/faqwindows.rst:119
+msgid ""
+"If you use WindowBlinds or a similar custom skin engine, it usually "
+"breaks the QT4 interface in VLC. So either disable that engine with VLC, "
+"or change VLC's GUI to something else (like skins2)."
+msgstr ""
+
+# 9e91c9cf7ff54735aef29535dfb2121c
+#: ../../support/faq/faqwindows.rst:122
+msgid "How can I disable showing of the filename when video starts?"
+msgstr ""
+
+# 0cf0e290744949349da5dd08a72a6840
+#: ../../support/faq/faqwindows.rst:124
+msgid ""
+"Go to Tools -> Preferences (set Show Settings to All) and Video and "
+"untick Show media title on video. Remember to press Save to save VLC "
+"settings and restart VLC after that to make sure changes are enabled."
+msgstr ""
+
+# 25732cc0904748d9ba0f416e1c24c5f6
+#: ../../support/faq/faqwindows.rst:127
+msgid ""
+"How do I disable showing of the Privacy and Network Policies dialog "
+"during first VLC startup?"
+msgstr ""
+
+# b181a8cacf104de19a4c40e74caffd21
+#: ../../support/faq/faqwindows.rst:129
+msgid "Launch VLC with --no-qt-privacy-ask command-line option."
+msgstr ""
+
+# 36da83afa84e46bab5d69a210a74233b
+#: ../../support/faq/faqwindows.rst:132
+msgid "How do I disable pop up track notification shown in system tray (systray)?"
+msgstr ""
+
+# a7259dea5135460cb251115c73e23464
+#: ../../support/faq/faqwindows.rst:134
+msgid ""
+"Go to Tools -> Preferences (set Show Settings to All) and Interface -> "
+"Main interfaces -> Qt then untick Show notification popup on track "
+"change. Remember to press Save to save VLC settings and restart VLC after"
+" that to make sure changes are enabled."
+msgstr ""
+
+# 7b8192da6fbd405788a01f0cd39f02e8
+#: ../../support/faq/faqwindows.rst:137
+msgid "How do I disable the Recent Media part of QT4 interface?"
+msgstr ""
+
+# 2c6d36d7884a488cabb67898268a0aa1
+#: ../../support/faq/faqwindows.rst:139
+msgid ""
+"Go to Tools -> Preferences (set Show Settings to All) and Interface -> "
+"Main interfaces -> Qt then untick Save the recently played items in the "
+"menu. Remember to press Save to save VLC settings and restart VLC after "
+"that to make sure changes are enabled."
+msgstr ""
+
+# e556f20f14f34644a7cc9fd03caec41e
+#: ../../support/faq/faqwindows.rst:142
+msgid ""
+"How do I disable the blank space at the bottom of QT4 interface? (aka "
+"Status bar)"
+msgstr ""
+
+# 32dc0d64a7b044b59f5614b5d02f31cf
+#: ../../support/faq/faqwindows.rst:144
+msgid "Untick the View -> Status Bar"
+msgstr ""
+
+# c6b22c8785a94cc4975e9873ebc47221
+#: ../../support/faq/faqwindows.rst:147
+msgid ""
+"How do I change playlist icons to list view or vice versa in the QT4 "
+"interface?"
+msgstr ""
+
+# bdd21f1a86cf44379a2f82d0c03bb961
+#: ../../support/faq/faqwindows.rst:149
+msgid "Click the icon/button in playlist to toggle between modes."
+msgstr ""
+
+# 77ec516584fe451fbdb9494262a367af
+#: ../../support/faq/faqwindows.rst:152
+msgid "Codec compatibility"
+msgstr ""
+
+# 1f8e172661a3485abc4559925ce8b2aa
+#: ../../support/faq/faqwindows.rst:155
+msgid "How can I identify what codecs the file uses?"
+msgstr ""
+
+# 1957c7e9a1784a31bfbc799df8de43b2
+#: ../../support/faq/faqwindows.rst:157
+msgid "With VLC, Open the file you want and open Tools -> Codec Information."
+msgstr ""
+
+# fe8a6ae35eff48a29884b47f25f2cd8f
+#: ../../support/faq/faqwindows.rst:160
+msgid ""
+"VLC doesn't identify used codecs correctly or gives \"undf\" as codec or "
+"I want more information about specs"
+msgstr ""
+
+# bfed69f793464f498c2a1aa9652c40a0
+#: ../../support/faq/faqwindows.rst:162
+msgid ""
+"There are multiple video and audio identification tools, but one very "
+"useful is tool called `Mediainfo <https://mediaarea.net/en/MediaInfo>`_."
+msgstr ""
+
+# 23f5316bf75b4a2fac86905cd5642641
+#: ../../support/faq/faqwindows.rst:165
+msgid "H.264/MPEG-4 AVC playback is too slow (or laggy)"
+msgstr ""
+
+# cc2f44f84d334ba9ad57ccfb85bb6628
+#: ../../support/faq/faqwindows.rst:167
+msgid ""
+"You can speed up the H.264/MPEG-4 AVC playback by disabling loop filter "
+"for H.264 decoding. To do this go to Tools -> Preferences and Input / "
+"Codecs and in the drop-down box for Skip H.264 in-loop deblocking filter "
+"change it to All. Remember to press Save to save VLC settings and restart"
+" VLC after that to make sure changes are enabled."
+msgstr ""
+
+# 62b3369cc6d549759895f1f561a56fa7
+#: ../../support/faq/faqwindows.rst:169
+msgid ""
+"Also if you have multicore CPU (or one with Intel Hyper-Threading), you "
+"can lower the FFMPEG thread count. To do this go to Tools -> Preferences "
+"(Show settings: All), then Input / Codecs -> Video codecs -> FFmpeg, then"
+" locate Threads, and set it to 4 (or to 2, or to 1). Remember to press "
+"Save to save VLC settings and restart VLC after that to make sure changes"
+" are enabled."
+msgstr ""
+
+# 04dc070466bb4f02adc7c08124335cf7
+#: ../../support/faq/faqwindows.rst:172
+msgid "H.264/MPEG-4 AVC or VC-1 playback is full of image errors"
+msgstr ""
+
+# a4ccac27ecf8455cad3bc55e36635527
+#: ../../support/faq/faqwindows.rst:174
+msgid ""
+"You can also try to enable/disable GPU decoding, and see if it helps. It "
+"can be found from Tools -> Preferences and Input & Codecs and tick/untick"
+" Use GPU accelerated decoding. Remember to press Save to save VLC "
+"settings and restart VLC after that to make sure changes are enabled."
+msgstr ""
+
+# 235b72f153144d8981fd024df3d0006c
+#: ../../support/faq/faqwindows.rst:177
+msgid "Problem with Real Audio or Real Video getting_support"
+msgstr ""
+
+# 23099c85e26f4181a7848d01a0f1051c
+#: ../../support/faq/faqwindows.rst:179
+msgid ""
+"Most Real Audio and Real Video should work fine with VLC 2.0.0, but if "
+"you have a file that doesn't work, then post this in a thread to the "
+"support forum."
+msgstr ""
+
+# f6d94884c4a94d4997284b21f2d07e4e
+#: ../../support/faq/faqwindows.rst:182
+msgid "Why can't VLC use CoreAVC, FFDshow, AC3filter, etc. codecs?"
+msgstr ""
+
+# e4e0221cca754c79bb0cb6917de0c213
+#: ../../support/faq/faqwindows.rst:184
+msgid ""
+"VLC only uses built-in codecs and as such, it doesn't support VfW or "
+"DirectShow APIs for codecs. However, you are free to hack the source and "
+"use it, though; for example it is possible to make VLC into a directshow "
+"filter."
+msgstr ""
+
+# c87b840bc233426484cf6266e5cb7279
+#: ../../support/faq/faqwindows.rst:187
+msgid "File and Media Format Compatibility"
+msgstr ""
+
+# 2be0b503345444289354a374b80ac25b
+#: ../../support/faq/faqwindows.rst:190
+msgid "Why does some of my DVD movies crash?"
+msgstr ""
+
+# 0ec946e9168048528134f297dd9b2d40
+#: ../../support/faq/faqwindows.rst:192
+msgid ""
+"If you open a DVD with the DVD selection, try using the No DVD menus "
+"option (aka dvdsimple)."
+msgstr ""
+
+# a24099fccc5b4c3c814ddee07081f58f
+#: ../../support/faq/faqwindows.rst:194
+msgid ""
+"Some new DVD movies use copy protection mechanisms that VLC doesn't "
+"support. It might help if you rip that movie to your hard drive using "
+"tools like DVDFab Decrypter or AnyDVD, and then use VLC to play these "
+"files back locally from your hard drive."
+msgstr ""
+
+# b1f801b13aea485a937f1d53ffcd7d0e
+#: ../../support/faq/faqwindows.rst:196
+msgid ""
+"You may also be able to play these copy protected DVDs by opening the "
+"movie initialization file directly. Use the Open File function in VLC and"
+" navigate to the VIDEO_TS directory on the DVD, then open the "
+"VIDEO_TS.IFO file. Some of the newest copy protection schemes have been "
+"found to use tricks that confuse many of the current DVD software "
+"programs so they cannot locate this file properly to initiate playback on"
+" their own. This method has been found to work with some of the newest "
+"DVDs that won't open properly in VLC 1.1.11 using the standard "
+"approaches."
+msgstr ""
+
+# 91260e5ea7d948eebbc9723d85c79b82
+#: ../../support/faq/faqwindows.rst:199
+msgid "DVD movies don't playback smooth"
+msgstr ""
+
+# af05f8edab9646b6af5fc8f233234f24
+#: ../../support/faq/faqwindows.rst:201
+msgid ""
+"One thing that might help is increasing the VLC DVD cache. This can be "
+"done from Tools -> Preferences (set Show Settings to All) and Input / "
+"Codecs and increasing the value of Disc caching (ms) to maybe 5000 or "
+"20000. Remember to press Save to save VLC settings and restart VLC after "
+"that to make sure changes are enabled."
+msgstr ""
+
+# c646685a3bc746a2aae97941ed52e7cf
+#: ../../support/faq/faqwindows.rst:203
+msgid ""
+"If DVD files from your hard drive work better, then check that your DVD "
+"drive has DMA enabled (if it is a IDE/ATAPI DVD drive)."
+msgstr ""
+
+# a81f2451243f46f8960111fa2ca7f7c8
+#: ../../support/faq/faqwindows.rst:206
+msgid "Can I play DVD files (VOB+IFO) from my hard drive?"
+msgstr ""
+
+# 359a2e0a71fb4d61bc006aa609355a8e
+#: ../../support/faq/faqwindows.rst:208
+msgid ""
+"Yes, you can. Use Media -> Open Disc... and instead of a DVD drive, point"
+" to the location of the correct folder by using either Browse... button "
+"or the customize field. For example: dvd://\"c:\\movies\\BLOOD "
+"DIAMOND\\VIDEO_TS\""
+msgstr ""
+
+# 7be3fadef99a443d98cdf87429409a90
+#: ../../support/faq/faqwindows.rst:211
+msgid "How do I handle the broken AVI files?"
+msgstr ""
+
+# ea96b2b790fe4d718791012d071276aa
+#: ../../support/faq/faqwindows.rst:213
+msgid ""
+"Some AVI files may give The AVI file is broken. Seeking not work "
+"correctly. Do you want to try to repair (this might take a long time) "
+"dialog. Those AVI files have some issues and you can try to fix those "
+"files temporarily with VLC or permanently with other tools. If you don't "
+"fix those files, seeking won't work correctly and those files may also "
+"crash other players."
+msgstr ""
+
+# f5ca2947384f445899b7541e4a5b5f17
+#: ../../support/faq/faqwindows.rst:216
+msgid "Can I always perform the same repair action?"
+msgstr ""
+
+# 5c48d76acddf43d7927a82e61640ca43
+#: ../../support/faq/faqwindows.rst:218
+msgid ""
+"Yes, you can. This can be done from Tools -> Preferences (set Show "
+"Settings to All) and Input / Codecs -> Demuxers -> AVI and select the "
+"wanted action from Force index creation dropdown box. Ask is default (it "
+"will always ask what you want to do). Always fix tries to always fix AVI "
+"files and Never fix always starts the playback without fixing. Remember "
+"to press Save to save VLC settings and restart VLC after that to make "
+"sure changes are enabled."
+msgstr ""
+
+# ef93f02a9c7d40738fbaede30515c674
+#: ../../support/faq/faqwindows.rst:221
+msgid "Can I fix those broken AVI files permanently?"
+msgstr ""
+
+# 368da67cf5a144dd8c757437a1a7562d
+#: ../../support/faq/faqwindows.rst:223
+msgid ""
+"Yes. You can try for example `DivFix++ <http://www.divfix.org/>`_ or "
+"`Virtualdub <http://www.virtualdub.org/>`_. If you still encounter any "
+"problem, read an answer given to a VLC user on our `forum "
+"<https://forum.videolan.org/viewtopic.php?f=14&t=45427&p=143688&hilit=virtualdub#p143688>`_"
+" if you encounter any issues."
+msgstr ""
+
+# 7160fe88f3364400b84af271edee3b5e
+#: ../../support/faq/faqwindows.rst:226
+msgid "Can I fix those broken or partially downloaded Matroska/MKV files too?"
+msgstr ""
+
+# 844d79b0b1dd496eb4a2d6cf57910a66
+#: ../../support/faq/faqwindows.rst:228
+msgid "Yes. You can try `Meteorite <http://www.mkvrepair.com/>`_ for fixing."
+msgstr ""
+
+# 986b9be17779484faa6b84c3a924d154
+#: ../../support/faq/faqwindows.rst:231
+msgid "Some MP4 or 3GP files don't have audio at all"
+msgstr ""
+
+# 44a462d5bd5e43e18963ae2efe45aca3
+#: ../../support/faq/faqwindows.rst:233
+msgid ""
+"If those files have AMR audio (usually ones from mobile phones) they "
+"might not work with current stable VLC versions."
+msgstr ""
+
+# e5bad172e4154c9fa96a5f8b55385fc4
+#: ../../support/faq/faqwindows.rst:236
+msgid "How do I enable Blu-ray disc playback (for commercially released Blu-rays)"
+msgstr ""
+
+# 0f8c10dc26a4433b9bef7fbf25d2e983
+#: ../../support/faq/faqwindows.rst:238
+msgid ""
+"You have to download some additional files, `here <http://vlc-"
+"bluray.whoknowsmy.name/>`_"
+msgstr ""
+
+# 6f11f198c7af4358bdc59ec4099d6975
+#: ../../support/faq/faqwindows.rst:241
+msgid "Subtitles"
+msgstr ""
+
+# 5d3f359e8dac44c589b2626ca42fd279
+#: ../../support/faq/faqwindows.rst:244
+msgid "How do I adjust subtitle delay?"
+msgstr ""
+
+# db596b10c4ff46b8b0b4a119e7afffa0
+#: ../../support/faq/faqwindows.rst:246
+msgid ""
+"During playback you can press h or g to adjust subtitle delay (adjust "
+"step is 50 ms)."
+msgstr ""
+
+# f8b47d7a805547e794170049ebe05a62
+#: ../../support/faq/faqwindows.rst:249
+msgid "How can I select the right subtitle track?"
+msgstr ""
+
+# dd4db9508711448e81ed0776242b887d
+#: ../../support/faq/faqwindows.rst:251
+msgid ""
+"If your video has multiple subtitle tracks, you can select the one you "
+"would like to see from Video -> Subtitles Track."
+msgstr ""
+
+# 8b03708a8cb04e61a6c564d164b74adb
+#: ../../support/faq/faqwindows.rst:254
+msgid "Can I disable hardcoded or \"burned\" subtitles with VLC?"
+msgstr ""
+
+# 7f1b16ca92bb4f6288a5f200f8347021
+# 7b4e53e0bc7e4a399e4d29a810ef12a8
+#: ../../support/faq/faqwindows.rst:256 ../../support/faq/faqwindows.rst:288
+msgid "No, you can't."
+msgstr ""
+
+# 697bef6c6c9446138baea9780b2596a1
+#: ../../support/faq/faqwindows.rst:259
+msgid "Can I change font, font size, style or color?"
+msgstr ""
+
+# 5946184342ad44338de7d1594fdb1439
+#: ../../support/faq/faqwindows.rst:261
+msgid ""
+"You can with text-based subtitle formats (Subtitles codecs). Go to Tools "
+"-> Preferences and Subtitles/OSD and adjust anything you want. Remember "
+"to press Save to save VLC settings and restart VLC after that to make "
+"sure changes are enabled."
+msgstr ""
+
+# d5ce831ad49b40e4a982c65c67b3cb42
+#: ../../support/faq/faqwindows.rst:264
+msgid "How can I change the subtitles text encoding?"
+msgstr ""
+
+# 4116ab7b28b444be8accc44b46305fbd
+#: ../../support/faq/faqwindows.rst:266
+msgid ""
+"If you see wrong characters on screen or failed to convert subtitle "
+"encoding error message you should try to change Default encoding option "
+"which can be found from Tools -> Preferences and Subtitles/OSD. Remember "
+"to press Save to save VLC settings and restart VLC after that to make "
+"sure changes are enabled."
+msgstr ""
+
+# c41e15b842f64a3db9646027d1a5fe33
+#: ../../support/faq/faqwindows.rst:269
+msgid "General"
+msgstr ""
+
+# 61bb21b732724562b015a1c3d7520926
+#: ../../support/faq/faqwindows.rst:272
+msgid "How do I reset my VLC settings?"
+msgstr ""
+
+# de4d3ad5b16d4ee5a0bf7e61c23950c1
+#: ../../support/faq/faqwindows.rst:274
+msgid ""
+"If you can start VLC, go to Tools -> Preferences and then click on the "
+"Reset Preferences button and Save to reset the existing VLC settings. "
+"Remember to restart VLC after that to make sure changes are enabled."
+msgstr ""
+
+# 167a84e67d444f149c2edbf649fcbc4a
+#: ../../support/faq/faqwindows.rst:276
+#, python-format
+msgid ""
+"If you can't start VLC, go to %appdata% folder and delete the vlc folder "
+"from there (Start -> run and type %appdata%\\vlc there and press OK if "
+"you can't locate %appdata%)."
+msgstr ""
+
+# fda0962030d94a21b4873c3dac48b310
+#: ../../support/faq/faqwindows.rst:278
+msgid "Also start menu -> VideoLan -> \"Reset VLC media preferences ...\""
+msgstr ""
+
+# 1abf5169e84e43288b4c12fa3f3b3745
+#: ../../support/faq/faqwindows.rst:281
+msgid "Why does my VLC media player crashe on startup?"
+msgstr ""
+
+# fb92cb95627644488ffedabfaf316398
+#: ../../support/faq/faqwindows.rst:283
+msgid ""
+"This usually happens because VLC setting files have been corrupted. "
+"Resetting VLC settings should fix this."
+msgstr ""
+
+# 941b8ae0b61445d89523a6c56122cb49
+#: ../../support/faq/faqwindows.rst:286
+msgid "Can VLC burn CD, DVD, HD DVD or Blu-ray discs?"
+msgstr ""
+
+# 7c90513b97a5452eb5a8da6443b7f197
+#: ../../support/faq/faqwindows.rst:291
+msgid "Is VLC legal in all countries?"
+msgstr ""
+
+# 35d62b4aea594ac695c76b1315643dfe
+#: ../../support/faq/faqwindows.rst:293
+msgid ""
+"Probably not. The DeCSS module might violate DMCA (and similar laws), and"
+" some codecs would require licenses for personal/commercial use. There "
+"haven't been any court cases related to VLC, but companies should make "
+"sure they pay license fees to license holders if they use VLC "
+"commercially and use patented formats or codecs."
+msgstr ""
+
+# 99f8f749134443979799a9e8648b4faa
+#: ../../support/faq/faqwindows.rst:296
+msgid "Can I run multiple VLC instances?"
+msgstr ""
+
+# 60ad1514099b42b79410a9ed65c5fcb6
+#: ../../support/faq/faqwindows.rst:298
+msgid "Yes, you can."
+msgstr ""
+
+# b81b007ba4184e3aae3aac9a42a90597
+#: ../../support/faq/faqwindows.rst:301
+msgid "How can I make VLC preview my eMule downloads?"
+msgstr ""
+
+# 4a2ac14f8461497dbf14bde103e3e6c7
+#: ../../support/faq/faqwindows.rst:303
+msgid ""
+"Check out this `forum post "
+"<https://forum.videolan.org/viewtopic.php?f=14&t=61826#p206451>`_."
+msgstr ""
+
+# 1f543f832efd424d80a93ab66d662c90
+#: ../../support/faq/faqwindows.rst:306
+msgid ""
+"How do I specify the folder where the recorded files (via red rec button)"
+" will be stored?"
+msgstr ""
+
+# 7f744e22dc2e41a49a1c9b3c9e89a7a6
+#: ../../support/faq/faqwindows.rst:308
+msgid ""
+"Tools → Preferences and Input & Codecs and Record directory or filename. "
+"Remember to press Save to save VLC settings and restart VLC after that to"
+" make sure changes are enabled."
+msgstr ""
+
+# 870bee0683bf4b1bbb7babce901344ec
+#: ../../support/faq/faqwindows.rst:310
+msgid ""
+":ref:`Get Help <getting_support>` - Find an answer to any question that "
+"wasnt answered here."
+msgstr ""
+

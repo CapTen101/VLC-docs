@@ -1,0 +1,32 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# 5b6d246a76624d579611df9c8760446f
+#: ../../gettingstarted/interface/windows_and_linux/playback_controls.rst:4
+msgid "Playback Controls"
+msgstr ""
+
+# cb5fd9da8a024923b33cfcd58e919c95
+#: ../../gettingstarted/interface/windows_and_linux/playback_controls.rst:6
+msgid ""
+"Here, you have access to many functions to control the playback of a "
+"media file."
+msgstr ""
+

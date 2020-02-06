@@ -1,0 +1,93 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# eae8888e3f7a44afb8bae7c1c491bd0e
+#: ../../gettingstarted/setup/linux/ubuntu.rst:4
+msgid "Ubuntu"
+msgstr ""
+
+# bdb999ee37e848b7a087a80c0bf0b01c
+#: ../../gettingstarted/setup/linux/ubuntu.rst:6
+msgid ""
+"Installing the VLC media player on the Ubuntu operating system can be "
+"done in three different ways;"
+msgstr ""
+
+# be560cf86a0a4583b6d29000d391f5c2
+#: ../../gettingstarted/setup/linux/ubuntu.rst:9
+msgid "Installing VLC Using Ubuntu Software center"
+msgstr ""
+
+# b071aee009fc491aad740cd1d463e364
+#: ../../gettingstarted/setup/linux/ubuntu.rst:11
+msgid ""
+"Click on the **Show Applications** button or search for **Software** on "
+"the search bar and open it."
+msgstr ""
+
+# 7024834081624daaad9a6070ec4631e9
+#: ../../gettingstarted/setup/linux/ubuntu.rst:16
+msgid "Click the search button 🔎 on the top right and search for VLC."
+msgstr ""
+
+# e727461811dc4bb8a69bc44d7e158e8e
+#: ../../gettingstarted/setup/linux/ubuntu.rst:18
+msgid ""
+"Click on **Install**. If required, authorize the autorization with your "
+"password."
+msgstr ""
+
+# c1600f2a05cf44d8b7344f867bc3640c
+#: ../../gettingstarted/setup/linux/ubuntu.rst:23
+msgid ""
+"The application will automatically download and install on your Ubuntu "
+"machine."
+msgstr ""
+
+# 18516035b5504ac986524bad605421f5
+#: ../../gettingstarted/setup/linux/ubuntu.rst:61
+msgid "Download VLC through your Command Prompt"
+msgstr ""
+
+# 38fe5c83b80748dc8933fc999070af73
+#: ../../gettingstarted/setup/linux/ubuntu.rst:63
+msgid "Click on the **Show Applications** button."
+msgstr ""
+
+# e6c4500f0d244306a6efb5c99ee0e536
+#: ../../gettingstarted/setup/linux/ubuntu.rst:65
+msgid "On the search bar, type in **Terminal**, and open it."
+msgstr ""
+
+# db6583c649b9493ab1e235c2aa6f1000
+#: ../../gettingstarted/setup/linux/ubuntu.rst:70
+msgid ""
+"On your terminal, run the following commands ``sudo apt-get update`` and "
+"provide the sudo password for authentication"
+msgstr ""
+
+# 6ed1a0435ef74f248bcc2306d4d22afd
+#: ../../gettingstarted/setup/linux/ubuntu.rst:72
+msgid ""
+"Run ``sudo apt-get install vlc`` on your terminal to install VLC on your "
+"system. When you are asked this question; **Do you want to continue? "
+"[y/n]** type in y (short form for YES)"
+msgstr ""
+

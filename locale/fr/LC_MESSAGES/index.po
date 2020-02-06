@@ -1,0 +1,144 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# cef7aead67014c369335cccbacfc03cc
+#: ../../index.rst:8
+msgid "VLC |release| User Documentation"
+msgstr ""
+
+# 41f398cd863049f89b929f5459a31937
+#: ../../index.rst:10
+msgid ""
+"`VLC media player <https://www.videolan.org/vlc/>`_ (commonly known as "
+"just **VLC**) is a free and open source cross-platform multimedia player "
+"and framework that plays most multimedia files as well as DVDs, Audio "
+"CDs, VCDs,and various streaming protocols. You can download the latest "
+"version of VLC on our `website <https://www.videolan.org/vlc/#download>`_"
+" for free."
+msgstr ""
+
+# 1aa7a2c062a546658e318343d933572f
+#: ../../index.rst:14
+msgid "Key Features"
+msgstr ""
+
+# 4fc9fb4d2c6541039b2d8ce799a00d6b
+#: ../../index.rst:16
+msgid "VLC plays Files, Discs, Webcams, Devices and Streams."
+msgstr ""
+
+# a2db1da230f147ae9c604a05231f300c
+#: ../../index.rst:17
+msgid "VLC runs on all platforms and is completely free."
+msgstr ""
+
+# 5d865805a1cd4ec6ab9533b15b1c8534
+#: ../../index.rst:18
+msgid ""
+"It has the most complete feature-set over the video, subtitle "
+"synchronisation, video and audio filters."
+msgstr ""
+
+# 8b92da0bff364fc9be67c7e1529d58dc
+#: ../../index.rst:19
+msgid ""
+"It has hardware decoding on most platforms. It supports 0-copy on the GPU"
+" and can fallback on software when required."
+msgstr ""
+
+# 5e5748f6894a4d0aaafd0b383582e6a4
+#: ../../index.rst:20
+msgid "No spywares, ads and user tracking are allowed on the VLC media player."
+msgstr ""
+
+# 5a720a39a32f4ecbba8e9cef30048a5c
+#: ../../index.rst:21
+msgid "Advanced formats are allowed on VLC."
+msgstr ""
+
+# 9c5c8c0f02c8492ab6f434c8616e3160
+#: ../../index.rst:22
+msgid ""
+"VLC lets you apply audio effects, video effects, and tweak the way a "
+"video’s audio and video line up."
+msgstr ""
+
+# ea384289778649adbfcb5f1768503154
+#: ../../index.rst:27
+msgid "First Steps"
+msgstr ""
+
+# 98239563778142058524728abe85273e
+#: ../../index.rst:29
+msgid ""
+"To get the most out of the VLC media player, start by reviewing a few "
+"introductory topics below;"
+msgstr ""
+
+# 72e7327fb1644903b2f1bc40cf57df28
+#: ../../index.rst:31
+msgid ""
+":ref:`Setup <setup>` - Quickly find and install the appropriate VLC media"
+" player for your platform."
+msgstr ""
+
+# 1113cd6530514f438c02dc4adca4b8fa
+#: ../../index.rst:33
+msgid ""
+":ref:`User Interface <doc_user_interface>` - Introduction to the UI, and "
+"commands of the VLC media player."
+msgstr ""
+
+# ff6f9a577ce34d159017c3299ebe6e98
+#: ../../index.rst:35
+msgid ":ref:`Settings <settings>` - Customize VLC to suit your needs."
+msgstr ""
+
+# 4033661949ef406ba77316d573b8e936
+#: ../../index.rst:37
+msgid ""
+":ref:`Tips and Tricks <tips_and_tricks>` - Jump right in with Tips and "
+"Tricks to become a VLC power user."
+msgstr ""
+
+# b624447dc3a4418497bdefad93d150e9
+#: ../../index.rst:39
+msgid ""
+":ref:`Add-ons <addons>` - Find third-party software programs that can be "
+"added to VLC for additional features and abilities."
+msgstr ""
+
+# 98cf9e2612d64a679ff2c30898392a43
+#: ../../index.rst:41
+msgid ":ref:`FAQ <faq>`- Find all frequently asked questions by VLC users."
+msgstr ""
+
+# 82818984d3dc4f54b37580acfb96d5c0
+#: ../../index.rst:43
+msgid ":ref:`Support Guide<support>` - Solve your VLC issues right now!"
+msgstr ""
+
+# a1328a6b13cf49d29afeed3eb237dd87
+#: ../../index.rst:45
+msgid ""
+":ref:`Glossary<glossary>` - Definitions for terms used in VLC and this "
+"documentation."
+msgstr ""
+

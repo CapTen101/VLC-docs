@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# d24e0eecf2614a3b87486e6ffe22bc01
+#: ../../support/faq/faqlinux.rst:5
+msgid "FAQs about VLC on Linux"
+msgstr ""
+
+# f67e86f6f4934c7d8a4e13c21887bf2d
+#: ../../support/faq/faqlinux.rst:7
+msgid "Find below frequently asked questions about VLC on Linux;"
+msgstr ""
+
+# 8f957c8acdda4c6a97efd1943795a230
+#: ../../support/faq/faqlinux.rst:10
+msgid "How can I fix this error - \"cc1: error: invalid option 'tune=opteron'\""
+msgstr ""
+
+# dd9b0a57c19c41a8bb6d7e2a503f8d61
+#: ../../support/faq/faqlinux.rst:12
+msgid ""
+"The -mtune flag is not available for this type of processor in man gcc. "
+"To solve this, change the configure options and comment out all the lines"
+" where they set mcpu or mtune flags."
+msgstr ""
+
+# c194be044efd42a494878f04cb3a83bb
+#: ../../support/faq/faqlinux.rst:16
+msgid "How can I fix this error -  \"/usr/bin/ld: cannot find -lX11\""
+msgstr ""
+
+# 6d895d284507440cbab64d13fd02cbc6
+#: ../../support/faq/faqlinux.rst:18
+msgid ""
+"In the configure, there is an x_libraries variable there that is set to "
+"\"/usr/X11R6/lib\" (around line 16371). Because it is a 64 bit system, "
+"this variable needs to be /usr/X11R6/lib64. After changing that, it "
+"should continue compiling."
+msgstr ""
+
+# 99bf364bd1da43afb1d5e084f00ad0aa
+#: ../../support/faq/faqlinux.rst:21
+msgid ""
+"Missing header file ffmpeg/avcodec.h” and/or “Missing header file "
+"postproc/postprocess.h”"
+msgstr ""
+
+# 31cefe588d264dceba2d5903766a12c3
+#: ../../support/faq/faqlinux.rst:23
+msgid "This problem can be solved with any of the two solutions below;"
+msgstr ""
+
+# b4456a88136944beaf204dde3ef6e815
+#: ../../support/faq/faqlinux.rst:25
+msgid ""
+"To get rid of these problems while compiling, run configure with these "
+"flags at least: ./configure --enable-shared --enable-shared-pp --enable-"
+"pp --enable-gpl. The description of each of those is available when doing"
+" ./configure --help"
+msgstr ""
+
+# 4e6e385c34a34ac38419842d329c0aee
+#: ../../support/faq/faqlinux.rst:27
+msgid ""
+"The path of ffmpeg is not set. Check if you can locate the file "
+"libavcodec.pc on your computer; say you had find it in /home/you/ffmpeg/ "
+". Export the PKG_CONFIG_PATH to this location: ``export "
+"PKG_CONFIG_PATH=/home/you/ffmpeg/`` then run ./configure for VLC."
+msgstr ""
+

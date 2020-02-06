@@ -1,0 +1,164 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# 9baa69dedbd54194b9571480b3f272a2
+#: ../../support/faq/legalconcerns.rst:5
+msgid "Legal concerns"
+msgstr ""
+
+# 723545eccb0e4b9ba756894ae316ca2f
+#: ../../support/faq/legalconcerns.rst:8
+msgid "May I use the VideoLAN logo?"
+msgstr ""
+
+# dbecd4854fe945cb878da7e6c0072317
+#: ../../support/faq/legalconcerns.rst:10
+msgid ""
+"You may freely use the VideoLAN logo using this **copyright** - "
+"*Copyright (c) 1996-2018 VideoLAN. This logo or a modified version may be"
+" used or modified by anyone to refer to the VideoLAN project or any "
+"product developed by the VideoLAN team, but does not indicate endorsement"
+" by the project.*"
+msgstr ""
+
+# 747963c010d64c96a50b455b0c79586d
+#: ../../support/faq/legalconcerns.rst:13
+msgid "Are there any restrictions about usage of VideoLAN software?"
+msgstr ""
+
+# f83ca30d20074d8a971d62fc5fd4a7c6
+#: ../../support/faq/legalconcerns.rst:15
+msgid ""
+"No, you can use the software in the way you want, for personal, "
+"educational, professional or research use."
+msgstr ""
+
+# 630daae3a51546b498043fe7e221c4c0
+#: ../../support/faq/legalconcerns.rst:18
+msgid "May I redistribute a piece of VideoLAN software?"
+msgstr ""
+
+# c2f3d3c0e00641ff97abea5fb03aa0b1
+#: ../../support/faq/legalconcerns.rst:20
+msgid ""
+"Yes, you may distribute an original or a modified version of a piece of "
+"VideoLAN software as long as you comply with its license terms. It is the"
+" GNU General Public License Version 2 (referred herein as GPL), and it is"
+" in the file named COPYING in our products."
+msgstr ""
+
+# 37f419c58fb046abac1d53bcb266eb73
+#: ../../support/faq/legalconcerns.rst:24
+msgid "You do not need to ask the VideoLAN team for permission to do so!"
+msgstr ""
+
+# 81d3a00344d4411ea4d33ab2bdba2bc4
+#: ../../support/faq/legalconcerns.rst:27
+msgid "May I redistribute libVLC in my application?"
+msgstr ""
+
+# a53fd017e58f452fbdcab5b4bbf5828e
+#: ../../support/faq/legalconcerns.rst:29
+msgid ""
+"Yes, you may distribute an original or a modified version of libVLC as "
+"long as you comply with its license terms. It is the GNU Lesser General "
+"Public License Version 2 (referred herein as LGPL), and it is in the file"
+" named COPYING.LIB in the VLC source distribution."
+msgstr ""
+
+# 592e55659a1a4ce881ebe1acfd3592fa
+#: ../../support/faq/legalconcerns.rst:32
+msgid ""
+"Beware that some modules are licensed under the GPLv2, in which case you "
+"must license your result under the GPLv2 as well. Check the modules in "
+"question before redistribution!"
+msgstr ""
+
+# f00744c27d4347379626e8683dc5addc
+#: ../../support/faq/legalconcerns.rst:35
+msgid "How do I do comply with those terms?"
+msgstr ""
+
+# ea8ccd5b8b9741dd941f2fb98a5de401
+#: ../../support/faq/legalconcerns.rst:37
+msgid ""
+"The easiest way to conform to the GPL is to accompany the product you "
+"want to distribute with its sources. For example, if you plan to "
+"distribute the latest binary version of VLC on a DVD-ROM, you should also"
+" include the `VLC sources <https://www.videolan.org/vlc/download-"
+"sources.html>`_ on the same medium. If you plan to distribute the latest "
+"binary version of VLC on a website, you should provide a link to the `VLC"
+" sources <https://www.videolan.org/vlc/download-sources.html>`_. There "
+"are other ways to comply with the GPL, but this should be the simplest "
+"because it does not rely on a contract."
+msgstr ""
+
+# 9c5ec41213a64ac29edc2acd4467cce3
+#: ../../support/faq/legalconcerns.rst:41
+msgid "What about personal/commercial usage?"
+msgstr ""
+
+# 4bd9913b0fba45fda9c8157036414a61
+#: ../../support/faq/legalconcerns.rst:43
+msgid ""
+"Some of the codecs distributed with VLC are patented and require you to "
+"pay royalties to their licensors. These are mostly the MPEG style codecs."
+" With many products the producer pays the license body (in this case "
+"`MPEG LA <http://www.mpegla.com/>`_) so the user (commercial or personal)"
+" does not have to take care of this. VLC (and ffmpeg and libmpeg2 – which"
+" it uses in most of these cases) cannot do this because they are Free and"
+" Open Source implementations of these codecs. The software is not sold, "
+"and therefore the end-user becomes responsible for complying with the "
+"licensing and royalty requirements. You will need to contact the licensor"
+" on how to comply with these licenses. This goes for playing a DVD with "
+"VLC for your personal enjoyment ($2.50 one time payment to MPEG LA) as "
+"well as for using VLC for streaming a live event in MPEG-4 over the "
+"Internet."
+msgstr ""
+
+# 1629da4b72194ebdba096231ef275a9c
+#: ../../support/faq/legalconcerns.rst:46
+msgid "Is libdvdcss legal?"
+msgstr ""
+
+# 46686616dcb24ea7b3cb18abe4333dc4
+#: ../../support/faq/legalconcerns.rst:48
+msgid ""
+"The use and distribution of the libdvdcss library is controversial in a "
+"few countries such as the United States because of a law called the DMCA "
+"(Digital Millennium Copyright Act). If you are unsure about the legality "
+"of using and distributing this library in your country, please consult "
+"your lawyer."
+msgstr ""
+
+# 24ca775d8a704810b7dd3202484fec24
+#: ../../support/faq/legalconcerns.rst:52
+msgid ""
+"VLC media player binaries are distributed with the libdvdcss library "
+"included."
+msgstr ""
+
+# 1773f48f83254ddc93cc011f85c5a47c
+#: ../../support/faq/legalconcerns.rst:55
+msgid ""
+":ref:`Get Help <getting_support>` - Find an answer to any question that "
+"wasnt answered here."
+msgstr ""
+

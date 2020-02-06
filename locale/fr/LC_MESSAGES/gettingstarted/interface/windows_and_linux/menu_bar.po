@@ -1,0 +1,271 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# bde30df009194d8ab0e38b3e0cac1bae
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:4
+msgid "Menu Bar"
+msgstr ""
+
+# f88b29d079bc4d17a95f26a49903e177
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:6
+msgid ""
+"The **Menu Bar** gives you power to control everything about the media "
+"you are currently playing."
+msgstr ""
+
+# a79d53df6e8e44f08ebdb03788de7596
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:11
+msgid "The Menu Bar"
+msgstr ""
+
+# 55bf9d51215e4892934845618d63dbb0
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:13
+msgid ""
+"This documentation will work you through all the different features of "
+"the menu bar of the VLC media player on a Windows Operating System."
+msgstr ""
+
+# d33adbdcaa36490e914905b178113826
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:15
+msgid "**The Media menu**"
+msgstr ""
+
+# f150983113d445898d8d8e5a61801534
+# eca1c20477cb484ca228999f7142c6c1
+# a8a7b0f3cad44ee7944aba27f0d33061
+# cd89f99e7730475ea41480b837521a35
+# 4fb6502e1eb04b2795538c71da2d67c5
+# 07f8348973ac4d13b634bbb5b51c921b
+# 9bfe0ca7f32f47488bc1569833dea7c0
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:17
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:29
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:43
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:70
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:80
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:94
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:108
+msgid "In this menu, you can:"
+msgstr ""
+
+# d7aed4de90c64969acafe1973ba658ac
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:19
+msgid "Open a new file for playback from any location."
+msgstr ""
+
+# 07b7bf456bd74e17aff49ce9cb05b451
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:20
+msgid "Stream a file to the web, local network or file."
+msgstr ""
+
+# f9fb59716d3448f0ba2d8ef7b8409c59
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:21
+msgid "Convert and Save a playlist to a file."
+msgstr ""
+
+# a8fce499c3c44a86bc6f83c702ec8e48
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:22
+msgid "Quit VLC."
+msgstr ""
+
+# ca3615b7cda94d9aa3aee8ca40b5f459
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:27
+msgid "**The Playback menu**"
+msgstr ""
+
+# 43272a71fee14287ade567bdff4f83f5
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:31
+msgid "Select which title, chapter or program you want to play."
+msgstr ""
+
+# 790800222c3a4855bdfa19193807ea2c
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:32
+msgid "Stop the playback."
+msgstr ""
+
+# 4bc2c96d9f1c42098a7aec878edffa30
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:33
+msgid "Move to the next or previous chapter."
+msgstr ""
+
+# c76a2050c9384a2baedab50a11aece38
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:34
+msgid "Control the speed on the media you are playing."
+msgstr ""
+
+# 1eacd98006f84e458b9428d859f9dc17
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:35
+msgid "Jump to a specific chapter or time in the media."
+msgstr ""
+
+# ec6a046db9764e0791bffaea26fb5b57
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:36
+msgid "Create custom bookmarks."
+msgstr ""
+
+# 1a4c6ffbd2984db4af70dfc1a8994f27
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:41
+msgid "**The Audio menu**"
+msgstr ""
+
+# f0dbd601bdc244d691bcb5736871a360
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:45
+msgid "Select which audio track you want"
+msgstr ""
+
+# b45d61118f6b4d86852c1b9b4c6a3590
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:46
+msgid "Change the stereo mode of the media."
+msgstr ""
+
+# f0bd099633d84a0f8870b4f8f870931b
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:47
+msgid "Change the device to play the audio on."
+msgstr ""
+
+# 1a8142b3378b4987ba981748961373e9
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:48
+msgid "Enable the built in Visualizations."
+msgstr ""
+
+# 10929ada49cb4a0d861bd5bfb654cfb2
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:49
+msgid "Increase and decrease the volume."
+msgstr ""
+
+# 1134d832240a4736805eb684bb595db3
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:50
+msgid "Mute the playback."
+msgstr ""
+
+# 793bc152e802421a848076f01c6822ce
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:55
+msgid "**The Video menu**"
+msgstr ""
+
+# e1e4cd85f5ef4fc18339d79129d01b09
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:57
+msgid ""
+"In this menu, you can: 1. Select which video track you want. 2. Set the "
+"video to play fullscreen and fit the windows. 3. Set as wallpaper. 4. "
+"Change the zoom, aspect ratio and crop. 5. Adjust deinterlacing and post "
+"processing options(advanced users). 6. Take a screenshot of the current "
+"frame."
+msgstr ""
+
+# 3080ff965afb401d822d731e5df2e64e
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:68
+msgid "**The Subtitle menu**"
+msgstr ""
+
+# 5579f96044984970818a24106a238597
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:72
+msgid "Add a subtitle file."
+msgstr ""
+
+# 73486cd2ec5c407e873cc1429e45833f
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:73
+msgid "Select a Sub track."
+msgstr ""
+
+# 4ba6cc6f56e14fa092be1ff00a380948
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:78
+msgid "**The Tools menu**"
+msgstr ""
+
+# 26b04758a4234e29b9b3ad65868a4c14
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:82
+msgid "Change audio and video effects and filters."
+msgstr ""
+
+# f598881d71c44cc5803fc921c7e56177
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:83
+msgid "Change the audio and subtitle symchronization."
+msgstr ""
+
+# e2cc93d4f9234bf1b579d87524222bba
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:84
+msgid "View the current media information."
+msgstr ""
+
+# a81ad5212e304cbaa94657061932d371
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:85
+msgid "Manage plugins and extensions."
+msgstr ""
+
+# b24db857be504b87971a6c8d39d0a8d1
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:86
+msgid "Customize the program settings and interface."
+msgstr ""
+
+# 3ed3be2645d64e7396532d0f151a8496
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:87
+msgid "Modify your preferences."
+msgstr ""
+
+# 395bfd72d96a47bfa6b2766ce845f8ec
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:92
+msgid "**The View menu**"
+msgstr ""
+
+# f82c38c6e55646a0b6983670c48fdc3e
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:96
+msgid "View the current and docked playlist."
+msgstr ""
+
+# 1af58a9b49be4608bd798af222550ea7
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:97
+msgid "Change the playlist view mode."
+msgstr ""
+
+# f3edf469fb494c87b9943ac9047c3940
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:98
+msgid "Change the interface VLC is using."
+msgstr ""
+
+# 8e6573b0f6384410bff8b5a118888647
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:99
+msgid "Add an interface."
+msgstr ""
+
+# 0be46668fabc4247bff7e716a807f07c
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:100
+msgid "Add the VLsub addon for VLC."
+msgstr ""
+
+# 2a1714525a6b462aad7296f5f9457394
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:106
+msgid "**The Help menu**"
+msgstr ""
+
+# 8a0a3783683042dc8ea839bbe5510de9
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:110
+msgid "Get more help using the program."
+msgstr ""
+
+# f04c3898d67c44a6b879dc444455db8b
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:111
+msgid "Check for updates to VLC."
+msgstr ""
+
+# c133160acb0b411abcf47542bb48e17a
+#: ../../gettingstarted/interface/windows_and_linux/menu_bar.rst:112
+msgid "View the credits and licenses for VLC."
+msgstr ""
+

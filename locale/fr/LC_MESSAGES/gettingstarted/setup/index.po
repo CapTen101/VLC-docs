@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# dbcab8f2de0b49568e390355a393683b
+#: ../../gettingstarted/setup/index.rst:5
+msgid "Installation"
+msgstr ""
+
+# 28c161c01fad477cbb29ef6faae95570
+#: ../../gettingstarted/setup/index.rst:8
+msgid ""
+"The VLC media player is available for desktop operating systems and "
+"mobile platforms such as Microsoft Windows, macOS, Linux, Android, iOS, "
+"FreeBSD, Solaris, QNX, Haiku, and Syllable Desktop. VLC is also available"
+" on digital distribution platforms such as Apple's App Store, Google Play"
+" and Microsoft Store and supports many audio and video compression "
+"methods and file formats, including DVD-Video, video CD, and various "
+"streaming protocols."
+msgstr ""
+
+# cab86024bdc944329777e8e41e73756d
+#: ../../gettingstarted/setup/index.rst:12
+msgid ""
+"It is able to stream media over computer networks and to transcode "
+"multimedia files. Overall, the installation process of the VLC media "
+"player is quick and easy. Follow the platform specific guides below:"
+msgstr ""
+
+# 17c32a75e0d34823af7455c9f3b3610b
+#: ../../gettingstarted/setup/index.rst:64
+msgid "**Next Steps**"
+msgstr ""
+
+# d66c447590364b9b824f3ff13a13204a
+#: ../../gettingstarted/setup/index.rst:66
+msgid ""
+"Once you have installed and set up VLC, these topics below will help you "
+"learn more about the VLC media player:"
+msgstr ""
+
+# 64789dee65b64a45aaaa8581ddd0f0ef
+#: ../../gettingstarted/setup/index.rst:68
+msgid ""
+":ref:`User Interface <doc_user_interface>` - Introduction to the UI, and "
+"commands of the VLC media player."
+msgstr ""
+
+# 5458965a02b04a84bfd25c9090ea17d2
+#: ../../gettingstarted/setup/index.rst:69
+msgid ""
+":ref:`Tips and Tricks <tips_and_tricks>` - Jump right in with Tips and "
+"Tricks to become a VLC power user."
+msgstr ""
+
+# 337d4061c137449eb48336c15031d11a
+#: ../../gettingstarted/setup/index.rst:70
+msgid ":ref:`Settings <settings>` - Customize VLC to suit your needs."
+msgstr ""
+
+# ff78d97ca7ce4b12ac475f9889201a9c
+#: ../../gettingstarted/setup/index.rst:71
+msgid ""
+":ref:`FAQs about VLC on Windows <faq_windows>` - Find all frequently "
+"asked questions by users running VLC on Windows."
+msgstr ""
+

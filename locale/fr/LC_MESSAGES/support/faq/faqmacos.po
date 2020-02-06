@@ -1,0 +1,253 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# b244bedb0cf94745848c0cfd71c4ea6e
+#: ../../support/faq/faqmacos.rst:5
+msgid "FAQs about VLC on macOS"
+msgstr ""
+
+# f4e1542d812340fc81eab233441d4f5b
+#: ../../support/faq/faqmacos.rst:8
+msgid "Can I run VLC on Mac OS 9?"
+msgstr ""
+
+# 75cd76783b6b4584a8c2b5409c3d5787
+#: ../../support/faq/faqmacos.rst:10
+msgid ""
+"VLC will not work on mac OS 9, and probably never will. However, VLC is "
+"well supported on Mac OS X ."
+msgstr ""
+
+# 4c0fe66862084c90bd9cc41173fe5c7e
+#: ../../support/faq/faqmacos.rst:13
+msgid "Does VLC run on my Mac?"
+msgstr ""
+
+# c1c96d42970748118fd9e29c1fdbdbe2
+#: ../../support/faq/faqmacos.rst:14
+msgid ""
+"Yes, there is a VLC version for any Mac made since 2001. However, the "
+"details depend on your macOS version. The current version of VLC requires"
+" Mac OS X 10.7 Lion and will run on all subsequent releases published in "
+"the last nine years (so: Mountain Lion, Mavericks, Yosemite, El Capitoan,"
+" Sierra, High Sierra, Mojave and Catalina)."
+msgstr ""
+
+# 2f95ebcee1a442849a8a3c2f34f52f7c
+#: ../../support/faq/faqmacos.rst:35
+msgid "The following table details the supported versions:"
+msgstr ""
+
+# 82468ce156a54a1dbee86f31350a88c8
+#: ../../support/faq/faqmacos.rst:18
+msgid "macOS version"
+msgstr ""
+
+# feb8ebba30bb4c2191174138de3ad4aa
+#: ../../support/faq/faqmacos.rst:18
+msgid "VLC version"
+msgstr ""
+
+# 24196efda1404f018d3f9f546454fcc0
+#: ../../support/faq/faqmacos.rst:20
+msgid "9"
+msgstr ""
+
+# 6d384f875845476dabf920c2a912495d
+#: ../../support/faq/faqmacos.rst:20
+msgid "none, see above."
+msgstr ""
+
+# 4b303538553240d6b13fe11734670ea8
+#: ../../support/faq/faqmacos.rst:22
+msgid "10.0 & 10.1"
+msgstr ""
+
+# 815a02aa850a4490a372bb4727f6b0c0
+#: ../../support/faq/faqmacos.rst:22
+msgid "0.7.0"
+msgstr ""
+
+# 3136d002539f415ab29b9e9183a32772
+#: ../../support/faq/faqmacos.rst:24
+msgid "10.2"
+msgstr ""
+
+# 4126d1d9cbe14576bdba371624675fc2
+#: ../../support/faq/faqmacos.rst:24
+msgid "0.8.4a"
+msgstr ""
+
+# 58539c35bac34f7db01e1d2ea07fed0d
+#: ../../support/faq/faqmacos.rst:26
+msgid "10.3.9"
+msgstr ""
+
+# 6f141b50adda446e9dda2b223860f66b
+#: ../../support/faq/faqmacos.rst:26
+msgid "0.8.6i"
+msgstr ""
+
+# c7385cb0a0364ee1bb9a896405cdd5d2
+#: ../../support/faq/faqmacos.rst:28
+msgid "10.4.7 or later"
+msgstr ""
+
+# 1e983826f65e4f2b9c4809786f1d89e2
+#: ../../support/faq/faqmacos.rst:28
+msgid "0.9.10"
+msgstr ""
+
+# 1e71fcb86ee9467f8ce3d61ef44021d7
+#: ../../support/faq/faqmacos.rst:30
+msgid "10.5"
+msgstr ""
+
+# 5fc54651736347dc98cbb8bd2a1cb483
+#: ../../support/faq/faqmacos.rst:30
+msgid "2.0.10"
+msgstr ""
+
+# e552fe107cac41788d114c70416b896d
+#: ../../support/faq/faqmacos.rst:32
+msgid "10.6"
+msgstr ""
+
+# 993a9e5471054ba68b35df2011acb7bb
+#: ../../support/faq/faqmacos.rst:32
+msgid "2.2.8"
+msgstr ""
+
+# fd56e9f29f0a47698d178eef322f59db
+#: ../../support/faq/faqmacos.rst:34
+msgid "10.7 or later"
+msgstr ""
+
+# 9fbc781ba1624c49aa66f524515931d6
+#: ../../support/faq/faqmacos.rst:34
+msgid "latest version"
+msgstr ""
+
+# 216156636e65473498a72d540d436037
+#: ../../support/faq/faqmacos.rst:38
+msgid "Where can I find the web browser plugin?"
+msgstr ""
+
+# ddf046a52d8548d3ae0167b809d3a3e9
+#: ../../support/faq/faqmacos.rst:39
+msgid ""
+"All major web browser vendors removed support for plugins, so the "
+"development of the VLC plugin was stopped. The last version was 3.0.4 and"
+" is still `available for download "
+"<https://get.videolan.org/vlc/3.0.4/macosx/VLC-webplugin-3.0.4.dmg>` for "
+"outdated web browsers. Note that both the web browsers supporting it and "
+"the VLC plugin itself are prone to known security issues and should no "
+"longer be used."
+msgstr ""
+
+# f1b890e1ee3444aa92edb7c351542c4c
+#: ../../support/faq/faqmacos.rst:42
+msgid ""
+"What should I do if the VLC media player on my PC bounces in the Dock and"
+" quits?"
+msgstr ""
+
+# 2daaf53288b84d9985a4c210154aff0b
+#: ../../support/faq/faqmacos.rst:44
+msgid ""
+"Please check whether you're using a VLC release which is able to run on "
+"your version of Mac OS X. If it fits, run the \"Remove Preferences\" "
+"script provided on VLC's disk-image or delete both a folder called "
+"\"VLC\" and a file called org.videolan.vlc.plist in "
+"``~/Library/Preferences`` (your personal preferences folder)."
+msgstr ""
+
+# 44ea976402f2462a8cab58f836e29549
+#: ../../support/faq/faqmacos.rst:47
+msgid "I am on Mac OS 9. Which version of VLC can I run?"
+msgstr ""
+
+# ec2e27f17a1b467cba954f97eeb23b4a
+#: ../../support/faq/faqmacos.rst:49
+msgid ""
+"From the download page notes: \"There is not, and there will never be, a "
+"version for Mac OS 9.\" Kindly download vlc for Mac OS X from our `main "
+"website <http://www.videolan.org/vlc/download-macosx.html>`_."
+msgstr ""
+
+# b046c42a37d548a790fa0c8595f46a52
+#: ../../support/faq/faqmacos.rst:52
+msgid ""
+"How do you tell Apple's DVDPlayer not to start automatically when you "
+"insert a DVD?"
+msgstr ""
+
+# 50121cc62fe24868b63d5cb6b0d8cf38
+#: ../../support/faq/faqmacos.rst:54
+msgid ""
+"Get to Mac OS X global system preferences, open up the \"CDs & DVDs\" "
+"section in the \"Hardware\" category, add VLC to the list of apps next to"
+" \"When you insert a video DVD\" and select it afterwards."
+msgstr ""
+
+# 4dd248fd31da4971b401dd408b46cb5b
+#: ../../support/faq/faqmacos.rst:56
+msgid "Setting up VLC for Audio CD playback is possible this way as well."
+msgstr ""
+
+# c32869a9ae9641538a0825ab3151c76f
+#: ../../support/faq/faqmacos.rst:59
+msgid "Why won't VLC play DVDs from a region other than what my drive is set to?"
+msgstr ""
+
+# b2f84a2b8c8e46adb86f676363b24a5d
+#: ../../support/faq/faqmacos.rst:61
+msgid ""
+"Many people try to use VLC to play DVDs from regions their drive is not "
+"set to. However, the DVD drives on most new Macs have region lockout on "
+"the hardware level, so VLC will not necessarily be able to play discs "
+"from multiple regions. You may be able to play the disc by opening it as "
+"a **Video_TS folder** instead of a **DVD**, or by changing the method "
+"used by **libdvdccss** to **decrypt DVDs**."
+msgstr ""
+
+# 41916a6df6b04c8893f5b187cca402b4
+#: ../../support/faq/faqmacos.rst:63
+msgid ""
+"In order to do this, go to **Tools** -> **Preferences** -> "
+"**Input/Codecs** -> **Access Modules** -> **DVD without menus** -> "
+"**Method used by libdvdcss for decryption** ."
+msgstr ""
+
+# 345fbede96034154b1f8130417e25313
+#: ../../support/faq/faqmacos.rst:65
+msgid ""
+"If you play a lot of DVDs from different regions your best option is to "
+"buy a USB or Firewire external drive that you can set to the region you "
+"require."
+msgstr ""
+
+# 2686e581f38e4e579ee6c010927d8e33
+#: ../../support/faq/faqmacos.rst:67
+msgid ""
+":ref:`Get Help <getting_support>` - Find an answer to any question that "
+"wasnt answered here."
+msgstr ""
+

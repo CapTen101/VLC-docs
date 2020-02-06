@@ -1,0 +1,373 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# 3c763a2129734a4ba7dc0b0bdea43830
+#: ../../support/faq/vlcmediaplayer.rst:5
+msgid "VLC Media Player"
+msgstr ""
+
+# 4a0e393845044d5cb3a531dc78217a74
+#: ../../support/faq/vlcmediaplayer.rst:7
+msgid "Find all frequently asked questions by VLC users below;"
+msgstr ""
+
+# 942966fea5904d86b72b493a7bfdb07d
+#: ../../support/faq/vlcmediaplayer.rst:10
+msgid "Does VLC support DVDs from all regions?"
+msgstr ""
+
+# c79ace65e37d4c60895239c06d5ad651
+#: ../../support/faq/vlcmediaplayer.rst:12
+msgid ""
+"This mostly depends on your DVD drive. Testing it is usually the quickest"
+" way to find out. The problem is that a lot of newer drives are RPC2 "
+"drives these days. Some of these drives don't allow raw access to the "
+"drive untill the drive firmware has done a regioncheck. VLC uses "
+"libdvdcss and it needs raw access to the DVD drive to crack the "
+"encryption key. So with those drives it is impossible to circumvent the "
+"region protection. (This goes for all software. You will need to flash "
+"your drives firmware, but sometimes there is no alternate firmware "
+"available for your drive). On other RPC2 drives that do allow raw access,"
+" it might take VLC a long time to crack the key. So just pop the disc in "
+"your drive and try it out, while you get a coffee. RPC1 drives should "
+"'always' work regardless of the regioncode."
+msgstr ""
+
+# 10e9ef92bebd4c33a3e021f4d8e7eb7c
+#: ../../support/faq/vlcmediaplayer.rst:15
+msgid "Where does VLC store its config file?"
+msgstr ""
+
+# e57d411b3877495eb14c4f45374f0c69
+#: ../../support/faq/vlcmediaplayer.rst:17
+msgid ""
+"Currently, a config file is created on a per user basis (there is no "
+"global configuration file). If you modify the available options in VLC "
+"and save the new configuration, then a configuration file will be created"
+" in your user directory. The precise location of this file depends on the"
+" Operating System you are running:"
+msgstr ""
+
+# fffa617c283c46639df382ef6b79ee8c
+#: ../../support/faq/vlcmediaplayer.rst:21
+msgid "Linux/Unix"
+msgstr ""
+
+# 58f7ef467fe344379c20f03e8f651096
+#: ../../support/faq/vlcmediaplayer.rst:23
+msgid "``$(HOME)/.config/vlc/vlcrc`` (v0.9.0 and above)"
+msgstr ""
+
+# 6bab21cd6bce4cd99b4a035b49f6d428
+#: ../../support/faq/vlcmediaplayer.rst:24
+msgid "``$(HOME)/.vlc/vlcrc`` (v0.8 and older)"
+msgstr ""
+
+# af4d28ae17454fe1ac2199f907271626
+#: ../../support/faq/vlcmediaplayer.rst:26
+msgid "macOS"
+msgstr ""
+
+# 088e7e6b9e1243f3b0fd12ffc8d15d65
+#: ../../support/faq/vlcmediaplayer.rst:28
+msgid "``HOME/Library/Preferences/org.videolan.vlc``"
+msgstr ""
+
+# 4abd151f8c224a95bc139e3fdb9cfccd
+#: ../../support/faq/vlcmediaplayer.rst:29
+msgid "``HOME/Library/Preferences/VLC`` (v0.9 and older)"
+msgstr ""
+
+# f614801d01534c56a6aff182eea0baff
+#: ../../support/faq/vlcmediaplayer.rst:31
+msgid "Windows"
+msgstr ""
+
+# 364ea2f5cf904384a028f1c3840afec3
+#: ../../support/faq/vlcmediaplayer.rst:33
+msgid "95/98/ME: ``C:\\Windows\\Application Data\\vlc\\vlcrc``"
+msgstr ""
+
+# 7d89721f683149db9e5a2a48c4d6739d
+#: ../../support/faq/vlcmediaplayer.rst:34
+#, python-format
+msgid ""
+"2000/XP: ``C:\\Documents and Settings\\%username%\\Application "
+"Data\\vlc\\vlcrc``"
+msgstr ""
+
+# d2105f34ac4844fb93c65cd94367eaef
+#: ../../support/faq/vlcmediaplayer.rst:35
+#, python-format
+msgid "Vista/7: ``C:\\Users\\%username%\\Application Data\\vlc\\vlcrc``"
+msgstr ""
+
+# 5dbdbf299d4049eea22ba817283b84ff
+#: ../../support/faq/vlcmediaplayer.rst:36
+msgid "BeOS: ``config/settings/vlcrc``"
+msgstr ""
+
+# ad698df764784c3ab1fef81b3a02bcb0
+#: ../../support/faq/vlcmediaplayer.rst:40
+msgid "Videos are too dark!"
+msgstr ""
+
+# 83cbf8ec9088439eadd5fdd61a8440d1
+#: ../../support/faq/vlcmediaplayer.rst:42
+msgid "Often this is caused by video hardware overlay problems:"
+msgstr ""
+
+# 213538d198e44422aa3575584e4561f2
+#: ../../support/faq/vlcmediaplayer.rst:44
+msgid ""
+"If it is only one video then use the **Settings** menu, option **Extended"
+" GUI** and try to increase the Gamma value in the **Video** tab."
+msgstr ""
+
+# a261cc5798fb4eac9da80020291fc15e
+#: ../../support/faq/vlcmediaplayer.rst:45
+msgid ""
+"Check your video card settings and turn off hardware video overlay. If "
+"the videos now play with proper lighting, then deinstalling and "
+"reinstalling the video drivers might help."
+msgstr ""
+
+# 96685220e415479d88db2cf3971bc566
+#: ../../support/faq/vlcmediaplayer.rst:48
+msgid "I cannot read DVDs!"
+msgstr ""
+
+# 14085977e3e5443d9e1760c4b67bde1c
+#: ../../support/faq/vlcmediaplayer.rst:50
+msgid "Here are a few things to check:"
+msgstr ""
+
+# db20e6e908d74975886441b53c44005d
+#: ../../support/faq/vlcmediaplayer.rst:52
+msgid "If you are on Linux/Unix, did you install the ``libdvdcss`` package?"
+msgstr ""
+
+# 7de364c1d60f437297d96bfb07de5f0f
+#: ../../support/faq/vlcmediaplayer.rst:53
+msgid ""
+"Do you have write access to your DVD device? For instance, from the "
+"console: ``# chmod 666 /dev/dvd`` where **/dev/dvd** is the device "
+"corresponding to your DVD drive."
+msgstr ""
+
+# a8effac385c64a46a1ccd6a2ecdc5a75
+#: ../../support/faq/vlcmediaplayer.rst:56
+msgid "Video is choppy"
+msgstr ""
+
+# 8634633a000845ada57caf73b72d913c
+#: ../../support/faq/vlcmediaplayer.rst:58
+msgid ""
+"Your system might be too slow to decode all pictures. It might be that "
+"your CPU basically is not fast enough. It can also be that the subsystem "
+"is misconfigured/misdriven, this happens for example under Redhat Linux. "
+"Here are some elements to improve speed:"
+msgstr ""
+
+# 981a246a76c04bbda64eadec1af02f52
+#: ../../support/faq/vlcmediaplayer.rst:63
+msgid "Turn on DMA on your DVD device, for instance:"
+msgstr ""
+
+# 7b7f5300664644c3b9dfd770858492b7
+#: ../../support/faq/vlcmediaplayer.rst:61
+msgid "Under Linux: ``# hdparm -d1 /dev/dvd``"
+msgstr ""
+
+# 8eefb5b4f85e4a2793b54823e891eaa9
+#: ../../support/faq/vlcmediaplayer.rst:63
+msgid ""
+"Under Windows, go to the System section of the control panel, and go to "
+"the Hardware manager (it is sometimes in a separate tab, and sometimes, "
+"you have to go to the Advanced tab. Then, righ-click on your DVD player, "
+"and check the DMA checkbox."
+msgstr ""
+
+# 9b3a776efbcc42e2a04df139742ddc53
+#: ../../support/faq/vlcmediaplayer.rst:65
+msgid "Upgrade to the latest driver for your video board."
+msgstr ""
+
+# 4e67ae491189471aacef22498fd33b1d
+#: ../../support/faq/vlcmediaplayer.rst:67
+msgid "Stop other running applications."
+msgstr ""
+
+# 11aaf738378642c18818a40c7beeaca6
+#: ../../support/faq/vlcmediaplayer.rst:69
+msgid ""
+"Try disabling framedropping. Framedropping allows VLC not to decode some "
+"pictures when the CPU is overloaded, but can result in choppier playback "
+"under certain conditions. Framedropping behaviour can be configured in "
+"the Video preferences of VLC."
+msgstr ""
+
+# 46089712e78f461c979ab63647c5351e
+#: ../../support/faq/vlcmediaplayer.rst:72
+msgid "Audio and video are out of sync!"
+msgstr ""
+
+# 93abeec4d2bf415b906cf8d7f0dccff7
+#: ../../support/faq/vlcmediaplayer.rst:74
+msgid ""
+"Try using another audio output plugin and, under Unix, kill ``esd``, "
+"``artsd`` or ``pulseaudio`` if they are running. If the problem is due to"
+" the input file, have a look at the **Audio desynchronisation "
+"compensation** option."
+msgstr ""
+
+# 5c70df0ce9a4494caf2a34719bbf0d3e
+#: ../../support/faq/vlcmediaplayer.rst:77
+msgid "Why is my VLC crashing?"
+msgstr ""
+
+# bc1ab5db0462434a90f38f59de6c1f58
+#: ../../support/faq/vlcmediaplayer.rst:79
+msgid ""
+"Increase the verbosity level (either in the preferences or with a ``-vv``"
+" command line option) and look at the debug messages (in the terminal or "
+"in the Messages window)."
+msgstr ""
+
+# 703a7bbf5d074c50b36aab42e28c53ab
+#: ../../support/faq/vlcmediaplayer.rst:81
+msgid ""
+"If you are convinced that it is a bug in VLC, have a look at the `bug "
+"reporting page <https://wiki.videolan.org/Report_bugs>`_."
+msgstr ""
+
+# e47a41d7aad44bcab437fd4c63838eba
+#: ../../support/faq/vlcmediaplayer.rst:84
+msgid "How can I take screenshots?"
+msgstr ""
+
+# 7eb8d12786bd44a68a2ddda38b13cb31
+#: ../../support/faq/vlcmediaplayer.rst:86
+msgid ""
+"To take a snapshot of the video displayed by VLC, you just need to press "
+"the pre-defined snapshot hotkey:"
+msgstr ""
+
+# 7ad68694154341a9ab09153c3d8e7aae
+#: ../../support/faq/vlcmediaplayer.rst:88
+msgid "Windows/Linux/Unix: **Ctrl + Alt + S**"
+msgstr ""
+
+# 10dd2228d4c24f1f9aa7ec6cce16388a
+#: ../../support/faq/vlcmediaplayer.rst:90
+msgid "Mac OS X: **Command + Alt + S**"
+msgstr ""
+
+# a6b11c3688844166acd32d32c6db8e38
+#: ../../support/faq/vlcmediaplayer.rst:92
+msgid ""
+"To change it, go to Preferences → Interface → Hotkeys settings, check "
+"Advanced options, and set Take video snapshot. You can also take a "
+"snaphot via the menu Video → Snapshot. To change the snapshot format or "
+"directory, go to Preferences → Video."
+msgstr ""
+
+# fe2c33ddb18745ae9596215d8e764dea
+#: ../../support/faq/vlcmediaplayer.rst:95
+msgid "Where are my screenshots?"
+msgstr ""
+
+# ae2885683ca44da48fd9668d4f28e9ed
+#: ../../support/faq/vlcmediaplayer.rst:97
+msgid ""
+"If you haven't changed the snapshot directory in your preferences, your "
+"screenshots should go to:"
+msgstr ""
+
+# 068521e5373b4b1398968d0bb738c406
+#: ../../support/faq/vlcmediaplayer.rst:99
+msgid "Windows: ``My Documents\\My Pictures\\``"
+msgstr ""
+
+# 27217db7d92241f6995ca905d36813c8
+#: ../../support/faq/vlcmediaplayer.rst:101
+msgid "Linux/Unix: ``$(HOME)/.vlc/``"
+msgstr ""
+
+# 08316e42c387437fb69c8cee7a5af17c
+#: ../../support/faq/vlcmediaplayer.rst:103
+msgid "macOS: ``Pictures``"
+msgstr ""
+
+# 8c65b9aefe3244a9b554132240bb8805
+#: ../../support/faq/vlcmediaplayer.rst:105
+msgid "To change it, go to Preferences → Video → Video snapshot directory."
+msgstr ""
+
+# 9d53520bf4794a3f87c534ee6d5b1d45
+#: ../../support/faq/vlcmediaplayer.rst:108
+msgid "Why is my file not working on VLC?"
+msgstr ""
+
+# f7b99121824548b8997c7e526dc4d372
+#: ../../support/faq/vlcmediaplayer.rst:110
+msgid ""
+"Are you sure VLC supports the file? Try checking the `features page "
+"<https://www.videolan.org/vlc/features.html>`_. If it supported and you "
+"compiled VLC yourself, check if you have downloaded and installed all the"
+" codecs correctly. If it is not supported, then you are out of luck for "
+"now."
+msgstr ""
+
+# adc653a63a094bc581c6c90c991a5484
+#: ../../support/faq/vlcmediaplayer.rst:113
+msgid "Why isn't VLC displaying all subtitles?"
+msgstr ""
+
+# 0deb25c9944647589812d750ce61b466
+#: ../../support/faq/vlcmediaplayer.rst:115
+msgid ""
+"If VLC has autodetected your subtitles file, or if you opened it "
+"manually, but VLC only displays some subtitles from time to time, you "
+"will need to change the subtitles file encoding. To do this, go to "
+"**Tools** → **Preferences** → **Subtitles/OSD**, and select the right "
+"encoding format for your PC in the dropdown menu and click **Save**."
+msgstr ""
+
+# 45c56b86016c4dee88c1866cca1e1ac6
+#: ../../support/faq/vlcmediaplayer.rst:120
+msgid "Are there skins with a full screen controller?"
+msgstr ""
+
+# 188da2dbfe5641a98168c76143a91af5
+#: ../../support/faq/vlcmediaplayer.rst:122
+msgid ""
+"Full screen controllers in skins are supported since VLC 1.1. But apart "
+"from the default skin coming with VLC not many other skins have this "
+"feature."
+msgstr ""
+
+# 0e8a240ca8cf49a59fe4f6c7fb7aaf46
+#: ../../support/faq/vlcmediaplayer.rst:124
+msgid ""
+":ref:`Get Help <getting_support>` - Find an answer to any question that "
+"wasnt answered here."
+msgstr ""
+

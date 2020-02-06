@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# 3e0a1be436b74e22baed0cbdc54203ee
+#: ../../gettingstarted/setup/freebsd.rst:5
+msgid "Free BSD"
+msgstr ""
+
+# 1efdc5718db54f43a5933adab0a69047
+#: ../../gettingstarted/setup/freebsd.rst:7
+msgid "Download page: https://www.videolan.org/vlc/download-freebsd.html"
+msgstr ""
+
+# 43775b5526704420a17d8438827b4676
+#: ../../gettingstarted/setup/freebsd.rst:9
+msgid "Install vlc from the packages collection:"
+msgstr ""
+
+# a4fb454b214446ab9504181975c8ba83
+#: ../../gettingstarted/setup/freebsd.rst:16
+msgid ""
+"After downloading VLC on your deskptop or mobile phone, follow the guide "
+"below to start using VLC. The VLC media palyer is shown along with an "
+"orange and white cone shown below."
+msgstr ""
+
+# 40a896e0e7ac40df84d11e9dedb51a17
+#: ../../gettingstarted/setup/freebsd.rst:20
+msgid "Start VLC"
+msgstr ""
+
+# 7bcd5515306d49bea532236fc22220de
+#: ../../gettingstarted/setup/freebsd.rst:22
+msgid ""
+"Open your phone, click on the cone icon and enjoy using the VLC Media "
+"Player."
+msgstr ""
+
+# 7a2f2833bb304c879c9b9139a1045d6e
+#: ../../gettingstarted/setup/freebsd.rst:24
+msgid "Stop VLC"
+msgstr ""
+
+# 47ead74a7f49449f84d8945d9591b14a
+#: ../../gettingstarted/setup/freebsd.rst:26
+msgid "There are three ways to quit VLC:"
+msgstr ""
+
+# 8e8db746f4464ac5984066dfb97849e6
+#: ../../gettingstarted/setup/freebsd.rst:28
+msgid "Right click the **VLC icon** in the tray and select Quit (Alt-F4)."
+msgstr ""
+
+# c9b3207508ed4214a4b5f5d88048fece
+#: ../../gettingstarted/setup/freebsd.rst:29
+msgid "Click the **Close** button in the main interface of the application."
+msgstr ""
+
+# 0e625f95af344cefb1d35fbfb933d0a0
+#: ../../gettingstarted/setup/freebsd.rst:30
+msgid "In the Media menu, select **Quit (Ctrl-Q)**."
+msgstr ""
+

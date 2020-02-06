@@ -1,0 +1,81 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# a93abe5a7a5a444492186bfcde4534b7
+#: ../../addons/index.rst:5
+msgid "Add-ons"
+msgstr ""
+
+# 5f632247122b4d48ada0ab0a668c947f
+#: ../../addons/index.rst:7
+msgid ""
+"With Add-ons, you can install third-party software programs to add "
+"additional features, abilities and customization options by using `third "
+"party add-ons <https://addons.videolan.org/>`_ like extensions and "
+"plugins."
+msgstr ""
+
+# 37743c4a221c4f44b53ad6942df7540d
+#: ../../addons/index.rst:10
+msgid ""
+"Most of the VLC extensions are offered for desktop version while there "
+"are only a few for the mobile version of the VLC app."
+msgstr ""
+
+# bd51058a07c948f7b1604ac282e922e8
+#: ../../addons/index.rst:12
+msgid "Here are a few things that you must know about VLC Media Player Addons:"
+msgstr ""
+
+# 37debaa26b1644f5abefef3e4e2b58e8
+#: ../../addons/index.rst:14
+msgid ""
+"When it comes to filetype, VLC Media Player add-ons generally have a .lua"
+" extension."
+msgstr ""
+
+# 3e007454364f4138841fd934cdea2c38
+#: ../../addons/index.rst:16
+msgid ""
+"VLC Media Player add-ons are developed by third-parties, who are "
+"interested in extending the possibilities of VLC’s usage."
+msgstr ""
+
+# 31975d4110e64090ba6ec4e13992482c
+#: ../../addons/index.rst:18
+msgid ""
+"VLC Addons are downloadable from the official `VLC addon website "
+"<http://addons.videolan.org>`_"
+msgstr ""
+
+# 82837944d88349ada67ed6efaaa38a37
+#: ../../addons/index.rst:20
+msgid ""
+"Addons or .lua files are downloaded and are copied to a location in the "
+"VLC’s program files directory to be installed."
+msgstr ""
+
+# 66a825d26e494251a4e60aa7aeb9abd2
+#: ../../addons/index.rst:22
+msgid ""
+"After copying the lua files, you will have to restart your VLC media "
+"player or start a new instance of the player."
+msgstr ""
+

@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# ed54202157cf48b0888df145df1596c5
+#: ../../support/faq/videolan.rst:5
+msgid "VideoLAN"
+msgstr ""
+
+# 250eb0fb961b4b5e8bff9be75cb55233
+#: ../../support/faq/videolan.rst:8
+msgid "What is VideoLAN?"
+msgstr ""
+
+# c24e057b54f447cb97341603b639438d
+#: ../../support/faq/videolan.rst:10
+msgid ""
+"VideoLAN is a group of people that produce and distribute free and open-"
+"source software for video and multimedia purposes, released under Open "
+"Source licenses. It started as a student project at the French École "
+"Centrale Paris, but is now a worldwide project with developers from "
+"everywhere and dozens of millions of people using VideoLAN's software."
+msgstr ""
+
+# 6f99972c091b4414bd9b1a6ff466fd66
+#: ../../support/faq/videolan.rst:13
+msgid "What is the legal structure of VideoLAN?"
+msgstr ""
+
+# 4ed149ba088148b88fc6a78f01f0a717
+#: ../../support/faq/videolan.rst:15
+msgid ""
+"VideoLAN is a French non-profit organization. VideoLAN has its own bank "
+"account and is fully responsible for this website."
+msgstr ""
+
+# fccc332ed55c40af88bae234c80b2026
+#: ../../support/faq/videolan.rst:18
+msgid ""
+"What are the differences between VLC, VLC media player, VideoLAN Client, "
+"VideoLAN Server and VideoLAN?"
+msgstr ""
+
+# f4518c061272401cb52be5a102f0739d
+#: ../../support/faq/videolan.rst:20
+msgid ""
+"`VLC media player <https://wiki.videolan.org/VLC_media_player/>`_ is the "
+"official name of VideoLAN's main product, most often called VLC. VideoLAN"
+" Client is a former name of this product. `VideoLAN Server "
+"<https://wiki.videolan.org/VideoLAN_Server/>`_ is another product of "
+"VideoLAN, but is discontinued since VLC media player can do more. "
+"VideoLAN is NOT a software, see `VideoLAN "
+"<https://wiki.videolan.org/VideoLAN/>`_."
+msgstr ""
+
+# b9c95d4902fc4f23aa83082f484373a1
+#: ../../support/faq/videolan.rst:23
+msgid "How can I contribute to VideoLAN?"
+msgstr ""
+
+# 891fc0a302c24030b1157e0fc3c8f41e
+#: ../../support/faq/videolan.rst:25
+msgid ""
+"You might either contribute time, material, or money. You DON'T NEED to "
+"be a programmer to help us. Translators are always welcome. You will find"
+" all the information you need on the `contributor page "
+"<https://www.videolan.org/contribute.html/>`_."
+msgstr ""
+
+# 39d59fd984ff47b296b5da4277703e2c
+#: ../../support/faq/videolan.rst:33
+msgid "Why is the VideoLAN mailing-lists and website in English?"
+msgstr ""
+
+# e07fd50eb025400499ea684cf01c9622
+#: ../../support/faq/videolan.rst:35
+msgid ""
+"VideoLAN's developers come from all around the world and english is the "
+"only language they can use to communicate together. Although great care "
+"is given to the translation of VLC in various languages, maintaining "
+"translations of our website costs too much more time than we can afford."
+msgstr ""
+
+# 8af4812b413e4bc78b0d7f28655676f2
+#: ../../support/faq/videolan.rst:37
+msgid ""
+":ref:`Get Help <getting_support>` - Find an answer to any question that "
+"wasnt answered here."
+msgstr ""
+

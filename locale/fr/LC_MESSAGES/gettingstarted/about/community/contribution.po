@@ -1,0 +1,232 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# 05f950b7234c410aaf14e3a91d8dd3d0
+#: ../../gettingstarted/about/community/contribution.rst:5
+msgid "Contribution Guidelines"
+msgstr ""
+
+# 31d9f2a39e91498897880c17a48c1544
+#: ../../gettingstarted/about/community/contribution.rst:7
+msgid ""
+"As an open-source project, VideoLAN welcomes all contributions to the "
+"project and we encourage the community to submit patches directly to "
+"VideoLAN or help with our documentation, packaging, tests, user support, "
+"material or even money."
+msgstr ""
+
+# e6cdd5a6d7204c37af77c384469887d5
+#: ../../gettingstarted/about/community/contribution.rst:14
+msgid "How to contribute to VideoLAN"
+msgstr ""
+
+# 6d81e31f72cb446f9941bf9556f31a71
+#: ../../gettingstarted/about/community/contribution.rst:17
+msgid "Give time"
+msgstr ""
+
+# c8357d4fab844c4a8207f8f19201ebc9
+#: ../../gettingstarted/about/community/contribution.rst:19
+msgid "If you have time, we welcome your help in various areas:"
+msgstr ""
+
+# 4ed5a2cbdbe84f039e67556b2ed6ce75
+#: ../../gettingstarted/about/community/contribution.rst:21
+msgid "**Programmer:** Help us submit patches to the codebase of VLC."
+msgstr ""
+
+# a29063551b4b46d9b010334d9e739f25
+#: ../../gettingstarted/about/community/contribution.rst:22
+msgid "**Writer:** Writers help us improve our documentation."
+msgstr ""
+
+# 46111d93c90c400c88e12cb7e837ef24
+#: ../../gettingstarted/about/community/contribution.rst:23
+msgid ""
+"**Translators:** As a translator, you can help us to `translate "
+"<https://www.videolan.org/developers/i18n/>`_ VLC or other projects."
+msgstr ""
+
+# 722f6ef9b45f4723aafc3d050e194650
+#: ../../gettingstarted/about/community/contribution.rst:24
+msgid ""
+"**Moderators & Support:** To answer on the `forums "
+"<https://www.videolan.org/developers/i18n/>`_ and mailing lists."
+msgstr ""
+
+# f1d53dfd0cf34f19b09ae33300023e80
+#: ../../gettingstarted/about/community/contribution.rst:25
+msgid ""
+"**Designers:** We encourage designers to join us and create designs for "
+"this website and the VLC media palyer."
+msgstr ""
+
+# 5316d228738d4c4ebd64d54986806414
+#: ../../gettingstarted/about/community/contribution.rst:27
+msgid ""
+"You should see the `developer documentation "
+"<https://www.videolan.org/developers/>`_, subscribe to our various "
+"`mailing-lists <https://www.videolan.org/support/lists.html>`_, have a "
+"look at the `bug-tracking system <https://trac.videolan.org/vlc/>`_, join"
+" the `IRC channel <https://www.videolan.org/support/>`_ to get help on "
+"how to start coding."
+msgstr ""
+
+# d744e470e3fa4664abdc3b049e23d9d7
+#: ../../gettingstarted/about/community/contribution.rst:33
+msgid "Contribute materials"
+msgstr ""
+
+# aa2dbdabe0364f1980e3e3a9893deb88
+#: ../../gettingstarted/about/community/contribution.rst:35
+msgid ""
+"Your particular DVD, VCD or SVCD does not work with VLC? You have a "
+"satellite card or an MPEG encoding card that is not supported by some "
+"VideoLAN software?"
+msgstr ""
+
+# 69b344a4bf1343da97cf91a13cd40cf3
+#: ../../gettingstarted/about/community/contribution.rst:38
+msgid ""
+"You can donate it to the developers and it may motivate them to work on "
+"your suggestion! In any case, you do not have any warranty that your wish"
+" will be taken into account."
+msgstr ""
+
+# 7a0dbb02f9494392821a1aec5cf8d4aa
+#: ../../gettingstarted/about/community/contribution.rst:40
+msgid ""
+"If you want to donate materials, please `contact us "
+"<https://www.videolan.org/contact.html>`_."
+msgstr ""
+
+# 6ae310c843fc40c5ba55ae18d22aa5c5
+#: ../../gettingstarted/about/community/contribution.rst:43
+msgid "Donate money"
+msgstr ""
+
+# 294e1105435b4c02a3f60065b53f6b18
+#: ../../gettingstarted/about/community/contribution.rst:45
+msgid "**What are the financial needs of VideoLAN?**"
+msgstr ""
+
+# 37bd3746e8ab4390b7827e2b01f44b4a
+#: ../../gettingstarted/about/community/contribution.rst:47
+msgid ""
+"Buy hardware for developing and testing purposes (DVDs, satellite cards "
+"and antenna, MPEG encoding cards,...) Maintain the servers and hardware "
+"to run VideoLAN services. Promote the project by organizing or "
+"participating in events (FOSDEM, Linux Expo Paris, ...) What is the legal"
+" structure of VideoLAN? VideoLAN is a non-profit organization, under "
+"French law. VideoLAN has its own bank account and is responsible for "
+"running and maintaining the VideoLAN servers."
+msgstr ""
+
+# 7c6ad1b6849f4b4691227d6e7b248aba
+#: ../../gettingstarted/about/community/contribution.rst:53
+msgid "**Donate to VideoLAN via PayPal**"
+msgstr ""
+
+# 18e78295eb994ba18e48a325478442fb
+#: ../../gettingstarted/about/community/contribution.rst:55
+msgid ""
+"You can donate money to the project through VideoLAN's `PayPal "
+"<https://www.paypal.com>`_ account. There is no minimal amount for your "
+"donation."
+msgstr ""
+
+# 1fe8136343fc44dcb3d8465a8539ff4c
+#: ../../gettingstarted/about/community/contribution.rst:57
+msgid ""
+"If you click on one of the buttons below, you will be taken to the secure"
+" PayPal Web site. You don't need to have a paypal account in order to "
+"make a donation."
+msgstr ""
+
+# b12fe1a84f984dfaaa2a719df15fc3e9
+#: ../../gettingstarted/about/community/contribution.rst:60
+msgid ""
+"**Euros €** Donate money to VideoLAN via PayPalDonate money to VideoLAN "
+"via PayPal"
+msgstr ""
+
+# f7eca82812274f6f81da4ae1b1cdd4c3
+#: ../../gettingstarted/about/community/contribution.rst:61
+msgid ""
+"**Dollars $** Donate money to VideoLAN via PayPalDonate money to VideoLAN"
+" via PayPal"
+msgstr ""
+
+# a0a653f814e542beae3608d4f75db986
+#: ../../gettingstarted/about/community/contribution.rst:63
+msgid ""
+"If you encounter problems or if you have questions, you can `contact us "
+"<https://www.videolan.org/contact.html>`_."
+msgstr ""
+
+# 53ed74ce9dd04a65a7097f9d1429eea6
+#: ../../gettingstarted/about/community/contribution.rst:66
+msgid "**Donate to VideoLAN via Bank account**"
+msgstr ""
+
+# 960ba928a9ff4d0e99457628a1168883
+#: ../../gettingstarted/about/community/contribution.rst:68
+msgid "VIDEOLAN"
+msgstr ""
+
+# 75c308dd25824b38b4bf0cf64c615c2f
+#: ../../gettingstarted/about/community/contribution.rst:70
+msgid "IBAN: FR76 3000 3034 3000 1506 8853 588"
+msgstr ""
+
+# 55236707d8314d13868d3e8a85d8b72b
+#: ../../gettingstarted/about/community/contribution.rst:72
+msgid "BIC/SWIFT: SOGEFRPP"
+msgstr ""
+
+# 96662ba4e4c2428a9b30f9e73a2b300b
+#: ../../gettingstarted/about/community/contribution.rst:74
+msgid "FRANCE"
+msgstr ""
+
+# fbdd6ecf35c749039c0a88375a8174c3
+#: ../../gettingstarted/about/community/contribution.rst:76
+msgid "**Donate to VideoLAN using Monero**"
+msgstr ""
+
+# dd16a1e6b5cc4f6293cd0b8e92a57456
+#: ../../gettingstarted/about/community/contribution.rst:78
+msgid ""
+"Use this address: *41gP4569HkeAJPcqSTizJYiMcMZVQekGvAAgAucaVCwaNsm "
+"bSrkcFY41w4FwgtD6N5XLV88xwrLjn87dpjUbtZJoDUuSeJF* or the QR-Code below:"
+msgstr ""
+
+# 38afaa4c5e9945be874aaac3c1a2ab52
+#: ../../gettingstarted/about/community/contribution.rst:84
+msgid "**Donate to VideoLAN using Bitcion**"
+msgstr ""
+
+# c5011a4700cb4680a9a6867a4abf0cd3
+#: ../../gettingstarted/about/community/contribution.rst:86
+msgid ""
+"Use this address: *3EowKLZ7Gf86BrHad7XXNpFk8jfXBeNPuF* or the QR-Code "
+"below"
+msgstr ""
+

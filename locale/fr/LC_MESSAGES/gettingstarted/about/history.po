@@ -1,0 +1,135 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# 726672bfc94a4485bf4fabbe25967d2e
+#: ../../gettingstarted/about/history.rst:3
+msgid "VideoLAN's History"
+msgstr ""
+
+# 0a14175ea80b440ca9b7daf16348543c
+#: ../../gettingstarted/about/history.rst:5
+msgid ""
+"The VideoLAN project was started as a school project in 1996 by students "
+"of `Ecole Centrale Paris <https://www.centralesupelec.fr>`_, a French "
+"engineering school in 1996. These students wanted to be able to watch "
+"television on their PCs. They also wanted to upgrade the VIA Centrale "
+"Réseaux network so they needed a bandwidth intensive application to "
+"justify the upgrade. So they began writing VLS (VideoLAN Server) and the "
+"VLC (VideoLAN Client) to stream and read MPEG-2 streams. They succeeded "
+"in serving and reading the first stream in 1998. These two programs were "
+"planned to be modular, which meant a core consisting basically of "
+"communication functions to be used by the modules. This allowed easy "
+"porting of the OS specific modules."
+msgstr ""
+
+# 0f688bbc364743249d6bc922db16aee4
+#: ../../gettingstarted/about/history.rst:12
+msgid ""
+"In 2001, after many months (if not years) of negotiation, the `school's "
+"Director agreed to a change to the GPL licence "
+"<https://images.videolan.org/images/paper.jpeg>`_. Developers from all "
+"around the world started working on the project right away. One of them "
+"(gibalou) even submitted the Win32 port 6 months later! The first large "
+"scale multicast streaming tests occurred in May 2002. 500 students on the"
+" VIA Centrale Réseaux network were able to participate in these tests. In"
+" January 2003, the first MPEG4 streams were tested and realtime MPEG4 "
+"encoding was available two months later."
+msgstr ""
+
+# 8fbb8236f90a4e7a8043d1330c0b9552
+#: ../../gettingstarted/about/history.rst:19
+msgid "Overview of the VideoLAN project"
+msgstr ""
+
+# fba9b584c8ed4a9285775e1090676a30
+#: ../../gettingstarted/about/history.rst:21
+msgid ""
+"The project started to open up to developers outside of the École. It is "
+"now a worldwide project with `developers "
+"<https://www.videolan.org/videolan/team/>`_ from 40 countries. Since "
+"2009, the project is completely separated from École Centrale Paris, and "
+"is driven by an autonomous non-profit organization."
+msgstr ""
+
+# 441aa52804464376b8a46738af79a93e
+#: ../../gettingstarted/about/history.rst:23
+msgid ""
+"VLC used to stand for **VideoLAN Client** when VLC was a client of the "
+"VideoLAN project. Now, the initialism no longer applies because VLC is no"
+" longer merely a client. Originally VideoLAN was designed to stream MPEG "
+"videos on high-bandwidth networks, but VideoLAN's main software, VLC "
+"media player, has evolved to become a full-featured, cross-platform media"
+" player. Now, the Non-Profit Organisation developing and offering the VLC"
+" media player is called: VideoLAN Organisation."
+msgstr ""
+
+# cb5ac947db61451881276ccc199753d6
+#: ../../gettingstarted/about/history.rst:29
+msgid "VLC Media Player"
+msgstr ""
+
+# a1041b3d8f294ffcb2a3924198b739da
+#: ../../gettingstarted/about/history.rst:31
+msgid ""
+"Originally called VideoLAN Client, VLC media player is VideoLAN's main "
+"software product. VLC media player works on many platforms: Linux, "
+"Windows, macOS, BeOS, BSD, Solaris, Android, iOS, QNX and many more... It"
+" supports the following video and audio formats: MPEG-1, MPEG-2, "
+"MPEG-4/DivX, h264, webm, mkv, DVDs, VCDs, Audio CDs, wmv and wma. It can "
+"also play from external sources:"
+msgstr ""
+
+# a15da5bbc95541dc82378fe0a324807e
+#: ../../gettingstarted/about/history.rst:34
+msgid "Satellite."
+msgstr ""
+
+# ca8571b5e4db4697878a5ef210753ad5
+#: ../../gettingstarted/about/history.rst:35
+msgid "Cable."
+msgstr ""
+
+# a6a59206693d4ddfa45eb592a6f3fc87
+#: ../../gettingstarted/about/history.rst:36
+msgid "Digital TV cards (DVB-S, DVB-T)."
+msgstr ""
+
+# 9b773294079a475097a799f15cc5cc25
+#: ../../gettingstarted/about/history.rst:37
+msgid ""
+"Several types of network streams: UDP/RTP Unicast, UDP/RTP Multicast, "
+"HTTP, RTSP, MMS, etc."
+msgstr ""
+
+# fc071623cc244c20a7c83a0444898d2b
+#: ../../gettingstarted/about/history.rst:38
+msgid "Acquisition or encoding cards."
+msgstr ""
+
+# b52b5d041a334b66a622d3aab3f6513a
+#: ../../gettingstarted/about/history.rst:39
+msgid "Webcams and other devices."
+msgstr ""
+
+# f9e3de10874f4d4d8735ee70afd1768a
+#: ../../gettingstarted/about/history.rst:40
+msgid "VLC can also be used as a streaming server."
+msgstr ""
+

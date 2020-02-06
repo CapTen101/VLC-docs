@@ -1,0 +1,243 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# 78e92a8ca4c14cc49087fb4a5dd59f3c
+#: ../../userguides/media.rst:3
+msgid "Media"
+msgstr ""
+
+# 6b82a72e09464b71bb0db41c0f5ffe61
+#: ../../userguides/media.rst:7
+msgid "Playing a file"
+msgstr ""
+
+# c9cb67e3b87f49faaf6299d165d912e1
+#: ../../userguides/media.rst:9
+msgid ""
+"To play a file, open the :guilabel:`Media menu` as seen in the picture "
+"below:"
+msgstr ""
+
+# d99a7090fd344ee6aa50e0c6f1fb9607
+#: ../../userguides/media.rst:14
+msgid "Then select the :guilabel:`Open File` menu item."
+msgstr ""
+
+# 9c14bfdebe98443bb5ff53b4e67ee597
+#: ../../userguides/media.rst:19
+msgid ""
+"An Open File dialog box will appear. Select the file you want to open and"
+" select :guilabel:`Open`."
+msgstr ""
+
+# 433c2fcb2ee149c09a958105f93ee410
+#: ../../userguides/media.rst:24
+msgid ""
+"After you click :guilabel:`Open`, VLC will then start playing the "
+"designated file."
+msgstr ""
+
+# 41c3f922083f408b818518d6344c045a
+#: ../../userguides/media.rst:26
+msgid ""
+"An alternative to the aforementioned step is to simply drag and drop your"
+" file into the VLC main interface or the playlist window from the "
+":program:`File explorer` on Windows and :program:`Finder` on Mac OS X"
+msgstr ""
+
+# 830d041885b542d8b20dd3a160ee4cb3
+#: ../../userguides/media.rst:33
+msgid "Playing a CD/DVD/VCD/Blu-ray"
+msgstr ""
+
+# 645af09c07ee43fd859cfc1ca1bda741
+#: ../../userguides/media.rst:35
+msgid ""
+"To play a CD, VCD or a DVD, open the :menuselection:`Media --> Open Disc`"
+" menu item."
+msgstr ""
+
+# ad8b1d59f0644f3394fcef9d3b4ba20d
+#: ../../userguides/media.rst:40
+msgid ""
+"In the :guilabel:`Open Disk` dialog box as shown in the diagram below, "
+"select your preferred media type (DVD, Blu-ray, Audio CD, or SVCD/VCD)."
+msgstr ""
+
+# 8b397ef6c4fa4b8181e29e422f197d91
+#: ../../userguides/media.rst:45
+msgid ""
+"You can either select the drive in which the media is located by "
+"selecting the drive letter from the :guilabel:`Disc Device` drop-down "
+"list, or you can click the :guilabel:`Browse` button, which will open a "
+"dialog box that you can use to browse for the media you wish to play with"
+" VLC. There is also an option for No DVD menus, when reading a DVD."
+msgstr ""
+
+# 16dcc482264e413bb0dc68bc0c9063ee
+#: ../../userguides/media.rst:48
+msgid ""
+"If you want to start the DVD or VCD playback from a given title and "
+"chapter instead of from the beginning, you can set it using the "
+":guilabel:`Title and Chapter` selectors. You can also set the Audio and "
+"Subtitles track using the selectors."
+msgstr ""
+
+# 8781b0c257d84bbca1ff7259a5af64f4
+#: ../../userguides/media.rst:54
+msgid ""
+"Click :guilabel:`Play` to start the playlist or :guilabel:`Cancel` to go "
+"back to the default screen of VLC."
+msgstr ""
+
+# 8a381ed29e644ebcbe4176b59a822eec
+#: ../../userguides/media.rst:61
+msgid "Playing a network stream"
+msgstr ""
+
+# a6564b44a67544dd8949ad3cf7e908fa
+#: ../../userguides/media.rst:63
+msgid ""
+"Streaming is a method of delivering audio or video content across a "
+"network without the need to download the media file before it is played. "
+"You can view or listen to the content as it arrives. It has the advantage"
+" that you don't need to wait for large media files to finish downloading "
+"before playing them."
+msgstr ""
+
+# 28d4603bf2d045229ed5e4fc551f7b67
+#: ../../userguides/media.rst:67
+msgid ""
+"VideoLan is designed to stream MPEG videos on high bandwidth networks. "
+"VLC can be used as a server to stream MPEG-1, MPEG-2 and MPEG-4 files, "
+"DVDs and live videos on the network in :term:`Unicast` or "
+":term:`Multicast`. VLC is also used as a client to receive, decode and "
+"display MPEG streams. MPEG-1, MPEG-2 and MPEG-4 streams received from the"
+" network or an external device can be sent to one machine or a group of "
+"machines."
+msgstr ""
+
+# 22a974c2034743e883ab05b68e990625
+#: ../../userguides/media.rst:74
+msgid ""
+"To play a network stream, click on :menuselection:`Media` on the menu bar"
+" and select :menuselection:`Open Network Stream`. The Open Media dialog "
+"box loads with the Network tab selected. In the tab, enter a network URL "
+"in the text box and click on :guilabel:`Play`."
+msgstr ""
+
+# 425622d4ffc94ba2bba5bf4e99c56a17
+#: ../../userguides/media.rst:80
+msgid ""
+"When VLC plays a stream, the track slider shows the progress of the "
+"streamed file."
+msgstr ""
+
+# 811be7e7b38740b18abd616cfe36393a
+#: ../../userguides/media.rst:84
+msgid "Playing media from an acquisition card"
+msgstr ""
+
+# 10c0a71bfa74412da813a6f08c9c241d
+#: ../../userguides/media.rst:86
+msgid ""
+"To play from an acquisition card, click on the :menuselection:`Media menu"
+" --> Open Capture Device` menu as seen in the screenshot below."
+msgstr ""
+
+# 2bb7f46ef55d4e8b90fe7cfe54f9e5d7
+#: ../../userguides/media.rst:91
+msgid ""
+"After clicking on :guilabel:`Open Capture Device`, a dialog box will be "
+"displayed on the screen with different options and features to choose "
+"from. There, you can choose the preferred :guilabel:`Capture Mode` of "
+"your choice from the dropdown menu."
+msgstr ""
+
+# 221f2486ec98479880a622c2c7c3e352
+#: ../../userguides/media.rst:96
+msgid ""
+"Aside from the afore mentioned features of VLCs capture Device, see the "
+"more capabilities below;"
+msgstr ""
+
+# c2d6f8c64ab44fa88f3bfdb56ccef2fb
+#: ../../userguides/media.rst:98
+msgid ""
+"You can change the :guilabel:`Video device name` and :guilabel:`Audio "
+"device name`."
+msgstr ""
+
+# 3c4c770750794d10972e29e71ebc9b91
+#: ../../userguides/media.rst:99
+msgid ""
+"Users can also adjust the configuration for these devices by clicking "
+":guilabel:`Configure`."
+msgstr ""
+
+# 62d7a563a25f403fa2157d072d0fc140
+#: ../../userguides/media.rst:100
+msgid ""
+"Users can set the size of the video that will be played by the Direct "
+"Show plugin and options such as :guilabel:`Device Properties` and "
+":guilabel:`Tuner Properties` by clicking :guilabel:`Advanced Options`."
+msgstr ""
+
+# c06829d6024c4ec39665b4ab1d906647
+#: ../../userguides/media.rst:103
+msgid "Video4Linux"
+msgstr ""
+
+# 07c40888241846f4abf409338dd73cd2
+#: ../../userguides/media.rst:105
+msgid ""
+"For Video4Linux devices, you can set the name of the video and audio "
+"devices using the :guilabel:`Video device name` and :guilabel:`Audio "
+"device name` text inputs. The :guilabel:`Advanced options` button allows "
+"you to select some further settings useful in some rare cases, such as "
+"the chroma of the input (the way colors are encoded) and the size of the "
+"input buffer."
+msgstr ""
+
+# 9bce2f4f0e22407299d5c1c0addbfe60
+#: ../../userguides/media.rst:110
+msgid "Hauppauge PVR card"
+msgstr ""
+
+# 1d07ee58510f4783ab955836b4915340
+#: ../../userguides/media.rst:112
+msgid ""
+"To use a Hauppauge PVR card, select the :guilabel:`PVR` tab in the "
+":guilabel:`Open` dialog box. Use the :guilabel:`Device` text input to set"
+" the device of the card you want to use. You can set the Norm of the "
+"tuner (PAL, SECAM or NTSC) by using the :guilabel:`Norm` Drop Down. The "
+":guilabel:`Frequency` selector allows you to set the frequency of the "
+"tuner (in kHz), the bitrate selector to set the bitrate of the resulting "
+"encoded stream (in bit/s). The :guilabel:`Advanced Options` button allows"
+" to set some more settings, such as the size of the encoded video (in "
+"pixels), its framerate (in frame per second), the interval between 2 key "
+"frames, etc."
+msgstr ""
+
+# 100b506c21bc47a38f3ac7f8637e51cf
+#: ../../userguides/media.rst:117
+msgid "To start **playback from an acquisition card**, click :guilabel:`Play`."
+msgstr ""
+

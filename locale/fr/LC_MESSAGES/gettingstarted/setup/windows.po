@@ -1,0 +1,227 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# a78cad5f29de4ff0aecda1c039d74ab9
+#: ../../gettingstarted/setup/windows.rst:5
+msgid "Windows"
+msgstr ""
+
+# df96547c48034f819ebb7f99e5c8d563
+#: ../../gettingstarted/setup/windows.rst:7
+msgid ""
+"Open the `VLC website <https://www.videolan.org/vlc/download-"
+"windows.html>`_ on your browser."
+msgstr ""
+
+# 3a43f073d6ac449897fd027e7f49dc9c
+#: ../../gettingstarted/setup/windows.rst:9
+msgid ""
+"Click on **Download VLC** to download the VLC media player automatically "
+"onto your computer."
+msgstr ""
+
+# 970f9b55b6eb482bb438e0e89fb6206c
+#: ../../gettingstarted/setup/windows.rst:11
+msgid ""
+"Once it is downloaded, double click on the VLC setup file to begin the "
+"installation process. You'll find it in the default downloads location "
+"for your browser."
+msgstr ""
+
+# 0f7947ddcbce4cae96a4539e3b011e75
+#: ../../gettingstarted/setup/windows.rst:18
+msgid ""
+"The operating system may prompt you to grant VLC administrator "
+"permissions if you have UAC (User Account Control) enabled on Windows "
+"Vista, 7, 8 or 10. If this happens, click **Yes** when prompted to "
+"continue the installation process."
+msgstr ""
+
+# 47e69633ba0943a9b5d7335f5d3877e6
+#: ../../gettingstarted/setup/windows.rst:20
+msgid ""
+"Click on the drop-down box and select the language that you want the "
+"installer to use to display information to you and click **OK** to "
+"proceed."
+msgstr ""
+
+# f13dccea68fb43bca763f8b088a61c93
+#: ../../gettingstarted/setup/windows.rst:25
+msgid ""
+"The VLC installer recommends that you close all other applications before"
+" continuing the installation process (this is not com[ulsory]). When "
+"you're ready to proceed with the installation process, click **Next**"
+msgstr ""
+
+# 56b6b95a888f45daa968712fd86ecda1
+#: ../../gettingstarted/setup/windows.rst:30
+msgid "Click **Next** on the setup guide displayed on your Windows pc."
+msgstr ""
+
+# 13c253da5dcc4754817e7ce4f3878281
+#: ../../gettingstarted/setup/windows.rst:35
+msgid ""
+"Click **Browse** to choose a destination installation folder of your "
+"choice. After you've identified the desired folder, click **Install**. "
+"Doing so installs VLC media player on your computer."
+msgstr ""
+
+# cb85e8bcc3f04bf8a86fe711630c7d96
+#: ../../gettingstarted/setup/windows.rst:40
+msgid ""
+"After a few minutes, the VLC media player will be successfully installed "
+"in your PC. You can see more information about the progress of the "
+"installation by clicking on **Show details**."
+msgstr ""
+
+# 60ffc55b3815487aa2cf75aedbf20b2e
+#: ../../gettingstarted/setup/windows.rst:45
+msgid ""
+"Once the installation is complete, you can run it by making sure the "
+"\"Run VLC media player\" box is checked and clicking **Finish**. When you"
+" want to run VLC in the future, you'll have to double-click the VLC app "
+"icon on your desktop."
+msgstr ""
+
+# 50cfd21ee7bb40709ca801cd2f0c23da
+#: ../../gettingstarted/setup/windows.rst:50
+msgid ""
+"If you marked the **Run VLC media player** checkbox, the VLC media player"
+" will open up immediately after you click on **Finish**."
+msgstr ""
+
+# 3f09223b13974857b7e2e2031dadbfb1
+#: ../../gettingstarted/setup/windows.rst:55
+msgid ""
+"After downloading VLC on your deskptop or mobile phone, follow the guide "
+"below to start using VLC. The VLC media palyer is shown along with an "
+"orange and white cone shown below."
+msgstr ""
+
+# 5a32cc6c4a0545aa9173fcce92457cfd
+#: ../../gettingstarted/setup/windows.rst:59
+msgid "Start VLC"
+msgstr ""
+
+# 22d93eaf31924114a4fd01a53572d4e4
+#: ../../gettingstarted/setup/windows.rst:62
+msgid "**Windows XP:**"
+msgstr ""
+
+# 76722afd81db43df87801a85e8eb0788
+#: ../../gettingstarted/setup/windows.rst:62
+msgid "Click Start -> Programs -> VideoLAN -> VLC media player."
+msgstr ""
+
+# b48fd2f6997b475cb32df93865d33dfc
+#: ../../gettingstarted/setup/windows.rst:65
+msgid "**Windows 7:**"
+msgstr ""
+
+# 046ccbc145c44219956d72d7bfff8309
+#: ../../gettingstarted/setup/windows.rst:65
+msgid "Click Start -> All Programs -> VideoLAN -> VLC media player."
+msgstr ""
+
+# 3bf6ffb7250e413fb4deb0bb0e8b97cf
+#: ../../gettingstarted/setup/windows.rst:70
+msgid "**Windows 10:**"
+msgstr ""
+
+# e5a708bb5d584d789cfbfe99dd77511e
+#: ../../gettingstarted/setup/windows.rst:68
+msgid ""
+"Click on the Windwos icon. Applications are arranged alphabetically, so "
+"you can either scroll down to letter V or search for VideoLAN. On seeing "
+"the VideoLAN folder, click on it to find the VLC media player. Go ahead "
+"and click on **VLC Media Player**. After this, the all format video "
+"player will open."
+msgstr ""
+
+# 7cf65b898bbc42dbb21c02df8a82f84f
+#: ../../gettingstarted/setup/windows.rst:71
+msgid ""
+"A simpler way to find the VLC media Player on your PC is to type **VLC** "
+"on the search bar of your PC and click on it."
+msgstr ""
+
+# ae15d6722d47401599eba0f1b595ff52
+#: ../../gettingstarted/setup/windows.rst:74
+msgid "Stop VLC"
+msgstr ""
+
+# 51d2f25cf32f4b80ac4816afcdf05bcb
+#: ../../gettingstarted/setup/windows.rst:76
+msgid "There are three ways to quit VLC:"
+msgstr ""
+
+# 447c625131534f49ace685f6a86d6a1c
+#: ../../gettingstarted/setup/windows.rst:78
+msgid "Right click the **VLC icon** in the tray and select Quit (Alt-F4)."
+msgstr ""
+
+# e69825b4cf8640ea9e3698e5d02a92b0
+#: ../../gettingstarted/setup/windows.rst:79
+msgid "Click the **Close** button in the main interface of the application."
+msgstr ""
+
+# de6e8e43b7eb443180ba8ede15be768a
+#: ../../gettingstarted/setup/windows.rst:80
+msgid "In the Media menu, select **Quit (Ctrl-Q)**."
+msgstr ""
+
+# 97eab35593774948be96a5baf5c6c5b6
+#: ../../gettingstarted/setup/windows.rst:82
+msgid "**Next Steps**"
+msgstr ""
+
+# 2b00e0915c054cb8ac588823db5784a6
+#: ../../gettingstarted/setup/windows.rst:84
+msgid ""
+"Once you have installed and set up VLC, these topics below will help you "
+"learn more about the VLC media player:"
+msgstr ""
+
+# 3e142193aec5400c87b47f11abcc3555
+#: ../../gettingstarted/setup/windows.rst:86
+msgid ""
+":ref:`User Interface <doc_user_interface>` - Introduction to the UI, and "
+"commands of the VLC media player."
+msgstr ""
+
+# 8090ee1cb38347bcad44acd2507e6a04
+#: ../../gettingstarted/setup/windows.rst:87
+msgid ""
+":ref:`Tips and Tricks <tips_and_tricks>` - Jump right in with Tips and "
+"Tricks to become a VLC power user."
+msgstr ""
+
+# a19096909c2a4e48bb2e8b3139810107
+#: ../../gettingstarted/setup/windows.rst:88
+msgid ":ref:`Settings <settings>` - Customize VLC to suit your needs."
+msgstr ""
+
+# e7487a2c5d0f45e198ba7fbcf16ed574
+#: ../../gettingstarted/setup/windows.rst:89
+msgid ""
+":ref:`FAQs about VLC on Windows <faq_windows>` - Find all frequently "
+"asked questions by users running VLC on Windows."
+msgstr ""
+

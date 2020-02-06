@@ -1,0 +1,208 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# ecf31357a9824d869fe740a184a2ed17
+#: ../../glossary/index.rst:5
+msgid "Glossary"
+msgstr ""
+
+# 9239d0eee5a443309e7c97b982802044
+#: ../../glossary/index.rst:7
+msgid "This page lists definitions for terms used in VLC and this documentation."
+msgstr ""
+
+# b805765e94d841dc9f270477346cedfc
+#: ../../glossary/index.rst:33
+msgid "Display locally"
+msgstr ""
+
+# a82f22d9df694924ad44c6039ff8de6f
+#: ../../glossary/index.rst:35
+msgid ""
+"This will display the stream on your screen. Here, effects of "
+"transcoding, rescaling, etc can be monitored locally."
+msgstr ""
+
+# bccabfae10b64e228555e0712af4107c
+#: ../../glossary/index.rst:36
+msgid "File"
+msgstr ""
+
+# 98978a2b7f6542a19de797f944c412e7
+#: ../../glossary/index.rst:38
+msgid "This will allow you to save the stream to a file."
+msgstr ""
+
+# 4b52a46d79ad430cb6d4db07bd19e76c
+#: ../../glossary/index.rst:39
+msgid "HTTP"
+msgstr ""
+
+# b587203925284cd8a563b4f4da0be3cf
+#: ../../glossary/index.rst:41
+msgid ""
+"The HTTP streaming method allows you to specify the TCP port number you "
+"want to listen to."
+msgstr ""
+
+# 73c3d641871c42cb98c4525cce7dd456
+#: ../../glossary/index.rst:53
+msgid "IceCast"
+msgstr ""
+
+# 676511ea60274f26828800203c8f51b7
+#: ../../glossary/index.rst:55
+msgid ""
+"The IceCast server can be used by specifying the address, port, mount "
+"point and authentication of the IceCast server to stream to."
+msgstr ""
+
+# ee053c2f63ef48f2919b8f8648ce8db8
+#: ../../glossary/index.rst:17
+msgid "Left Mode (Audio)"
+msgstr ""
+
+# 8507eb7aed8a4d72a73bd1bbeb6bfc8e
+#: ../../glossary/index.rst:19
+msgid ""
+"You can observe this in a regular audio player with 2.1 speakers. If you "
+"select the Left option, the music is played only in the left speaker. The"
+" speaker on your right is automatically switched OFF."
+msgstr ""
+
+# 3b75fdfbb2ca41f8874e53087a775599
+#: ../../glossary/index.rst:14
+msgid "Mono"
+msgstr ""
+
+# c177c29a71794a198f8216ff8e2ced4e
+#: ../../glossary/index.rst:16
+msgid "A monaural sound that uses a single channel for sound reproduction."
+msgstr ""
+
+# 3d45a28d6d324b03b2361d6cbb34b126
+#: ../../glossary/index.rst:42
+msgid "MS-WMSP (MMSH)"
+msgstr ""
+
+# 70d2d34ca7464b09b95b22651cac3bae
+#: ../../glossary/index.rst:44
+msgid ""
+"This access method allows you to stream to Microsoft Windows Media Player"
+" by specifying the IP address and TCP port number on which to listen. "
+"This will only work with the ASF encapsulation method."
+msgstr ""
+
+# e357c61565b3496bbdbffb311433b030
+#: ../../glossary/index.rst:30
+msgid "Multicast"
+msgstr ""
+
+# 4d79fb51642f41a39f426ff16e0c0615
+#: ../../glossary/index.rst:32
+msgid ""
+"This is a process where media files are sent to multiple systems through "
+"the network."
+msgstr ""
+
+# 0c1b99cc23494de7ac9a47ab5e15d1c3
+#: ../../glossary/index.rst:23
+msgid "Reverse Stereo"
+msgstr ""
+
+# c9b3ee9253234efaae9ef7c89ed221b8
+#: ../../glossary/index.rst:25
+msgid ""
+"There are several applications that are used to reverse the stereo "
+"whereas VLC has an in-built feature to reverse the stereo. This option is"
+" useful if you want the audio to play in tandem with the video. You can "
+"use the Reverse Stereo option if you want to deliberately change the "
+"audio output. Imagine that you are watching a video. In the video, a "
+"person walks on the left side but the sound is produced on the right "
+"speaker. You can correct this by selecting the Reverse Stereo option in "
+"VLC. Select the Reverse Stereo option and play the same scene in the "
+"video and observe the difference."
+msgstr ""
+
+# b32f8e87f0ff47b787237e0cfc049331
+#: ../../glossary/index.rst:20
+msgid "Right Mode (Audio)"
+msgstr ""
+
+# 0bf6a6ab8e1645809eb09094a0d838b1
+#: ../../glossary/index.rst:22
+msgid ""
+"If you select the Right option, the music is played only in the speaker "
+"on your right side. The speaker on your left is automatically switched "
+"OFF."
+msgstr ""
+
+# f4785183d82c4a0eaba39a7b8e8c8ec0
+#: ../../glossary/index.rst:50
+msgid "RTP"
+msgstr ""
+
+# e40b1a37662549f4b3ae68894e5bcb6f
+#: ../../glossary/index.rst:52
+msgid ""
+"The Real-Time Transfer Protocol is similar to UDP but it can use both "
+"unicast and multicast addresses."
+msgstr ""
+
+# 1967cbb2a67b4eecbc8e9bf9ddc311d4
+#: ../../glossary/index.rst:11
+msgid "Stereo"
+msgstr ""
+
+# 352baac6b0344deea06558f45d488b14
+#: ../../glossary/index.rst:13
+msgid ""
+"This is the reproduction of the sound in two or more independent audio "
+"channels using more than one speaker. If you use this option, you would "
+"feel as though the sound is played from all the directions. You can "
+"observe this in a regular home theatre with 5.1 or 6.1 speakers."
+msgstr ""
+
+# 36d2ea94b0ad4b1e8d15f23fa41dc772
+#: ../../glossary/index.rst:45
+msgid "UDP"
+msgstr ""
+
+# 07acabeb14654fcb9c851360bff88954
+#: ../../glossary/index.rst:47
+msgid ""
+"Stream in unicast by providing an address in the 0.0.0.0 - "
+"223.255.255.255 range or in multicast by providing an address in the "
+"224.0.0.0 - 239.255.255.255 range. It is also possible to stream to IPv6 "
+"addresses. This will only work with the TS encapsulation method."
+msgstr ""
+
+# 44e345ddc41a47209e972a9ad12dc221
+#: ../../glossary/index.rst:27
+msgid "Unicast"
+msgstr ""
+
+# 0bfea7047b9a4341902335c9221c6085
+#: ../../glossary/index.rst:29
+msgid ""
+"This is a process where media files are sent to a single system through "
+"the network."
+msgstr ""
+

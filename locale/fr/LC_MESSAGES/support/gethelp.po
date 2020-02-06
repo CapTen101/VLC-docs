@@ -1,0 +1,112 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# 16c9d8d823b84600bce82a7d1329d749
+#: ../../support/gethelp.rst:5
+msgid "Get Help"
+msgstr ""
+
+# a0a0061898c14d53ae63b766d057c730
+#: ../../support/gethelp.rst:7
+msgid ""
+"VLC is a free and open source software which means that most developers "
+"are volunteers. Therefore, please remember that every user support is "
+"provided by volunteers doing it in their free time. If you have problems "
+"that has not been answered on our :ref:`Frequently Asked Questions page "
+"<faq>`, you can reach out to us diretly through any of the methods listed"
+" below;"
+msgstr ""
+
+# 4e4f924adffb4aaf9eb319be0fac575b
+#: ../../support/gethelp.rst:9
+msgid "**IRC**"
+msgstr ""
+
+# 93376ccea27b4d5698f11af561f5e984
+#: ../../support/gethelp.rst:11
+msgid ""
+"The `VideoLAN IRC <https://wiki.videolan.org/IRC/#IRCIRC>`_ channel is a "
+"good way to contact and speak with the team. Using an IRC client, connect"
+" to irc.videolan.org or irc.freenode.net and go on the #videolan channel."
+" If you are in a location without direct IRC access, please try the "
+"`Freenode Webchat <https://webchat.freenode.net/#videolan>`_."
+msgstr ""
+
+# 493e75342d6f44658f4f115cf3ca9404
+#: ../../support/gethelp.rst:13
+msgid "**Forum**"
+msgstr ""
+
+# 684ed9ec29a34529b667d9e03998d8b3
+#: ../../support/gethelp.rst:15
+msgid ""
+"Search or ask your question on the `VideoLAN support forum "
+"<https://forum.videolan.org/>`_"
+msgstr ""
+
+# 7ba2c51caa144d938582d37bb76648e9
+#: ../../support/gethelp.rst:17
+msgid "**Email**"
+msgstr ""
+
+# a0391682f491445ba3103f2229f2e2d2
+#: ../../support/gethelp.rst:19
+msgid ""
+"To contact us by e-mail, send a mail to ``videolan@videolan.org`` and "
+"write in either French, German or English."
+msgstr ""
+
+# 14f440c1b00a43deb93f46bffafb80c9
+#: ../../support/gethelp.rst:21
+msgid "**Mail**"
+msgstr ""
+
+# 90bc9de6e8854fe09af6639b408efaad
+#: ../../support/gethelp.rst:23
+msgid ""
+"If you need to send a postal mail to us, kindly mail it to the address "
+"below;"
+msgstr ""
+
+# c1d2e3ccce0d4a63bef93907caa2dc32
+#: ../../support/gethelp.rst:26
+msgid "Postal Address"
+msgstr ""
+
+# 1ccd67b8e3d24f0c9171d932f567786e
+#: ../../support/gethelp.rst:28
+msgid "VideoLAN"
+msgstr ""
+
+# 68f2116e4cea43028bc10692c63c7112
+#: ../../support/gethelp.rst:30
+msgid "18, rue Charcot"
+msgstr ""
+
+# a68a202fef13427b8cdd6a624da1cdd4
+#: ../../support/gethelp.rst:32
+msgid "75013 Paris"
+msgstr ""
+
+# 362247aefb2842e5afc1edc1bffb32eb
+#: ../../support/gethelp.rst:34
+msgid "France"
+msgstr ""
+

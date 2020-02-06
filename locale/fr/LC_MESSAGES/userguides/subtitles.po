@@ -1,0 +1,188 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the VLC User
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VLC User Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 22:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+# 35f67d65b0274ad08c6f06afea045ded
+#: ../../userguides/subtitles.rst:3
+msgid "Subtitles"
+msgstr ""
+
+# eb4fef5feaff4776a6f0ed626f7c7e5d
+#: ../../userguides/subtitles.rst:5
+msgid ""
+"A subtitle is a textual version of a movie’s dialogue. Subtitles are "
+"helpful if you are viewing a movie that contains foreign language(s). In "
+"VLC, subtitles of the formats .cdg, .idx, .srt, .sub, .utf, .ass, .ssa, "
+".aqt, .jss, .psb, .rt and smi are supported."
+msgstr ""
+
+# b9a3ba2ee5234cadbbe4a4ead68654a8
+#: ../../userguides/subtitles.rst:10
+msgid "Media with included subtitles"
+msgstr ""
+
+# ff410ca25c9742acbdbfb274229f291d
+#: ../../userguides/subtitles.rst:12
+msgid ""
+"Many types of media can have embedded subtitles. VLC can read subtitles "
+"for the following media formats:"
+msgstr ""
+
+# 79a430ad1698488a8ab554e3e331f483
+#: ../../userguides/subtitles.rst:14
+msgid "DVD"
+msgstr ""
+
+# fb3eac58c6864fbfb4a60e5efd70a3b2
+#: ../../userguides/subtitles.rst:15
+msgid "SVCD"
+msgstr ""
+
+# b8197c2b636440348c695bf2129c3ae9
+#: ../../userguides/subtitles.rst:16
+msgid "OGM files"
+msgstr ""
+
+# fcdfe44d7d3b4d92b3faf9047d5e24f7
+#: ../../userguides/subtitles.rst:17
+msgid "Matroska (MKV) files"
+msgstr ""
+
+# c270c76c0efc405a889be56f423c9b3a
+#: ../../userguides/subtitles.rst:19
+msgid ""
+"Subtitles are enabled by default in VLC media player. To disable them, "
+"click on the :guilabel:`Subtitle` menu to find available subtitles tracks"
+" for the file and select :guilabel:`Disable` to turn off the subtitles. "
+"Depending on the media, a description (language, for example) might be "
+"available for the track."
+msgstr ""
+
+# 35bb22e422c94f0f86bd9f19fd3e8acd
+#: ../../userguides/subtitles.rst:22
+msgid ""
+"To disable subtitles by default, go to :menuselection:`Tools --> "
+"Preferences --> Subtitles/OSD`, then uncheck the :guilabel:`Enable "
+"subtitles` checkbox and click :guilabel:`Save`."
+msgstr ""
+
+# 0e5108252c6040e49076fe8888d4e6af
+#: ../../userguides/subtitles.rst:27
+msgid ""
+"**DVD** and **SVCD** subtitles are merely images, so you won't be able to"
+" change anything for them. **OGM** and **Matroska** subtitles are "
+"rendered text, so you will be able to change several options."
+msgstr ""
+
+# eb3e6244799b49d7aebf0697b7744782
+#: ../../userguides/subtitles.rst:32
+msgid "Font modifications"
+msgstr ""
+
+# d82e67f3969642f79d4e830b8b2b9a99
+#: ../../userguides/subtitles.rst:34
+msgid ""
+"Text rendering options can be changed in the :menuselection:`Tools --> "
+"Preferences` tab. To change the font type and size, click on "
+":menuselection:`Videos --> Subtitles/OSD` and from the dropdown menu of "
+":guilabel:`Font` and :guilabel:`Font size`, choose your preferences."
+msgstr ""
+
+# 519e1c142ff14a7da4ac71c1d8842932
+#: ../../userguides/subtitles.rst:40
+msgid "You need to restart your stream for the font modifications to take effect."
+msgstr ""
+
+# aebeaf70b55440f0a354993d876453b8
+#: ../../userguides/subtitles.rst:44
+msgid "Subtitles files"
+msgstr ""
+
+# 333092ac91ec455fb73717b111ae0969
+#: ../../userguides/subtitles.rst:46
+msgid ""
+"While modern file formats like *Matroska* or *OGM* can handle subtitles "
+"directly, older formats like AVI can't. Therefore, a number of subtitles "
+"files formats have been created. You need two files: the video file and "
+"the subtitles file that only contains the text of the subtitles and "
+"timestamps."
+msgstr ""
+
+# 0fd5428ecfff4f379d99eaf453abca9d
+#: ../../userguides/subtitles.rst:50
+msgid "VLC can handle these types of subtitles files:"
+msgstr ""
+
+# ac72aacca386412286659775fd90a0da
+#: ../../userguides/subtitles.rst:52
+msgid "MicroDVD"
+msgstr ""
+
+# 3aa20dee30e34fae8462b047dfd88aba
+#: ../../userguides/subtitles.rst:53
+msgid "SubRIP"
+msgstr ""
+
+# 7cb595974271455a82929fac9a91779b
+#: ../../userguides/subtitles.rst:54
+msgid "SubViewer"
+msgstr ""
+
+# faadb0a99da3404e9e53026c28031e8a
+#: ../../userguides/subtitles.rst:55
+msgid "SSA"
+msgstr ""
+
+# 69c193873b0c457bb7b04f1a33a3a0cd
+#: ../../userguides/subtitles.rst:56
+msgid "Sami"
+msgstr ""
+
+# d95337070472449492ae25b6b4145b13
+#: ../../userguides/subtitles.rst:57
+msgid ""
+"Vobsub (this one is quite special: it is not made from text but from "
+"images, which means that you can't change the fonts)"
+msgstr ""
+
+# 1370af8e693f4e2fadc3f699fc1a820a
+#: ../../userguides/subtitles.rst:59
+msgid ""
+"To open and use a subtitles file, click on the :guilabel:`use a subtitle "
+"file` check box as seen in the picture below from the dialog box that "
+"appears when you click on :guilabel:`Open Multiple Files...` and select "
+"your file by clicking on the :guilabel:`Browse` button. There is also an "
+"option to set character encoding, alignment and size."
+msgstr ""
+
+# 6ff16e15cf074f2eb04a7d1ca303371a
+#: ../../userguides/subtitles.rst:65
+msgid ""
+"An alternative is loading subtitles from the :menuselection:`Video --> "
+"Subtitle Track` menu."
+msgstr ""
+
+# a0d14e3e081941a192d10a842baae556
+#: ../../userguides/subtitles.rst:67
+msgid ""
+"For Vobsub subtitles, you need to select the *.idx* file, not the *.sub* "
+"file. Encoding, alignment and size won't have any effect for Vobsub "
+"subtitles."
+msgstr ""
+
