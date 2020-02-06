@@ -56,3 +56,4 @@ To get the most out of the VLC media player, start by reviewing a few introducto
    addons/index.rst
    support/index.rst
    glossary/index.rst
+   about.rst
