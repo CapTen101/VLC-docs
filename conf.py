@@ -19,7 +19,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'VLC User Documentation'
-copyright = '2020, VideoLAN'
+copyright = 'This page is licensed under a CC-BY-SA 4.0 Int. License'
 author = 'VideoLAN Team'
 
 # The full version, including alpha/beta/rc tags
