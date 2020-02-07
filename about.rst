@@ -2,9 +2,9 @@
   About this Document
 #######################
 
-*******
-License
-*******
+*****************
+License & Credits
+*****************
 
 `VLC Media Player` itself is released under the `GNU General Public License Version 2 <http://www.gnu.org/licenses/gpl-2.0.html>`__.
 More info `videolan.org/legal <https://www.videolan.org/legal.html>`__.
