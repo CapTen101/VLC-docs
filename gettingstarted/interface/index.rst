@@ -15,8 +15,7 @@ The main interface has the following areas:
 .. note:: When a media file is streamed, the track slider does not move because VLC cannot know the total duration.
 
 .. toctree::
-   :maxdepth: 2
-   :hidden:
+   :maxdepth: 1
    :name: toc-interface
    
    windows_and_linux/index.rst

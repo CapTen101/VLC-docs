@@ -7,42 +7,73 @@
 VLC |release| User Documentation
 ################################
  
-`VLC media player <https://www.videolan.org/vlc/>`_ (commonly known as just **VLC**) is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs,and various streaming protocols. You can download the latest version of VLC on our `website <https://www.videolan.org/vlc/#download>`_ for free. 
+Welcome to the User Documentation of `VLC media player <https://www.videolan.org/vlc/>`_, the free and open source application that **plays everything** and run on **all platforms**.
 
-************
-Key Features
-************
+:doc:`/gettingstarted/about_vlc`
 
-* VLC plays Files, Discs, Webcams, Devices and Streams.
-* VLC runs on all platforms and is completely free. 
-* It has the most complete feature-set over the video, subtitle synchronisation, video and audio filters.
-* It has hardware decoding on most platforms. It supports 0-copy on the GPU and can fallback on software when required.
-* No spywares, ads and user tracking are allowed on the VLC media player.
-* Advanced formats are allowed on VLC.
-* VLC lets you apply audio effects, video effects, and tweak the way a video’s audio and video line up.
+:doc:`gettingstarted/about/index`
 
 
-***********
-First Steps
-***********
+********
+Sections
+********
 
 To get the most out of the VLC media player, start by reviewing a few introductory topics below;
 
-* :ref:`Setup <setup>` - Quickly find and install the appropriate VLC media player for your platform.
+.. container:: tocdescr
 
-* :ref:`User Interface <doc_user_interface>` - Introduction to the UI, and commands of the VLC media player.
+   .. container:: descr
 
-* :ref:`Settings <settings>` - Customize VLC to suit your needs.
+      .. figure:: /images/index_download_vlc.jpg
+         :target: gettingstarted/setup/index.html
 
-* :ref:`Tips and Tricks <tips_and_tricks>` - Jump right in with Tips and Tricks to become a VLC power user.
+      :doc:`/gettingstarted/setup/index`
+         Quickly find and install the appropriate VLC for your platform.
 
-* :ref:`Add-ons <addons>` - Find third-party software programs that can be added to VLC for additional features and abilities.
+   .. container:: descr
 
-* :ref:`FAQ <faq>`- Find all frequently asked questions by VLC users.
+      .. figure:: /images/index_interface.jpg
+         :target: gettingstarted/interface/index.html
 
-* :ref:`Support Guide<support>` - Solve your VLC issues right now!
+      :doc:`/gettingstarted/interface/index`
+         Introduction to the UI and commands of the VLC.
 
-* :ref:`Glossary<glossary>` - Definitions for terms used in VLC and this documentation.
+   .. container:: descr
+
+      .. figure:: /images/index_settings.jpg
+         :target: settings/index.html
+
+      :doc:`/settings/index`
+         Customize VLC to suit your needs.
+
+   .. container:: descr
+
+      .. figure:: /images/index_tips_tricks.jpg
+         :target: tipsandtricks/index.html
+
+      :doc:`/tipsandtricks/index`
+         Jump right in with Tips and Tricks to become a VLC power user.
+
+   .. container:: descr
+
+      .. figure:: /images/index_addons.jpg
+         :target: addons/index.html
+
+      :doc:`/addons/index`
+         Find third-party software programs for additional features and abilities.
+
+   .. container:: descr
+
+      .. figure:: /images/index_faq.jpg
+         :target: support/index.html
+
+      :doc:`/support/index`
+         All the help you need on VLC.
+
+   .. container:: descr
+
+      :ref:`Glossary<glossary>`
+         Definitions for terms used in VLC and this documentation.
 
 
 .. toctree::
