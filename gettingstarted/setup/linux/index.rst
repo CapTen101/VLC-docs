@@ -5,8 +5,7 @@ Linux Distributions
 *******************
 
 .. toctree::
-   :maxdepth: 2
-   :hidden:
+   :maxdepth: 1
    :name: toc-linux
 
    ubuntu
