@@ -9,9 +9,9 @@ VLC |release| User Documentation
  
 Welcome to the User Documentation of `VLC media player <https://www.videolan.org/vlc/>`_, the free and open source application that **plays everything** and run on **all platforms**.
 
-:doc:`/gettingstarted/about_vlc`
+:doc:`lore/vlc/index`
 
-:doc:`gettingstarted/about/index`
+:doc:`lore/videolan/index`
 
 
 ********
@@ -87,4 +87,5 @@ To get the most out of the VLC media player, start by reviewing a few introducto
    addons/index.rst
    support/index.rst
    glossary/index.rst
+   lore/index.rst
    about.rst

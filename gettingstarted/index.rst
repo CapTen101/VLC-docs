@@ -11,4 +11,3 @@
    
    setup/index.rst
    interface/index.rst
-   about/index.rst
