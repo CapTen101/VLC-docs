@@ -51,7 +51,7 @@ To get the most out of the VLC media player, start by reviewing a few introducto
       .. figure:: /images/index_tips_tricks.jpg
          :target: tipsandtricks/index.html
 
-      :doc:`/tipsandtricks/index`
+      :doc:`/basic/tipsandtricks/index`
          Jump right in with Tips and Tricks to become a VLC power user.
 
    .. container:: descr
@@ -82,7 +82,6 @@ To get the most out of the VLC media player, start by reviewing a few introducto
    
    gettingstarted/index.rst
    basic/index.rst
-   tipsandtricks/index.rst
    addons/index.rst
    support/index.rst
    glossary/index.rst

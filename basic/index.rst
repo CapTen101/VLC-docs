@@ -14,4 +14,5 @@
    subtitles.rst
    hotkeys.rst
    settings/index.rst
+   tipsandtricks/index.rst
 
