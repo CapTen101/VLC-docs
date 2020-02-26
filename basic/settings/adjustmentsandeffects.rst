@@ -14,7 +14,7 @@ Equalizer
 VLC features a 10-band graphical equalizer, a device used to alter the relative frequencies of audio (e.g. for a bass boost). 
 You can display it by selecting :menuselection:`Tools --> Effects and Filters --> Audio Effects --> Equalizer` on Windows or GNU/Linux or by clicking the :guilabel:`Equalizer` button on the macOS interface. 
 
-.. figure::  /images/settings/adjustmentsandeffects_audio.png
+.. figure::  /images/basic/settings/adjustmentsandeffects_audio.png
    :align:   center
 
    Audio equalizer in the Windows and GNU/Linux interface.
@@ -41,7 +41,7 @@ Video Effects
 
 VLC features several filters able to change the video's distortion, brightness adjustment, motion blurring, etc. 
 
-.. figure::  /images/settings/adjustmentsandeffects_video.png
+.. figure::  /images/basic/settings/adjustmentsandeffects_video.png
    :align:   center
 
 ***************
@@ -50,5 +50,5 @@ Synchronization
 
 Synchronizing Audio and Video subtitle track is possible in VLC. 
 
-.. figure::  /images/settings/adjustmentsandeffects_synchronization.png
+.. figure::  /images/basic/settings/adjustmentsandeffects_synchronization.png
    :align:   center

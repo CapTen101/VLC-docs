@@ -13,5 +13,5 @@
    video.rst
    subtitles.rst
    hotkeys.rst
+   settings/index.rst
 
-   

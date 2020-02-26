@@ -43,7 +43,7 @@ To get the most out of the VLC media player, start by reviewing a few introducto
       .. figure:: /images/index_settings.jpg
          :target: settings/index.html
 
-      :doc:`/settings/index`
+      :doc:`/basic/settings/index`
          Customize VLC to suit your needs.
 
    .. container:: descr
@@ -82,7 +82,6 @@ To get the most out of the VLC media player, start by reviewing a few introducto
    
    gettingstarted/index.rst
    basic/index.rst
-   settings/index.rst
    tipsandtricks/index.rst
    addons/index.rst
    support/index.rst
