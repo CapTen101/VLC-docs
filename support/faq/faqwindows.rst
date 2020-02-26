@@ -60,7 +60,12 @@ Make sure you have selected the proper speaker setup from Windows audio settings
 How do I adjust audio delay?
 ++++++++++++++++++++++++++++
 
-During playback you can press k or j to adjust audio delay (adjust step is 50 ms).
+During playback you can press :kbd:`k` or :kbd:`j` to adjust audio delay (adjust step is 50 ms).
+
+If audio is ahead of image, press :kbd:`j`.
+if audio is behind image, press :kbd:`k`.
+
+Or the other way round; negations can be pretty confusing.
 
 How can I play external audio track with video?
 +++++++++++++++++++++++++++++++++++++++++++++++
