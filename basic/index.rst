@@ -1,11 +1,11 @@
-.. _user_guide:
 
-User Guides
-===========
+#############
+ Basic Usage
+#############
 
 .. toctree::
    :maxdepth: 3
-   :name: toc-userguides
+   :name: toc-basic
    
    media.rst
    playback.rst

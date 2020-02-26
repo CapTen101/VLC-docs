@@ -14,12 +14,12 @@ There are two main ways to open and play a video track:
 
 1. Select :menuselection:`Media --> Open File`.
 
-.. figure::  /images/userguides/video_open_file.png
+.. figure::  /images/basic/video_open_file.png
    :align:   center
 
 2. Select a video track and double-click it or click the :guilabel:`Open` button to play the file. 
 
-.. figure::  /images/userguides/video_movie.png
+.. figure::  /images/basic/video_movie.png
    :align:   center
 
 ***********
@@ -30,7 +30,7 @@ This option is useful if you want to watch the video in the full screen mode.
 
 1. Select :menuselection:`Video --> Full Screen`. The video will then occupy the entire screen.
 
-.. figure::  /images/userguides/video_fullscreen.png
+.. figure::  /images/basic/video_fullscreen.png
    :align:   center
 
 2. To return to the original mode, press :kbd:`Esc` on the keyboard or right-click the mouse and select the :guilabel:`Leave Full Screen` option. The video will then return to its original mode.
@@ -45,7 +45,7 @@ This option is useful if you want to capture a portion of the video as an image.
 
 The image is captured in the .png picture format and is saved in the :file:`My Pictures` folder by default (:file:`C:\\Users\\Username\\Pictures`).
 
-.. figure::  /images/userguides/video_snapshot.png
+.. figure::  /images/basic/video_snapshot.png
    :align:   center
 
 ****
@@ -55,7 +55,7 @@ Zoom
 You can enlarge videos in different sizes. This option is useful if you want to change the size of a video track which is being played. 
 The supported sizes are 1:4 Quarter, 1:2 Half, 1:1 Original (default) and 2:1 Double. To view a video in a particular dimension, select a dimension in :menuselection:`Video --> Zoom`. 
 
-.. figure::  /images/userguides/video_zoom.png
+.. figure::  /images/basic/video_zoom.png
    :align:   center
 
 The track is then resized based on the selected zoom ratio.
@@ -68,7 +68,7 @@ Aspect ratio refers to the width of a picture in relation to its height. For exa
 
 To select an aspect ratio, select a value from :menuselection:`Video --> Aspect Ratio` menu. Then video is then adjusted based on the selected ratio.
 
-.. figure::  /images/userguides/video_aspect_ratio.png
+.. figure::  /images/basic/video_aspect_ratio.png
    :align:   center
 
 ****
@@ -79,7 +79,7 @@ This option is helpful if you want to capture a small portion of a video as an i
 
 The cropping values that are supported are Default, 16:10, 16:9, 1.85:1, 2.21:1, 2.35:1, 2.39:1, 5:3, 4:3, 5:4, and 1:1.
 
-.. figure::  /images/userguides/video_crop.png
+.. figure::  /images/basic/video_crop.png
    :align:   center
 
 To crop a video that is played, select a value from :menuselection:`Video --> Crop` menu. The video is then cropped based on the selected value.
@@ -97,11 +97,11 @@ VLC provides the Discard, Blend, Mean, Bob, Linear, X, Yadif and Yadif (2x) dein
 
       .. container:: descr
 
-         .. figure::  /images/userguides/video_deinterlace.png
+         .. figure::  /images/basic/video_deinterlace.png
 
       .. container:: descr
 
-         .. figure:: /images/userguides/video_deinterlace_mode.png
+         .. figure:: /images/basic/video_deinterlace_mode.png
 
 .. only:: latex or epub or singlehtml
 
