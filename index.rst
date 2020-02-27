@@ -24,35 +24,35 @@ To get the most out of the VLC media player, start by reviewing a few introducto
 
    .. container:: descr
 
-      .. figure:: /images/index_download_vlc.jpg
-         :target: gettingstarted/setup/index.html
+      .. figure:: /images/index_getting_started.jpg
+         :target: gettingstarted/index.html
 
-      :doc:`/gettingstarted/setup/index`
-         Quickly find and install the appropriate VLC for your platform.
-
-   .. container:: descr
-
-      .. figure:: /images/index_interface.jpg
-         :target: gettingstarted/interface/index.html
-
-      :doc:`/gettingstarted/interface/index`
-         Introduction to the UI and commands of the VLC.
+      :doc:`/gettingstarted/index`
+         Quickly find, install and use VLC on your favorite platform.
 
    .. container:: descr
 
-      .. figure:: /images/index_settings.jpg
-         :target: settings/index.html
+      .. figure:: /images/index_basic.jpg
+         :target: basic/index.html
 
-      :doc:`/basic/settings/index`
-         Customize VLC to suit your needs.
+      :doc:`/basic/index`
+         Introduction to the most common uses of VLC.
 
    .. container:: descr
 
-      .. figure:: /images/index_tips_tricks.jpg
-         :target: tipsandtricks/index.html
+      .. figure:: /images/index_advanced.jpg
+         :target: advanced/index.html
 
-      :doc:`/basic/tipsandtricks/index`
-         Jump right in with Tips and Tricks to become a VLC power user.
+      :doc:`/advanced/index`
+         Harder, better, faster, stronger VLC scenarios.
+
+   .. container:: descr
+
+      .. figure:: /images/index_reference.jpg
+         :target: reference/index.html
+
+      :doc:`/reference/index`
+         An (almost) exhaustive description of VLC features and modules
 
    .. container:: descr
 
@@ -72,6 +72,14 @@ To get the most out of the VLC media player, start by reviewing a few introducto
 
    .. container:: descr
 
+      .. figure:: /images/index_lore.jpg
+         :target: lore/index.html
+
+      :doc:`/lore/index`
+         One Upon a Time...
+
+   .. container:: descr
+
       :ref:`Glossary<glossary>`
          Definitions for terms used in VLC and this documentation.
 
@@ -86,6 +94,6 @@ To get the most out of the VLC media player, start by reviewing a few introducto
    reference/index.rst
    addons/index.rst
    support/index.rst
-   glossary/index.rst
    lore/index.rst
+   glossary/index.rst
    about.rst
