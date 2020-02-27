@@ -19,4 +19,10 @@ Key Features
 * Advanced formats are allowed on VLC.
 * VLC lets you apply audio effects, video effects, and tweak the way a video’s audio and video line up.
 
+VLC Codenames
+=============
+
+.. todo::
+
+   This page is under construction. Please refer the old documentation page: https://wiki.videolan.org/VLC_CodeNames/
 
