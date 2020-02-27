@@ -12,4 +12,5 @@ The VLC Support Guide is an infromal, step-by-step guide for troubleshooting mos
    
    faq/index.rst
    gethelp.rst
+   report_a_bug.rst
 
