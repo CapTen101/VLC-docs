@@ -28,6 +28,18 @@ To add a new page, create a .rst file with a meaningful name in the section you 
 
 You should then add your page to the relevant "toctree" (table of contents, e.g. `setup/mobile/ios.rst`). By convention, the files used to define the various levels of toctree are prefixed with an underscore, so in the above example the file should be referenced in `setup/mobile/_ios.rst`.
 
+## Sections organization
+
+| Root section   | Title            | Description                                                           |
+| -------------- | ---------------- | --------------------------------------------------------------------- |
+| gettingstarted | Getting Started  | Includes the strict necessary to get VLC and launch one playback      |
+| basic          | Basic Usage      | Most common uses of VLC                                               |
+| advanced       | Advanced Usage   | Power user guides: non-default interfaces, streaming, transcode, etc. |
+| reference      | Reference manual | Exhaustive description of features, compatibilities, modules, filters |
+| addons         | Add-ons          | Links with third party applications & skins                           |
+| support        | FAQ & Support    | FAQ, where to get help                                                |
+| lore           | Lore             | History of the project, description of the VideoLAN association, etc. |
+
 ## Sphinx and reStructuredText syntax
 
 Check Sphinx's [reST Primer](https://www.sphinx-doc.org/en/stable/rest.html) and the [official reference](http://docutils.sourceforge.net/rst.html) for details on the syntax.
