@@ -1,5 +1,5 @@
 ##################
- Reference manual
+ Reference Manual
 ##################
 
 This section will describe (almost) exhaustively all the features and modules of VLC.
