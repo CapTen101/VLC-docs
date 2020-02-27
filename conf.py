@@ -33,8 +33,12 @@ language = None
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'sphinx.ext.todo',
     'sphinx_tabs.tabs'
 ]
+
+# Show TODOs
+todo_include_todos = True
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['./templates']
