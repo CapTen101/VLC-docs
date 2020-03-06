@@ -50,8 +50,12 @@ Synchronization
  
 VLC's synchronization feature allows you to fix an audio/video file that is not synced by either deplaying or hastening the audio or subtitle till it is synced.
 Sometimes, while playing video files, you hear the sound before the actual time or you hear spoken words only after the lips move. 
-This means that the audio is not in sync and you will have to fix the audio delay. To do this, click on :guilabel:`Tools` menu
-and select :guilabel:`Audio Synchronisation` from the dropdown menu, enter a positive numerical value to increase hasten the speed or a negative value
+This means that the audio is not in sync and you will have to fix the audio delay. 
+
+.. figure::  /images/basic/settings/track_synchronization.PNG
+   :align:   center
+
+To do this, click on :guilabel:`Tools` menu and select :guilabel:`Audio Synchronisation` from the dropdown menu, enter a positive numerical value to increase hasten the speed or a negative value
 to decrease the speed. Audio synchronization can also be done easily using Hotkeys. See how to use hotkeys for Audio synchronization below:
  
 * Step 1 : Detect (hear) that audio is out of sync
@@ -61,8 +65,7 @@ to decrease the speed. Audio synchronization can also be done easily using Hotke
  
 .. figure::  /images/basic/settings/adjustmentsandeffects_synchronization.png
    :align:   center
- 
- Other Hotkeys for Synchronization
+
 
 
 
