@@ -51,6 +51,12 @@ Synchronization
 Sometimes, while playing video files, you hear the sound before the actual time or you hear spoken words only after the lips move. 
 This means that the audio is not in sync and you will have to fix the audio delay. VLC's synchronization feature allows you to fix an audio/video file that is not synced by either deplaying or hastening the audio till it is synced. 
 
+Audio/Video Synchronization
+===========================
+
+Audio/Subtitle Synchronization 
+==============================
+
 To do this, click on :guilabel:`Tools` menu and select :guilabel:`Audio Synchronisation` from the dropdown menu. 
 
 .. figure::  /images/basic/settings/track_synchronization.PNG
