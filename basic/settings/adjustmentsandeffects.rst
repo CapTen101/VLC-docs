@@ -60,8 +60,6 @@ To fix the Audio/Video synchronization with the VLC media player, follow the ste
 * Step 2 : If your audio requires to be slowed down then hit the *K* hotkey from your keyboard. For the opposite of this hit the *J* hotkey on your keyboard. A confirmation will be displayed on the top-right area of your screen.
 * Step 3 : Pressing the hotkey once will speed up or slow down the audio by 50 milliseconds. If you continue to press it, the number of milliseconds will continuously be incremented.
 * Step 4 : Speed up or slow down the sound timing of the video until you reach the desired state. Make sure that the video is playing and listen to the sound carefully and match it with the video to do this.
-* Step 5 : Bookmark a position in audio by clicking on **Shift + h**. 
-* Step 6 : Synchronize the previously bookmarked audio time by cliking on **Shift + k**. 
 
 Audio/Subtitle Synchronization 
 ==============================
@@ -72,8 +70,12 @@ To fix the Audio/Subtitle synchronization with the VLC media player, follow the 
 * Step 2 : If your subtitle requires to be delayed then hit the **h** hotkey from your keyboard. For the opposite of this, hit the **g** hotkey on your keyboard. A confirmation will be displayed on the top-right area of your screen.
 * Step 3 : Pressing the hotkeys once will delay or hasten the subtitle by 50 milliseconds. If you continue to press it, the number of milliseconds will continuously be incremented.
 * Step 4 : Delay or speed up the subtitle timing of the video until you reach the desired state. Listen to the audio carefully and fix the subtitle to accurately sync with your video. Some subtitles can be way off and you might require them to be delayed by a couple of seconds in order to sync with the spoken words of a video.
-* Step 5 : Bookmark a position in subtitle time by clicking on **Shift + j**.
-* Step 6 : Synchronize the previously bookmarked audio and subtitle times by cliking on **Shift + k**. 
+
+Advance/Bookmark
+================
+
+* Bookmark a position in subtitle time by clicking on **Shift + j**.
+* Synchronize the previously bookmarked audio and subtitle times by cliking on **Shift + k**. 
  
 
 Aside from fixing the Audio/Video and Audio/Subtitle synchronization with VLC hotkeys, you can also provide a numerical delay value directly using the menu options on VLC.
