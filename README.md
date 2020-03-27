@@ -59,7 +59,59 @@ After this, you can include it in your page with:
    :align: center
 ```
 
-## Building with Sphinx
+## How to build the website
+
+### Install requirements on Linux
+
+Before installing the `Sphinx` and `readthedocs.org` packages, you will need: 
+* the `python3` language and its `pip3` package manager
+* a version of [GNU Make](https://www.gnu.org/software/make/),
+* the [Git tool](https://git-scm.com).
+
+### Install requirements on Windows
+
+Like on Linux environments, on Microsoft Windows, you need to install:
+* the `python` language and its `pip` package manager
+* All the `python` modules requirements with the `pip` command
+* `GNU Make` tool.
+* `git` tool.
+
+There are a lot of ways to install these requirements. Here are three of them:
+
+#### Install via Windows Subsystem for Linux
+
+* Launch the `Microsoft Store` and install either the `Debian` or `Ubuntu` Windows Subsystem for Linux product.
+* Launch the application, and use the following commands:
+
+```sh
+sudo apt-get update && sudo apt-get install python3 python3-pip make git
+```
+
+At this point, commands to build this project are the same as on Linux system (cf. above).
+
+#### Install via Msys2
+
+* Install the [Msys2 system](https://www.msys2.org/)
+* Launch the `msys2` app and run the following commands:
+
+```
+pacman -S python3 python3-pip make git
+```
+
+At this point, commands to build this project are the same as on Linux system (cf. above).
+
+#### Install via native Windows tools
+
+* Download the Python installer [here](https://www.python.org/downloads/).
+* Install Python. Don't forget to check the "Add Python to PATH" box.
+* Install [Git for windows](https://git-scm.com/download/win), and do not forget to check the `Add to PATH` option.
+* Install [Make for Windows](http://gnuwin32.sourceforge.net/packages/make.htm). After the installation, the `make.exe` command will have to be replaced by `C:\Program Files (x86)\GnuWin32\bin\make.exe` if you follow the default installation settings;
+* Use the above `pip` commands.
+
+Note that during the first build, various installation prompts may appear and ask to install LaTeX plugins.
+Make sure you don't miss them, especially if they open behind other windows, else the build may appear to hang until you confirm these prompts.
+
+### Installing Sphinx (every platform)
 
 To build the HTML website (or any other format supported by Sphinx, like PDF, EPUB or LaTeX), you need to install [Sphinx](https://sphinx-doc.org/) >= 1.3 as well as (for the HTML) the [readthedocs.org theme](https://github.com/snide/sphinx_rtd_theme).
 
@@ -69,35 +121,30 @@ Those tools are best installed using [pip](https://pip.pypa.io), Python's module
 pip3 install -r requirements.txt
 ```
 
+### Building the HTML website 
+
 You can then build the HTML documentation from the root folder of this repository with:
 
 ```sh
 make html
 ```
 
-You can then test the changes live by opening `_build/html/index.html` in your favorite browser.
-
-### Building with Sphinx on Windows
-
-On Windows, you need to:
-* Download the Python installer [here](https://www.python.org/downloads/).
-* Install Python. Don't forget to check the "Add Python to PATH" box.
-* Use the above `pip` commands.
-
-Building is still done at the root folder of this repository using the provided `make.bat`:
+On Windows, building is still done at the root folder of this repository using the following command (`make` linux command is replaced with `make.exe`):
 ```sh
-make.bat html
+make.exe html
 ```
 
-Alternatively, you can build with this command instead:
+You can then test the changes live by opening `_build/html/` in your favorite browser.
+
+### Building the HTML website with a custom language
+
+If you want to build the localized version of the website for a specific language (if the localization exists), you can use the following command:
+
 ```sh
-sphinx-build -b html ./ _build
+make html LANGUAGE=<lang>
 ```
 
-Note that during the first build, various installation prompts may appear and ask to install LaTeX plugins.
-Make sure you don't miss them, especially if they open behind other windows, else the build may appear to hang until you confirm these prompts.
-
-You could also install a normal `make` toolchain (for example via MinGW) and build the docs using the normal `make html`.
+where `<lang>` is the desired language.
 
 ## License and Credits
 
