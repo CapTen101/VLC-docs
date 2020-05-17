@@ -12,3 +12,4 @@ Linux Distributions
    debian
    redhat
    suse
+   slackware
