@@ -121,4 +121,20 @@ Are there skins with a full screen controller?
 
 Full screen controllers in skins are supported since VLC 1.1. But apart from the default skin coming with VLC not many other skins have this feature.
 
+How to enable Always on Top feature on VLC?
++++++++++++++++++++++++++++++++++++++++++++
+
+To enable Always on Top feature you may:
+
+    * From menu bar go to :menuselection:`View --> Always on top`  
+
+    .. figure:: /images/support/faq/vlcmediaplayer_alwaysontop.jpg
+       :align:  center 
+       
+    * Or Right click on the video then :menuselection:`View --> Always on top` 
+
+    .. figure:: /images/support/faq/vlcmediaplayer_alwaysontop_right.jpg
+       :align:  center
+    
+       
 .. seealso:: :ref:`Get Help <getting_support>` - Find an answer to any question that wasnt answered here.
