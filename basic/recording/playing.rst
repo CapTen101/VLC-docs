@@ -16,11 +16,11 @@ To use the :guilabel:`Record` button:
 - Click again on the :guilabel:`Record` |record| button to stop the recording,
 - you can also stop the recording by clicking the :guilabel:`Stop` button.
 
-.. |record| image:: /images/advanced/recording/record_button.png
+.. |record| image:: /images/basic/recording/playing_record_button.png
    :align: middle
    :width: 12
 
-.. figure::  /images/advanced/recording/record.png
+.. figure::  /images/basic/recording/playing_record.png
    :align:   center
 
 The recording is stored on the default storage folder for videos or music on your computer under a name like :file:`vlc-record-Date-Time-Channel-Track.extension`.
@@ -42,7 +42,7 @@ The record button is not easily accessible by default, but you can make permanen
         Click on :menuselection:`View --> Advanced Controls` to display the advanced toolbar directly above :ref:`Playback Controls <playback_controls>`. 
         This advanced toolbar contains the :guilabel:`Record` button. Once the :guilabel:`Record` button is visible, click it to start recording.
 
-        .. figure::  /images/advanced/recording/advanced_controls.png
+        .. figure::  /images/basic/recording/playing_advanced_controls.png
            :align:   center
 
    .. tab:: Customize interface
@@ -60,20 +60,20 @@ You can modify the folder used to store your recordings. To do that:
 
 1. Select :menuselection:`Tools --> Preferences` or press :kbd:`Ctrl+P`.
 
-.. figure::  /images/advanced/recording/set_preference.png
+.. figure::  /images/basic/recording/playing_set_preference.png
    :align:   center
 
 2. Click :guilabel:`Input/Codecs`, under :guilabel:`Files` click :guilabel:`Browse...` to select a location for your recordings.
 
-.. figure::  /images/advanced/recording/set_location.png
+.. figure::  /images/basic/recording/playing_set_location.png
    :align:   center
 
-.. figure::  /images/advanced/recording/select_folder.png
+.. figure::  /images/basic/recording/playing_select_folder.png
    :align:   center
    
 3. Click on :guilabel:`Save`.
 
-.. figure::  /images/advanced/recording/save.png
+.. figure::  /images/basic/recording/playing_save.png
    :align:   center
 
   

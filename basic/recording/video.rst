@@ -16,40 +16,40 @@ Recording your Desktop
 
 1. Select :menuselection:`Media --> Open capture Device` or press :kbd:`Ctrl+C`, then under capture mode click the **Dropdown menu** and select :guilabel:`Desktop`.
 
-.. figure::  /images/advanced/recording/open_capture_device.png
+.. figure::  /images/basic/recording/video_open_capture_device.png
    :align:   center
 
-.. figure::  /images/advanced/recording/select_desktop.png
+.. figure::  /images/basic/recording/video_select_desktop.png
    :align:   center
    
 2. Under options set your desired frame rate.
 
-.. figure::  /images/advanced/recording/set_framerate.png
+.. figure::  /images/basic/recording/video_set_framerate.png
    :align:   center
    
 3. Click the arrow attached to the play button then select convert or press :kbd:`Alt+O`.
 
-.. figure::  /images/advanced/recording/click_convert.png
+.. figure::  /images/basic/recording/video_click_convert.png
    :align:   center
 
 4. Under profile click the dropdown to select your desired output format.
 
-.. figure::  /images/advanced/recording/output_format.png
+.. figure::  /images/basic/recording/video_output_format.png
    :align:   center
    
 5. Click browse to select a save location.
 
-.. figure::  /images/advanced/recording/set_destination.png
+.. figure::  /images/basic/recording/video_set_destination.png
    :align:   center
    
 6. Click start to commence the recording.
 
-.. figure::  /images/advanced/recording/start_recording.png
+.. figure::  /images/basic/recording/video_start_recording.png
    :align:   center
 
 7. Click the stop button |stop| to stop recording. Your video will be stored in the destination you chose.
 
-.. |stop| image:: /images/advanced/recording/stop.png
+.. |stop| image:: /images/basic/recording/video_stop.png
    :align: middle
    :width: 12
 
@@ -73,27 +73,27 @@ Recording your Webcam
         - select :guilabel:`Input devices` in the **Dropdown menu**,
         - then click on the :guilabel:`Video` checkbox.
 
-.. figure::  /images/advanced/recording/select_directshow.png
+.. figure::  /images/basic/recording/video_select_directshow.png
    :align:   center
    
 2. Click the arrow attached to the play button then select convert or press :kbd:`Alt+O`.
 
-.. figure::  /images/advanced/recording/click_convert_2.png
+.. figure::  /images/basic/recording/video_click_convert_2.png
    :align:   center
 
 3. Under profile click the dropdown to select your desired output format.
 
-.. figure::  /images/advanced/recording/output_format_2.png
+.. figure::  /images/basic/recording/video_output_format_2.png
    :align:   center
    
 4. Click browse to select a save location.
 
-.. figure::  /images/advanced/recording/set_destination_2.png
+.. figure::  /images/basic/recording/video_set_destination_2.png
    :align:   center
    
 6. Click start to commence the recording.
 
-.. figure::  /images/advanced/recording/start_recording_2.png
+.. figure::  /images/basic/recording/video_start_recording_2.png
    :align:   center
    
 7. Click the :guilabel:`Stop` button |stop| to stop recording. Your video will be stored in the destination you chose.
