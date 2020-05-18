@@ -20,7 +20,7 @@ Recording your microphone
 
    .. tab:: On Windows
         
-        - Select :menuselection:`Media --> Open capture Device` or press :guilabel:`'Ctrl+C'`,
+        - Select :menuselection:`Media --> Open capture Device` or press :kbd:`Ctrl+C`,
         - then under capture mode click the **Dropdown menu** and select :guilabel:`DirectShow`.
 
    .. tab:: On Macos
@@ -37,7 +37,7 @@ Recording your microphone
 .. figure::  /images/basic/recording/audio_change_audio_device_name.png
    :align:   center  
    
-2. Click the arrow attached to the play button then select convert or press :guilabel:`'Alt+O'`.
+2. Click the arrow attached to the play button then select convert or press :kbd:`Alt+O`.
 
 .. figure::  /images/basic/recording/audio_click_convert_2.png
    :align:   center
