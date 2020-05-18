@@ -40,31 +40,6 @@ On VLC, you have the option to disable and enable a track.
 
         To enable the track again, select the designated Track in the :menuselection:`Audio --> Audio Track` menu.
 
-***************
-Recording Audio
-***************
-
-Recording the audio of any track you are playing is also allowed on VLC. However, the record button used for this is hidden by default. To make the :guilabel:`Disable` button visible, use one of these methods below:
-
-.. tabs::
-
-   .. tab:: Advanced Controls
-
-        Click on :menuselection:`View --> Advanced Controls` to display the advanced toolbar directly above :ref:`Playback Controls <playback_controls>`. 
-        This advanced toolbar contains the :guilabel:`Record` button. Once the :guilabel:`Record` button is visible, click it to start recording.
-
-   .. tab:: Customize interface
-
-        Select :menuselection:`Tools --> Customize interface` menu and drag the record button to to any location of your choice in :guilabel:`Line 2`. Once the :guilabel:`Record` button is visible, click it to start recording.
-
-        .. note:: :guilabel:`Line 2` is the default line shown on VLC.
-
-
-The recording from a shoutcast stream is stored on the default storage folder for videos or music on your computer under a name like :file:`vlc-record-Date-Time-Channel-Track.mp3`
-Example: :file:`vlc-record-2011-09-22-10h19m48s-Radio CAFF-Silencio - Arrabal Salvaje.mp3`.
-
-You can automatically cut the stream into tracks by relaying the stream through :program:`Streamripper`, i.e. by directing :program:`StreamRipper` to the :program:`ShoutCast` stream and directing VLC to the relaying port of :program:`StreamRipper` (default http://localhost:8000).
-
 ***********
 Stereo Mode
 ***********

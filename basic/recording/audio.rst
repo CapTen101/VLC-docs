@@ -2,6 +2,18 @@
  How to Record Audio
 #####################
 
+VLC provides a variety of options for recording audio, either from a content your are listening to, or from an audio input device like a microphone.
+
+**************************
+Recording an audio content
+**************************
+
+VLC can record any audio content it can play by using the :guilabel:`Record` button, as described in :ref:`Using the Record button`.
+
+*************************
+Recording your microphone
+*************************
+
 1. Select the capture device:
 
 .. tabs::
