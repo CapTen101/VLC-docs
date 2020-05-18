@@ -2,13 +2,25 @@
  How to Record Audio
 #####################
 
+1. Select the capture device:
 
-1. Select :menuselection:`Media --> Open capture Device` or press :guilabel:`'Ctrl+C'`, then under capture mode click the **Dropdown menu** and select :guilabel:`DirectShow`.
-  
+.. tabs::
+
+   .. tab:: On Windows
+        
+        - Select :menuselection:`Media --> Open capture Device` or press :guilabel:`'Ctrl+C'`,
+        - then under capture mode click the **Dropdown menu** and select :guilabel:`DirectShow`.
+
+   .. tab:: On Macos
+        
+        - Select :menuselection:`Media --> Open capture Device`,
+        - select :guilabel:`Input devices` in the **Dropdown menu**,
+        - then click on the :guilabel:`Audio` checkbox.
+
 .. figure::  /images/advanced/recording/select_directshow.png
    :align:   center
    
-.. note:: If you want to change the audio recording device, click the dropdown menu under audio device name and select your desire device** 
+.. note:: If you want to change the audio recording device, click the dropdown menu under audio device name and select your desired device.
 
 .. figure::  /images/advanced/recording/change_audio_device_name.png
    :align:   center  

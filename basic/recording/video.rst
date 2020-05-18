@@ -90,8 +90,21 @@ Recording your Desktop
 Recording Videos with Webcam
 ****************************
 
-1. Select :menuselection:`Media --> Open capture Device` or press :guilabel:`'Ctrl+C'`, then under capture mode click the **Dropdown menu** and select :guilabel:`DirectShow`.
-  
+1. Select the webcam device:
+
+.. tabs::
+
+   .. tab:: On Windows
+        
+        - Select :menuselection:`Media --> Open capture Device` or press :guilabel:`'Ctrl+C'`,
+        - then under capture mode click the **Dropdown menu** and select :guilabel:`DirectShow`.
+
+   .. tab:: On Macos
+        
+        - Select :menuselection:`Media --> Open capture Device`,
+        - select :guilabel:`Input devices` in the **Dropdown menu**,
+        - then click on the :guilabel:`Video` checkbox.
+
 .. figure::  /images/advanced/recording/select_directshow.png
    :align:   center
    
