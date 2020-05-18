@@ -8,7 +8,7 @@
 .. figure::  /images/advanced/recording/select_directshow.png
    :align:   center
    
-   **Note: If you want to change the audio recording device, click the dropdown menu under audio device name and select your desire device** 
+.. note:: If you want to change the audio recording device, click the dropdown menu under audio device name and select your desire device** 
 
 .. figure::  /images/advanced/recording/change_audio_device_name.png
    :align:   center  
