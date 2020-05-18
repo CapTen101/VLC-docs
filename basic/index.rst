@@ -13,6 +13,7 @@
    video.rst
    subtitles.rst
    hotkeys.rst
+   recording/index.rst
    settings/index.rst
    tipsandtricks/index.rst
 
