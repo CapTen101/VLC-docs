@@ -17,6 +17,7 @@
 
 .. figure::  /images/advanced/recording/click_convert_2.png
    :align:   center
+
 3. Under profile click the dropdown to select your desired audio output format.
 
 .. figure::  /images/advanced/recording/output_format_audio.png
