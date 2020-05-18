@@ -1,6 +1,6 @@
-#############################
- How to Record Audio in VLC
-#############################
+#####################
+ How to Record Audio
+#####################
 
 
 1. Select :menuselection:`Media --> Open capture Device` or press :guilabel:`'Ctrl+C'`, then under capture mode click the **Dropdown menu** and select :guilabel:`DirectShow`.

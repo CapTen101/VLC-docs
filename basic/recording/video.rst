@@ -1,6 +1,6 @@
-#############################
- How to Record Videos in VLC
-#############################
+######################
+ How to Record Videos 
+######################
 
 VLC provides a variety of options for recording videos. You can make a video recording of a movie/video you are watching, record your desktop or even record yourself using a webcam or a similar input device. These recordings can also be saved in a variety of formats.
 

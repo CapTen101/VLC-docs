@@ -1,11 +1,11 @@
-#####################################
- How to Record Audio or Video in VLC
-#####################################
+###########
+ Recording
+###########
 
 .. toctree::
    :maxdepth: 3
    :name: toc-recording
    
-   audio_recording.rst
-   video_recording.rst
+   audio.rst
+   video.rst
    
