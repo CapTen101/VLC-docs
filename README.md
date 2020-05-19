@@ -11,12 +11,12 @@ Though arguably less convenient to edit than a wiki, this git repository is mean
 ## Branches organization
 
 Each branch is linked to a version of the documentation refering to a particular version of VLC. For example:
-* `3.0` branch is the documentation of VLC `3.0` version
-* `master` branch is the documentation of VLC `master` version (currently 4.0)
+* `3.0` branch is the documentation of VLC `3.0` version, and the default branch of the repository
+* `master` branch is the documentation of VLC `master` under development version (currently 4.0)
 
 If you have contributions that are **specific** to a **particular version** of VLC, send a merge request on the corresponding branch.
 
-If you have generic contributions that are **not specific** to a particular version of VLC, send a merge request on the `master` branch.
+If you have generic contributions that are **not specific** to a particular version of VLC, send a merge request on the default branch.
 
 ## Editing existing pages
 
