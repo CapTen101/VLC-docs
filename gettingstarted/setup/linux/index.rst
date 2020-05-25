@@ -13,3 +13,4 @@ Linux Distributions
    redhat
    suse
    slackware
+   gentoo
