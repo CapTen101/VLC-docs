@@ -141,24 +141,33 @@ Cannot play youtube videos on VLC Media Player - Fix
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
-**What causes the problem ?**
+What causes the problem ?
+-------------------------
 
-    * Due to changes in transmission protocols of Youtube, some files become obsolete and VLC is unable to stream youtube videos.
+Due to changes in transmission protocols of Youtube, some files become obsolete and VLC is unable to stream youtube videos.
 
+How to fix the problem ?
+------------------------
 
-**How to fix the problem ?**
+Method 1
+""""""""
 
-    **FIX 1** : Update your ``VLC media player``. Download it by visiting the official website `here <https://www.videolan.org/vlc/>`_. You can skip this, if you already have the updated version. If this method doesn't work, Try FIX 2.
+Be sure you have the latest version of VLC. To do this, follow :ref:`these instructions <setup>`. If you already have the latest version, you can try the :ref:`Method 2`.
 
-    **FIX 2** : Follow these steps :
+.. _Method 2:
 
-    * Download the **youtube.lua** file by clicking on -> `this <https://code.videolan.org/videolan/vlc/-/raw/master/share/lua/playlist/youtube.lua?inline=false>`_
+Method 2
+""""""""
+
+Follow these steps :
+
+    * Download the **youtube.lua** file by clicking on `this link <https://code.videolan.org/videolan/vlc/-/raw/master/share/lua/playlist/youtube.lua?inline=false>`_.
     
-    .. figure:: /images/support/faq/youtube_fix_download_image.png
+    .. figure:: /images/support/faq/vlcmediaplayer_youtube_fix_download_image.png
 
     * Rename the downloaded file to **youtube.lua** if it is not (may happen with google chrome).
 
-    .. figure:: /images/support/faq/youtube_fix_rename.png
+    .. figure:: /images/support/faq/vlcmediaplayer_youtube_fix_rename.png
 
     * Close VLC Media player if it is open. 
     * Now go to one of these location, depending on your operating system :
@@ -181,7 +190,7 @@ Cannot play youtube videos on VLC Media Player - Fix
             * **32-bit Linux**: :file:`/usr/lib/vlc/lua/playlist/`
 
 
-    .. figure:: /images/support/faq/youtube_fix_directory_image.png
+    .. figure:: /images/support/faq/vlcmediaplayer_youtube_fix_directory_image.png
 
     * If any **youtube.luac** and/or **youtube.lua** file already exists, delete it.
     * Paste the file you downloaded - **youtube.lua** in this location.
