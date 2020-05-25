@@ -136,5 +136,57 @@ To enable Always on Top feature you may:
     .. figure:: /images/support/faq/vlcmediaplayer_alwaysontop_right.jpg
        :align:  center
     
+
+Cannot play youtube videos on VLC Media Player - Fix
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+**What causes the problem ?**
+
+    * Due to changes in transmission protocols of Youtube, some files become obsolete and VLC is unable to stream youtube videos.
+
+
+**How to fix the problem ?**
+
+    **FIX 1** : Update your ``VLC media player``. Download it by visiting the official website `here <https://www.videolan.org/vlc/>`_. You can skip this, if you already have the updated version. If this method doesn't work, Try FIX 2.
+
+    **FIX 2** : Follow these steps :
+
+    * Download the **youtube.lua** file by clicking on -> `this <https://code.videolan.org/videolan/vlc/-/raw/master/share/lua/playlist/youtube.lua?inline=false>`_
+    
+    .. figure:: /images/support/faq/youtube_fix_download_image.png
+
+    * Rename the downloaded file to **youtube.lua** if it is not (may happen with google chrome).
+
+    .. figure:: /images/support/faq/youtube_fix_rename.png
+
+    * Close VLC Media player if it is open. 
+    * Now go to one of these location, depending on your operating system :
+
+
+    .. tabs::
+
+       .. tab:: Windows
+
+            * **Windows 64-bit**: :file:`C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\`
+            * **Windows 32-bit**: :file:`C:\\Program Files\\VideoLAN\\VLC\\lua\\playlist\\`
+
+       .. tab:: Mac
+
+            * **Mac**: :file:`/Applications/VLC.app/Contents/MacOS/share/lua/playlist/`
+
+       .. tab:: Linux
+
+            * **64-bit Linux**: :file:`/usr/lib64/vlc/lua/playlist/`
+            * **32-bit Linux**: :file:`/usr/lib/vlc/lua/playlist/`
+
+
+    .. figure:: /images/support/faq/youtube_fix_directory_image.png
+
+    * If any **youtube.luac** and/or **youtube.lua** file already exists, delete it.
+    * Paste the file you downloaded - **youtube.lua** in this location.
+
+Voila, The issue will go away and you can now watch your favourite youtube videos on VLC itself!
+
        
 .. seealso:: :ref:`Get Help <getting_support>` - Find an answer to any question that wasnt answered here.
