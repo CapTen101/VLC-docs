@@ -161,7 +161,7 @@ Method 2
 
 Follow these steps :
 
-    * Download the **youtube.lua** file by clicking on `this link <https://code.videolan.org/videolan/vlc/-/raw/master/share/lua/playlist/youtube.lua?inline=false>`_.
+    * Download the **youtube.lua** file by clicking on `this link <https://code.videolan.org/videolan/vlc-3.0/-/raw/master/share/lua/playlist/youtube.lua?inline=false>`_.
     
     .. figure:: /images/support/faq/vlcmediaplayer_youtube_fix_download_image.png
 
