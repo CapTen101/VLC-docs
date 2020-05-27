@@ -78,16 +78,18 @@ Like on Linux environments, on Microsoft Windows, you need to install:
 
 There are a lot of ways to install these requirements. Here are three of them:
 
-#### Install via Windows Subsystem for Linux
+#### Install via Windows Subsystem for Linux (Recommended)
 
-* Launch the `Microsoft Store` and install either the `Debian` or `Ubuntu` Windows Subsystem for Linux product.
+Windows Subsystem for Linux (WSL) is a compatibility layer for running Linux binary executables natively on Windows 10 and Windows Server 2019.
+* Using WSL for first time? Get started here [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+* You can either choose WSL 1 or WSL 2. Install `Ubuntu` or `Debian`.
 * Launch the application, and use the following commands:
 
 ```sh
 sudo apt-get update && sudo apt-get install python3 python3-pip make git
 ```
 
-At this point, commands to build this project are the same as on Linux system (cf. above).
+At this point, commands to build this project on WSL are the same as on Linux system (cf. above).
 
 #### Install via Msys2
 
@@ -105,7 +107,7 @@ At this point, commands to build this project are the same as on Linux system (c
 * Download the Python installer [here](https://www.python.org/downloads/).
 * Install Python. Don't forget to check the "Add Python to PATH" box.
 * Install [Git for windows](https://git-scm.com/download/win), and do not forget to check the `Add to PATH` option.
-* Install [Make for Windows](http://gnuwin32.sourceforge.net/packages/make.htm). After the installation, the `make.exe` command will have to be replaced by `C:\Program Files (x86)\GnuWin32\bin\make.exe` if you follow the default installation settings;
+* Install [Make for Windows](http://gnuwin32.sourceforge.net/packages/make.htm). Add `C:\Program Files (x86)\GnuWin32\bin\make.exe` to `PATH` environment variable.
 * Use the above `pip` commands.
 
 Note that during the first build, various installation prompts may appear and ask to install LaTeX plugins.
