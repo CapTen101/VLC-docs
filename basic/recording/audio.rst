@@ -52,12 +52,12 @@ Recording your microphone
 .. figure::  /images/basic/recording/audio_set_destination_audio.png
    :align:   center
    
-6. Click start to commence the recording.
+5. Click start to commence the recording.
 
 .. figure::  /images/basic/recording/audio_start_recording_audio.png
    :align:   center
    
-7. Click the stop button |stop| to stop recording. Your audio will be stored in the destination you chose.
+6. Click the stop button |stop| to stop recording. Your audio will be stored in the destination you chose.
 
 .. |stop| image:: /images/basic/recording/audio_stop.png
    :align: middle
