@@ -97,3 +97,54 @@ The image is captured in the .png picture format and is saved in the :file:`C:\\
 .. figure::  /images/basic/tipsandtricks/index_snapshot.png
    :align:   center
 
+*********************************************************
+Fingerprinting - Identify tracks and add album art easily
+*********************************************************
+
+VLC uses **MusicBrainz** - a multi-platform open-source tool that lets you easily add metadata to your music files that miss them.
+
+It utilizes something many refer to as **AcoustID** that helps it distinguish your music files by their contents and not their other metadata fields. Metadata includes information like artist, genre, label, song titles, album name and track numbers.
+
+So regardless of whether your **MP3s** have **zero** information accessible, you can utilize the tool to include the missing info. Thus your library becomes more cleaner and informative !
+
+Lets see how you can identify a music file even if it has all metadata fields empty.
+
+1. Make sure you are connected to internet. Then go to VLC.
+2. Select :menuselection:`Tools --> Codec Information`. The current media information dialog window appears.
+
+.. figure::  /images/basic/tipsandtricks/index_fingerprint_open.png
+   :align:   center
+
+3. Select :guilabel:`General` tab. Click on :guilabel:`fingerprint`.
+   
+.. figure::  /images/basic/tipsandtricks/index_fingerprint_fingerprint.png
+   :align:   center
+
+4. A list of matching tracks will pop up. If the track matches with any item, Click on it and choose option :guilabel:`Apply this identity to the file`. In case, there are no matches you may choose :guilabel:`Discard all identities`.
+  
+.. figure::  /images/basic/tipsandtricks/index_fingerprint_find.png
+   :align:   center
+
+.. figure::  /images/basic/tipsandtricks/index_fingerprint_list.png
+   :align:   center
+
+5. The track info will get updated.
+
+6. To update the cover art, right click on image at the bottom right of dialog box.
+
+7. Click :guilabel:`Download cover art` option. Upon clicking, the cover art will get updated automatically.
+
+.. figure::  /images/basic/tipsandtricks/index_fingerprint_apply.png
+   :align:   center
+
+8. To save your changes, click on :guilabel:`Save metadata`.
+
+.. figure::  /images/basic/tipsandtricks/index_fingerprint_done.png
+   :align:   center
+
+9. Thus the track information will be updated.
+
+.. figure::  /images/basic/tipsandtricks/index_fingerprint_final.png
+   :align:   center
+
+
