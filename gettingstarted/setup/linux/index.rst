@@ -10,6 +10,7 @@ Linux Distributions
 
    ubuntu
    debian
+   fedora
    redhat
    suse
    slackware
