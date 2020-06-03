@@ -4,9 +4,9 @@ Fedora
 =======
 
 For the latest version (up to the now-current version 3.0.x) use RPM Fusion:
-See also the `Configuration<https://rpmfusion.org/Configuration>`_.
+See also the `Configuration <https://rpmfusion.org/Configuration>`_.
 
-Please report "packaging bugs" on `Bugzilla<https://bugzilla.rpmfusion.org/>`_.
+Please report "packaging bugs" on `Bugzilla <https://bugzilla.rpmfusion.org/>`_.
 
 If you want to have DVD playback ability, you will need to install the libdvdcss package too.
 
