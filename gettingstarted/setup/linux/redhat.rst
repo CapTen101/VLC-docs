@@ -3,14 +3,13 @@
 Red Hat
 =======
 
-
 RHEL/CentOS/Scientific Linux have almost the same setups (they're all derived from RHEL). RHEL and derivatives have different instructions if EPEL (Extra Packages for Enterprise Linux) is not set up. Red Hat Network (RHN) users should verify that they have enabled the optionals and extras channels for RHN subscriptions.
-See also `EPEL<https://fedoraproject.org/wiki/EPEL>\_.
+See also `EPEL <https://fedoraproject.org/wiki/EPEL>`_.
 
 For the latest version (up to the now-current version 3.0.x) use RPM Fusion:
-See also the `Configuration<https://rpmfusion.org/Configuration>`_.
+See also the `Configuration <https://rpmfusion.org/Configuration>`_.
 
-Please report "packaging bugs" on `Bugzilla<https://bugzilla.rpmfusion.org/>`_.
+Please report "packaging bugs" on `Bugzilla <https://bugzilla.rpmfusion.org/>`_.
 
 If you want to have DVD playback ability, you will need to install the libdvdcss package too.
 
