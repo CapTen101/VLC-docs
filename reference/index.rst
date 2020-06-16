@@ -10,4 +10,4 @@ This section will describe (almost) exhaustively all the features and modules of
    features/index.rst
    formats/index.rst
    modules/index.rst
-
+   os_compatibility.rst
