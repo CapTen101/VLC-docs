@@ -15,4 +15,3 @@ Linux Distributions
    suse
    slackware
    gentoo
-   fedora
