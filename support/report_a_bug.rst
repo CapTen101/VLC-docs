@@ -1,10 +1,10 @@
-.. _doc_report_a_bug:
+.. _report-a-bug:
 
 #####################
  How to Report a Bug
 #####################
 
-.. admonition:: Note!
+.. todo::
 
    Android users, please see :ref:`doc_android_report_a_bug` 
 
@@ -118,7 +118,6 @@ Bug severities
 ..............
 
 Severity   Description of severity level
-========== =====================================================================================================================================================================================================================================================================================
 blocker    Impediment to software development, e.g. build breakage on most platforms, systematic crash at startup or when playing any file input.
 
 critical   Impediment to software release, e.g. security issue, crash in most basic and common use cases (i.e. more than 50% of user base), crash at exit.
@@ -199,4 +198,8 @@ Make sure you have read the `Developers_Corner <https://wiki.videolan.org/Develo
 
 * When dealing with a ./configure issue, please provide the generated config.log file.
 * Your compiler brand and version may be relevant here as well.
+=======
+   This page is under construction. Please refer the old documentation page:
 
+   * https://wiki.videolan.org/Report_bugs
+   * https://wiki.videolan.org/Android_Report_bugs
