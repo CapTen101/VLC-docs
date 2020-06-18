@@ -1,14 +1,14 @@
 .. _Other_transcription_linux:
 
 ####################################
- Use VLC for transcription on linux
+ Use VLC for transcription on Linux
 ####################################
 
 --------
 Overview
 --------
 
-The purpose of this guide is to show you **how to configure VLC** and use the script below to **enable you to control VLC with scripted commands** and, most importantly, **take a timestamp from VLC** and automatically type it into whatever document you are working on, without ever needing to shift focus away from the document.
+The purpose of this section is to show you **how to configure VLC** and use the script below to **enable you to control VLC with scripted commands** and, most importantly, **take a timestamp from VLC** and automatically type it into whatever document you are working on, without ever needing to shift focus away from the document.
 
 -------------
 Prerequisites
