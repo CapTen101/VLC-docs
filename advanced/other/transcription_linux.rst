@@ -67,7 +67,7 @@ Shift+F4 ~/vlccontrol.py **faster**
 
 .. tabs::
 
-   .. tab:: If you use ``gnome+metacity``
+   .. tab:: If you use ``gnome+mutter``
 
       You can edit your keybindings in **gconf-editor**:
 
@@ -79,7 +79,7 @@ Shift+F4 ~/vlccontrol.py **faster**
       * In **global_keybindings** you would set run_command_1 to F1.
       * Then go to **keybinding_commands** and set command_1 to ``/home/YOURNAME/vlccontrol.py jogbackward``.
 
-   .. tab:: If you use ``kde4``
+   .. tab:: If you use ``kde5``
 
       * Open :menuselection:`System Settings --> Shortcuts and Gestures --> Custom Shortcuts`.
       * In the second pane, under ::guilabel:`name`, choose an appropriate group to put your new bindings. 
