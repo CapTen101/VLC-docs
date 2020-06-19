@@ -8,11 +8,9 @@ This command shows how to encode a whole directory of files in Linux, without yo
 
 .. code:: bash
 
-   for A in *.avi; do \
-   echo ************************* $A ********************* ;\
-   vlc --sout-all "$A" :sout="#transcode{...}:\
-   std{access=file,mux=avi,url=~/$A.avi}" \
-   vlc://quit -I dummy ;\
+   for A in *.avi;\
+   do echo ************************* $A ********************* ;\
+   vlc --sout-all "$A" :sout="#transcode{...} :std{access=file,mux=avi,url=~/$A.avi}" vlc://quit -I dummy ;\
    done ;\
    Xdialog --title 'Complete' --msgbox 'All done' 0 0;
 

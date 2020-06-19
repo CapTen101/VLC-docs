@@ -8,4 +8,3 @@
    shut_down_computer.rst
    transcription_linux.rst
    uncommon/index.rst
-

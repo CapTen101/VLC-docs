@@ -67,12 +67,12 @@ Shift+F4 ~/vlccontrol.py **faster**
 
 .. tabs::
 
-   .. tab:: If you use ``gnome+mutter``
+   .. tab:: If you use ``GNOME 3.x``
 
       You can edit your keybindings in **gconf-editor**:
 
-      * Go to :menuselectioIf you use ``gnome+metacity``, n:`apps --> metacity --> global_keybindings` and assign a command number to control key you want.
-      * Then go to :menuselection:`apps --> metacity --> keybinding_commands` and assign the appropriate commands to the command numbers.
+      * Go to :menuselection:`org --> gnome --> mutter --> global_keybindings` and assign a command number to control the key you want.
+      * Then go to :menuselection:`org --> gnome --> mutter --> keybinding_commands` and assign the appropriate commands to the command numbers.
 
       For example: (considering above control keys) 
 
@@ -92,7 +92,7 @@ Shift+F4 ~/vlccontrol.py **faster**
       * While the new action is selected, click the :menuselection:`Trigger --> Shortcut` in the right hand pane and hit the key you wish to bind to the action (F1).
       * Then go to action and enter in the command for that action ``/home/YOURNAME/vlccontrol.py jogbackward``.
 
-In any window manager which utilizes an ``rc.xml`` file for it's keybindings, like **OpenBox**, edit the rc.xml in a text editor and go down to the 'keybindings' section. 
+In any window manager which utilizes an ``rc.xml`` file for it's keybindings, like **OpenBox**, edit the ``rc.xml`` in a text editor and go down to the 'keybindings' section. 
 Just follow along with the other keybind examples in the file, it's fairly straightforward, but your first entry should look something like this, although you will need to put in appropriate symbols around the keywords:
 
 .. code:: console
@@ -147,62 +147,6 @@ Finally, here is the ``vlccontrol.py`` script. Copy the script below and paste i
    #LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING 
    #IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF 
    #THE POSSIBILITY OF SUCH DAMAGE.
-   #####
-
-   ##### useful notes
-   #vlc control script, compatible with python 2 or 3
-   #
-   #this script requires the openbsd version of netcat. gnu's version
-   #does not appear to support unix sockets as of this time. it will 
-   #almost certainly be in the repos of your distribution. you may need
-   #to adjust this script to change the name of the binary to whatever
-   #format your distribution uses (change 'nc.openbsd' below to whatever 
-   #you need.)
-   #
-   #it also requires either xautomation (for it's xte tool) or xdotool
-   #xautomation is used by default, as it's currently a bit faster
-   #if you use xdotool, ensure that it's a version later than aug 2010
-   #
-   #to set up vlc to use this script, go to tools-&gt;preferences and 
-   #click on "show settings-&gt;all" at the bottom. from that menu, 
-   #select "Interface-&gt;Main Interfaces", and check the "Remote Control 
-   #Interface" box. Next, select "Interface-&gt;Main Interfaces-&gt;RC",
-   #check the "Fake TTY' box, and enter 'home/YOURNAME/vlc.sock'in
-   #the "UNIX socket command input" field.  
-   #
-   #You probably also want to adjust the "Very short jump length" located
-   #in "Interface-&gt;Hotkeys settings". This script assumes that it is set
-   #for 5 seconds rather than the default of 3 seconds. It won't affect the
-   #script if you don't change this value, as it uses the 'very short jump'
-   #command rather than jogging a specific number of seconds. If you poke 
-   #around the vlc docs, you'll see a seek command, but that is to go to a
-   #certain point in a file rather than going forward or backward a certain
-   #number of seconds.
-   #
-   #Hit "Save". Restart VLC, and check to see if it creates "vlc.sock" 
-   #in your home directory. This should be created automatically when vlc 
-   #starts. If it doesn't, check your socket path and try again.
-   #
-   #Next, you need to set up your hotkeys for your window environment.
-   #This should work equally well in any window manger, so pick whichever
-   #you like. Remember to check to make sure that whichever hotkeys you wish
-   #to use are not already used by your windowmanager. Redefine these
-   #hotkeys or the defaults as necessary.
-   #
-   #note: vlc supposedly support global hotkeys, but I didn't have any luck 
-   #with them, which is why i went this route with the control script. Your
-   #mileage may vary.
-   #
-   #I personally set it up like this:
-   #F1 = ~/vlccontrol.py jogbackward
-   #F2 = ~/vlccontrol.py pause (no need to have this twice, just habit)
-   #F3 = ~/vlccontrol.py pause
-   #F4 = ~/vlccontrol.py jogforward
-   #F5 = ~/vlccontrol.py timestamp
-   #Shift+F1 = ~/vlccontrol.py slower
-   #Shift+F3 = ~/vlccontrol.py normal
-   #Shift+F4 = ~/vlccontrol.py faster
-   ##### end of rambling, on to business
 
    import sys
    import os
@@ -375,62 +319,6 @@ Below you'll find a version of the original script that was modified to use **so
    #LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING 
    #IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF 
    #THE POSSIBILITY OF SUCH DAMAGE.
-   #####
-
-   ##### useful notes
-   #vlc control script, compatible with python 2 or 3
-   #
-   #this script requires the openbsd version of netcat. gnu's version
-   #does not appear to support unix sockets as of this time. it will 
-   #almost certainly be in the repos of your distribution. you may need
-   #to adjust this script to change the name of the binary to whatever
-   #format your distribution uses (change 'nc.openbsd' below to whatever 
-   #you need.)
-   #
-   #it also requires either xautomation (for it's xte tool) or xdotool
-   #xautomation is used by default, as it's currently a bit faster
-   #if you use xdotool, ensure that it's a version later than aug 2010
-   #
-   #to set up vlc to use this script, go to tools-&gt;preferences and 
-   #click on "show settings-&gt;all" at the bottom. from that menu, 
-   #select "Interface-&gt;Main Interfaces", and check the "Remote Control 
-   #Interface" box. Next, select "Interface-&gt;Main Interfaces-&gt;RC",
-   #check the "Fake TTY' box, and enter 'home/YOURNAME/vlc.sock'in
-   #the "UNIX socket command input" field.  
-   #
-   #You probably also want to adjust the "Very short jump length" located
-   #in "Interface-&gt;Hotkeys settings". This script assumes that it is set
-   #for 5 seconds rather than the default of 3 seconds. It won't affect the
-   #script if you don't change this value, as it uses the 'very short jump'
-   #command rather than jogging a specific number of seconds. If you poke 
-   #around the vlc docs, you'll see a seek command, but that is to go to a
-   #certain point in a file rather than going forward or backward a certain
-   #number of seconds.
-   #
-   #Hit "Save". Restart VLC, and check to see if it creates "vlc.sock" 
-   #in your home directory. This should be created automatically when vlc 
-   #starts. If it doesn't, check your socket path and try again.
-   #
-   #Next, you need to set up your hotkeys for your window environment.
-   #This should work equally well in any window manger, so pick whichever
-   #you like. Remember to check to make sure that whichever hotkeys you wish
-   #to use are not already used by your windowmanager. Redefine these
-   #hotkeys or the defaults as necessary.
-   #
-   #note: vlc supposedly support global hotkeys, but I didn't have any luck 
-   #with them, which is why i went this route with the control script. Your
-   #mileage may vary.
-   #
-   #I personally set it up like this:
-   #F1 = ~/vlccontrol-socat.py jogbackward
-   #F2 = ~/vlccontrol-socat.py pause (no need to have this twice, just habit)
-   #F3 = ~/vlccontrol-socat.py pause
-   #F4 = ~/vlccontrol-socat.py jogforward
-   #F5 = ~/vlccontrol-socat.py timestamp
-   #Shift+F1 = ~/vlccontrol-socat.py slower
-   #Shift+F3 = ~/vlccontrol-socat.py normal
-   #Shift+F4 = ~/vlccontrol-socat.py faster
-   ##### end of rambling, on to business...
 
    #Not quite... (Anoter quick note from the person who modified the script for socat): If you
    #look closely, I've added a couple extra controls to this, namely medium jumps forward
