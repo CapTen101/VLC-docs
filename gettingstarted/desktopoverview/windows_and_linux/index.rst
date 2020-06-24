@@ -1,10 +1,9 @@
-Windows/Linux Interface
------------------------
+Windows/Linux
+-------------
 
 **There are 3 main parts to the VLC Media Player interface on Windows:**
 
 1. :ref:`The Menu bar<menu_bar>`
-
 
 2. :ref:`The Playback Controls<playback_controls>`
 

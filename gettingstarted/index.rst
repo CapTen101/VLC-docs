@@ -10,4 +10,5 @@
    :name: toc-gettingstarted
    
    setup/index.rst
-   interface/index.rst
+   desktopoverview/index.rst
+   mobileoverview/index.rst

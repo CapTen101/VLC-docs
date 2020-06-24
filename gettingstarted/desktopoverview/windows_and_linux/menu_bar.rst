@@ -5,7 +5,7 @@ Menu Bar
 
 The **Menu Bar** gives you power to control everything about the media you are currently playing. 
 
-.. figure::  /images/gettingstarted/interface/windows_and_linux/menu_bar_mainmenu_windows.png
+.. figure::  /images/gettingstarted/desktopoverview/windows_and_linux/menu_bar_mainmenu_windows.png
    :align:   center
 
    The Menu Bar
@@ -21,7 +21,7 @@ In this menu, you can:
 3. Convert and Save a playlist to a file. 
 4. Quit VLC.
 
-.. figure::  /images/gettingstarted/interface/windows_and_linux/menu_bar_media_windows.jpg
+.. figure::  /images/gettingstarted/desktopoverview/windows_and_linux/menu_bar_media_windows.jpg
    :align:   center
 
 **The Playback menu**
@@ -35,7 +35,7 @@ In this menu, you can:
 5. Jump to a specific chapter or time in the media. 
 6. Create custom bookmarks.
 
-.. figure::  /images/gettingstarted/interface/windows_and_linux/menu_bar_playback_windows.jpg
+.. figure::  /images/gettingstarted/desktopoverview/windows_and_linux/menu_bar_playback_windows.jpg
    :align:   center
 
 **The Audio menu**
@@ -49,7 +49,7 @@ In this menu, you can:
 5. Increase and decrease the volume.
 6. Mute the playback. 
 
-.. figure::  /images/gettingstarted/interface/windows_and_linux/menu_bar_audio_windows.jpg
+.. figure::  /images/gettingstarted/desktopoverview/windows_and_linux/menu_bar_audio_windows.jpg
    :align:   center
 
 **The Video menu**
@@ -62,7 +62,7 @@ In this menu, you can:
 5. Adjust deinterlacing and post processing options(advanced users).
 6. Take a screenshot of the current frame. 
 
-.. figure::  /images/gettingstarted/interface/windows_and_linux/menu_bar_video_windows.jpg
+.. figure::  /images/gettingstarted/desktopoverview/windows_and_linux/menu_bar_video_windows.jpg
    :align:   center
 
 **The Subtitle menu**
@@ -72,7 +72,7 @@ In this menu, you can:
 1. Add a subtitle file.
 2. Select a Sub track.
 
-.. figure::  /images/gettingstarted/interface/windows_and_linux/menu_bar_subtitle_windows.jpg
+.. figure::  /images/gettingstarted/desktopoverview/windows_and_linux/menu_bar_subtitle_windows.jpg
    :align:   center
 
 **The Tools menu**
@@ -86,7 +86,7 @@ In this menu, you can:
 5. Customize the program settings and interface. 
 6. Modify your preferences. 
 
-.. figure::  /images/gettingstarted/interface/windows_and_linux/menu_bar_tools_windows.jpg
+.. figure::  /images/gettingstarted/desktopoverview/windows_and_linux/menu_bar_tools_windows.jpg
    :align:   center
 
 **The View menu**
@@ -100,7 +100,7 @@ In this menu, you can:
 5. Add the VLsub addon for VLC.
 
 
-.. figure::  /images/gettingstarted/interface/windows_and_linux/menu_bar_view_windows.jpg
+.. figure::  /images/gettingstarted/desktopoverview/windows_and_linux/menu_bar_view_windows.jpg
    :align:   center
 
 **The Help menu**
@@ -111,5 +111,5 @@ In this menu, you can:
 2. Check for updates to VLC.
 3. View the credits and licenses for VLC.
 
-.. figure::  /images/gettingstarted/interface/windows_and_linux/menu_bar_help_windows.png
+.. figure::  /images/gettingstarted/desktopoverview/windows_and_linux/menu_bar_help_windows.png
    :align:   center
