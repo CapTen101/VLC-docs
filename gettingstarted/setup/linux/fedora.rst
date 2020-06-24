@@ -13,7 +13,7 @@ If you want to have DVD playback ability, you will need to install the libdvdcss
 
 Fedora with DNF: (vlc-3.0.x - available for armhfp, x86_64, aarch64 and ppc64le architectures)
 
-.. code-block::
+.. code-block:: shell
 
     $> su -
         #> dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm

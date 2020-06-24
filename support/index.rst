@@ -4,7 +4,7 @@
 FAQ & Support
 *************
 
-The VLC Support Guide is an infromal, step-by-step guide for troubleshooting most common issues with VLC. 
+The VLC Support Guide is an informal, step-by-step guide for troubleshooting most common issues with VLC. 
 
 .. toctree::
    :maxdepth: 1
@@ -12,5 +12,5 @@ The VLC Support Guide is an infromal, step-by-step guide for troubleshooting mos
    
    faq/index.rst
    gethelp.rst
-   report_a_bug.rst
+   report_a_bug/index.rst
 
