@@ -10,5 +10,5 @@ This section lists down guidelines for getting support for any spotted error in 
    :maxdepth: 1
    :name: toc-report-a-bug
 
-   report_bug_desktop.rst
-   report_bug_android.rst
+   desktop.rst
+   android.rst

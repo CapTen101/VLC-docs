@@ -60,7 +60,7 @@ If you do not find any log in the form of ``vlc_logcat_<...>.log``, then you pro
 Then, send us this ``vlc_logcat_<...>.log`` file.
 
 
-.. figure:: /images/support/support_android_report_a_bug.png
+.. figure:: /images/support/report_a_bug/android_logcat_filemanager.png
    :alt: Log files in your SD card's root
    :align: center
    :scale: 50 %
