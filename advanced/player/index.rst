@@ -5,7 +5,7 @@
 .. toctree::
    :maxdepth: 1
 
-   external_audio.track.rst
+   external_audio_track.rst
    3d_display.rst
    disks_from_image_file.rst
    play_multiple_instances.rst
